@@ -1,0 +1,918 @@
+---
+title: "NBA Datathon Model Tutorial"
+author: Kaushik Lakshman
+date: 26 February 2020
+output: github_document
+---
+
+## 0. Introduction
+
+* The Betfair Data Science Team has created a guide to building a model for the Betfair NBA Datathon to be held in March 2020. 
+
+* Find more information about the datathon here - https://www.betfair.com.au/hub/nba-datathon 
+
+* The tutorial touches on the different steps required to go from data to model to finally entering a submission. The data has already been provided to participants but is also available in this Github repository. 
+
+* All code examples are built to run in `R` and the only prerequisites are that you have `R` installed, along with the packages/libraries listed in section 0. 
+
+* Familiarity with R will make this tutorial easier to follow. Alternatively, if you are a Python user, these are conceptually similar ways of implementing in Python using packages like `pandas`, `scikitlearn` etc. 
+
+## 1. Set up the environment
+
+* Below is the code to load all the packages and files to set up the environment. 
+
+* For the purposes of this tutorial we are only using team level data, but feel free to use player level data, or the odds data or any external data that you think might be useful as well. 
+
+```{r, message=FALSE, warning=FALSE}
+## Tidyverse for data manipulation packages like dplyr, purrr etc.
+library(tidyverse)
+## Here package for resolving relative paths so this works on any computer that clones this repo
+library(here)
+## Janitor package for cleaning names of columns
+library(janitor)
+## ELO package for defining and tuning an ELO model
+library(elo)
+## RcppRoll for calculating rolling mean in the feature engineering step
+library(RcppRoll)
+## Recipes for preprocessing 
+library(recipes)
+## Parsnip for Model framework
+library(parsnip)
+## Rsample for splitting data
+library(rsample)
+## Tune for hyperparameter tuning
+library(tune)
+## Dials for setting up hyperparameter grids
+library(dials)
+## Yardstick for optimising model training on RMSE
+library(yardstick)
+
+## Loading all team logs files at once
+team_logs <- map_dfr(.x = list.files(
+  here::here("data"),
+  pattern = "team_logs_",
+  full.names = TRUE
+),
+.f = read_csv) %>%
+  janitor::clean_names() %>%
+  mutate(name_team = ifelse(name_team == "LA Clippers", "Los Angeles Clippers", name_team)) ## NBA API inconsistent with Clippers name
+
+team_logs
+```
+
+## 2. Exploring the Data 
+
+```{r}
+glimpse(team_logs)
+```
+
+* There are lots of cool stats in here like box score stats - points, rebounds, steals, blocks, shooting percentages etc 
+
+* Apart from that there are some other very useful fields which contains information about whether the game is a back to back, how many days of rest a team has had etc. NBA fans know this kind of stuff is very important as a predictor for matches. Teams have 'schedule losses' even if they are better on paper than their opponents. 
+
+* The other main thing to notice is that data from each match is spread out on two rows. If the Celtics played a game against the Rockets, there is one row for the Celtics and one for the Rockets. This has to be kept in mind while trying to build the model matrix for prediction because we have to bring them into one row where we predict the margin for the game. 
+
+## 3. ELO Model
+
+### 3.1. What is ELO? 
+
+* ELO is a very simplistic model for ranking and comparing relative strengths of two players or teams. Originally developed and used for Chess, it has since been used in other sports as well. 
+
+* The fundamental principle of ELO is that you earn a certain number of points for defeating an opponent. The number is higher if you defeat a higher ranked opponent. Conversely you also lose more points if you lose to a worse opponent. The ratings exchanged between opponents in a match can also account for factors like importance of a game - for instance when a playoff games counts for more than a regular season game etc. 
+
+* Read more about the ELO system here - https://en.wikipedia.org/wiki/Elo_rating_system
+
+* ELO ratings can be used as a proxy for strength of teams. What we will do below, is to build a fairly simple ELO model using the `elo` package and then use the ELO ratings as a feature in our final predictive model
+
+```{r}
+## Converting data frame to granularity level of a game
+game_level <- team_logs %>%
+  filter(location_game == "H") %>%
+  select(year_season, id_game, date_game, name_team, pts_team) %>%
+  rename(home_team = name_team,
+         home_points = pts_team) %>%
+  inner_join(team_logs %>%
+               filter(location_game == "A") %>%
+               select(year_season, id_game, date_game, name_team, pts_team) %>%
+               rename(away_team = name_team,
+                      away_points = pts_team),
+             by = c("year_season", "id_game", "date_game")) %>%
+  mutate(home_team_win = ifelse(home_points > away_points, TRUE, FALSE),
+         home_team_margin = home_points - away_points) %>%
+  select(-ends_with("_points"))
+
+game_level
+```
+
+### 3.2 Tuning an ELO model
+
+* Elo model gives you a lot of parameters to tweak 
+
+  + K factor: A multiplier by which you can update ELO ratings after a result 
+  
+  + Home advantage: Additional points to give to a home team
+  
+  + Regress: Regress elos back to a fixed value after a number of matches, like the end of a season
+  
+* In this below example we will test a bunch of parameters to see which one yields the best accuracy. This is a very simplistic way of doing it, and can be made complex for a more complete solution using a variety of approaches.
+
+```{r}
+## Creating a hyper parameter set for all combinations of a bunch of k factor, home advantage and regress factor options
+elo_hyperparameters <- crossing(
+  k_factor = seq(10, 40, 5),
+  home_advantage = seq(10, 50, 5),
+  regress_factor = seq(0.1, 0.5, 0.1)
+)
+
+## Lets have a look at what our parameter set looks like
+elo_hyperparameters
+```
+
+```{r, message=FALSE, warning=FALSE}
+## Bringing the params back to vectors from the elo_hyperparameters data frame
+## to feed into the 'loop' below
+k_factor <- elo_hyperparameters %>% pull(k_factor)
+home_advantage <- elo_hyperparameters %>% pull(home_advantage)
+regress_factor <- elo_hyperparameters %>% pull(regress_factor)
+
+## Running an elo model for all possible combinations and
+## returning accuracy for all of them
+elo_tuning_results <-
+  pmap_dfr(
+    .l = list(k_factor, home_advantage, regress_factor),
+    .f = function(k_factor, home_advantage, regress_factor) {
+      
+      ## Creating elo model for an individual instance of the parameter set
+      elo_model <- elo.run(
+        formula = home_team_win ~ adjust(home_team, home_advantage) + away_team + regress(year_season, 1500, regress_factor),
+        data = game_level,
+        k = k_factor
+      )
+      
+      ## Getting elo predictions based on the above model for every game
+      ## and checking against the result whether the prediction was right
+      elo_predictions <- game_level %>%
+        bind_cols(
+          elo_model %>%
+            pluck("elos") %>%
+            as_tibble() %>%
+            select(V3) %>%
+            rename(elo_win_probs = V3)
+        ) %>%
+        mutate(elo_predicted_winner = ifelse(elo_win_probs > 0.5, TRUE, FALSE)) %>%
+        mutate(prediction_accuracy = ifelse(elo_predicted_winner == home_team_win, TRUE, FALSE))
+      
+      ## Generating an accuracy number for the given individual instance of the parameter set
+      accuracy <- elo_predictions %>%
+        group_by(prediction_accuracy) %>%
+        summarise(total = n()) %>%
+        mutate(percentage_accuracy = total / sum(total)) %>%
+        filter(prediction_accuracy == TRUE) %>%
+        select(percentage_accuracy) %>%
+        mutate(
+          k_factor = k_factor,
+          home_advantage = home_advantage,
+          regress_factor = regress_factor
+        ) %>%
+        select(k_factor,
+               home_advantage,
+               regress_factor,
+               percentage_accuracy)
+    }
+  )
+
+## Displaying accuracy of the hyperparameter set in descending order
+elo_tuning_results %>%
+  arrange(desc(percentage_accuracy))
+```
+
+### 3.3. Picking the best ELO Model
+
+* Looks like the best ELO model in terms of prediction was one with `k_factor = 20`, `home_advantage = 50` and `regress_factor = 0.4`
+
+* If you set the baseline as home team wins every game (58%), this ELO model performs better at 66%, which is a good outcome
+
+* The method we have used is obviously a very simple way of tuning an ELO model, for demonstrative purposes. 
+
+* If you want to be more thorough with ELO modelling below are some options to try
+
+  + Creating a seperate training set to tune and a testing set for evaluation
+  
+  + Adding a factor for margin of victory for updating ELO scores
+  
+  + Modelling margin of victory instead of wins
+  
+  + Optimising on other metrics because Accuracy isn't everything. Perhaps you could compare to market odds (data provided) and if your ELO probabilities have a better `logloss` than market probabilities then you're on the right track! 
+  
+### 3.4. Building the final ELO Model
+
+```{r}
+## Running a final ELO model with the best parameters from the above process
+final_elo_model <- elo.run(
+  formula = home_team_win ~ adjust(home_team, 50) + away_team + regress(year_season, 1500, 0.4),
+  data = game_level,
+  k = 20
+)
+
+## Storing ELOs calculated after games for later use
+calculated_elos <- game_level %>%
+  bind_cols(
+    final_elo_model %>%
+      pluck("elos") %>%
+      as_tibble() %>%
+      select(V6, V7) %>%
+      rename(home_team_elo = V6,
+             away_team_elo = V7)
+  )
+
+calculated_elos_expanded <- calculated_elos %>%
+  select(year_season, id_game, home_team, home_team_elo) %>%
+  rename(name_team = home_team,
+         elo = home_team_elo) %>%
+  bind_rows(calculated_elos %>%
+  select(year_season, id_game, away_team, away_team_elo) %>%
+  rename(name_team = away_team,
+         elo = away_team_elo)) %>%
+  arrange(year_season, id_game)
+```
+
+* We now have a data frame with ELO ratings calculated after the matches, which we will then use in our modelling stage
+
+* The important thing to keep in mind is these are ELO ratings from after the match has taken place. While trying to use these as features we must ensure that we take the most recently updated ELO ratings before the match we are trying to predict. 
+
+* Otherwise we are suspect to something called feature leakage - where we have information about the thing we are trying to predict in the features. And models are amazing at picking this up. When it comes to actually predicting unplayed matches the model will start failing miserably. 
+
+* This is the same concept we should keep in mind in the next section of feature engineering
+
+## 4. Feature Engineering 
+
+* Feature engineering is probably the most interesting and vital part of the model building process 
+
+* It is the art (or science) of converting data into features that your machine learning algorithm can find patterns in, which in then uses to predict whatever you are trying to predict. 
+
+* You can go as in depth as you want. The obvious tradeoff is - the more complex you go, the more complex patterns you can find, but also the more overfit and less generalisable your model is for use against data it hasn't seen before. 
+
+* In our case, we already have an ELO feature for both teams that capture relative strengths of teams. What else could influence games? 
+
+  + Recent form perhaps? We could calculate average statistics for a certain number of games prior to the game we are trying to predict. There's no single correct approach, but for simplicity sake, lets calculate the stats for the 5 most recent games. 
+  
+  + Schedule related factors - In the NBA teams playing back to back games or their 3rd game in 4 nights etc have a notably poorer performance level than a regular game. In fact the data provided already has a few fields that have this information. 
+
+### 4.1. Rolling stats
+  
+```{r}
+## Rolling mean for certain important box score stats
+## such as shooting percentages, rebounds, assists, steals, 
+## blocks, turnover, Margin
+rolling_mean_features <- team_logs %>%
+  group_by(year_season, name_team) %>%
+  arrange(id_game) %>%
+  mutate_at(
+    vars(
+      pct_fg_team,
+      pct_fg3team,
+      pct_ft_team,
+      treb_team,
+      ast_team,
+      stl_team,
+      blk_team,
+      tov_team,
+      plusminus_team
+    ), ## Columns for which we want a rolling mean
+    .funs = ~ roll_mean(., 5, align = "right", fill = NA) ## Rolling mean for last 5 games
+  ) %>%
+  select(
+    year_season,
+    name_team,
+    id_game,
+    pct_fg_team,
+    pct_fg3team,
+    pct_ft_team,
+    treb_team,
+    ast_team,
+    stl_team,
+    blk_team,
+    tov_team,
+    plusminus_team
+  ) %>%
+  filter(!is.na(pct_fg_team))
+
+rolling_mean_features
+```
+
+* Very cool, we now have moving averages for quite a few stats. 
+
+* Once again, the key thing to keep in mind is these are rolling averages including the game that has already been played. Therefore the first row in the above data frame- we can't use the stats to predict `id_game = 21400050` but we should use these numbers the next time the Rockets play. 
+
+### 4.2. Schedule Information 
+
+* There are a few different fields within the logs file that have schedule related information
+
+* Three fields talk about back to backs, and while that is useful, the field which is potentially more useful is `count_days_rest_team`
+
+* Similarly `count_days_next_game_team` could also be useful to see if the team has another game on their mind and if they preserve themselves for it. This could also incorporate the back to back situation so there probably isn't a need to incorporate that information twice. 
+
+* The big key thing here that is different to other features is that they are available by default in the data set which we can use to train the model, but we will have to calculate them for making predictions on the games yet to be played in the last phase. Lets get to that at a later stage. 
+
+### 4.3. Final Feature Matrix
+
+* First step is to create a lookup for the previous game played by every team and then use that to join and get features for a game
+
+```{r}
+last_game_lookup <- team_logs %>%
+  group_by(year_season, name_team) %>%
+  arrange(id_game) %>%
+  mutate(id_game_prev = lag(id_game)) %>%
+  select(year_season, name_team, id_game, id_game_prev) %>% 
+  filter(!is.na(id_game_prev))
+
+last_game_lookup
+```
+
+* Time to bring all of the features we have created together
+
+* An extra step we will do for the box scores part of features in order to simplify the information further is to find the difference between the home team's feature and away team's feature 
+
+* Therefore, instead of having `home_treb_team` and `away_treb_team` we will subtract one from another and have just a `diff_treb_team` and capture the same information in fewer columns 
+
+```{r}
+features <- game_level %>%
+  inner_join(
+    last_game_lookup,
+    by = c(
+      "id_game" = "id_game",
+      "home_team" = "name_team",
+      "year_season" = "year_season"
+    )
+  ) %>%
+  rename(home_team_id_game_prev = id_game_prev) %>%
+  inner_join(
+    last_game_lookup,
+    by = c(
+      "id_game" = "id_game",
+      "away_team" = "name_team",
+      "year_season" = "year_season"
+    )
+  ) %>%
+  rename(away_team_id_game_prev = id_game_prev) %>%
+  inner_join(
+    calculated_elos_expanded,
+    by = c(
+      "year_season" = "year_season",
+      "home_team_id_game_prev" = "id_game",
+      "home_team" = "name_team"
+    )
+  ) %>%
+  rename(home_elo = elo) %>%
+  inner_join(
+    calculated_elos_expanded,
+    by = c(
+      "year_season" = "year_season",
+      "away_team_id_game_prev" = "id_game",
+      "away_team" = "name_team"
+    )
+  ) %>%
+  rename(away_elo = elo) %>%
+  inner_join(
+    rolling_mean_features,
+    by = c(
+      "year_season" = "year_season",
+      "home_team_id_game_prev" = "id_game",
+      "home_team" = "name_team"
+    )
+  ) %>%
+  rename(
+    home_pct_fg_team = pct_fg_team,
+    home_pct_fg3team = pct_fg3team,
+    home_pct_ft_team = pct_ft_team,
+    home_treb_team = treb_team,
+    home_ast_team = ast_team,
+    home_stl_team = stl_team,
+    home_blk_team = blk_team,
+    home_tov_team = tov_team,
+    home_plusminus_team = plusminus_team
+  ) %>%
+  inner_join(
+    rolling_mean_features,
+    by = c(
+      "year_season" = "year_season",
+      "away_team_id_game_prev" = "id_game",
+      "away_team" = "name_team"
+    )
+  ) %>%
+  rename(
+    away_pct_fg_team = pct_fg_team,
+    away_pct_fg3team = pct_fg3team,
+    away_pct_ft_team = pct_ft_team,
+    away_treb_team = treb_team,
+    away_ast_team = ast_team,
+    away_stl_team = stl_team,
+    away_blk_team = blk_team,
+    away_tov_team = tov_team,
+    away_plusminus_team = plusminus_team
+  ) %>%
+  mutate(
+    diff_pct_fg_team = home_pct_fg_team - away_pct_fg_team,
+    diff_pct_fg3team = home_pct_fg3team - away_pct_fg_team,
+    diff_pct_ft_team = home_pct_ft_team - away_pct_ft_team,
+    diff_treb_team = home_treb_team - away_treb_team,
+    diff_ast_team = home_ast_team - away_ast_team,
+    diff_stl_team = home_stl_team - away_stl_team,
+    diff_blk_team = home_blk_team - away_blk_team,
+    diff_tov_team = home_tov_team - away_tov_team,
+    diff_plusminus_team = home_plusminus_team - away_plusminus_team
+  ) %>%
+  inner_join(
+    team_logs %>%
+      select(
+        year_season,
+        id_game,
+        name_team,
+        count_days_rest_team,
+        count_days_next_game_team
+      ),
+    by = c(
+      "year_season" = "year_season",
+      "home_team" = "name_team",
+      "id_game" = "id_game"
+    )
+  ) %>%
+  rename(home_count_days_rest_team = count_days_rest_team,
+         home_count_days_next_game_team = count_days_next_game_team) %>%
+  inner_join(
+    team_logs %>%
+      select(
+        year_season,
+        id_game,
+        name_team,
+        count_days_rest_team,
+        count_days_next_game_team
+      ),
+    by = c(
+      "year_season" = "year_season",
+      "away_team" = "name_team",
+      "id_game" = "id_game"
+    )
+  ) %>%
+  rename(away_count_days_rest_team = count_days_rest_team,
+         away_count_days_next_game_team = count_days_next_game_team) %>%
+  mutate(
+    home_count_days_next_game_team = ifelse(
+      is.na(home_count_days_next_game_team),
+      -1,
+      home_count_days_next_game_team
+    ),
+    away_count_days_next_game_team = ifelse(
+      is.na(away_count_days_next_game_team),
+      -1,
+      away_count_days_next_game_team
+    )
+  ) %>%
+  select(
+    year_season,
+    id_game,
+    date_game,
+    home_team,
+    away_team,
+    home_elo,
+    away_elo,
+    starts_with("diff_"),
+    home_count_days_rest_team,
+    home_count_days_next_game_team,
+    away_count_days_rest_team,
+    away_count_days_next_game_team,
+    home_team_margin
+  )
+
+features
+```
+
+* We have our features ready along with our target label of `home_team_margin` which is what we are trying to predict 
+
+### 4.4. How to make feature engineering better
+
+* Other steps we can take to be more thorough with feature engineering are 
+
+  + Optimise for the right window to calculate rolling stats instead of just assuming 5 games
+  
+  + Add more advanced stats - Currently we only have basic stats like box scores. There are advanced stats available elsewhere which might be more predictive. 
+  
+  + More complex schedule stats - Building in features such as how much a team travels, whether a game is a national TV telecast or not etc also has an impact on how much a team tries or how well it plays
+
+## 5. Build A Machine Learning Model
+
+* We are now ready to build a model 
+
+* There are several different ways of going about building a model 
+
+    + There are several algorithms to pick from, starting from simple models like Linear Regression to more complex models like Deep Learning 
+    
+    + Within each algorithm there are several hyper parameters to tune to get the optimal model. This process is not dissimilar to how we built our ELO Model. 
+    
+    + With any algorithm we also need to pick an optimisation metric. Considering that we are predicting the margin, and the competition is scored on Root Mean Squared Error, that should be what we use for this. 
+    
+* For the purposes of this guide - we will build a `XGBoost` model using the `parsnip` & `tidymodels` model framework 
+
+* Before we build a model we have to take a few steps
+
+### 5.1. Splitting Data
+
+* Our data has to be split into two sets - testing set & training set
+
+* Training set is the data that we will build the model on (80% of our data)
+
+* Testing set is the data that we will use to check whether is the model is any good at generalising on new data (20% of our data)
+
+* The reason this splitting is done is to ensure that the model actually learns generic patterns and is not memorising one particular data set. The latter will give you amazing indicators as you build the model but will fail terribly when you have to predict unknown matches.
+
+```{r}
+splits <- initial_split(
+  features,
+  prop = 0.8
+)
+```
+
+### 5.2. Pre processing 
+
+* Pre processing is the step where we transform raw data into data that machine learning algorithms typically like 
+
+* The `recipes` package helps us convert the preprocessing step into a pipeline that can then be used on new data
+
+* There are plenty of preprocessing steps that are available, but in our case we will only do something called centering and scaling, where we standardise our data so that all numeric columns are in the same scale and dimensions. 
+
+* We will also remove unnecessary columns for example `id_game` which we won't be using to train the model
+
+```{r}
+preprocessing_recipe <-
+  recipe(home_team_margin ~ ., data = splits %>% training()) %>%
+  step_rm(year_season, id_game, date_game, home_team, away_team) %>%
+  step_center(all_predictors()) %>%
+  step_scale(all_predictors())  %>%
+  prep()
+
+features_proprocessed <- preprocessing_recipe %>%
+  bake(splits %>% training())
+```
+
+
+### 5.2. Cross Validation
+
+* Cross Validation is another step that we take to emphasise the point in the previous section, where we build models on subsets of data and validate them on unknown data 
+
+* Read more about cross validation here -> https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+
+* We take the training data and create 5 fold sub sample sets with an 80-20 percent split (again like the previous step) in each fold. 
+
+```{r}
+## Set Seed for reproducibility 
+set.seed(1729)
+cv_folds <- training(splits) %>%
+  bake(preprocessing_recipe, new_data = .) %>%
+  vfold_cv(v = 5)
+```
+
+### 5.3. Model specification 
+
+* Every model algorith has several parameters that can be tuned to achieve optimal results 
+
+* In the case of `XGBoost` there are parameters such as `min_n`, `tree_depth`, and `learn_rate` which can be specified. 
+
+* For the moment we will set them as placeholders and use a range of parameters in later steps to then decide which one is best for us
+
+```{r}
+xgboost_model <- boost_tree(
+  mode       = "regression",
+  trees      = 500,
+  min_n      = tune(),
+  tree_depth = tune(),
+  learn_rate = tune()
+) %>%
+  set_engine("xgboost")
+```
+
+### 5.4. Grid Search
+
+* Grid search is the process of specifying a variety of parameter values to be fed into the model 
+
+* Popular methods for creating grids are specifying ranges for parameters, or random numbers with a view that training over a random set of params over a long period results in some form of optimisation.
+
+* We use the random approach using the function `grid_max_entropy` to create a set of 15 parameters. 
+
+* The more number of parameters we have, the more time training the model takes. Especially because we have 5 fold cross validation, we will be training `5*15` models and `5*15*500` trees because we set up the model to train 500 trees for each set of params.
+
+* On the flip side we have more parameters we are more likely to find the optimal solution. It is always a tradeoff. For the purposes of this tutorial lets keep it simple to 15. 
+
+```{r}
+## Set Seed for reproducibility
+set.seed(1729)
+xgboost_params <- parameters(min_n(), tree_depth(), learn_rate())
+xgboost_grid <- grid_max_entropy(xgboost_params, size = 15)
+xgboost_grid
+```
+
+### 5.5. Hyperparameter Tuning
+
+* The below code runs the model tuning pipeline where all the steps outlined above come together
+
+* All the cross validated datasets go through the xgboost model, with the different combinations of params set up in the grid above
+
+* They are all tested against the RMSE cost function and we will pick the set of parameters that perform the best
+
+```{r, message=FALSE}
+xgboost_training_results <- tune_grid(
+    formula   = home_team_margin  ~ .,
+    model     = xgboost_model,
+    resamples = cv_folds,
+    grid      = xgboost_grid,
+    metrics   = metric_set(rmse),
+    control   = control_grid(verbose = TRUE)
+)
+
+xgboost_training_results %>%
+  show_best("rmse", n = 5, maximize = FALSE)
+```
+
+### 5.6. Model selection
+
+* Looks like top 5 set of parameters all get an RMSE of ~ 12 or 13 on our Cross Validation datasets. 
+
+* A better idea of the performance of the model will be clearer when we run predictions and compare to the testing data set which we held out from the model training phase 
+
+* For this we will get the parameter of the best model and add it as parameters for the `xgboost` model we specified early on as placeholders with just `tune()`
+
+```{r}
+xgboost_best_params <- xgboost_training_results %>% 
+    select_best("rmse", maximize = FALSE)
+
+xgboost_chosen_model <- xgboost_model %>% 
+    finalize_model(xgboost_best_params)
+
+xgboost_chosen_model
+```
+
+### 5.7. Performance on Test Set
+
+* To measure the performance of the chosen model on the test set we must first generate our predictions on the test set 
+
+* The steps for this are 
+
+  + Do the preprocessing of test set data using the `recipe` we created on the training set 
+  
+  + Generate the predictions 
+  
+  + Append it to the test data set
+
+```{r}
+test_data_preprocessed <-
+  bake(preprocessing_recipe, new_data = splits %>% testing())
+
+predictions <- xgboost_chosen_model %>%
+  fit(formula = home_team_margin  ~ .,
+      data = features_proprocessed) %>%
+  predict(new_data = test_data_preprocessed)
+
+test_set_with_predictions <- splits %>%
+  testing() %>%
+  bind_cols(predictions) %>%
+  rename(predicted_margin = `.pred`)
+
+test_set_with_predictions
+```
+
+* We then run the `metrics` function from the `yardstick` package to calculate the performance of our model on the unknown testing data set, in comparison to actual margins 
+
+```{r}
+metrics(test_set_with_predictions,
+        truth = "home_team_margin",
+        estimate = "predicted_margin")
+```
+
+* Looks like the RMSE on this data set is not too dissimilar to the RMSE on the cross validation data sets. This is a good sign, and a sign that our CV worked and the model hasn't just memorised from the training data. 
+
+* If this wasn't the case we'd need to go back to the drawing board and re-tune the parameters until we found a model we are happy with
+
+### 5.8. Retraining the model
+
+* Now that we are happy with the model we can use the information missed out on the test data set to create an updated final model learnt on the entire data with the chosen parameters
+
+```{r}
+final_model <- xgboost_chosen_model %>%
+  fit(formula = home_team_margin  ~ .,
+      data = bake(preprocessing_recipe, new_data = features))
+
+final_model
+```
+
+### 5.9. How to make the modelling process better 
+
+* We have gone through a fairly robust modelling process, but there are obviously lots more things you can do to improve your final model 
+
+* Firstly, we can be a bit more thorough with hyper parameter tuning and try a larger range of options. We have restricted ourselves to 15 for the purposes of this tutorial but with more parameters we are more likely to find a more optimal model. 
+
+* Secondly, we could try alternate algorithms to `xgboost`. Simple models like `glm` could work well for regression problems, or we could go super complex and build something on `tensorflow` using deep learning. Each algorithm has tradeoffs. 
+
+* Alternatively we could use the now common practice of `automl`. What `automl` does is take what we have done to the next level by automating the boring parts of hyperparameter tuning but also do it across a wide range of algorithms. An `automl` pipeline will build you multiple `randomforest`, `gbm`, `xgboost` models across multiple hyperparameters and let you choose the best one based on the best RMSE. `automl` models also have the capability of stacking - which is taking the outputs of multiple models and building an ensemble of models. The tradeoff here is, it could take a long time for you to get a good `automl` model but it erases a lot of the brunt work required to get there. 
+
+* As always predictive modelling follows the principle of Garbage In Garbage Out, so the better quality data we have going into the modelling, the better our model is going to be. Nothing influences the quality of a model as much as better quality data. If you can find better data, more detailed data, it will certainly help in a better model.
+
+## 6. Predicting on unplayed games and creating a submission
+
+* Now that we have a final model ready, we are in a position to create a submission for the datathon 
+
+* The steps required to create a submission file are 
+
+  + Create features for the matches in the provided submission files template. Timing is key here because we'd need information until the last match played before the matches we are making predictions for. However because this tutorial can't wait until then, we can take the liberty to assume the last match played is the last match before the match in the submission file. Its not perfect, but the backbone of the code doesn't need to change, we just re-run the predictions piece when fresher data is available. 
+  
+  + The feature set would then need to be preprocessed, again using the `recipe` we created in the model training phase 
+  
+  + Once the preprocessed data is ready, we run that through a `predict` function using the final model we have created and voila!
+  
+```{r, message=FALSE}
+submission_file_week_1 <- read_csv(here::here("data", "submission_file_week_1.csv"))
+season_schedule_2020 <- read_csv(here::here("data", "season_schedule_2020.csv"))
+```
+
+### 6.1. Features
+
+* Here we will take the rolling average data frame that we created earlier, and get the value for the last update
+
+```{r}
+most_recent_features <- 
+  rolling_mean_features %>%
+  filter(year_season == 2020) %>%
+  group_by(name_team) %>%
+  top_n(n = 1, wt = id_game) %>%
+  ungroup() %>%
+  select(-year_season, -id_game)
+
+most_recent_features
+```
+
+* Similarly we will do that for the calculated ELO as well 
+
+```{r}
+most_recent_elo <- 
+  calculated_elos_expanded %>%
+  filter(year_season == 2020) %>%
+  group_by(name_team) %>%
+  top_n(n = 1, wt = id_game) %>%
+  ungroup() %>%
+  select(-year_season, -id_game)
+
+most_recent_elo
+```
+
+* Finally we need to calculate the data for the `count_days_rest_team` and `count_days_next_game_team` because they aren't available to us yet. For this we will use the 2020 Season Schedule file 
+
+```{r}
+schedule_features <- season_schedule_2020 %>%
+  select(date_game, name_team_home) %>%
+  rename(name_team = name_team_home) %>%
+  bind_rows(
+    season_schedule_2020 %>%
+      select(date_game, name_team_away) %>%
+      rename(name_team = name_team_away)
+  ) %>%
+  arrange(date_game) %>%
+  group_by(name_team) %>%
+  mutate(next_game_date = lead(date_game),
+         prev_game_date = lag(date_game)) %>%
+  ungroup() %>%
+  filter(!is.na(next_game_date)) %>%
+  filter(!is.na(prev_game_date)) %>%
+  mutate(
+    count_days_rest_team = (
+      difftime(date_game, prev_game_date, units = "days") %>% as.integer()
+    ) - 1,
+    count_days_next_game_team = (
+      difftime(next_game_date, date_game, units = "days") %>% as.integer() - 1
+    )
+  ) %>%
+  select(date_game, name_team, count_days_rest_team, count_days_next_game_team)
+
+schedule_features
+```
+
+* Now lets bring all of the features together
+
+```{r}
+prediction_features <- submission_file_week_1 %>%
+  select(-home_team_predicted_margin) %>%
+  inner_join(most_recent_elo, by = c("home_team" = "name_team")) %>%
+  rename(home_elo = elo) %>%
+  inner_join(most_recent_elo, by = c("away_team" = "name_team")) %>%
+  rename(away_elo = elo) %>%
+  inner_join(most_recent_features, by = c("home_team" = "name_team")) %>%
+  rename(
+    home_pct_fg_team = pct_fg_team,
+    home_pct_fg3team = pct_fg3team,
+    home_pct_ft_team = pct_ft_team,
+    home_treb_team = treb_team,
+    home_ast_team = ast_team,
+    home_stl_team = stl_team,
+    home_blk_team = blk_team,
+    home_tov_team = tov_team,
+    home_plusminus_team = plusminus_team
+  ) %>%
+  inner_join(most_recent_features, by = c("away_team" = "name_team")) %>%
+  rename(
+    away_pct_fg_team = pct_fg_team,
+    away_pct_fg3team = pct_fg3team,
+    away_pct_ft_team = pct_ft_team,
+    away_treb_team = treb_team,
+    away_ast_team = ast_team,
+    away_stl_team = stl_team,
+    away_blk_team = blk_team,
+    away_tov_team = tov_team,
+    away_plusminus_team = plusminus_team
+  ) %>%
+  mutate(
+    diff_pct_fg_team = home_pct_fg_team - away_pct_fg_team,
+    diff_pct_fg3team = home_pct_fg3team - away_pct_fg_team,
+    diff_pct_ft_team = home_pct_ft_team - away_pct_ft_team,
+    diff_treb_team = home_treb_team - away_treb_team,
+    diff_ast_team = home_ast_team - away_ast_team,
+    diff_stl_team = home_stl_team - away_stl_team,
+    diff_blk_team = home_blk_team - away_blk_team,
+    diff_tov_team = home_tov_team - away_tov_team,
+    diff_plusminus_team = home_plusminus_team - away_plusminus_team
+  ) %>%
+  inner_join(schedule_features,
+             by = c("home_team" = "name_team",
+                    "date" = "date_game")) %>%
+  rename(home_count_days_rest_team = count_days_rest_team,
+         home_count_days_next_game_team = count_days_next_game_team) %>%
+  inner_join(schedule_features,
+             by = c("away_team" = "name_team",
+                    "date" = "date_game")) %>%
+  rename(away_count_days_rest_team = count_days_rest_team,
+         away_count_days_next_game_team = count_days_next_game_team) %>%
+  select(
+    date,
+    home_team,
+    away_team,
+    home_elo,
+    away_elo,
+    starts_with("diff_"),
+    home_count_days_rest_team,
+    home_count_days_next_game_team,
+    away_count_days_rest_team,
+    away_count_days_next_game_team
+  )
+
+prediction_features
+```
+
+### 6.2. Predicting the margin
+
+* Now that we have the features ready, we use the `recipe` to preprocess and finally predict based on the `xgboost` model that we have built
+
+```{r}
+predictions_to_submit <- final_model %>%
+  predict(new_data = bake(preprocessing_recipe, new_data = prediction_features))
+
+submission_file_with_predictions <- submission_file_week_1 %>%
+  select(-home_team_predicted_margin) %>%
+  bind_cols(predictions_to_submit) %>%
+  rename(home_team_predicted_margin = `.pred`)
+
+submission_file_with_predictions
+```
+
+### 6.3. Submitting the predictions 
+
+* All we now need to do is write our predictions data frame into a csv file and then submit it! 
+
+```{r}
+write_csv(submission_file_with_predictions, here::here("data", "bf_ds_tutorial_submission_file_week_1.csv"))
+```
+
+* The process is not going to be any different for the future weeks. Once the data is refreshed, the feature pipeline needs to be refreshed too. Load the right CSV for the appropriate week and repeat the process! 
+
+## 7. Baseline
+
+* Often a really useful concept with predictive models is establishing what is known as a baseline
+
+* A baseline is a simple rule of thumb that your model must beat for it to be any good 
+
+* A simple baseline for a model that predicts whether a team beats another team in a match, should be better than random guessing, or in mathematical terms, have an accuracy better than 50% 
+
+* A more intelligent baseline would be to consider something like home advantage and if you assume home teams win all the time, and that gives you say a 60% accuracy, your model is only better if it can be better than that and account for complexities
+
+* With the context of betting markets, we could also establish baselines like - the favourite always wins. If our model can beat this assumption, that's a positive sign. 
+
+* Baselines are trickier for margin prediction models like the one outlined in this tutorial. Taking the above point further, we could establish a baseline by calculating the RMSE of a betting line market. Theoretically it is the same as predicted margin of victory for the favourite against the underdog, and therefore our model needs to be around as good as that. Being better than it is hard because betting markets contain the collective opinion of punters' weight of money, and anything better than that is your edge. Feel free to use the odds data provided to establish your own baseline. 
+
+## 8. Conclusion 
+
+* Hopefully you enjoyed the tutorial and that was easy to follow. 
+
+* As mentioned several times before, this is by no means an exhaustive approach to building a model, please do try the alternative approaches and you'll definitely see an improvement 
+
+* Don't forget to submit your predictions before the deadlines (Saturday morning AEDT)
+
+* Feel free to reach out to us at Datathon@betfair.com.au if you have any questions at all 
+
+* Good luck! 
+
+![](https://media.giphy.com/media/10AYkGR9M75nLW/giphy.gif)

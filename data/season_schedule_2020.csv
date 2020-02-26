@@ -1,0 +1,1231 @@
+date_game,name_team_home,name_team_away
+2019-10-22,Toronto Raptors,New Orleans Pelicans
+2019-10-22,Los Angeles Clippers,Los Angeles Lakers
+2019-10-23,Charlotte Hornets,Chicago Bulls
+2019-10-23,Indiana Pacers,Detroit Pistons
+2019-10-23,Orlando Magic,Cleveland Cavaliers
+2019-10-23,Brooklyn Nets,Minnesota Timberwolves
+2019-10-23,Miami Heat,Memphis Grizzlies
+2019-10-23,Philadelphia 76ers,Boston Celtics
+2019-10-23,Dallas Mavericks,Washington Wizards
+2019-10-23,San Antonio Spurs,New York Knicks
+2019-10-23,Utah Jazz,Oklahoma City Thunder
+2019-10-23,Phoenix Suns,Sacramento Kings
+2019-10-23,Portland Trail Blazers,Denver Nuggets
+2019-10-24,Detroit Pistons,Atlanta Hawks
+2019-10-24,Houston Rockets,Milwaukee Bucks
+2019-10-24,Golden State Warriors,Los Angeles Clippers
+2019-10-25,Boston Celtics,Toronto Raptors
+2019-10-25,Charlotte Hornets,Minnesota Timberwolves
+2019-10-25,Brooklyn Nets,New York Knicks
+2019-10-25,Memphis Grizzlies,Chicago Bulls
+2019-10-25,New Orleans Pelicans,Dallas Mavericks
+2019-10-25,Oklahoma City Thunder,Washington Wizards
+2019-10-25,Denver Nuggets,Phoenix Suns
+2019-10-25,Sacramento Kings,Portland Trail Blazers
+2019-10-25,Los Angeles Lakers,Utah Jazz
+2019-10-26,Milwaukee Bucks,Miami Heat
+2019-10-26,Detroit Pistons,Philadelphia 76ers
+2019-10-26,Atlanta Hawks,Orlando Magic
+2019-10-26,New York Knicks,Boston Celtics
+2019-10-26,Cleveland Cavaliers,Indiana Pacers
+2019-10-26,Chicago Bulls,Toronto Raptors
+2019-10-26,Houston Rockets,New Orleans Pelicans
+2019-10-26,San Antonio Spurs,Washington Wizards
+2019-10-26,Utah Jazz,Sacramento Kings
+2019-10-26,Phoenix Suns,Los Angeles Clippers
+2019-10-27,Oklahoma City Thunder,Golden State Warriors
+2019-10-27,Memphis Grizzlies,Brooklyn Nets
+2019-10-27,Dallas Mavericks,Portland Trail Blazers
+2019-10-27,Minnesota Timberwolves,Miami Heat
+2019-10-27,Los Angeles Lakers,Charlotte Hornets
+2019-10-28,Detroit Pistons,Indiana Pacers
+2019-10-28,New York Knicks,Chicago Bulls
+2019-10-28,Atlanta Hawks,Philadelphia 76ers
+2019-10-28,Toronto Raptors,Orlando Magic
+2019-10-28,Houston Rockets,Oklahoma City Thunder
+2019-10-28,Milwaukee Bucks,Cleveland Cavaliers
+2019-10-28,New Orleans Pelicans,Golden State Warriors
+2019-10-28,San Antonio Spurs,Portland Trail Blazers
+2019-10-28,Phoenix Suns,Utah Jazz
+2019-10-28,Sacramento Kings,Denver Nuggets
+2019-10-28,Los Angeles Clippers,Charlotte Hornets
+2019-10-29,Miami Heat,Atlanta Hawks
+2019-10-29,Denver Nuggets,Dallas Mavericks
+2019-10-29,Los Angeles Lakers,Memphis Grizzlies
+2019-10-30,Cleveland Cavaliers,Chicago Bulls
+2019-10-30,Orlando Magic,New York Knicks
+2019-10-30,Philadelphia 76ers,Minnesota Timberwolves
+2019-10-30,Boston Celtics,Milwaukee Bucks
+2019-10-30,Brooklyn Nets,Indiana Pacers
+2019-10-30,Toronto Raptors,Detroit Pistons
+2019-10-30,Washington Wizards,Houston Rockets
+2019-10-30,Oklahoma City Thunder,Portland Trail Blazers
+2019-10-30,Utah Jazz,Los Angeles Clippers
+2019-10-30,Sacramento Kings,Charlotte Hornets
+2019-10-30,Golden State Warriors,Phoenix Suns
+2019-10-31,Atlanta Hawks,Miami Heat
+2019-10-31,New Orleans Pelicans,Denver Nuggets
+2019-10-31,Los Angeles Clippers,San Antonio Spurs
+2019-11-01,Brooklyn Nets,Houston Rockets
+2019-11-01,Indiana Pacers,Cleveland Cavaliers
+2019-11-01,Orlando Magic,Milwaukee Bucks
+2019-11-01,Boston Celtics,New York Knicks
+2019-11-01,Chicago Bulls,Detroit Pistons
+2019-11-01,Dallas Mavericks,Los Angeles Lakers
+2019-11-01,Sacramento Kings,Utah Jazz
+2019-11-01,Golden State Warriors,San Antonio Spurs
+2019-11-02,Oklahoma City Thunder,New Orleans Pelicans
+2019-11-02,Detroit Pistons,Brooklyn Nets
+2019-11-02,Orlando Magic,Denver Nuggets
+2019-11-02,Washington Wizards,Minnesota Timberwolves
+2019-11-02,Memphis Grizzlies,Phoenix Suns
+2019-11-02,Milwaukee Bucks,Toronto Raptors
+2019-11-02,Golden State Warriors,Charlotte Hornets
+2019-11-02,Portland Trail Blazers,Philadelphia 76ers
+2019-11-03,Indiana Pacers,Chicago Bulls
+2019-11-03,Miami Heat,Houston Rockets
+2019-11-03,New York Knicks,Sacramento Kings
+2019-11-03,San Antonio Spurs,Los Angeles Lakers
+2019-11-03,Cleveland Cavaliers,Dallas Mavericks
+2019-11-03,Los Angeles Clippers,Utah Jazz
+2019-11-04,Washington Wizards,Detroit Pistons
+2019-11-04,Brooklyn Nets,New Orleans Pelicans
+2019-11-04,Memphis Grizzlies,Houston Rockets
+2019-11-04,Minnesota Timberwolves,Milwaukee Bucks
+2019-11-04,Phoenix Suns,Philadelphia 76ers
+2019-11-04,Golden State Warriors,Portland Trail Blazers
+2019-11-05,Charlotte Hornets,Indiana Pacers
+2019-11-05,Cleveland Cavaliers,Boston Celtics
+2019-11-05,Atlanta Hawks,San Antonio Spurs
+2019-11-05,Chicago Bulls,Los Angeles Lakers
+2019-11-05,Oklahoma City Thunder,Orlando Magic
+2019-11-05,Denver Nuggets,Miami Heat
+2019-11-06,Detroit Pistons,New York Knicks
+2019-11-06,Indiana Pacers,Washington Wizards
+2019-11-06,Atlanta Hawks,Chicago Bulls
+2019-11-06,Toronto Raptors,Sacramento Kings
+2019-11-06,Houston Rockets,Golden State Warriors
+2019-11-06,Memphis Grizzlies,Minnesota Timberwolves
+2019-11-06,Dallas Mavericks,Orlando Magic
+2019-11-06,Utah Jazz,Philadelphia 76ers
+2019-11-06,Los Angeles Clippers,Milwaukee Bucks
+2019-11-07,Charlotte Hornets,Boston Celtics
+2019-11-07,San Antonio Spurs,Oklahoma City Thunder
+2019-11-07,Phoenix Suns,Miami Heat
+2019-11-07,Los Angeles Clippers,Portland Trail Blazers
+2019-11-08,Indiana Pacers,Detroit Pistons
+2019-11-08,Orlando Magic,Memphis Grizzlies
+2019-11-08,Washington Wizards,Cleveland Cavaliers
+2019-11-08,Atlanta Hawks,Sacramento Kings
+2019-11-08,Minnesota Timberwolves,Golden State Warriors
+2019-11-08,New Orleans Pelicans,Toronto Raptors
+2019-11-08,Dallas Mavericks,New York Knicks
+2019-11-08,Denver Nuggets,Philadelphia 76ers
+2019-11-08,Utah Jazz,Milwaukee Bucks
+2019-11-08,Portland Trail Blazers,Brooklyn Nets
+2019-11-08,Los Angeles Lakers,Miami Heat
+2019-11-09,San Antonio Spurs,Boston Celtics
+2019-11-09,Charlotte Hornets,New Orleans Pelicans
+2019-11-09,Chicago Bulls,Houston Rockets
+2019-11-09,Memphis Grizzlies,Dallas Mavericks
+2019-11-09,Oklahoma City Thunder,Golden State Warriors
+2019-11-10,Minnesota Timberwolves,Denver Nuggets
+2019-11-10,Orlando Magic,Indiana Pacers
+2019-11-10,Philadelphia 76ers,Charlotte Hornets
+2019-11-10,Oklahoma City Thunder,Milwaukee Bucks
+2019-11-10,New York Knicks,Cleveland Cavaliers
+2019-11-10,Phoenix Suns,Brooklyn Nets
+2019-11-10,Portland Trail Blazers,Atlanta Hawks
+2019-11-10,Los Angeles Lakers,Toronto Raptors
+2019-11-11,Detroit Pistons,Minnesota Timberwolves
+2019-11-11,Boston Celtics,Dallas Mavericks
+2019-11-11,San Antonio Spurs,Memphis Grizzlies
+2019-11-11,New Orleans Pelicans,Houston Rockets
+2019-11-11,Golden State Warriors,Utah Jazz
+2019-11-11,Los Angeles Clippers,Toronto Raptors
+2019-11-12,Indiana Pacers,Oklahoma City Thunder
+2019-11-12,Philadelphia 76ers,Cleveland Cavaliers
+2019-11-12,Miami Heat,Detroit Pistons
+2019-11-12,Chicago Bulls,New York Knicks
+2019-11-12,Denver Nuggets,Atlanta Hawks
+2019-11-12,Phoenix Suns,Los Angeles Lakers
+2019-11-12,Utah Jazz,Brooklyn Nets
+2019-11-12,Sacramento Kings,Portland Trail Blazers
+2019-11-13,Charlotte Hornets,Memphis Grizzlies
+2019-11-13,Orlando Magic,Philadelphia 76ers
+2019-11-13,Boston Celtics,Washington Wizards
+2019-11-13,Houston Rockets,Los Angeles Clippers
+2019-11-13,Minnesota Timberwolves,San Antonio Spurs
+2019-11-13,Los Angeles Lakers,Golden State Warriors
+2019-11-13,Portland Trail Blazers,Toronto Raptors
+2019-11-14,Cleveland Cavaliers,Miami Heat
+2019-11-14,New York Knicks,Dallas Mavericks
+2019-11-14,Milwaukee Bucks,Chicago Bulls
+2019-11-14,New Orleans Pelicans,Los Angeles Clippers
+2019-11-14,Phoenix Suns,Atlanta Hawks
+2019-11-14,Denver Nuggets,Brooklyn Nets
+2019-11-15,Charlotte Hornets,Detroit Pistons
+2019-11-15,Orlando Magic,San Antonio Spurs
+2019-11-15,Houston Rockets,Indiana Pacers
+2019-11-15,Memphis Grizzlies,Utah Jazz
+2019-11-15,Minnesota Timberwolves,Washington Wizards
+2019-11-15,Oklahoma City Thunder,Philadelphia 76ers
+2019-11-15,Golden State Warriors,Boston Celtics
+2019-11-15,Los Angeles Lakers,Sacramento Kings
+2019-11-16,Chicago Bulls,Brooklyn Nets
+2019-11-16,Indiana Pacers,Milwaukee Bucks
+2019-11-16,New York Knicks,Charlotte Hornets
+2019-11-16,Miami Heat,New Orleans Pelicans
+2019-11-16,Minnesota Timberwolves,Houston Rockets
+2019-11-16,Dallas Mavericks,Toronto Raptors
+2019-11-16,San Antonio Spurs,Portland Trail Blazers
+2019-11-16,Los Angeles Clippers,Atlanta Hawks
+2019-11-17,Cleveland Cavaliers,Philadelphia 76ers
+2019-11-17,Sacramento Kings,Boston Celtics
+2019-11-17,Orlando Magic,Washington Wizards
+2019-11-17,Memphis Grizzlies,Denver Nuggets
+2019-11-17,New Orleans Pelicans,Golden State Warriors
+2019-11-17,Los Angeles Lakers,Atlanta Hawks
+2019-11-18,New York Knicks,Cleveland Cavaliers
+2019-11-18,Brooklyn Nets,Indiana Pacers
+2019-11-18,Toronto Raptors,Charlotte Hornets
+2019-11-18,Chicago Bulls,Milwaukee Bucks
+2019-11-18,Houston Rockets,Portland Trail Blazers
+2019-11-18,Dallas Mavericks,San Antonio Spurs
+2019-11-18,Phoenix Suns,Boston Celtics
+2019-11-18,Utah Jazz,Minnesota Timberwolves
+2019-11-18,Los Angeles Clippers,Oklahoma City Thunder
+2019-11-19,Memphis Grizzlies,Golden State Warriors
+2019-11-19,New Orleans Pelicans,Portland Trail Blazers
+2019-11-19,Sacramento Kings,Phoenix Suns
+2019-11-19,Los Angeles Lakers,Oklahoma City Thunder
+2019-11-20,Philadelphia 76ers,New York Knicks
+2019-11-20,Washington Wizards,San Antonio Spurs
+2019-11-20,Atlanta Hawks,Milwaukee Bucks
+2019-11-20,Brooklyn Nets,Charlotte Hornets
+2019-11-20,Miami Heat,Cleveland Cavaliers
+2019-11-20,Toronto Raptors,Orlando Magic
+2019-11-20,Dallas Mavericks,Golden State Warriors
+2019-11-20,Chicago Bulls,Detroit Pistons
+2019-11-20,Minnesota Timberwolves,Utah Jazz
+2019-11-20,Denver Nuggets,Houston Rockets
+2019-11-20,Los Angeles Clippers,Boston Celtics
+2019-11-21,Milwaukee Bucks,Portland Trail Blazers
+2019-11-21,Phoenix Suns,New Orleans Pelicans
+2019-11-22,Detroit Pistons,Atlanta Hawks
+2019-11-22,Washington Wizards,Charlotte Hornets
+2019-11-22,Brooklyn Nets,Sacramento Kings
+2019-11-22,Philadelphia 76ers,San Antonio Spurs
+2019-11-22,Chicago Bulls,Miami Heat
+2019-11-22,Oklahoma City Thunder,Los Angeles Lakers
+2019-11-22,Dallas Mavericks,Cleveland Cavaliers
+2019-11-22,Denver Nuggets,Boston Celtics
+2019-11-22,Utah Jazz,Golden State Warriors
+2019-11-22,Los Angeles Clippers,Houston Rockets
+2019-11-23,Minnesota Timberwolves,Phoenix Suns
+2019-11-23,Charlotte Hornets,Chicago Bulls
+2019-11-23,Indiana Pacers,Orlando Magic
+2019-11-23,Atlanta Hawks,Toronto Raptors
+2019-11-23,New York Knicks,San Antonio Spurs
+2019-11-23,Philadelphia 76ers,Miami Heat
+2019-11-23,Cleveland Cavaliers,Portland Trail Blazers
+2019-11-23,Memphis Grizzlies,Los Angeles Lakers
+2019-11-23,Milwaukee Bucks,Detroit Pistons
+2019-11-23,Utah Jazz,New Orleans Pelicans
+2019-11-24,Houston Rockets,Dallas Mavericks
+2019-11-24,New York Knicks,Brooklyn Nets
+2019-11-24,Washington Wizards,Sacramento Kings
+2019-11-24,Denver Nuggets,Phoenix Suns
+2019-11-24,Los Angeles Clippers,New Orleans Pelicans
+2019-11-25,Cleveland Cavaliers,Brooklyn Nets
+2019-11-25,Detroit Pistons,Orlando Magic
+2019-11-25,Indiana Pacers,Memphis Grizzlies
+2019-11-25,Atlanta Hawks,Minnesota Timberwolves
+2019-11-25,Boston Celtics,Sacramento Kings
+2019-11-25,Miami Heat,Charlotte Hornets
+2019-11-25,Toronto Raptors,Philadelphia 76ers
+2019-11-25,Chicago Bulls,Portland Trail Blazers
+2019-11-25,Milwaukee Bucks,Utah Jazz
+2019-11-25,San Antonio Spurs,Los Angeles Lakers
+2019-11-25,Golden State Warriors,Oklahoma City Thunder
+2019-11-26,Dallas Mavericks,Los Angeles Clippers
+2019-11-26,Denver Nuggets,Washington Wizards
+2019-11-27,Boston Celtics,Brooklyn Nets
+2019-11-27,Charlotte Hornets,Detroit Pistons
+2019-11-27,Cleveland Cavaliers,Orlando Magic
+2019-11-27,Indiana Pacers,Utah Jazz
+2019-11-27,Philadelphia 76ers,Sacramento Kings
+2019-11-27,Toronto Raptors,New York Knicks
+2019-11-27,Houston Rockets,Miami Heat
+2019-11-27,Memphis Grizzlies,Los Angeles Clippers
+2019-11-27,Milwaukee Bucks,Atlanta Hawks
+2019-11-27,San Antonio Spurs,Minnesota Timberwolves
+2019-11-27,Phoenix Suns,Washington Wizards
+2019-11-27,New Orleans Pelicans,Los Angeles Lakers
+2019-11-27,Portland Trail Blazers,Oklahoma City Thunder
+2019-11-27,Golden State Warriors,Chicago Bulls
+2019-11-29,Brooklyn Nets,Boston Celtics
+2019-11-29,Detroit Pistons,Charlotte Hornets
+2019-11-29,Orlando Magic,Toronto Raptors
+2019-11-29,Cleveland Cavaliers,Milwaukee Bucks
+2019-11-29,New York Knicks,Philadelphia 76ers
+2019-11-29,Indiana Pacers,Atlanta Hawks
+2019-11-29,Miami Heat,Golden State Warriors
+2019-11-29,Memphis Grizzlies,Utah Jazz
+2019-11-29,Oklahoma City Thunder,New Orleans Pelicans
+2019-11-29,San Antonio Spurs,Los Angeles Clippers
+2019-11-29,Phoenix Suns,Dallas Mavericks
+2019-11-29,Portland Trail Blazers,Chicago Bulls
+2019-11-29,Los Angeles Lakers,Washington Wizards
+2019-11-30,Sacramento Kings,Denver Nuggets
+2019-11-30,Philadelphia 76ers,Indiana Pacers
+2019-11-30,Houston Rockets,Atlanta Hawks
+2019-11-30,Milwaukee Bucks,Charlotte Hornets
+2019-12-01,Brooklyn Nets,Miami Heat
+2019-12-01,New York Knicks,Boston Celtics
+2019-12-01,Minnesota Timberwolves,Memphis Grizzlies
+2019-12-01,Los Angeles Lakers,Dallas Mavericks
+2019-12-01,Detroit Pistons,San Antonio Spurs
+2019-12-01,New Orleans Pelicans,Oklahoma City Thunder
+2019-12-01,Orlando Magic,Golden State Warriors
+2019-12-01,Toronto Raptors,Utah Jazz
+2019-12-01,Los Angeles Clippers,Washington Wizards
+2019-12-02,Charlotte Hornets,Phoenix Suns
+2019-12-02,Philadelphia 76ers,Utah Jazz
+2019-12-02,Atlanta Hawks,Golden State Warriors
+2019-12-02,Memphis Grizzlies,Indiana Pacers
+2019-12-02,Milwaukee Bucks,New York Knicks
+2019-12-02,Sacramento Kings,Chicago Bulls
+2019-12-03,Cleveland Cavaliers,Detroit Pistons
+2019-12-03,Washington Wizards,Orlando Magic
+2019-12-03,Toronto Raptors,Miami Heat
+2019-12-03,New Orleans Pelicans,Dallas Mavericks
+2019-12-03,San Antonio Spurs,Houston Rockets
+2019-12-03,Denver Nuggets,Los Angeles Lakers
+2019-12-03,Los Angeles Clippers,Portland Trail Blazers
+2019-12-04,Charlotte Hornets,Golden State Warriors
+2019-12-04,Detroit Pistons,Milwaukee Bucks
+2019-12-04,Orlando Magic,Phoenix Suns
+2019-12-04,Atlanta Hawks,Brooklyn Nets
+2019-12-04,Boston Celtics,Miami Heat
+2019-12-04,Chicago Bulls,Memphis Grizzlies
+2019-12-04,Oklahoma City Thunder,Indiana Pacers
+2019-12-04,Dallas Mavericks,Minnesota Timberwolves
+2019-12-04,Utah Jazz,Los Angeles Lakers
+2019-12-04,Portland Trail Blazers,Sacramento Kings
+2019-12-05,Washington Wizards,Philadelphia 76ers
+2019-12-05,New York Knicks,Denver Nuggets
+2019-12-05,Toronto Raptors,Houston Rockets
+2019-12-05,New Orleans Pelicans,Phoenix Suns
+2019-12-06,Charlotte Hornets,Brooklyn Nets
+2019-12-06,Cleveland Cavaliers,Orlando Magic
+2019-12-06,Detroit Pistons,Indiana Pacers
+2019-12-06,Boston Celtics,Denver Nuggets
+2019-12-06,Miami Heat,Washington Wizards
+2019-12-06,Chicago Bulls,Golden State Warriors
+2019-12-06,Oklahoma City Thunder,Minnesota Timberwolves
+2019-12-06,Milwaukee Bucks,Los Angeles Clippers
+2019-12-06,San Antonio Spurs,Sacramento Kings
+2019-12-06,Portland Trail Blazers,Los Angeles Lakers
+2019-12-07,Dallas Mavericks,New Orleans Pelicans
+2019-12-07,New York Knicks,Indiana Pacers
+2019-12-07,Philadelphia 76ers,Cleveland Cavaliers
+2019-12-07,Houston Rockets,Phoenix Suns
+2019-12-07,Utah Jazz,Memphis Grizzlies
+2019-12-08,Brooklyn Nets,Denver Nuggets
+2019-12-08,Charlotte Hornets,Atlanta Hawks
+2019-12-08,Miami Heat,Chicago Bulls
+2019-12-08,Philadelphia 76ers,Toronto Raptors
+2019-12-08,Washington Wizards,Los Angeles Clippers
+2019-12-08,Dallas Mavericks,Sacramento Kings
+2019-12-08,Portland Trail Blazers,Oklahoma City Thunder
+2019-12-08,Los Angeles Lakers,Minnesota Timberwolves
+2019-12-09,Indiana Pacers,Los Angeles Clippers
+2019-12-09,Boston Celtics,Cleveland Cavaliers
+2019-12-09,Chicago Bulls,Toronto Raptors
+2019-12-09,Houston Rockets,Sacramento Kings
+2019-12-09,Milwaukee Bucks,Orlando Magic
+2019-12-09,New Orleans Pelicans,Detroit Pistons
+2019-12-09,Phoenix Suns,Minnesota Timberwolves
+2019-12-09,Utah Jazz,Oklahoma City Thunder
+2019-12-09,Golden State Warriors,Memphis Grizzlies
+2019-12-10,Charlotte Hornets,Washington Wizards
+2019-12-10,Philadelphia 76ers,Denver Nuggets
+2019-12-10,Miami Heat,Atlanta Hawks
+2019-12-10,Portland Trail Blazers,New York Knicks
+2019-12-11,Cleveland Cavaliers,Houston Rockets
+2019-12-11,Indiana Pacers,Boston Celtics
+2019-12-11,Orlando Magic,Los Angeles Lakers
+2019-12-11,Toronto Raptors,Los Angeles Clippers
+2019-12-11,Brooklyn Nets,Charlotte Hornets
+2019-12-11,Chicago Bulls,Atlanta Hawks
+2019-12-11,Minnesota Timberwolves,Utah Jazz
+2019-12-11,Phoenix Suns,Memphis Grizzlies
+2019-12-11,Milwaukee Bucks,New Orleans Pelicans
+2019-12-11,Sacramento Kings,Oklahoma City Thunder
+2019-12-11,Golden State Warriors,New York Knicks
+2019-12-12,Boston Celtics,Philadelphia 76ers
+2019-12-12,San Antonio Spurs,Cleveland Cavaliers
+2019-12-12,Detroit Pistons,Dallas Mavericks
+2019-12-12,Denver Nuggets,Portland Trail Blazers
+2019-12-13,Orlando Magic,Houston Rockets
+2019-12-13,Philadelphia 76ers,New Orleans Pelicans
+2019-12-13,Miami Heat,Los Angeles Lakers
+2019-12-13,Atlanta Hawks,Indiana Pacers
+2019-12-13,Chicago Bulls,Charlotte Hornets
+2019-12-13,Memphis Grizzlies,Milwaukee Bucks
+2019-12-13,Utah Jazz,Golden State Warriors
+2019-12-13,Minnesota Timberwolves,Los Angeles Clippers
+2019-12-13,Sacramento Kings,New York Knicks
+2019-12-14,Phoenix Suns,San Antonio Spurs
+2019-12-14,Toronto Raptors,Brooklyn Nets
+2019-12-14,Chicago Bulls,Los Angeles Clippers
+2019-12-14,Memphis Grizzlies,Washington Wizards
+2019-12-14,Dallas Mavericks,Miami Heat
+2019-12-14,Milwaukee Bucks,Cleveland Cavaliers
+2019-12-14,Houston Rockets,Detroit Pistons
+2019-12-14,Denver Nuggets,Oklahoma City Thunder
+2019-12-15,New Orleans Pelicans,Orlando Magic
+2019-12-15,Indiana Pacers,Charlotte Hornets
+2019-12-15,Atlanta Hawks,Los Angeles Lakers
+2019-12-15,Brooklyn Nets,Philadelphia 76ers
+2019-12-15,Denver Nuggets,New York Knicks
+2019-12-15,Golden State Warriors,Sacramento Kings
+2019-12-16,Detroit Pistons,Washington Wizards
+2019-12-16,Toronto Raptors,Cleveland Cavaliers
+2019-12-16,Houston Rockets,San Antonio Spurs
+2019-12-16,Memphis Grizzlies,Miami Heat
+2019-12-16,Milwaukee Bucks,Dallas Mavericks
+2019-12-16,Oklahoma City Thunder,Chicago Bulls
+2019-12-16,Phoenix Suns,Portland Trail Blazers
+2019-12-17,Charlotte Hornets,Sacramento Kings
+2019-12-17,Indiana Pacers,Los Angeles Lakers
+2019-12-17,New York Knicks,Atlanta Hawks
+2019-12-17,New Orleans Pelicans,Brooklyn Nets
+2019-12-17,Utah Jazz,Orlando Magic
+2019-12-17,Los Angeles Clippers,Phoenix Suns
+2019-12-18,Cleveland Cavaliers,Charlotte Hornets
+2019-12-18,Detroit Pistons,Toronto Raptors
+2019-12-18,Washington Wizards,Chicago Bulls
+2019-12-18,Philadelphia 76ers,Miami Heat
+2019-12-18,Minnesota Timberwolves,New Orleans Pelicans
+2019-12-18,Oklahoma City Thunder,Memphis Grizzlies
+2019-12-18,Denver Nuggets,Orlando Magic
+2019-12-18,Dallas Mavericks,Boston Celtics
+2019-12-18,Portland Trail Blazers,Golden State Warriors
+2019-12-19,Atlanta Hawks,Utah Jazz
+2019-12-19,Milwaukee Bucks,Los Angeles Lakers
+2019-12-19,San Antonio Spurs,Brooklyn Nets
+2019-12-19,Los Angeles Clippers,Houston Rockets
+2019-12-20,Cleveland Cavaliers,Memphis Grizzlies
+2019-12-20,Indiana Pacers,Sacramento Kings
+2019-12-20,Boston Celtics,Detroit Pistons
+2019-12-20,Toronto Raptors,Washington Wizards
+2019-12-20,Miami Heat,New York Knicks
+2019-12-20,Philadelphia 76ers,Dallas Mavericks
+2019-12-20,Oklahoma City Thunder,Phoenix Suns
+2019-12-20,Denver Nuggets,Minnesota Timberwolves
+2019-12-20,Portland Trail Blazers,Orlando Magic
+2019-12-20,Golden State Warriors,New Orleans Pelicans
+2019-12-21,Charlotte Hornets,Utah Jazz
+2019-12-21,Brooklyn Nets,Atlanta Hawks
+2019-12-21,Detroit Pistons,Chicago Bulls
+2019-12-21,Philadelphia 76ers,Washington Wizards
+2019-12-21,New York Knicks,Milwaukee Bucks
+2019-12-21,Memphis Grizzlies,Sacramento Kings
+2019-12-21,San Antonio Spurs,Los Angeles Clippers
+2019-12-21,Phoenix Suns,Houston Rockets
+2019-12-21,Portland Trail Blazers,Minnesota Timberwolves
+2019-12-22,Toronto Raptors,Dallas Mavericks
+2019-12-22,Boston Celtics,Charlotte Hornets
+2019-12-22,Milwaukee Bucks,Indiana Pacers
+2019-12-22,Oklahoma City Thunder,Los Angeles Clippers
+2019-12-22,Los Angeles Lakers,Denver Nuggets
+2019-12-23,Cleveland Cavaliers,Atlanta Hawks
+2019-12-23,Detroit Pistons,Philadelphia 76ers
+2019-12-23,Indiana Pacers,Toronto Raptors
+2019-12-23,New York Knicks,Washington Wizards
+2019-12-23,Orlando Magic,Chicago Bulls
+2019-12-23,Miami Heat,Utah Jazz
+2019-12-23,Memphis Grizzlies,San Antonio Spurs
+2019-12-23,Phoenix Suns,Denver Nuggets
+2019-12-23,Portland Trail Blazers,New Orleans Pelicans
+2019-12-23,Sacramento Kings,Houston Rockets
+2019-12-23,Golden State Warriors,Minnesota Timberwolves
+2019-12-25,Toronto Raptors,Boston Celtics
+2019-12-25,Philadelphia 76ers,Milwaukee Bucks
+2019-12-25,Golden State Warriors,Houston Rockets
+2019-12-25,Los Angeles Lakers,Los Angeles Clippers
+2019-12-25,Denver Nuggets,New Orleans Pelicans
+2019-12-26,Detroit Pistons,Washington Wizards
+2019-12-26,Brooklyn Nets,New York Knicks
+2019-12-26,Oklahoma City Thunder,Memphis Grizzlies
+2019-12-26,Dallas Mavericks,San Antonio Spurs
+2019-12-26,Sacramento Kings,Minnesota Timberwolves
+2019-12-26,Utah Jazz,Portland Trail Blazers
+2019-12-27,Boston Celtics,Cleveland Cavaliers
+2019-12-27,Charlotte Hornets,Oklahoma City Thunder
+2019-12-27,Orlando Magic,Philadelphia 76ers
+2019-12-27,Atlanta Hawks,Milwaukee Bucks
+2019-12-27,Miami Heat,Indiana Pacers
+2019-12-27,Golden State Warriors,Phoenix Suns
+2019-12-28,Denver Nuggets,Memphis Grizzlies
+2019-12-28,Boston Celtics,Toronto Raptors
+2019-12-28,New Orleans Pelicans,Indiana Pacers
+2019-12-28,Miami Heat,Philadelphia 76ers
+2019-12-28,Washington Wizards,New York Knicks
+2019-12-28,Chicago Bulls,Atlanta Hawks
+2019-12-28,Houston Rockets,Brooklyn Nets
+2019-12-28,Minnesota Timberwolves,Cleveland Cavaliers
+2019-12-28,Milwaukee Bucks,Orlando Magic
+2019-12-28,San Antonio Spurs,Detroit Pistons
+2019-12-28,Golden State Warriors,Dallas Mavericks
+2019-12-28,Sacramento Kings,Phoenix Suns
+2019-12-28,Portland Trail Blazers,Los Angeles Lakers
+2019-12-28,Los Angeles Clippers,Utah Jazz
+2019-12-29,Toronto Raptors,Oklahoma City Thunder
+2019-12-29,Memphis Grizzlies,Charlotte Hornets
+2019-12-29,New Orleans Pelicans,Houston Rockets
+2019-12-29,Denver Nuggets,Sacramento Kings
+2019-12-29,Los Angeles Lakers,Dallas Mavericks
+2019-12-30,Orlando Magic,Atlanta Hawks
+2019-12-30,Washington Wizards,Miami Heat
+2019-12-30,Chicago Bulls,Milwaukee Bucks
+2019-12-30,Minnesota Timberwolves,Brooklyn Nets
+2019-12-30,Utah Jazz,Detroit Pistons
+2019-12-30,Portland Trail Blazers,Phoenix Suns
+2019-12-31,Charlotte Hornets,Boston Celtics
+2019-12-31,Indiana Pacers,Philadelphia 76ers
+2019-12-31,Sacramento Kings,Los Angeles Clippers
+2019-12-31,Toronto Raptors,Cleveland Cavaliers
+2019-12-31,Houston Rockets,Denver Nuggets
+2019-12-31,San Antonio Spurs,Golden State Warriors
+2019-12-31,Oklahoma City Thunder,Dallas Mavericks
+2020-01-01,Washington Wizards,Orlando Magic
+2020-01-01,New York Knicks,Portland Trail Blazers
+2020-01-01,Milwaukee Bucks,Minnesota Timberwolves
+2020-01-01,Los Angeles Lakers,Phoenix Suns
+2020-01-02,Cleveland Cavaliers,Charlotte Hornets
+2020-01-02,Indiana Pacers,Denver Nuggets
+2020-01-02,Miami Heat,Toronto Raptors
+2020-01-02,Chicago Bulls,Utah Jazz
+2020-01-02,Minnesota Timberwolves,Golden State Warriors
+2020-01-02,Dallas Mavericks,Brooklyn Nets
+2020-01-02,San Antonio Spurs,Oklahoma City Thunder
+2020-01-02,Sacramento Kings,Memphis Grizzlies
+2020-01-02,Los Angeles Clippers,Detroit Pistons
+2020-01-03,Boston Celtics,Atlanta Hawks
+2020-01-03,Orlando Magic,Miami Heat
+2020-01-03,Washington Wizards,Portland Trail Blazers
+2020-01-03,Houston Rockets,Philadelphia 76ers
+2020-01-03,Phoenix Suns,New York Knicks
+2020-01-03,Los Angeles Lakers,New Orleans Pelicans
+2020-01-04,Los Angeles Clippers,Memphis Grizzlies
+2020-01-04,Brooklyn Nets,Toronto Raptors
+2020-01-04,Orlando Magic,Utah Jazz
+2020-01-04,Atlanta Hawks,Indiana Pacers
+2020-01-04,Cleveland Cavaliers,Oklahoma City Thunder
+2020-01-04,Washington Wizards,Denver Nuggets
+2020-01-04,Chicago Bulls,Boston Celtics
+2020-01-04,Dallas Mavericks,Charlotte Hornets
+2020-01-04,Milwaukee Bucks,San Antonio Spurs
+2020-01-04,Golden State Warriors,Detroit Pistons
+2020-01-04,Sacramento Kings,New Orleans Pelicans
+2020-01-05,Los Angeles Clippers,New York Knicks
+2020-01-05,Miami Heat,Portland Trail Blazers
+2020-01-05,Cleveland Cavaliers,Minnesota Timberwolves
+2020-01-05,Phoenix Suns,Memphis Grizzlies
+2020-01-05,Los Angeles Lakers,Detroit Pistons
+2020-01-06,Charlotte Hornets,Indiana Pacers
+2020-01-06,Orlando Magic,Brooklyn Nets
+2020-01-06,Philadelphia 76ers,Oklahoma City Thunder
+2020-01-06,Washington Wizards,Boston Celtics
+2020-01-06,Atlanta Hawks,Denver Nuggets
+2020-01-06,New Orleans Pelicans,Utah Jazz
+2020-01-06,Dallas Mavericks,Chicago Bulls
+2020-01-06,San Antonio Spurs,Milwaukee Bucks
+2020-01-06,Sacramento Kings,Golden State Warriors
+2020-01-07,Cleveland Cavaliers,Detroit Pistons
+2020-01-07,Toronto Raptors,Portland Trail Blazers
+2020-01-07,Brooklyn Nets,Oklahoma City Thunder
+2020-01-07,Memphis Grizzlies,Minnesota Timberwolves
+2020-01-07,Phoenix Suns,Sacramento Kings
+2020-01-07,Los Angeles Lakers,New York Knicks
+2020-01-08,Boston Celtics,San Antonio Spurs
+2020-01-08,Charlotte Hornets,Toronto Raptors
+2020-01-08,Indiana Pacers,Miami Heat
+2020-01-08,Orlando Magic,Washington Wizards
+2020-01-08,Atlanta Hawks,Houston Rockets
+2020-01-08,Dallas Mavericks,Denver Nuggets
+2020-01-08,New Orleans Pelicans,Chicago Bulls
+2020-01-08,Utah Jazz,New York Knicks
+2020-01-08,Golden State Warriors,Milwaukee Bucks
+2020-01-09,Detroit Pistons,Cleveland Cavaliers
+2020-01-09,Philadelphia 76ers,Boston Celtics
+2020-01-09,Minnesota Timberwolves,Portland Trail Blazers
+2020-01-09,Oklahoma City Thunder,Houston Rockets
+2020-01-10,Washington Wizards,Atlanta Hawks
+2020-01-10,New York Knicks,New Orleans Pelicans
+2020-01-10,Brooklyn Nets,Miami Heat
+2020-01-10,Chicago Bulls,Indiana Pacers
+2020-01-10,Memphis Grizzlies,San Antonio Spurs
+2020-01-10,Phoenix Suns,Orlando Magic
+2020-01-10,Utah Jazz,Charlotte Hornets
+2020-01-10,Dallas Mavericks,Los Angeles Lakers
+2020-01-10,Sacramento Kings,Milwaukee Bucks
+2020-01-10,Los Angeles Clippers,Golden State Warriors
+2020-01-11,Houston Rockets,Minnesota Timberwolves
+2020-01-11,Boston Celtics,New Orleans Pelicans
+2020-01-11,Detroit Pistons,Chicago Bulls
+2020-01-11,Oklahoma City Thunder,Los Angeles Lakers
+2020-01-11,Dallas Mavericks,Philadelphia 76ers
+2020-01-11,Denver Nuggets,Cleveland Cavaliers
+2020-01-11,Portland Trail Blazers,Milwaukee Bucks
+2020-01-12,New York Knicks,Miami Heat
+2020-01-12,Washington Wizards,Utah Jazz
+2020-01-12,Brooklyn Nets,Atlanta Hawks
+2020-01-12,Toronto Raptors,San Antonio Spurs
+2020-01-12,Memphis Grizzlies,Golden State Warriors
+2020-01-12,Denver Nuggets,Los Angeles Clippers
+2020-01-12,Phoenix Suns,Charlotte Hornets
+2020-01-13,Detroit Pistons,New Orleans Pelicans
+2020-01-13,Indiana Pacers,Philadelphia 76ers
+2020-01-13,Boston Celtics,Chicago Bulls
+2020-01-13,Minnesota Timberwolves,Oklahoma City Thunder
+2020-01-13,Portland Trail Blazers,Charlotte Hornets
+2020-01-13,Sacramento Kings,Orlando Magic
+2020-01-13,Los Angeles Lakers,Cleveland Cavaliers
+2020-01-14,Atlanta Hawks,Phoenix Suns
+2020-01-14,Brooklyn Nets,Utah Jazz
+2020-01-14,Memphis Grizzlies,Houston Rockets
+2020-01-14,Milwaukee Bucks,New York Knicks
+2020-01-14,Golden State Warriors,Dallas Mavericks
+2020-01-14,Los Angeles Clippers,Cleveland Cavaliers
+2020-01-15,Boston Celtics,Detroit Pistons
+2020-01-15,Philadelphia 76ers,Brooklyn Nets
+2020-01-15,Miami Heat,San Antonio Spurs
+2020-01-15,Chicago Bulls,Washington Wizards
+2020-01-15,Minnesota Timberwolves,Indiana Pacers
+2020-01-15,Oklahoma City Thunder,Toronto Raptors
+2020-01-15,Denver Nuggets,Charlotte Hornets
+2020-01-15,Houston Rockets,Portland Trail Blazers
+2020-01-15,Sacramento Kings,Dallas Mavericks
+2020-01-15,Los Angeles Lakers,Orlando Magic
+2020-01-16,New York Knicks,Phoenix Suns
+2020-01-16,Milwaukee Bucks,Boston Celtics
+2020-01-16,New Orleans Pelicans,Utah Jazz
+2020-01-16,Golden State Warriors,Denver Nuggets
+2020-01-16,Los Angeles Clippers,Orlando Magic
+2020-01-17,Indiana Pacers,Minnesota Timberwolves
+2020-01-17,Philadelphia 76ers,Chicago Bulls
+2020-01-17,Toronto Raptors,Washington Wizards
+2020-01-17,Memphis Grizzlies,Cleveland Cavaliers
+2020-01-17,Oklahoma City Thunder,Miami Heat
+2020-01-17,San Antonio Spurs,Atlanta Hawks
+2020-01-17,Dallas Mavericks,Portland Trail Blazers
+2020-01-18,New Orleans Pelicans,Los Angeles Clippers
+2020-01-18,Brooklyn Nets,Milwaukee Bucks
+2020-01-18,Boston Celtics,Phoenix Suns
+2020-01-18,Atlanta Hawks,Detroit Pistons
+2020-01-18,New York Knicks,Philadelphia 76ers
+2020-01-18,Chicago Bulls,Cleveland Cavaliers
+2020-01-18,Minnesota Timberwolves,Toronto Raptors
+2020-01-18,Houston Rockets,Los Angeles Lakers
+2020-01-18,Golden State Warriors,Orlando Magic
+2020-01-18,Oklahoma City Thunder,Portland Trail Blazers
+2020-01-18,Utah Jazz,Sacramento Kings
+2020-01-19,San Antonio Spurs,Miami Heat
+2020-01-19,Denver Nuggets,Indiana Pacers
+2020-01-20,Washington Wizards,Detroit Pistons
+2020-01-20,Atlanta Hawks,Toronto Raptors
+2020-01-20,Brooklyn Nets,Philadelphia 76ers
+2020-01-20,Charlotte Hornets,Orlando Magic
+2020-01-20,Cleveland Cavaliers,New York Knicks
+2020-01-20,Miami Heat,Sacramento Kings
+2020-01-20,Houston Rockets,Oklahoma City Thunder
+2020-01-20,Memphis Grizzlies,New Orleans Pelicans
+2020-01-20,Milwaukee Bucks,Chicago Bulls
+2020-01-20,Boston Celtics,Los Angeles Lakers
+2020-01-20,Minnesota Timberwolves,Denver Nuggets
+2020-01-20,Phoenix Suns,San Antonio Spurs
+2020-01-20,Utah Jazz,Indiana Pacers
+2020-01-20,Portland Trail Blazers,Golden State Warriors
+2020-01-21,Dallas Mavericks,Los Angeles Clippers
+2020-01-22,Detroit Pistons,Sacramento Kings
+2020-01-22,Orlando Magic,Oklahoma City Thunder
+2020-01-22,Toronto Raptors,Philadelphia 76ers
+2020-01-22,Atlanta Hawks,Los Angeles Clippers
+2020-01-22,Boston Celtics,Memphis Grizzlies
+2020-01-22,Miami Heat,Washington Wizards
+2020-01-22,New York Knicks,Los Angeles Lakers
+2020-01-22,Chicago Bulls,Minnesota Timberwolves
+2020-01-22,Houston Rockets,Denver Nuggets
+2020-01-22,Phoenix Suns,Indiana Pacers
+2020-01-22,New Orleans Pelicans,San Antonio Spurs
+2020-01-22,Golden State Warriors,Utah Jazz
+2020-01-23,Cleveland Cavaliers,Washington Wizards
+2020-01-23,Brooklyn Nets,Los Angeles Lakers
+2020-01-23,Portland Trail Blazers,Dallas Mavericks
+2020-01-24,Charlotte Hornets,Milwaukee Bucks
+2020-01-24,Detroit Pistons,Memphis Grizzlies
+2020-01-24,Orlando Magic,Boston Celtics
+2020-01-24,New York Knicks,Toronto Raptors
+2020-01-24,Miami Heat,Los Angeles Clippers
+2020-01-24,Chicago Bulls,Sacramento Kings
+2020-01-24,Minnesota Timberwolves,Houston Rockets
+2020-01-24,New Orleans Pelicans,Denver Nuggets
+2020-01-24,Oklahoma City Thunder,Atlanta Hawks
+2020-01-24,San Antonio Spurs,Phoenix Suns
+2020-01-24,Golden State Warriors,Indiana Pacers
+2020-01-25,Utah Jazz,Dallas Mavericks
+2020-01-25,Detroit Pistons,Brooklyn Nets
+2020-01-25,Cleveland Cavaliers,Chicago Bulls
+2020-01-25,Minnesota Timberwolves,Oklahoma City Thunder
+2020-01-25,Philadelphia 76ers,Los Angeles Lakers
+2020-01-26,Denver Nuggets,Houston Rockets
+2020-01-26,San Antonio Spurs,Toronto Raptors
+2020-01-26,Atlanta Hawks,Washington Wizards
+2020-01-26,New York Knicks,Brooklyn Nets
+2020-01-26,Orlando Magic,Los Angeles Clippers
+2020-01-26,Memphis Grizzlies,Phoenix Suns
+2020-01-26,New Orleans Pelicans,Boston Celtics
+2020-01-26,Portland Trail Blazers,Indiana Pacers
+2020-01-27,Detroit Pistons,Cleveland Cavaliers
+2020-01-27,Miami Heat,Orlando Magic
+2020-01-27,Chicago Bulls,San Antonio Spurs
+2020-01-27,Minnesota Timberwolves,Sacramento Kings
+2020-01-27,Oklahoma City Thunder,Dallas Mavericks
+2020-01-27,Utah Jazz,Houston Rockets
+2020-01-28,Charlotte Hornets,New York Knicks
+2020-01-28,Philadelphia 76ers,Golden State Warriors
+2020-01-28,Cleveland Cavaliers,New Orleans Pelicans
+2020-01-28,Toronto Raptors,Atlanta Hawks
+2020-01-28,Miami Heat,Boston Celtics
+2020-01-28,Memphis Grizzlies,Denver Nuggets
+2020-01-28,Milwaukee Bucks,Washington Wizards
+2020-01-28,Dallas Mavericks,Phoenix Suns
+2020-01-29,Indiana Pacers,Chicago Bulls
+2020-01-29,Brooklyn Nets,Detroit Pistons
+2020-01-29,New York Knicks,Memphis Grizzlies
+2020-01-29,San Antonio Spurs,Utah Jazz
+2020-01-29,Portland Trail Blazers,Houston Rockets
+2020-01-29,Sacramento Kings,Oklahoma City Thunder
+2020-01-30,Cleveland Cavaliers,Toronto Raptors
+2020-01-30,Washington Wizards,Charlotte Hornets
+2020-01-30,Atlanta Hawks,Philadelphia 76ers
+2020-01-30,Boston Celtics,Golden State Warriors
+2020-01-30,Denver Nuggets,Utah Jazz
+2020-01-30,Los Angeles Clippers,Sacramento Kings
+2020-01-31,Detroit Pistons,Toronto Raptors
+2020-01-31,Brooklyn Nets,Chicago Bulls
+2020-01-31,Houston Rockets,Dallas Mavericks
+2020-01-31,New Orleans Pelicans,Memphis Grizzlies
+2020-01-31,Milwaukee Bucks,Denver Nuggets
+2020-01-31,Phoenix Suns,Oklahoma City Thunder
+2020-01-31,Los Angeles Lakers,Portland Trail Blazers
+2020-02-01,Los Angeles Clippers,Minnesota Timberwolves
+2020-02-01,Indiana Pacers,New York Knicks
+2020-02-01,Orlando Magic,Miami Heat
+2020-02-01,Cleveland Cavaliers,Golden State Warriors
+2020-02-01,Washington Wizards,Brooklyn Nets
+2020-02-01,Boston Celtics,Philadelphia 76ers
+2020-02-01,Dallas Mavericks,Atlanta Hawks
+2020-02-01,San Antonio Spurs,Charlotte Hornets
+2020-02-01,Sacramento Kings,Los Angeles Lakers
+2020-02-01,Portland Trail Blazers,Utah Jazz
+2020-02-02,Detroit Pistons,Denver Nuggets
+2020-02-02,Houston Rockets,New Orleans Pelicans
+2020-02-02,Milwaukee Bucks,Phoenix Suns
+2020-02-02,Toronto Raptors,Chicago Bulls
+2020-02-03,Charlotte Hornets,Orlando Magic
+2020-02-03,Cleveland Cavaliers,New York Knicks
+2020-02-03,Indiana Pacers,Dallas Mavericks
+2020-02-03,Washington Wizards,Golden State Warriors
+2020-02-03,Atlanta Hawks,Boston Celtics
+2020-02-03,Brooklyn Nets,Phoenix Suns
+2020-02-03,Miami Heat,Philadelphia 76ers
+2020-02-03,Memphis Grizzlies,Detroit Pistons
+2020-02-03,Sacramento Kings,Minnesota Timberwolves
+2020-02-03,Los Angeles Clippers,San Antonio Spurs
+2020-02-04,New Orleans Pelicans,Milwaukee Bucks
+2020-02-04,Houston Rockets,Charlotte Hornets
+2020-02-04,Denver Nuggets,Portland Trail Blazers
+2020-02-04,Los Angeles Lakers,San Antonio Spurs
+2020-02-05,Detroit Pistons,Phoenix Suns
+2020-02-05,Boston Celtics,Orlando Magic
+2020-02-05,Brooklyn Nets,Golden State Warriors
+2020-02-05,Toronto Raptors,Indiana Pacers
+2020-02-05,Minnesota Timberwolves,Atlanta Hawks
+2020-02-05,Oklahoma City Thunder,Cleveland Cavaliers
+2020-02-05,Dallas Mavericks,Memphis Grizzlies
+2020-02-05,Utah Jazz,Denver Nuggets
+2020-02-05,Los Angeles Clippers,Miami Heat
+2020-02-06,New York Knicks,Orlando Magic
+2020-02-06,Chicago Bulls,New Orleans Pelicans
+2020-02-06,Milwaukee Bucks,Philadelphia 76ers
+2020-02-06,Portland Trail Blazers,San Antonio Spurs
+2020-02-06,Los Angeles Lakers,Houston Rockets
+2020-02-07,Philadelphia 76ers,Memphis Grizzlies
+2020-02-07,Washington Wizards,Dallas Mavericks
+2020-02-07,Boston Celtics,Atlanta Hawks
+2020-02-07,Indiana Pacers,Toronto Raptors
+2020-02-07,Oklahoma City Thunder,Detroit Pistons
+2020-02-07,Phoenix Suns,Houston Rockets
+2020-02-07,Sacramento Kings,Miami Heat
+2020-02-07,Utah Jazz,Portland Trail Blazers
+2020-02-08,Orlando Magic,Milwaukee Bucks
+2020-02-08,Charlotte Hornets,Dallas Mavericks
+2020-02-08,Detroit Pistons,New York Knicks
+2020-02-08,Indiana Pacers,New Orleans Pelicans
+2020-02-08,Toronto Raptors,Brooklyn Nets
+2020-02-08,Minnesota Timberwolves,Los Angeles Clippers
+2020-02-08,Golden State Warriors,Los Angeles Lakers
+2020-02-08,Phoenix Suns,Denver Nuggets
+2020-02-08,Sacramento Kings,San Antonio Spurs
+2020-02-09,Oklahoma City Thunder,Boston Celtics
+2020-02-09,Atlanta Hawks,New York Knicks
+2020-02-09,Philadelphia 76ers,Chicago Bulls
+2020-02-09,Washington Wizards,Memphis Grizzlies
+2020-02-09,Houston Rockets,Utah Jazz
+2020-02-09,Cleveland Cavaliers,Los Angeles Clippers
+2020-02-09,Portland Trail Blazers,Miami Heat
+2020-02-10,Detroit Pistons,Charlotte Hornets
+2020-02-10,Indiana Pacers,Brooklyn Nets
+2020-02-10,Orlando Magic,Atlanta Hawks
+2020-02-10,Toronto Raptors,Minnesota Timberwolves
+2020-02-10,Milwaukee Bucks,Sacramento Kings
+2020-02-10,Dallas Mavericks,Utah Jazz
+2020-02-10,Denver Nuggets,San Antonio Spurs
+2020-02-10,Golden State Warriors,Miami Heat
+2020-02-10,Los Angeles Lakers,Phoenix Suns
+2020-02-11,Philadelphia 76ers,Los Angeles Clippers
+2020-02-11,Washington Wizards,Chicago Bulls
+2020-02-11,New Orleans Pelicans,Portland Trail Blazers
+2020-02-11,Oklahoma City Thunder,San Antonio Spurs
+2020-02-11,Houston Rockets,Boston Celtics
+2020-02-12,Cleveland Cavaliers,Atlanta Hawks
+2020-02-12,Orlando Magic,Detroit Pistons
+2020-02-12,Brooklyn Nets,Toronto Raptors
+2020-02-12,Indiana Pacers,Milwaukee Bucks
+2020-02-12,New York Knicks,Washington Wizards
+2020-02-12,Memphis Grizzlies,Portland Trail Blazers
+2020-02-12,Minnesota Timberwolves,Charlotte Hornets
+2020-02-12,Dallas Mavericks,Sacramento Kings
+2020-02-12,Phoenix Suns,Golden State Warriors
+2020-02-12,Utah Jazz,Miami Heat
+2020-02-12,Denver Nuggets,Los Angeles Lakers
+2020-02-13,Boston Celtics,Los Angeles Clippers
+2020-02-13,New Orleans Pelicans,Oklahoma City Thunder
+2020-02-20,Detroit Pistons,Milwaukee Bucks
+2020-02-20,Atlanta Hawks,Miami Heat
+2020-02-20,Philadelphia 76ers,Brooklyn Nets
+2020-02-20,Chicago Bulls,Charlotte Hornets
+2020-02-20,Sacramento Kings,Memphis Grizzlies
+2020-02-20,Golden State Warriors,Houston Rockets
+2020-02-21,Orlando Magic,Dallas Mavericks
+2020-02-21,Washington Wizards,Cleveland Cavaliers
+2020-02-21,New York Knicks,Indiana Pacers
+2020-02-21,Toronto Raptors,Phoenix Suns
+2020-02-21,Minnesota Timberwolves,Boston Celtics
+2020-02-21,Oklahoma City Thunder,Denver Nuggets
+2020-02-21,Utah Jazz,San Antonio Spurs
+2020-02-21,Los Angeles Lakers,Memphis Grizzlies
+2020-02-21,Portland Trail Blazers,New Orleans Pelicans
+2020-02-22,Los Angeles Clippers,Sacramento Kings
+2020-02-22,Charlotte Hornets,Brooklyn Nets
+2020-02-22,Atlanta Hawks,Dallas Mavericks
+2020-02-22,Miami Heat,Cleveland Cavaliers
+2020-02-22,Chicago Bulls,Phoenix Suns
+2020-02-22,Milwaukee Bucks,Philadelphia 76ers
+2020-02-22,Utah Jazz,Houston Rockets
+2020-02-23,Los Angeles Lakers,Boston Celtics
+2020-02-23,Toronto Raptors,Indiana Pacers
+2020-02-23,Denver Nuggets,Minnesota Timberwolves
+2020-02-23,Chicago Bulls,Washington Wizards
+2020-02-23,Oklahoma City Thunder,San Antonio Spurs
+2020-02-23,Golden State Warriors,New Orleans Pelicans
+2020-02-23,Portland Trail Blazers,Detroit Pistons
+2020-02-24,Cleveland Cavaliers,Miami Heat
+2020-02-24,Philadelphia 76ers,Atlanta Hawks
+2020-02-24,Washington Wizards,Milwaukee Bucks
+2020-02-24,Brooklyn Nets,Orlando Magic
+2020-02-24,Houston Rockets,New York Knicks
+2020-02-24,Dallas Mavericks,Minnesota Timberwolves
+2020-02-24,Utah Jazz,Phoenix Suns
+2020-02-24,Los Angeles Clippers,Memphis Grizzlies
+2020-02-25,Indiana Pacers,Charlotte Hornets
+2020-02-25,Toronto Raptors,Milwaukee Bucks
+2020-02-25,Chicago Bulls,Oklahoma City Thunder
+2020-02-25,Denver Nuggets,Detroit Pistons
+2020-02-25,Los Angeles Lakers,New Orleans Pelicans
+2020-02-25,Portland Trail Blazers,Boston Celtics
+2020-02-25,Golden State Warriors,Sacramento Kings
+2020-02-26,Charlotte Hornets,New York Knicks
+2020-02-26,Cleveland Cavaliers,Philadelphia 76ers
+2020-02-26,Washington Wizards,Brooklyn Nets
+2020-02-26,Atlanta Hawks,Orlando Magic
+2020-02-26,Miami Heat,Minnesota Timberwolves
+2020-02-26,Houston Rockets,Memphis Grizzlies
+2020-02-26,San Antonio Spurs,Dallas Mavericks
+2020-02-26,Phoenix Suns,Los Angeles Clippers
+2020-02-26,Utah Jazz,Boston Celtics
+2020-02-27,Philadelphia 76ers,New York Knicks
+2020-02-27,Indiana Pacers,Portland Trail Blazers
+2020-02-27,Oklahoma City Thunder,Sacramento Kings
+2020-02-27,Golden State Warriors,Los Angeles Lakers
+2020-02-28,Orlando Magic,Minnesota Timberwolves
+2020-02-28,Atlanta Hawks,Brooklyn Nets
+2020-02-28,Toronto Raptors,Charlotte Hornets
+2020-02-28,Miami Heat,Dallas Mavericks
+2020-02-28,Memphis Grizzlies,Sacramento Kings
+2020-02-28,Milwaukee Bucks,Oklahoma City Thunder
+2020-02-28,New Orleans Pelicans,Cleveland Cavaliers
+2020-02-28,Phoenix Suns,Detroit Pistons
+2020-02-28,Utah Jazz,Washington Wizards
+2020-02-28,Los Angeles Clippers,Denver Nuggets
+2020-02-29,New York Knicks,Chicago Bulls
+2020-02-29,Atlanta Hawks,Portland Trail Blazers
+2020-02-29,Miami Heat,Brooklyn Nets
+2020-02-29,Cleveland Cavaliers,Indiana Pacers
+2020-02-29,Memphis Grizzlies,Los Angeles Lakers
+2020-02-29,Boston Celtics,Houston Rockets
+2020-02-29,San Antonio Spurs,Orlando Magic
+2020-02-29,Phoenix Suns,Golden State Warriors
+2020-03-01,Charlotte Hornets,Milwaukee Bucks
+2020-03-01,Minnesota Timberwolves,Dallas Mavericks
+2020-03-01,Los Angeles Clippers,Philadelphia 76ers
+2020-03-01,Denver Nuggets,Toronto Raptors
+2020-03-01,Sacramento Kings,Detroit Pistons
+2020-03-01,New Orleans Pelicans,Los Angeles Lakers
+2020-03-01,Golden State Warriors,Washington Wizards
+2020-03-02,Cleveland Cavaliers,Utah Jazz
+2020-03-02,New York Knicks,Houston Rockets
+2020-03-02,Orlando Magic,Portland Trail Blazers
+2020-03-02,Atlanta Hawks,Memphis Grizzlies
+2020-03-02,Miami Heat,Milwaukee Bucks
+2020-03-02,Chicago Bulls,Dallas Mavericks
+2020-03-02,San Antonio Spurs,Indiana Pacers
+2020-03-03,Charlotte Hornets,San Antonio Spurs
+2020-03-03,Boston Celtics,Brooklyn Nets
+2020-03-03,New Orleans Pelicans,Minnesota Timberwolves
+2020-03-03,Oklahoma City Thunder,Los Angeles Clippers
+2020-03-03,Denver Nuggets,Golden State Warriors
+2020-03-03,Phoenix Suns,Toronto Raptors
+2020-03-03,Los Angeles Lakers,Philadelphia 76ers
+2020-03-03,Sacramento Kings,Washington Wizards
+2020-03-04,Cleveland Cavaliers,Boston Celtics
+2020-03-04,Detroit Pistons,Oklahoma City Thunder
+2020-03-04,Milwaukee Bucks,Indiana Pacers
+2020-03-04,Miami Heat,Orlando Magic
+2020-03-04,Brooklyn Nets,Memphis Grizzlies
+2020-03-04,New York Knicks,Utah Jazz
+2020-03-04,Minnesota Timberwolves,Chicago Bulls
+2020-03-04,Dallas Mavericks,New Orleans Pelicans
+2020-03-04,Portland Trail Blazers,Washington Wizards
+2020-03-05,Charlotte Hornets,Denver Nuggets
+2020-03-05,Houston Rockets,Los Angeles Clippers
+2020-03-05,Sacramento Kings,Philadelphia 76ers
+2020-03-05,Golden State Warriors,Toronto Raptors
+2020-03-06,Washington Wizards,Atlanta Hawks
+2020-03-06,Brooklyn Nets,San Antonio Spurs
+2020-03-06,New York Knicks,Oklahoma City Thunder
+2020-03-06,Boston Celtics,Utah Jazz
+2020-03-06,Chicago Bulls,Indiana Pacers
+2020-03-06,Minnesota Timberwolves,Orlando Magic
+2020-03-06,New Orleans Pelicans,Miami Heat
+2020-03-06,Dallas Mavericks,Memphis Grizzlies
+2020-03-06,Phoenix Suns,Portland Trail Blazers
+2020-03-06,Los Angeles Lakers,Milwaukee Bucks
+2020-03-07,Charlotte Hornets,Houston Rockets
+2020-03-07,Detroit Pistons,Utah Jazz
+2020-03-07,Cleveland Cavaliers,Denver Nuggets
+2020-03-07,Memphis Grizzlies,Atlanta Hawks
+2020-03-07,Golden State Warriors,Philadelphia 76ers
+2020-03-07,Portland Trail Blazers,Sacramento Kings
+2020-03-08,Brooklyn Nets,Chicago Bulls
+2020-03-08,Minnesota Timberwolves,New Orleans Pelicans
+2020-03-08,Los Angeles Clippers,Los Angeles Lakers
+2020-03-08,Boston Celtics,Oklahoma City Thunder
+2020-03-08,Phoenix Suns,Milwaukee Bucks
+2020-03-08,Washington Wizards,Miami Heat
+2020-03-08,Dallas Mavericks,Indiana Pacers
+2020-03-08,Houston Rockets,Orlando Magic
+2020-03-08,Cleveland Cavaliers,San Antonio Spurs
+2020-03-08,New York Knicks,Detroit Pistons
+2020-03-08,Sacramento Kings,Toronto Raptors
+2020-03-09,Atlanta Hawks,Charlotte Hornets
+2020-03-09,Denver Nuggets,Milwaukee Bucks
+2020-03-09,Utah Jazz,Toronto Raptors
+2020-03-10,Indiana Pacers,Boston Celtics
+2020-03-10,Washington Wizards,New York Knicks
+2020-03-10,Chicago Bulls,Cleveland Cavaliers
+2020-03-10,Houston Rockets,Minnesota Timberwolves
+2020-03-10,Memphis Grizzlies,Orlando Magic
+2020-03-10,San Antonio Spurs,Dallas Mavericks
+2020-03-10,Portland Trail Blazers,Phoenix Suns
+2020-03-10,Golden State Warriors,Los Angeles Clippers
+2020-03-10,Los Angeles Lakers,Brooklyn Nets
+2020-03-11,Atlanta Hawks,New York Knicks
+2020-03-11,Miami Heat,Charlotte Hornets
+2020-03-11,Philadelphia 76ers,Detroit Pistons
+2020-03-11,Oklahoma City Thunder,Utah Jazz
+2020-03-11,Dallas Mavericks,Denver Nuggets
+2020-03-11,Sacramento Kings,New Orleans Pelicans
+2020-03-12,Orlando Magic,Chicago Bulls
+2020-03-12,Milwaukee Bucks,Boston Celtics
+2020-03-12,Portland Trail Blazers,Memphis Grizzlies
+2020-03-12,Golden State Warriors,Brooklyn Nets
+2020-03-12,Los Angeles Lakers,Houston Rockets
+2020-03-13,Charlotte Hornets,Cleveland Cavaliers
+2020-03-13,Boston Celtics,Washington Wizards
+2020-03-13,Miami Heat,New York Knicks
+2020-03-13,Oklahoma City Thunder,Minnesota Timberwolves
+2020-03-13,San Antonio Spurs,Denver Nuggets
+2020-03-13,Utah Jazz,New Orleans Pelicans
+2020-03-13,Los Angeles Clippers,Brooklyn Nets
+2020-03-14,Dallas Mavericks,Phoenix Suns
+2020-03-14,Atlanta Hawks,Cleveland Cavaliers
+2020-03-14,Philadelphia 76ers,Indiana Pacers
+2020-03-14,Toronto Raptors,Detroit Pistons
+2020-03-14,Miami Heat,Chicago Bulls
+2020-03-14,Milwaukee Bucks,Golden State Warriors
+2020-03-14,San Antonio Spurs,Minnesota Timberwolves
+2020-03-14,Utah Jazz,Memphis Grizzlies
+2020-03-14,Los Angeles Clippers,New Orleans Pelicans
+2020-03-15,Portland Trail Blazers,Houston Rockets
+2020-03-15,Orlando Magic,Charlotte Hornets
+2020-03-15,Washington Wizards,Oklahoma City Thunder
+2020-03-15,Chicago Bulls,Boston Celtics
+2020-03-15,Los Angeles Lakers,Denver Nuggets
+2020-03-15,Sacramento Kings,Brooklyn Nets
+2020-03-16,Philadelphia 76ers,Washington Wizards
+2020-03-16,Toronto Raptors,Golden State Warriors
+2020-03-16,Milwaukee Bucks,Miami Heat
+2020-03-16,New Orleans Pelicans,Atlanta Hawks
+2020-03-16,San Antonio Spurs,Memphis Grizzlies
+2020-03-16,Utah Jazz,Los Angeles Lakers
+2020-03-16,Los Angeles Clippers,Dallas Mavericks
+2020-03-17,Detroit Pistons,Orlando Magic
+2020-03-17,New York Knicks,Charlotte Hornets
+2020-03-17,Houston Rockets,Cleveland Cavaliers
+2020-03-17,Memphis Grizzlies,Oklahoma City Thunder
+2020-03-17,Portland Trail Blazers,Minnesota Timberwolves
+2020-03-17,Sacramento Kings,Dallas Mavericks
+2020-03-18,Philadelphia 76ers,Toronto Raptors
+2020-03-18,Atlanta Hawks,Oklahoma City Thunder
+2020-03-18,Boston Celtics,New York Knicks
+2020-03-18,Brooklyn Nets,Washington Wizards
+2020-03-18,Indiana Pacers,Golden State Warriors
+2020-03-18,Chicago Bulls,Miami Heat
+2020-03-18,New Orleans Pelicans,San Antonio Spurs
+2020-03-18,Denver Nuggets,Los Angeles Clippers
+2020-03-18,Los Angeles Lakers,Utah Jazz
+2020-03-18,Phoenix Suns,Minnesota Timberwolves
+2020-03-19,Charlotte Hornets,Philadelphia 76ers
+2020-03-19,Orlando Magic,Cleveland Cavaliers
+2020-03-19,Houston Rockets,Sacramento Kings
+2020-03-19,Milwaukee Bucks,Memphis Grizzlies
+2020-03-19,Portland Trail Blazers,Dallas Mavericks
+2020-03-20,Detroit Pistons,Golden State Warriors
+2020-03-20,Indiana Pacers,Miami Heat
+2020-03-20,Atlanta Hawks,Washington Wizards
+2020-03-20,Toronto Raptors,Boston Celtics
+2020-03-20,Oklahoma City Thunder,Denver Nuggets
+2020-03-20,San Antonio Spurs,Chicago Bulls
+2020-03-20,Utah Jazz,Minnesota Timberwolves
+2020-03-20,Los Angeles Clippers,Phoenix Suns
+2020-03-21,Brooklyn Nets,Boston Celtics
+2020-03-21,Charlotte Hornets,Los Angeles Lakers
+2020-03-21,Indiana Pacers,Cleveland Cavaliers
+2020-03-21,Orlando Magic,Sacramento Kings
+2020-03-21,Philadelphia 76ers,Atlanta Hawks
+2020-03-21,New York Knicks,Golden State Warriors
+2020-03-21,Washington Wizards,Milwaukee Bucks
+2020-03-21,Houston Rockets,Chicago Bulls
+2020-03-21,Memphis Grizzlies,New Orleans Pelicans
+2020-03-21,Phoenix Suns,Dallas Mavericks
+2020-03-22,Detroit Pistons,Los Angeles Lakers
+2020-03-22,Toronto Raptors,Denver Nuggets
+2020-03-22,Minnesota Timberwolves,Portland Trail Blazers
+2020-03-22,New Orleans Pelicans,Sacramento Kings
+2020-03-22,San Antonio Spurs,Utah Jazz
+2020-03-23,Indiana Pacers,Phoenix Suns
+2020-03-23,New York Knicks,Los Angeles Clippers
+2020-03-23,Washington Wizards,Boston Celtics
+2020-03-23,Brooklyn Nets,Orlando Magic
+2020-03-23,Miami Heat,Oklahoma City Thunder
+2020-03-23,Chicago Bulls,Denver Nuggets
+2020-03-23,Milwaukee Bucks,Detroit Pistons
+2020-03-23,Dallas Mavericks,Houston Rockets
+2020-03-24,Charlotte Hornets,Portland Trail Blazers
+2020-03-24,Cleveland Cavaliers,Sacramento Kings
+2020-03-24,Toronto Raptors,Los Angeles Lakers
+2020-03-24,Minnesota Timberwolves,Philadelphia 76ers
+2020-03-24,New Orleans Pelicans,Memphis Grizzlies
+2020-03-24,Utah Jazz,San Antonio Spurs
+2020-03-25,Brooklyn Nets,Los Angeles Clippers
+2020-03-25,Detroit Pistons,Portland Trail Blazers
+2020-03-25,Orlando Magic,Indiana Pacers
+2020-03-25,Washington Wizards,Phoenix Suns
+2020-03-25,Miami Heat,Denver Nuggets
+2020-03-25,New York Knicks,Toronto Raptors
+2020-03-25,Memphis Grizzlies,Boston Celtics
+2020-03-25,Milwaukee Bucks,Houston Rockets
+2020-03-25,Golden State Warriors,Atlanta Hawks
+2020-03-26,Cleveland Cavaliers,Los Angeles Lakers
+2020-03-26,Chicago Bulls,Philadelphia 76ers
+2020-03-26,Minnesota Timberwolves,San Antonio Spurs
+2020-03-26,Oklahoma City Thunder,Charlotte Hornets
+2020-03-26,Dallas Mavericks,Utah Jazz
+2020-03-26,Sacramento Kings,Atlanta Hawks
+2020-03-27,Detroit Pistons,Los Angeles Clippers
+2020-03-27,Indiana Pacers,Houston Rockets
+2020-03-27,Orlando Magic,Brooklyn Nets
+2020-03-27,Philadelphia 76ers,Phoenix Suns
+2020-03-27,Boston Celtics,Portland Trail Blazers
+2020-03-27,New Orleans Pelicans,New York Knicks
+2020-03-27,Milwaukee Bucks,Washington Wizards
+2020-03-27,Denver Nuggets,San Antonio Spurs
+2020-03-28,Brooklyn Nets,Cleveland Cavaliers
+2020-03-28,Charlotte Hornets,Los Angeles Clippers
+2020-03-28,Miami Heat,Phoenix Suns
+2020-03-28,Washington Wizards,Los Angeles Lakers
+2020-03-28,Chicago Bulls,New York Knicks
+2020-03-28,Memphis Grizzlies,Toronto Raptors
+2020-03-28,Golden State Warriors,Oklahoma City Thunder
+2020-03-28,Utah Jazz,Atlanta Hawks
+2020-03-29,Dallas Mavericks,Milwaukee Bucks
+2020-03-29,Detroit Pistons,Houston Rockets
+2020-03-29,Boston Celtics,Minnesota Timberwolves
+2020-03-29,Orlando Magic,New Orleans Pelicans
+2020-03-29,Philadelphia 76ers,Portland Trail Blazers
+2020-03-29,Golden State Warriors,San Antonio Spurs
+2020-03-29,Sacramento Kings,Indiana Pacers
+2020-03-30,Charlotte Hornets,Miami Heat
+2020-03-30,Cleveland Cavaliers,Phoenix Suns
+2020-03-30,Brooklyn Nets,Portland Trail Blazers
+2020-03-30,Toronto Raptors,Memphis Grizzlies
+2020-03-30,Minnesota Timberwolves,Los Angeles Lakers
+2020-03-30,Denver Nuggets,Oklahoma City Thunder
+2020-03-30,Utah Jazz,Chicago Bulls
+2020-03-30,Los Angeles Clippers,Indiana Pacers
+2020-03-31,Atlanta Hawks,New Orleans Pelicans
+2020-03-31,Philadelphia 76ers,Houston Rockets
+2020-03-31,Golden State Warriors,Denver Nuggets
+2020-03-31,Sacramento Kings,San Antonio Spurs
+2020-04-01,Orlando Magic,Charlotte Hornets
+2020-04-01,Washington Wizards,New Orleans Pelicans
+2020-04-01,Boston Celtics,Miami Heat
+2020-04-01,Brooklyn Nets,Detroit Pistons
+2020-04-01,Memphis Grizzlies,New York Knicks
+2020-04-01,Minnesota Timberwolves,Dallas Mavericks
+2020-04-01,Oklahoma City Thunder,Phoenix Suns
+2020-04-01,Milwaukee Bucks,Toronto Raptors
+2020-04-01,Utah Jazz,Cleveland Cavaliers
+2020-04-01,Los Angeles Lakers,Indiana Pacers
+2020-04-02,Houston Rockets,Golden State Warriors
+2020-04-02,Sacramento Kings,Los Angeles Clippers
+2020-04-02,Portland Trail Blazers,Utah Jazz
+2020-04-03,Detroit Pistons,Miami Heat
+2020-04-03,Indiana Pacers,Brooklyn Nets
+2020-04-03,Washington Wizards,Philadelphia 76ers
+2020-04-03,Atlanta Hawks,Charlotte Hornets
+2020-04-03,Boston Celtics,Orlando Magic
+2020-04-03,New York Knicks,Minnesota Timberwolves
+2020-04-03,Toronto Raptors,Milwaukee Bucks
+2020-04-03,Memphis Grizzlies,Dallas Mavericks
+2020-04-03,San Antonio Spurs,Golden State Warriors
+2020-04-03,Denver Nuggets,Chicago Bulls
+2020-04-03,Phoenix Suns,Cleveland Cavaliers
+2020-04-04,Los Angeles Clippers,Oklahoma City Thunder
+2020-04-04,Sacramento Kings,Los Angeles Lakers
+2020-04-05,Charlotte Hornets,Atlanta Hawks
+2020-04-05,Philadelphia 76ers,Orlando Magic
+2020-04-05,Boston Celtics,Milwaukee Bucks
+2020-04-05,Indiana Pacers,Washington Wizards
+2020-04-05,New York Knicks,Miami Heat
+2020-04-05,Brooklyn Nets,Dallas Mavericks
+2020-04-05,Denver Nuggets,Utah Jazz
+2020-04-05,Phoenix Suns,Chicago Bulls
+2020-04-05,Houston Rockets,Toronto Raptors
+2020-04-05,Minnesota Timberwolves,Detroit Pistons
+2020-04-05,San Antonio Spurs,New Orleans Pelicans
+2020-04-05,Portland Trail Blazers,Memphis Grizzlies
+2020-04-05,Sacramento Kings,Cleveland Cavaliers
+2020-04-05,Los Angeles Lakers,Oklahoma City Thunder
+2020-04-06,Los Angeles Clippers,Chicago Bulls
+2020-04-07,Washington Wizards,Toronto Raptors
+2020-04-07,Atlanta Hawks,Detroit Pistons
+2020-04-07,Miami Heat,Indiana Pacers
+2020-04-07,Philadelphia 76ers,Milwaukee Bucks
+2020-04-07,Minnesota Timberwolves,Phoenix Suns
+2020-04-07,New Orleans Pelicans,Charlotte Hornets
+2020-04-07,Oklahoma City Thunder,Brooklyn Nets
+2020-04-07,Dallas Mavericks,Houston Rockets
+2020-04-07,San Antonio Spurs,Sacramento Kings
+2020-04-07,Denver Nuggets,Memphis Grizzlies
+2020-04-07,Utah Jazz,Los Angeles Clippers
+2020-04-07,Portland Trail Blazers,Cleveland Cavaliers
+2020-04-07,Los Angeles Lakers,Golden State Warriors
+2020-04-08,Boston Celtics,Indiana Pacers
+2020-04-08,Charlotte Hornets,Toronto Raptors
+2020-04-08,New York Knicks,Orlando Magic
+2020-04-08,Houston Rockets,San Antonio Spurs
+2020-04-08,Los Angeles Lakers,Chicago Bulls
+2020-04-08,Golden State Warriors,Cleveland Cavaliers
+2020-04-09,Miami Heat,Detroit Pistons
+2020-04-09,Milwaukee Bucks,Brooklyn Nets
+2020-04-09,Minnesota Timberwolves,Sacramento Kings
+2020-04-09,New Orleans Pelicans,Phoenix Suns
+2020-04-09,Portland Trail Blazers,Denver Nuggets
+2020-04-09,Los Angeles Lakers,Los Angeles Clippers
+2020-04-10,Orlando Magic,Boston Celtics
+2020-04-10,Toronto Raptors,Atlanta Hawks
+2020-04-10,Houston Rockets,Washington Wizards
+2020-04-10,Oklahoma City Thunder,New York Knicks
+2020-04-10,San Antonio Spurs,Philadelphia 76ers
+2020-04-11,Dallas Mavericks,Detroit Pistons
+2020-04-11,Charlotte Hornets,Washington Wizards
+2020-04-11,Indiana Pacers,Orlando Magic
+2020-04-11,New Orleans Pelicans,Philadelphia 76ers
+2020-04-11,Cleveland Cavaliers,Milwaukee Bucks
+2020-04-11,Miami Heat,Boston Celtics
+2020-04-11,Chicago Bulls,Brooklyn Nets
+2020-04-11,Memphis Grizzlies,Oklahoma City Thunder
+2020-04-11,Los Angeles Clippers,Golden State Warriors
+2020-04-11,Denver Nuggets,Sacramento Kings
+2020-04-11,Phoenix Suns,Utah Jazz
+2020-04-12,San Antonio Spurs,Houston Rockets
+2020-04-12,Toronto Raptors,New York Knicks
+2020-04-12,Milwaukee Bucks,Atlanta Hawks
+2020-04-12,Los Angeles Lakers,Minnesota Timberwolves
+2020-04-13,Charlotte Hornets,Miami Heat
+2020-04-13,Cleveland Cavaliers,Brooklyn Nets
+2020-04-13,Detroit Pistons,Boston Celtics
+2020-04-13,Indiana Pacers,San Antonio Spurs
+2020-04-13,Chicago Bulls,Orlando Magic
+2020-04-13,Houston Rockets,Phoenix Suns
+2020-04-13,Memphis Grizzlies,Philadelphia 76ers
+2020-04-13,New Orleans Pelicans,Washington Wizards
+2020-04-13,Oklahoma City Thunder,Utah Jazz
+2020-04-13,Denver Nuggets,Dallas Mavericks
+2020-04-13,Golden State Warriors,Portland Trail Blazers
+2020-04-13,Los Angeles Clippers,Minnesota Timberwolves
+2020-04-14,Miami Heat,Toronto Raptors
+2020-04-14,New York Knicks,Detroit Pistons
+2020-04-14,Utah Jazz,Denver Nuggets
+2020-04-14,Los Angeles Lakers,Sacramento Kings
+2020-04-15,Atlanta Hawks,Cleveland Cavaliers
+2020-04-15,Boston Celtics,Chicago Bulls
+2020-04-15,Brooklyn Nets,Milwaukee Bucks
+2020-04-15,Orlando Magic,Toronto Raptors
+2020-04-15,Philadelphia 76ers,Charlotte Hornets
+2020-04-15,Washington Wizards,Indiana Pacers
+2020-04-15,Dallas Mavericks,Oklahoma City Thunder
+2020-04-15,Houston Rockets,Memphis Grizzlies
+2020-04-15,Minnesota Timberwolves,New York Knicks
+2020-04-15,San Antonio Spurs,New Orleans Pelicans
+2020-04-15,Phoenix Suns,Los Angeles Lakers
+2020-04-15,Portland Trail Blazers,Los Angeles Clippers
+2020-04-15,Sacramento Kings,Golden State Warriors
