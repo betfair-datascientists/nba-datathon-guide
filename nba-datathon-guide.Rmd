@@ -901,7 +901,33 @@ write_csv(submission_file_with_predictions, here::here("data", "bf_ds_tutorial_s
 
 * With the context of betting markets, we could also establish baselines like - the favourite always wins. If our model can beat this assumption, that's a positive sign. 
 
-* Baselines are trickier for margin prediction models like the one outlined in this tutorial. Taking the above point further, we could establish a baseline by calculating the RMSE of a betting line market. Theoretically it is the same as predicted margin of victory for the favourite against the underdog, and therefore our model needs to be around as good as that. Being better than it is hard because betting markets contain the collective opinion of punters' weight of money, and anything better than that is your edge. Feel free to use the odds data provided to establish your own baseline. 
+* Baselines are trickier for margin prediction models like the one outlined in this tutorial. Taking the above point further, we could establish a baseline by calculating the RMSE of a betting line market. Theoretically it is the same as predicted margin of victory for the favourite against the underdog, and therefore our model needs to be around as good as that. Being better than it is hard because betting markets contain the collective opinion of punters' weight of money, and anything better than that is your edge.  
+
+```{r, message=FALSE}
+odds_data <- map_dfr(.x = list.files(
+  here::here("data"),
+  pattern = "odds_",
+  full.names = TRUE
+),
+.f = read_csv) %>%
+  select(game_date, home_team, away_team, home_line) %>%
+  inner_join(
+    game_level,
+    by = c(
+      "game_date" = "date_game",
+      "home_team" = "home_team",
+      "away_team" = "away_team"
+    )
+  )
+
+metrics(odds_data,
+        truth = "home_team_margin",
+        estimate = "home_line")
+```
+
+* The RMSE of the final scores in comparison to the line markets is significantly worse than our model. This is a good sign for the model we built above. This doesn't necessarily mean that it might be profitable because RMSE could be skewed by outliers. 
+
+* The more foolproof way to back test would be to actually bet on the line assuming some odds value between 1.9 and 2 and checking for profitablity. 
 
 ## 8. Conclusion 
 

@@ -1,0 +1,1231 @@
+game_date,season,match_up,away_team,home_team,away_min_p,away_max_p,away_weighted_avg_price,away_last_traded_price,home_min_p,home_max_p,home_weighted_avg_price,home_last_traded_price,home_line
+2014-10-28,2014-15,Orlando @ New Orleans,Orlando Magic,New Orleans Pelicans,3.9,7.6,6.11,5.6,1.01,1.4,1.19,1.22,-9.5
+2014-10-28,2014-15,Dallas @ San Antonio,Dallas Mavericks,San Antonio Spurs,1.44,8.6,2.11,2.5,1.01,3.45,1.57,1.65,-4.5
+2014-10-28,2014-15,Houston @ LA Lakers,Houston Rockets,Los Angeles Lakers,1.01,1.9,1.17,1.39,2.18,40,4.44,3.45,5.5
+2014-10-29,2014-15,Milwaukee @ Charlotte,Milwaukee Bucks,Charlotte Hornets,1.05,4.8,2.56,4.7,1.08,7.6,2.2,1.27,-8.5
+2014-10-29,2014-15,Philadelphia @ Indiana,Philadelphia 76ers,Indiana Pacers,2.5,4.8,3.81,4.1,1.03,1.58,1.42,1.34,-6.5
+2014-10-29,2014-15,Brooklyn @ Boston,Brooklyn Nets,Boston Celtics,1.8,300,2.57,2.02,1.05,2.18,1.81,1.96,2.5
+2014-10-29,2014-15,Washington @ Miami,Washington Wizards,Miami Heat,2.34,5.7,2.82,2.9,1.07,2,1.46,1.53,-4.5
+2014-10-29,2014-15,Atlanta @ Toronto,Atlanta Hawks,Toronto Raptors,2.64,2.74,2.69,2.7,1.1,1.61,1.43,1.59,-4.5
+2014-10-29,2014-15,Minnesota @ Memphis,Minnesota Timberwolves,Memphis Grizzlies,1.89,6.6,3.35,4.2,1.09,2,1.32,1.33,-8.5
+2014-10-29,2014-15,Chicago @ New York,Chicago Bulls,New York Knicks,1.01,1.77,1.56,1.56,2.46,15,2.61,2.78,4.5
+2014-10-29,2014-15,Detroit @ Denver,Detroit Pistons,Denver Nuggets,2.8,1000,3.65,3.25,1.12,1.7,1.33,1.45,-7.5
+2014-10-29,2014-15,Houston @ Utah,Houston Rockets,Utah Jazz,1.02,1.76,1.38,1.7,2.36,34,4.06,2.38,3.5
+2014-10-29,2014-15,LA Lakers @ Phoenix,Los Angeles Lakers,Phoenix Suns,2,26,8.91,9.4,1.01,1.18,1.11,1.12,-11.5
+2014-10-29,2014-15,Golden State @ Sacramento,Golden State Warriors,Sacramento Kings,1.02,1.8,1.49,1.54,2.04,5.7,2.78,2.84,4.5
+2014-10-29,2014-15,Oklahoma City @ Portland,Oklahoma City Thunder,Portland Trail Blazers,2.32,1000,6.16,5,1.01,2.06,1.37,1.25,-8.5
+2014-10-30,2014-15,Washington @ Orlando,Washington Wizards,Orlando Magic,1.04,1.72,1.34,1.53,2.6,9.6,4.12,2.84,3.5
+2014-10-30,2014-15,Detroit @ Minnesota,Detroit Pistons,Minnesota Timberwolves,2.6,3.75,2.91,3.05,1.11,1.61,1.42,1.5,-4.5
+2014-10-30,2014-15,New York @ Cleveland,New York Knicks,Cleveland Cavaliers,1.04,21,1.8,12.5,1.06,8.8,1.36,1.09,-11.5
+2014-10-30,2014-15,Utah @ Dallas,Utah Jazz,Dallas Mavericks,6.6,8.8,7.12,7.2,1.01,1.17,1.15,1.16,-11.5
+2014-10-30,2014-15,Oklahoma City @ LA Clippers,Oklahoma City Thunder,Los Angeles Clippers,2.76,100,5.97,10,1.03,1.57,1.13,1.12,-11.5
+2014-10-31,2014-15,Memphis @ Indiana,Memphis Grizzlies,Indiana Pacers,1.01,3.3,1.58,1.44,1.49,5,2.62,3.3,7.5
+2014-10-31,2014-15,Cleveland @ Chicago,Cleveland Cavaliers,Chicago Bulls,1.01,14.5,2.13,2.54,1.07,4.8,1.73,1.64,-4.5
+2014-10-31,2014-15,Philadelphia @ Milwaukee,Philadelphia 76ers,Milwaukee Bucks,2.66,7.6,4.24,4.7,1.02,1.77,1.27,1.26,-9.5
+2014-10-31,2014-15,San Antonio @ Phoenix,San Antonio Spurs,Phoenix Suns,1.21,3,1.58,1.96,1.15,5.7,2.97,2.06,1.5
+2014-10-31,2014-15,LA Clippers @ LA Lakers,Los Angeles Clippers,Los Angeles Lakers,1.01,2.5,1.46,1.16,1.71,15,4,7.6,11.5
+2014-10-31,2014-15,Portland @ Sacramento,Portland Trail Blazers,Sacramento Kings,1.45,3.65,1.58,1.55,1.02,3.25,2.52,2.8,4.5
+2014-11-01,2014-15,Dallas @ New Orleans,Dallas Mavericks,New Orleans Pelicans,1.01,3.5,1.62,1.99,1.4,7.6,2.1,2,1.5
+2014-11-01,2014-15,Memphis @ Charlotte,Memphis Grizzlies,Charlotte Hornets,1.23,3.5,2.44,2.34,1.4,5,2.58,1.74,-3.5
+2014-11-01,2014-15,Toronto @ Orlando,Toronto Raptors,Orlando Magic,1.02,1.8,1.66,1.45,3.1,3.5,3.45,3.15,6.5
+2014-11-01,2014-15,Miami @ Philadelphia,Miami Heat,Philadelphia 76ers,1.01,1.5,1.25,1.25,3.7,18,5.11,5.1,9.5
+2014-11-01,2014-15,Milwaukee @ Washington,Milwaukee Bucks,Washington Wizards,4.8,5.4,5.23,5,1.01,1.25,1.24,1.25,-8.5
+2014-11-01,2014-15,Indiana @ Atlanta,Indiana Pacers,Atlanta Hawks,6,10,6.53,6.2,1.01,1.21,1.16,1.19,-10.5
+2014-11-01,2014-15,Brooklyn @ Detroit,Brooklyn Nets,Detroit Pistons,1.11,2.38,1.8,2.32,1.61,5,2.13,1.71,-3.5
+2014-11-02,2014-15,Sacramento @ LA Clippers,Sacramento Kings,Los Angeles Clippers,1.02,10.5,1.89,5.6,1.06,6.2,1.3,1.21,-10.5
+2014-11-02,2014-15,Toronto @ Miami,Toronto Raptors,Miami Heat,2.1,15,2.49,2.1,1.01,1.92,1.24,1.88,-2.5
+2014-11-01,2014-15,Boston @ Houston,Boston Celtics,Houston Rockets,3.85,4.6,4.12,4,1.01,1.36,1.33,1.33,-8.5
+2014-11-01,2014-15,Chicago @ Minnesota,Chicago Bulls,Minnesota Timberwolves,1.04,2,1.74,1.85,1.52,4.3,2.83,2.2,2.5
+2014-11-01,2014-15,Denver @ Oklahoma City,Denver Nuggets,Oklahoma City Thunder,1.35,7.4,2.18,1.56,1.02,3.65,1.44,2.78,6.5
+2014-11-01,2014-15,Phoenix @ Utah,Phoenix Suns,Utah Jazz,1.62,13.5,2.36,1.82,1.03,2.76,1.56,2.2,2.5
+2014-11-01,2014-15,LA Lakers @ Golden State,Los Angeles Lakers,Golden State Warriors,3,100,10.85,12,1.01,1.38,1.09,1.09,-14.5
+2014-11-02,2014-15,Charlotte @ New York,Charlotte Hornets,New York Knicks,1.6,4.5,2.2,2.46,1.01,2.4,1.61,1.67,-3.5
+2014-11-02,2014-15,Golden State @ Portland,Golden State Warriors,Portland Trail Blazers,1.01,6.2,2.15,2.32,1.19,3,1.84,1.73,-3.5
+2014-11-03,2014-15,Houston @ Philadelphia,Houston Rockets,Philadelphia 76ers,1.01,1.2,1.12,1.16,5.3,10,6.86,7.2,10.5
+2014-11-03,2014-15,Oklahoma City @ Brooklyn,Oklahoma City Thunder,Brooklyn Nets,3.35,7.4,3.46,3.6,1.01,1.4,1.2,1.4,-7.5
+2014-11-03,2014-15,New Orleans @ Memphis,New Orleans Pelicans,Memphis Grizzlies,2.54,4.1,2.61,2.56,1.01,1.64,1.19,1.64,-4.5
+2014-11-03,2014-15,Boston @ Dallas,Boston Celtics,Dallas Mavericks,5.2,70,6.04,5.8,1.01,1.22,1.19,1.21,-9.5
+2014-11-03,2014-15,Sacramento @ Denver,Sacramento Kings,Denver Nuggets,1.01,3.85,2.18,3.45,1.35,2.32,1.5,1.41,-6.5
+2014-11-03,2014-15,Utah @ LA Clippers,Utah Jazz,Los Angeles Clippers,3.35,12,5.44,5.6,1.01,1.56,1.12,1.21,-9.5
+2014-11-04,2014-15,Milwaukee @ Indiana,Milwaukee Bucks,Indiana Pacers,1.02,3,1.35,2.62,1.42,2.66,1.64,1.62,-4.5
+2014-11-04,2014-15,Houston @ Miami,Houston Rockets,Miami Heat,1.01,3,1.95,2.28,1.31,12,2.03,1.77,-2.5
+2014-11-04,2014-15,Washington @ New York,Washington Wizards,New York Knicks,1.02,3,1.9,1.89,1.75,11,2.19,2.14,-1.5
+2014-11-04,2014-15,Oklahoma City @ Toronto,Oklahoma City Thunder,Toronto Raptors,3,8.2,6.67,7.6,1.01,1.5,1.14,1.14,-11.5
+2014-11-04,2014-15,Orlando @ Chicago,Orlando Magic,Chicago Bulls,3.6,180,5.99,6.2,1.02,1.32,1.14,1.17,-11.5
+2014-11-04,2014-15,Charlotte @ New Orleans,Charlotte Hornets,New Orleans Pelicans,2.38,4.8,2.62,2.66,1.18,1.65,1.56,1.62,-4.5
+2014-11-04,2014-15,Cleveland @ Portland,Cleveland Cavaliers,Portland Trail Blazers,1.47,1000,2.05,1.76,1.01,2.74,1.43,2.28,2.5
+2014-11-04,2014-15,Phoenix @ LA Lakers,Phoenix Suns,Los Angeles Lakers,1.07,1.45,1.3,1.44,2.6,10,3.74,3.2,6.5
+2014-11-05,2014-15,Miami @ Charlotte,Miami Heat,Charlotte Hornets,1.99,15.5,2.15,2.1,1.02,2.18,1.39,1.91,-2.5
+2014-11-05,2014-15,Orlando @ Philadelphia,Orlando Magic,Philadelphia 76ers,1.15,2.5,1.74,1.78,1.6,2.52,2.15,2.28,2.5
+2014-11-05,2014-15,Toronto @ Boston,Toronto Raptors,Boston Celtics,1.11,4.1,2.11,2.18,1.15,2.16,1.75,1.83,-2.5
+2014-11-05,2014-15,Minnesota @ Brooklyn,Minnesota Timberwolves,Brooklyn Nets,1.03,3.7,2.73,2.94,1.3,2.44,1.82,1.51,-5.5
+2014-11-05,2014-15,New York @ Detroit,New York Knicks,Detroit Pistons,2.46,4.2,2.58,2.58,1.03,1.66,1.35,1.6,-3.5
+2014-11-05,2014-15,Chicago @ Milwaukee,Chicago Bulls,Milwaukee Bucks,1.02,2.4,1.42,1.52,2.28,3.55,3.04,2.78,4.5
+2014-11-05,2014-15,Indiana @ Washington,Indiana Pacers,Washington Wizards,2.68,11,4.26,6,1.11,1.56,1.23,1.21,-9.5
+2014-11-05,2014-15,Atlanta @ San Antonio,Atlanta Hawks,San Antonio Spurs,4.1,13.5,5.01,4.8,1.05,1.4,1.18,1.26,-7.5
+2014-11-05,2014-15,Memphis @ Phoenix,Memphis Grizzlies,Phoenix Suns,1.01,3.65,2.11,2.1,1.47,3,2.49,1.89,-1.5
+2014-11-05,2014-15,Cleveland @ Utah,Cleveland Cavaliers,Utah Jazz,1.43,7.2,1.83,1.51,1.06,3.15,1.81,2.96,5.5
+2014-11-05,2014-15,Denver @ Sacramento,Denver Nuggets,Sacramento Kings,2.28,9.2,4.67,2.52,1.02,1.75,1.19,1.64,-3.5
+2014-11-05,2014-15,LA Clippers @ Golden State,Los Angeles Clippers,Golden State Warriors,2.22,110,3.58,2.84,1.01,1.6,1.13,1.53,-4.5
+2014-11-06,2014-15,San Antonio @ Houston,San Antonio Spurs,Houston Rockets,2.4,1000,3.78,3.6,1.01,1.7,1.14,1.4,-6.5
+2014-11-06,2014-15,Dallas @ Portland,Dallas Mavericks,Portland Trail Blazers,1.57,11.5,2.12,2.16,1.02,2.7,1.74,1.85,-2.5
+2014-11-07,2014-15,Atlanta @ Charlotte,Atlanta Hawks,Charlotte Hornets,1.2,4,1.71,2.12,1.01,5.5,1.71,1.89,-1.5
+2014-11-07,2014-15,Minnesota @ Orlando,Minnesota Timberwolves,Orlando Magic,1.1,1.86,1.58,1.63,1.07,4.4,2.2,2.6,2.5
+2014-11-07,2014-15,Chicago @ Philadelphia,Chicago Bulls,Philadelphia 76ers,1.01,1.49,1.21,1.19,3.25,7,5.24,6.6,10.5
+2014-11-07,2014-15,Indiana @ Boston,Indiana Pacers,Boston Celtics,2.1,11,3.31,3,1.08,2.02,1.5,1.48,-5.5
+2014-11-07,2014-15,New York @ Brooklyn,New York Knicks,Brooklyn Nets,2.92,17.5,3.63,3.1,1.01,1.54,1.49,1.46,-5.5
+2014-11-07,2014-15,Milwaukee @ Detroit,Milwaukee Bucks,Detroit Pistons,2.62,2.9,2.71,2.74,1.27,1.6,1.57,1.57,-4.5
+2014-11-07,2014-15,Washington @ Toronto,Washington Wizards,Toronto Raptors,2.3,3.8,2.49,2.54,1.08,1.75,1.63,1.65,-4.5
+2014-11-07,2014-15,Memphis @ Oklahoma City,Memphis Grizzlies,Oklahoma City Thunder,1.06,1.99,1.29,1.34,2.14,15,4.13,3.85,7.5
+2014-11-07,2014-15,Sacramento @ Phoenix,Sacramento Kings,Phoenix Suns,1.15,10,2.6,2.78,1.05,2.56,1.36,1.54,-5.5
+2014-11-07,2014-15,Dallas @ Utah,Dallas Mavericks,Utah Jazz,1.01,1.79,1.24,1.7,2.28,5,2.58,2.42,2.5
+2014-11-07,2014-15,Cleveland @ Denver,Cleveland Cavaliers,Denver Nuggets,1.01,1.59,1.21,1.42,2.6,34,3.11,3.35,5.5
+2014-11-08,2014-15,Portland @ LA Clippers,Portland Trail Blazers,Los Angeles Clippers,1.35,17.5,2.18,2.64,1.01,2.58,1.35,1.6,-4.5
+2014-11-08,2014-15,Washington @ Indiana,Washington Wizards,Indiana Pacers,1.04,1.71,1.32,1.66,2.38,11,2.6,2.54,3.5
+2014-11-08,2014-15,New York @ Atlanta,New York Knicks,Atlanta Hawks,1.25,26,2.37,3.45,1.24,3.9,1.94,1.4,-6.5
+2014-11-08,2014-15,Minnesota @ Miami,Minnesota Timberwolves,Miami Heat,3.25,11,4.27,4.4,1.03,1.45,1.23,1.29,-7.5
+2014-11-08,2014-15,Boston @ Chicago,Boston Celtics,Chicago Bulls,1.01,5.8,1.38,5.7,1.17,5,1.52,1.22,-9.5
+2014-11-08,2014-15,Golden State @ Houston,Golden State Warriors,Houston Rockets,1.01,2.66,1.26,1.73,1.55,10.5,1.96,2.38,-1.5
+2014-11-08,2014-15,Memphis @ Milwaukee,Memphis Grizzlies,Milwaukee Bucks,1.22,6.2,1.53,1.56,1.15,4.2,2.19,2.8,5.5
+2014-11-09,2014-15,Orlando @ Brooklyn,Orlando Magic,Brooklyn Nets,2.7,5.2,4.41,5.2,1.02,1.66,1.25,1.22,-8.5
+2014-11-09,2014-15,Utah @ Detroit,Utah Jazz,Detroit Pistons,1.1,3.5,1.95,2.66,1.17,3.45,1.48,1.6,-3.5
+2014-11-08,2014-15,New Orleans @ San Antonio,New Orleans Pelicans,San Antonio Spurs,1.02,4.1,1.49,4.1,1.3,6.8,1.86,1.33,-7.5
+2014-11-09,2014-15,Sacramento @ Oklahoma City,Sacramento Kings,Oklahoma City Thunder,1.65,9.6,2.23,1.8,1.01,2.3,1.5,2.28,1.5
+2014-11-09,2014-15,Philadelphia @ Toronto,Philadelphia 76ers,Toronto Raptors,11,13.5,11.63,12,1.01,1.65,1.09,1.09,-13.5
+2014-11-09,2014-15,Miami @ Dallas,Miami Heat,Dallas Mavericks,1.01,4.6,1.33,4.2,1.29,2.52,1.76,1.31,-7.5
+2014-11-09,2014-15,Golden State @ Phoenix,Golden State Warriors,Phoenix Suns,1.28,3.05,2,2.24,1.02,4.4,1.43,1.78,1.5
+2014-11-09,2014-15,Denver @ Portland,Denver Nuggets,Portland Trail Blazers,5.1,6.4,5.33,5.1,1.01,1.25,1.1,1.24,-9.5
+2014-11-09,2014-15,Charlotte @ LA Lakers,Charlotte Hornets,Los Angeles Lakers,1.3,8,1.87,1.8,1.01,4.3,1.93,2.24,3.5
+2014-11-10,2014-15,New Orleans @ Cleveland,New Orleans Pelicans,Cleveland Cavaliers,1.55,6.4,2.56,3.25,1.01,2.3,1.38,1.44,-6.5
+2014-11-10,2014-15,Utah @ Indiana,Utah Jazz,Indiana Pacers,1.51,8.6,2.35,2.32,1.14,2.84,1.86,1.74,-2.5
+2014-11-10,2014-15,Atlanta @ New York,Atlanta Hawks,New York Knicks,1.01,2.5,1.44,1.83,1.67,6.6,2.57,2.18,1.5
+2014-11-10,2014-15,Detroit @ Chicago,Detroit Pistons,Chicago Bulls,5.3,26,6.23,6,1.01,1.24,1.14,1.21,-9.5
+2014-11-10,2014-15,San Antonio @ LA Clippers,San Antonio Spurs,Los Angeles Clippers,1.01,4,2.06,2.2,1.19,8,1.66,1.84,-2.5
+2014-11-11,2014-15,Orlando @ Toronto,Orlando Magic,Toronto Raptors,1.33,7.8,2.86,7.8,1.01,4,1.46,1.14,-10.5
+2014-11-11,2014-15,LA Lakers @ Memphis,Los Angeles Lakers,Memphis Grizzlies,4.3,8.8,6.28,6.4,1.01,1.27,1.18,1.18,-10.5
+2014-11-11,2014-15,Oklahoma City @ Milwaukee,Oklahoma City Thunder,Milwaukee Bucks,1.6,2.7,1.93,2.24,1.01,2.84,1.35,1.81,-2.5
+2014-11-11,2014-15,Sacramento @ Dallas,Sacramento Kings,Dallas Mavericks,1.21,26,2.89,4.2,1.01,6,1.68,1.32,-6.5
+2014-11-11,2014-15,Charlotte @ Portland,Charlotte Hornets,Portland Trail Blazers,1.1,4.3,1.66,3.55,1.01,7.6,1.89,1.38,-7.5
+2014-11-11,2014-15,San Antonio @ Golden State,San Antonio Spurs,Golden State Warriors,1.14,4.9,2.64,4.1,1.26,6.8,1.52,1.32,-8.5
+2014-11-12,2014-15,Detroit @ Washington,Detroit Pistons,Washington Wizards,1.76,3.5,2.61,3.5,1.01,2.3,1.57,1.41,-6.5
+2014-11-12,2014-15,Utah @ Atlanta,Utah Jazz,Atlanta Hawks,1.4,3.95,2.97,3.8,1.09,2.1,1.49,1.38,-7.5
+2014-11-12,2014-15,Oklahoma City @ Boston,Oklahoma City Thunder,Boston Celtics,1.01,11.5,3.22,3.75,1.12,4,1.83,1.35,-3.5
+2014-11-12,2014-15,Indiana @ Miami,Indiana Pacers,Miami Heat,1.07,7.4,1.78,4.8,1.15,13.5,1.49,1.26,-8.5
+2014-11-12,2014-15,Orlando @ New York,Orlando Magic,New York Knicks,1.07,3.6,2,3.55,1.39,2.84,1.42,1.39,-6.5
+2014-11-12,2014-15,LA Lakers @ New Orleans,Los Angeles Lakers,New Orleans Pelicans,3.5,7,6.27,6.4,1.01,1.5,1.16,1.17,-10.5
+2014-11-12,2014-15,Portland @ Denver,Portland Trail Blazers,Denver Nuggets,1.01,2.36,2.01,2.26,1.51,20,2.28,1.77,2.5
+2014-11-12,2014-15,Brooklyn @ Phoenix,Brooklyn Nets,Phoenix Suns,1.26,3.45,1.87,2.72,1.01,4.7,2.25,1.59,-5.5
+2014-11-12,2014-15,Houston @ Minnesota,Houston Rockets,Minnesota Timberwolves,1.01,1.42,1.04,1.38,3.2,160,3.53,3.55,6.5
+2014-11-13,2014-15,Sacramento @ Memphis,Sacramento Kings,Memphis Grizzlies,1.01,3.6,1.9,3.15,1.04,25,2.18,1.46,-6.5
+2014-11-13,2014-15,Chicago @ Toronto,Chicago Bulls,Toronto Raptors,1.01,3.4,1.41,2.2,1.37,10,1.72,1.84,-2.5
+2014-11-13,2014-15,Philadelphia @ Dallas,Philadelphia 76ers,Dallas Mavericks,10,160,13.75,12.5,1.01,1.14,1.09,1.09,-13.5
+2014-11-13,2014-15,Brooklyn @ Golden State,Brooklyn Nets,Golden State Warriors,3.6,21,5.65,5.8,1.01,1.43,1.15,1.21,-10.5
+2014-11-14,2014-15,Denver @ Indiana,Denver Nuggets,Indiana Pacers,1.02,2.7,1.68,2.24,1.48,10.5,1.85,1.77,-3.5
+2014-11-14,2014-15,Milwaukee @ Orlando,Milwaukee Bucks,Orlando Magic,1.52,15,2.14,2.28,1.01,2.66,1.35,1.77,-3.5
+2014-11-14,2014-15,Miami @ Atlanta,Miami Heat,Atlanta Hawks,2.18,21,2.96,2.7,1.02,1.77,1.29,1.56,-4.5
+2014-11-14,2014-15,Cleveland @ Boston,Cleveland Cavaliers,Boston Celtics,1.01,12.5,1.95,1.44,1.04,4.4,1.47,3.2,5.5
+2014-11-14,2014-15,Utah @ New York,Utah Jazz,New York Knicks,1.13,2.74,2.18,2.56,1.1,4.6,1.84,1.63,-4.5
+2014-11-14,2014-15,Philadelphia @ Houston,Philadelphia 76ers,Houston Rockets,1.27,27,4.71,22,1.03,1.76,1.1,1.04,-17.5
+2014-11-14,2014-15,Minnesota @ New Orleans,Minnesota Timberwolves,New Orleans Pelicans,3.75,5.4,4.87,4.4,1.05,1.35,1.28,1.3,-7.5
+2014-11-14,2014-15,Detroit @ Oklahoma City,Detroit Pistons,Oklahoma City Thunder,1.09,3.75,2.25,2.44,1.38,2.58,1.69,1.74,-3.5
+2014-11-14,2014-15,Charlotte @ Phoenix,Charlotte Hornets,Phoenix Suns,1.01,3.9,1.88,3.55,1.11,7.2,1.85,1.39,-7.5
+2014-11-14,2014-15,San Antonio @ LA Lakers,San Antonio Spurs,Los Angeles Lakers,1.02,1.34,1.22,1.25,3.8,10.5,4.38,5,8.5
+2014-11-15,2014-15,Orlando @ Washington,Orlando Magic,Washington Wizards,4.7,13.5,6.05,5.2,1.01,1.31,1.11,1.24,-8.5
+2014-11-15,2014-15,Atlanta @ Cleveland,Atlanta Hawks,Cleveland Cavaliers,3.4,110,7.94,3.55,1.02,1.39,1.25,1.38,-6.5
+2014-11-15,2014-15,Utah @ Toronto,Utah Jazz,Toronto Raptors,3.4,7.6,6.45,7.2,1.01,1.43,1.23,1.15,-10.5
+2014-11-15,2014-15,Indiana @ Chicago,Indiana Pacers,Chicago Bulls,1.01,5.7,1.47,5.3,1.21,17.5,1.62,1.22,-9.5
+2014-11-15,2014-15,Detroit @ Memphis,Detroit Pistons,Memphis Grizzlies,4.7,17.5,5.57,5.3,1.01,1.39,1.16,1.23,-9.5
+2014-11-15,2014-15,Minnesota @ Dallas,Minnesota Timberwolves,Dallas Mavericks,5.7,8.6,8.13,8.2,1.1,1.15,1.13,1.12,-11.5
+2014-11-15,2014-15,Brooklyn @ Portland,Brooklyn Nets,Portland Trail Blazers,2.26,1000,2.85,2.3,1.04,1.98,1.48,1.76,-3.5
+2014-11-15,2014-15,San Antonio @ Sacramento,San Antonio Spurs,Sacramento Kings,1.5,8.4,2.26,1.86,1.02,2.26,1.79,2.16,2.5
+2014-11-15,2014-15,Charlotte @ Golden State,Charlotte Hornets,Golden State Warriors,5.2,26,6.56,6.8,1.01,1.22,1.2,1.19,-10.5
+2014-11-15,2014-15,Phoenix @ LA Clippers,Phoenix Suns,Los Angeles Clippers,3.25,100,5.32,3.8,1.01,1.42,1.17,1.35,-6.5
+2014-11-16,2014-15,Denver @ New York,Denver Nuggets,New York Knicks,1.89,3.1,2.62,2.14,1.02,2.5,1.27,1.84,-1.5
+2014-11-16,2014-15,Milwaukee @ Miami,Milwaukee Bucks,Miami Heat,1.01,5.5,1.65,2.94,1.17,55,1.45,1.5,-4.5
+2014-11-16,2014-15,Houston @ Oklahoma City,Houston Rockets,Oklahoma City Thunder,1.01,1.84,1.39,1.51,2.14,150,3.47,2.96,5.5
+2014-11-16,2014-15,Golden State @ LA Lakers,Golden State Warriors,Los Angeles Lakers,1.02,1.33,1.15,1.27,4.1,110,11.5,4.7,8.5
+2014-11-17,2014-15,Dallas @ Charlotte,Dallas Mavericks,Charlotte Hornets,1.01,1.74,1.44,1.57,2.4,1000,4.3,2.74,4.5
+2014-11-17,2014-15,Denver @ Cleveland,Denver Nuggets,Cleveland Cavaliers,1.02,10.5,2.16,8.4,1.11,11.5,1.73,1.14,-11.5
+2014-11-17,2014-15,Phoenix @ Boston,Phoenix Suns,Boston Celtics,1.01,2.4,1.68,1.85,2.06,4.4,2.76,2.16,1.5
+2014-11-17,2014-15,Miami @ Brooklyn,Miami Heat,Brooklyn Nets,1.01,4.3,2.27,4.2,1.21,3.85,2.03,1.31,-6.5
+2014-11-17,2014-15,Orlando @ Detroit,Orlando Magic,Detroit Pistons,1.01,3.4,2,2.76,1.38,5.2,2.81,1.59,-4.5
+2014-11-17,2014-15,Houston @ Memphis,Houston Rockets,Memphis Grizzlies,2.42,4.5,2.97,2.72,1.01,1.7,1.44,1.58,-4.5
+2014-11-17,2014-15,Philadelphia @ San Antonio,Philadelphia 76ers,San Antonio Spurs,16,29,23.91,28,1.03,1.09,1.05,1.04,-15.5
+2014-11-17,2014-15,New Orleans @ Portland,New Orleans Pelicans,Portland Trail Blazers,1.06,100,1.62,2.48,1.04,17.5,2.51,1.69,-3.5
+2014-11-17,2014-15,Chicago @ LA Clippers,Chicago Bulls,Los Angeles Clippers,1.04,5.5,1.88,3.35,1.12,11,1.58,1.38,-5.5
+2014-11-18,2014-15,LA Lakers @ Atlanta,Los Angeles Lakers,Atlanta Hawks,1.01,5.9,2.44,4.8,1.2,21,1.36,1.25,-9.5
+2014-11-18,2014-15,New York @ Milwaukee,New York Knicks,Milwaukee Bucks,2,55,3.02,2.12,1.02,1.9,1.44,1.9,-1.5
+2014-11-18,2014-15,Oklahoma City @ Utah,Oklahoma City Thunder,Utah Jazz,1.2,15,2.6,2.38,1.01,5.5,1.88,1.72,-3.5
+2014-11-18,2014-15,New Orleans @ Sacramento,New Orleans Pelicans,Sacramento Kings,1.01,6,1.31,2.44,1.21,12,2.37,1.68,-3.5
+2014-11-19,2014-15,San Antonio @ Cleveland,San Antonio Spurs,Cleveland Cavaliers,1.14,3.2,1.73,2.12,1.43,8,1.87,1.89,-1.5
+2014-11-19,2014-15,Charlotte @ Indiana,Charlotte Hornets,Indiana Pacers,1.35,2.5,1.64,2.22,1.36,2.88,2.18,1.81,-2.5
+2014-11-19,2014-15,LA Clippers @ Orlando,Los Angeles Clippers,Orlando Magic,1.03,1.57,1.45,1.5,2.74,3,2.86,2.98,4.5
+2014-11-19,2014-15,Boston @ Philadelphia,Boston Celtics,Philadelphia 76ers,1.1,1.86,1.51,1.42,2.78,3.35,3.15,3.3,5.5
+2014-11-19,2014-15,Dallas @ Washington,Dallas Mavericks,Washington Wizards,1.01,2.2,1.73,1.72,1.68,4,2.96,2.34,2.5
+2014-11-19,2014-15,Milwaukee @ Brooklyn,Milwaukee Bucks,Brooklyn Nets,1.01,5,1.82,3.4,1.09,1.83,1.32,1.41,-6.5
+2014-11-19,2014-15,Phoenix @ Detroit,Phoenix Suns,Detroit Pistons,1.04,1.8,1.65,1.74,1.84,4.2,3.23,2.36,2.5
+2014-11-19,2014-15,Memphis @ Toronto,Memphis Grizzlies,Toronto Raptors,1.5,3.3,2.68,3.25,1.01,3,2.04,1.45,-4.5
+2014-11-19,2014-15,New York @ Minnesota,New York Knicks,Minnesota Timberwolves,1.99,2.26,2.05,2.04,1.03,2,1.73,1.96,-1.5
+2014-11-19,2014-15,Oklahoma City @ Denver,Oklahoma City Thunder,Denver Nuggets,3.65,21,4.47,3.8,1.01,1.55,1.16,1.35,-7.5
+2014-11-19,2014-15,LA Lakers @ Houston,Los Angeles Lakers,Houston Rockets,1.01,15,3.49,6.6,1.08,1000,1.3,1.15,-11.5
+2014-11-20,2014-15,LA Clippers @ Miami,Los Angeles Clippers,Miami Heat,1.01,1.76,1.39,1.61,2.12,26,2.7,2.62,3.5
+2014-11-20,2014-15,Chicago @ Sacramento,Chicago Bulls,Sacramento Kings,1.23,11,2.68,2.32,1.01,2.4,1.33,1.75,-3.5
+2014-11-21,2014-15,Orlando @ Charlotte,Orlando Magic,Charlotte Hornets,1.06,7.2,2.98,2.6,1.17,2.5,1.67,1.63,-4.5
+2014-11-21,2014-15,Phoenix @ Philadelphia,Phoenix Suns,Philadelphia 76ers,1.01,1.5,1.22,1.26,3.35,5.8,3.94,4.9,8.5
+2014-11-21,2014-15,Detroit @ Atlanta,Detroit Pistons,Atlanta Hawks,3,16,3.42,3.35,1.03,1.48,1.23,1.44,-6.5
+2014-11-21,2014-15,Milwaukee @ Toronto,Milwaukee Bucks,Toronto Raptors,4.6,5.4,4.77,4.7,1.01,1.27,1.21,1.26,-8.5
+2014-11-21,2014-15,Boston @ Memphis,Boston Celtics,Memphis Grizzlies,3.25,15,5.14,3.4,1.02,1.66,1.19,1.42,-6.5
+2014-11-21,2014-15,San Antonio @ Minnesota,San Antonio Spurs,Minnesota Timberwolves,1.03,1.29,1.17,1.17,4.3,8.8,6.26,6.8,10.5
+2014-11-21,2014-15,Brooklyn @ Oklahoma City,Brooklyn Nets,Oklahoma City Thunder,1.01,3.45,1.63,2.08,1.32,11,2.18,1.94,-1.5
+2014-11-21,2014-15,Cleveland @ Washington,Cleveland Cavaliers,Washington Wizards,1.65,29,2.84,1.96,1.01,2.16,1.41,2.04,1.5
+2014-11-21,2014-15,LA Lakers @ Dallas,Los Angeles Lakers,Dallas Mavericks,5.3,8.8,6.16,6.2,1.02,1.3,1.21,1.18,-9.5
+2014-11-21,2014-15,New Orleans @ Denver,New Orleans Pelicans,Denver Nuggets,1.4,6,2.6,1.75,1.02,2.34,1.68,2.28,2.5
+2014-11-21,2014-15,Utah @ Golden State,Utah Jazz,Golden State Warriors,7.8,80,10.32,8,1.01,1.15,1.09,1.13,-12.5
+2014-11-21,2014-15,Chicago @ Portland,Chicago Bulls,Portland Trail Blazers,3.75,12,4.66,4.2,1.04,1.34,1.13,1.29,-8.5
+2014-11-22,2014-15,Phoenix @ Indiana,Phoenix Suns,Indiana Pacers,1.01,1.93,1.41,1.79,2.18,40,2.31,2.26,1.5
+2014-11-22,2014-15,Miami @ Orlando,Miami Heat,Orlando Magic,1.02,2.02,1.64,1.93,1.68,60,2.36,2.1,-1.5
+2014-11-22,2014-15,Toronto @ Cleveland,Toronto Raptors,Cleveland Cavaliers,1.02,5.4,2.12,2.4,1.22,26,1.97,1.7,-3.5
+2014-11-22,2014-15,Philadelphia @ New York,Philadelphia 76ers,New York Knicks,6.8,50,8.08,6.8,1.02,1.17,1.13,1.16,-11.5
+2014-11-22,2014-15,Dallas @ Houston,Dallas Mavericks,Houston Rockets,1.11,9.2,1.76,1.58,1.05,7.6,1.99,2.78,3.5
+2014-11-22,2014-15,Sacramento @ Minnesota,Sacramento Kings,Minnesota Timberwolves,1.03,1.51,1.28,1.27,2.8,5.1,4.62,4.8,8.5
+2014-11-22,2014-15,Washington @ Milwaukee,Washington Wizards,Milwaukee Bucks,1.03,3.5,1.54,1.67,1.39,120,2.62,2.5,2.5
+2014-11-22,2014-15,Brooklyn @ San Antonio,Brooklyn Nets,San Antonio Spurs,6,6.8,6.39,6.4,1.02,1.21,1.18,1.18,-10.5
+2014-11-22,2014-15,New Orleans @ Utah,New Orleans Pelicans,Utah Jazz,1.01,1.8,1.4,1.75,2.16,3.85,2.55,2.3,2.5
+2014-11-23,2014-15,LA Clippers @ Memphis,Los Angeles Clippers,Memphis Grizzlies,1.16,100,3.89,2.26,1.01,7.2,1.38,1.8,-3.5
+2014-11-23,2014-15,Portland @ Boston,Portland Trail Blazers,Boston Celtics,1.03,2.5,1.57,1.49,1.16,7.2,2.7,3.05,5.5
+2014-11-23,2014-15,Charlotte @ Miami,Charlotte Hornets,Miami Heat,1.16,2.6,1.78,2.04,1.16,7.2,1.76,1.93,-2.5
+2014-11-23,2014-15,Golden State @ Oklahoma City,Golden State Warriors,Oklahoma City Thunder,1.05,1.67,1.22,1.28,3.25,7.2,4.73,4.5,8.5
+2014-11-23,2014-15,Denver @ LA Lakers,Denver Nuggets,Los Angeles Lakers,1.01,4.1,1.77,1.8,1.39,21,2.18,2.2,2.5
+2014-11-24,2014-15,LA Clippers @ Charlotte,Los Angeles Clippers,Charlotte Hornets,1.04,1.62,1.35,1.58,2.66,11,4.27,2.72,4.5
+2014-11-24,2014-15,Orlando @ Cleveland,Orlando Magic,Cleveland Cavaliers,4.3,55,6.75,6.4,1.01,1.3,1.12,1.19,-10.5
+2014-11-24,2014-15,Portland @ Philadelphia,Portland Trail Blazers,Philadelphia 76ers,1.02,1.29,1.12,1.1,5.6,10.5,8.31,10,12.5
+2014-11-24,2014-15,Phoenix @ Toronto,Phoenix Suns,Toronto Raptors,2.28,7.4,3.87,2.8,1.02,1.8,1.21,1.54,-5.5
+2014-11-24,2014-15,New York @ Houston,New York Knicks,Houston Rockets,1.4,13.5,3.36,3.1,1.01,3.55,1.43,1.47,-7.5
+2014-11-24,2014-15,Indiana @ Dallas,Indiana Pacers,Dallas Mavericks,1.02,14.5,2.51,13,1.07,13.5,1.68,1.08,-13.5
+2014-11-24,2014-15,Chicago @ Utah,Chicago Bulls,Utah Jazz,1.01,3.7,1.66,1.67,1.42,12,4.13,2.6,3.5
+2014-11-25,2014-15,Atlanta @ Washington,Atlanta Hawks,Washington Wizards,1.01,3.75,1.47,2.72,1.16,34,1.67,1.58,-4.5
+2014-11-25,2014-15,Golden State @ Miami,Golden State Warriors,Miami Heat,1.01,2.84,1.46,1.35,1.2,6,3.01,3.85,7.5
+2014-11-25,2014-15,Detroit @ Milwaukee,Detroit Pistons,Milwaukee Bucks,2.22,10,2.86,2.52,1.01,2.2,1.42,1.65,-3.5
+2014-11-25,2014-15,Sacramento @ New Orleans,Sacramento Kings,New Orleans Pelicans,1.03,3.5,2.06,3.25,1.4,6,1.64,1.45,-5.5
+2014-11-25,2014-15,Chicago @ Denver,Chicago Bulls,Denver Nuggets,2.24,60,3.61,2.68,1.01,1.82,1.31,1.58,2.5
+2014-11-26,2014-15,Portland @ Charlotte,Portland Trail Blazers,Charlotte Hornets,1.01,3,1.51,1.45,1.49,5,2.57,3.4,6.5
+2014-11-26,2014-15,Washington @ Cleveland,Washington Wizards,Cleveland Cavaliers,3.35,100,6.13,4.1,1.03,1.41,1.27,1.33,-6.5
+2014-11-26,2014-15,Golden State @ Orlando,Golden State Warriors,Orlando Magic,1.07,1.51,1.22,1.27,4.5,220,4.69,4.5,9.5
+2014-11-26,2014-15,Brooklyn @ Philadelphia,Brooklyn Nets,Philadelphia 76ers,1.04,1.8,1.2,1.32,2.9,6,3.99,4.2,8.5
+2014-11-26,2014-15,New York @ Dallas,New York Knicks,Dallas Mavericks,1.5,140,5.55,14,1.01,2.6,1.25,1.08,-13.5
+2014-11-26,2014-15,Toronto @ Atlanta,Toronto Raptors,Atlanta Hawks,1.02,1.68,1.44,1.66,2.46,9.2,3.83,2.54,3.5
+2014-11-26,2014-15,LA Clippers @ Detroit,Los Angeles Clippers,Detroit Pistons,1.01,1.3,1.07,1.25,2.9,4.9,4.56,4.9,8.5
+2014-11-26,2014-15,Sacramento @ Houston,Sacramento Kings,Houston Rockets,2.64,150,4.59,2.74,1.05,1.6,1.35,1.57,-5.5
+2014-11-26,2014-15,Milwaukee @ Minnesota,Milwaukee Bucks,Minnesota Timberwolves,1.01,2.16,1.63,1.93,2,3.6,2.04,2.1,1.5
+2014-11-26,2014-15,Utah @ Oklahoma City,Utah Jazz,Oklahoma City Thunder,2.2,13.5,3.35,2.72,1.04,1.66,1.46,1.57,-4.5
+2014-11-26,2014-15,Indiana @ San Antonio,Indiana Pacers,San Antonio Spurs,1.93,10.5,4.78,10,1.01,2.48,1.26,1.1,-13.5
+2014-11-26,2014-15,Denver @ Phoenix,Denver Nuggets,Phoenix Suns,3,17.5,4.38,3.8,1.01,1.44,1.25,1.37,-7.5
+2014-11-26,2014-15,Memphis @ LA Lakers,Memphis Grizzlies,Los Angeles Lakers,1.03,2.14,1.37,1.35,1.9,8.2,3.41,3.7,7.5
+2014-11-28,2014-15,Chicago @ Boston,Chicago Bulls,Boston Celtics,1.04,4.2,1.59,1.63,1.3,3.2,2.12,2.56,4.5
+2014-11-28,2014-15,Golden State @ Charlotte,Golden State Warriors,Charlotte Hornets,1.01,2.64,1.52,1.25,1.39,26,3.37,5,8.5
+2014-11-28,2014-15,New Orleans @ Atlanta,New Orleans Pelicans,Atlanta Hawks,2.18,8.8,3.8,2.32,1.02,1.85,1.35,1.76,-2.5
+2014-11-28,2014-15,Milwaukee @ Detroit,Milwaukee Bucks,Detroit Pistons,1.09,2.58,2.15,2.18,1.51,2.4,1.81,1.82,-1.5
+2014-11-28,2014-15,Dallas @ Toronto,Dallas Mavericks,Toronto Raptors,1.02,4,1.45,2.56,1.32,17,3.32,1.65,-3.5
+2014-11-28,2014-15,LA Clippers @ Houston,Los Angeles Clippers,Houston Rockets,1.02,2.24,1.28,1.55,1.81,10,3.03,2.8,4.5
+2014-11-28,2014-15,New York @ Oklahoma City,New York Knicks,Oklahoma City Thunder,4.1,100,4.52,4.2,1.02,1.83,1.13,1.3,-8.5
+2014-11-28,2014-15,Orlando @ Indiana,Orlando Magic,Indiana Pacers,2.7,2.9,2.85,2.88,1.01,1.55,1.27,1.54,-4.5
+2014-11-28,2014-15,Sacramento @ San Antonio,Sacramento Kings,San Antonio Spurs,4.3,10,7.88,7.4,1.01,1.28,1.13,1.17,-10.5
+2014-11-28,2014-15,Phoenix @ Denver,Phoenix Suns,Denver Nuggets,2,180,5.89,2.12,1.01,1.99,1.25,1.84,-2.5
+2014-11-28,2014-15,Memphis @ Portland,Memphis Grizzlies,Portland Trail Blazers,1.01,4,1.65,2.48,1.37,1000,2.32,1.68,-3.5
+2014-11-28,2014-15,Minnesota @ LA Lakers,Minnesota Timberwolves,Los Angeles Lakers,1.4,12,2.16,3.2,1.08,3.25,1.36,1.47,-5.5
+2014-11-29,2014-15,Dallas @ Philadelphia,Dallas Mavericks,Philadelphia 76ers,1.01,1.29,1.1,1.09,4.2,13,9.26,11,12.5
+2014-11-29,2014-15,New Orleans @ Washington,New Orleans Pelicans,Washington Wizards,2.46,4,2.88,2.58,1.06,2.18,1.53,1.64,-4.5
+2014-11-29,2014-15,Charlotte @ Atlanta,Charlotte Hornets,Atlanta Hawks,3.45,3.75,3.65,3.7,1.01,1.39,1.17,1.38,-6.5
+2014-11-29,2014-15,Indiana @ Cleveland,Indiana Pacers,Cleveland Cavaliers,5.2,34,5.82,6,1.01,1.24,1.15,1.2,-9.5
+2014-11-29,2014-15,LA Clippers @ Utah,Los Angeles Clippers,Utah Jazz,1.01,1.59,1.19,1.48,2.76,8.8,3.2,3.1,5.5
+2014-11-29,2014-15,Houston @ Milwaukee,Houston Rockets,Milwaukee Bucks,1.01,2.8,1.58,2.44,1.56,10,2.13,1.69,-3.5
+2014-11-30,2014-15,San Antonio @ Boston,San Antonio Spurs,Boston Celtics,1.02,1.8,1.31,1.29,2.46,4.7,3.38,4.6,7.5
+2014-11-30,2014-15,Chicago @ Brooklyn,Chicago Bulls,Brooklyn Nets,1.01,2.02,1.57,1.75,2.28,2.46,2.31,2.28,2.5
+2014-11-30,2014-15,Golden State @ Detroit,Golden State Warriors,Detroit Pistons,1.01,1.32,1.12,1.22,3.1,7.4,4.39,5.3,8.5
+2014-11-30,2014-15,Memphis @ Sacramento,Memphis Grizzlies,Sacramento Kings,1.02,1.71,1.29,1.53,2.36,21,3.45,2.88,4.5
+2014-11-30,2014-15,Miami @ New York,Miami Heat,New York Knicks,1.01,1.73,1.38,1.69,2.44,7.6,3.14,2.44,3.5
+2014-11-30,2014-15,Orlando @ Phoenix,Orlando Magic,Phoenix Suns,1.02,7.2,1.2,5.7,1.17,26,1.83,1.22,-9.5
+2014-11-30,2014-15,Minnesota @ Portland,Minnesota Timberwolves,Portland Trail Blazers,6.2,100,9.23,10.5,1.01,1.31,1.11,1.1,-13.5
+2014-11-30,2014-15,Toronto @ LA Lakers,Toronto Raptors,Los Angeles Lakers,1.19,21,1.77,1.38,1.01,6.4,1.57,3.75,6.5
+2014-12-01,2014-15,San Antonio @ Philadelphia,San Antonio Spurs,Philadelphia 76ers,1.01,1.21,1.08,1.15,6.8,60,9.36,7.6,11.5
+2014-12-01,2014-15,Miami @ Washington,Miami Heat,Washington Wizards,1.77,70,6.86,2.76,1.01,2.1,1.24,1.57,-4.5
+2014-12-01,2014-15,Denver @ Utah,Denver Nuggets,Utah Jazz,1.04,2,1.28,1.64,2,23,5.2,2.52,2.5
+2014-12-01,2014-15,Minnesota @ LA Clippers,Minnesota Timberwolves,Los Angeles Clippers,12,50,20.57,15.5,1.01,1.21,1.07,1.06,-14.5
+2014-12-02,2014-15,Milwaukee @ Cleveland,Milwaukee Bucks,Cleveland Cavaliers,1.64,8.4,5.78,8.2,1.02,2.9,1.22,1.14,-10.5
+2014-12-02,2014-15,Boston @ Atlanta,Boston Celtics,Atlanta Hawks,1.11,26,2.94,3.7,1.03,4.7,1.63,1.37,-6.5
+2014-12-02,2014-15,LA Lakers @ Detroit,Los Angeles Lakers,Detroit Pistons,1.03,2.5,1.58,2.16,1.62,2.4,1.98,1.84,-1.5
+2014-12-02,2014-15,Brooklyn @ New York,Brooklyn Nets,New York Knicks,1.01,1.96,1.31,1.93,1.96,50,2.76,2.04,1.5
+2014-12-02,2014-15,Dallas @ Chicago,Dallas Mavericks,Chicago Bulls,1.07,6,2.23,2.14,1.07,6.4,2.67,1.88,-1.5
+2014-12-02,2014-15,Oklahoma City @ New Orleans,Oklahoma City Thunder,New Orleans Pelicans,1.42,50,2.54,1.68,1.01,3.7,1.6,2.46,2.5
+2014-12-02,2014-15,Portland @ Denver,Portland Trail Blazers,Denver Nuggets,1.15,4.7,1.93,1.7,1.19,6.6,2.21,2.4,2.5
+2014-12-02,2014-15,Indiana @ Phoenix,Indiana Pacers,Phoenix Suns,1.8,3.1,2.87,2.88,1.01,2,1.4,1.52,-5.5
+2014-12-02,2014-15,Toronto @ Sacramento,Toronto Raptors,Sacramento Kings,1.02,2.56,1.32,1.76,1.6,7.4,3.08,2.34,1.5
+2014-12-02,2014-15,Orlando @ Golden State,Orlando Magic,Golden State Warriors,1.2,25,2.76,15.5,1.04,6.2,1.56,1.07,-11.5
+2014-12-03,2014-15,Chicago @ Charlotte,Chicago Bulls,Charlotte Hornets,1.01,1.8,1.4,1.63,2.36,23,4.63,2.6,3.5
+2014-12-03,2014-15,LA Lakers @ Washington,Los Angeles Lakers,Washington Wizards,2.06,8.6,4.49,5.4,1.01,1.97,1.25,1.24,-8.5
+2014-12-03,2014-15,Detroit @ Boston,Detroit Pistons,Boston Celtics,2.84,2.9,2.88,2.9,1.01,2.04,1.19,1.52,-4.5
+2014-12-03,2014-15,San Antonio @ Brooklyn,San Antonio Spurs,Brooklyn Nets,1.17,34,2.71,1.23,1.03,5.5,1.31,4.9,7.5
+2014-12-03,2014-15,Atlanta @ Miami,Atlanta Hawks,Miami Heat,1.01,3,1.16,2.7,1.4,150,2.85,1.59,-4.5
+2014-12-03,2014-15,Memphis @ Houston,Memphis Grizzlies,Houston Rockets,1.3,100,1.97,1.48,1.01,3.2,1.3,3,4.5
+2014-12-03,2014-15,Dallas @ Milwaukee,Dallas Mavericks,Milwaukee Bucks,1.18,6,1.76,1.59,1.12,2.8,1.53,2.66,4.5
+2014-12-03,2014-15,Philadelphia @ Minnesota,Philadelphia 76ers,Minnesota Timberwolves,1.01,3.7,1.39,3.55,1.33,5,2.32,1.37,-6.5
+2014-12-03,2014-15,Toronto @ Utah,Toronto Raptors,Utah Jazz,1.01,1.62,1.14,1.61,2.62,34,9.62,2.62,3.5
+2014-12-03,2014-15,Orlando @ LA Clippers,Orlando Magic,Los Angeles Clippers,10,110,17.49,15,1.01,1.1,1.07,1.06,-14.5
+2014-12-04,2014-15,Cleveland @ New York,Cleveland Cavaliers,New York Knicks,1.08,4,1.39,1.31,1.32,4.8,2.43,4.2,7.5
+2014-12-04,2014-15,Indiana @ Portland,Indiana Pacers,Portland Trail Blazers,2.24,21,5.54,5,1.03,1.53,1.14,1.24,-8.5
+2014-12-04,2014-15,New Orleans @ Golden State,New Orleans Pelicans,Golden State Warriors,2.24,70,5.99,5.3,1.01,1.6,1.16,1.24,-8.5
+2014-12-05,2014-15,New York @ Charlotte,New York Knicks,Charlotte Hornets,1.19,5,3.1,2.78,1.06,2.12,1.57,1.56,-4.5
+2014-12-05,2014-15,Oklahoma @ Philadelphia,Oklahoma City Thunder,Philadelphia 76ers,1.01,1.19,1.08,1.1,8,21,10.91,11.5,11.5
+2014-12-05,2014-15,Denver @ Washington,Denver Nuggets,Washington Wizards,2.7,1000,5.97,2.84,1.02,1.8,1.23,1.57,-4.5
+2014-12-05,2014-15,LA Lakers @ Boston,Los Angeles Lakers,Boston Celtics,1.63,3.35,2.42,2.36,1.03,1.81,1.22,1.71,-3.5
+2014-12-05,2014-15,Atlanta @ Brooklyn,Atlanta Hawks,Brooklyn Nets,1.01,2.3,1.61,1.92,1.8,9.2,2.18,2.02,1.5
+2014-12-05,2014-15,Cleveland @ Toronto,Cleveland Cavaliers,Toronto Raptors,1.01,2.78,1.41,2.62,1.56,300,2.8,1.6,-4.5
+2014-12-05,2014-15,San Antonio @ Memphis,San Antonio Spurs,Memphis Grizzlies,1.01,2.2,1.26,2.08,1.52,100,2.84,1.9,-1.5
+2014-12-05,2014-15,Houston @ Minnesota,Houston Rockets,Minnesota Timberwolves,1.02,2.82,1.31,1.31,1.21,17.5,2.98,4.2,5.5
+2014-12-05,2014-15,Phoenix @ Dallas,Phoenix Suns,Dallas Mavericks,1.04,3.25,1.47,3.25,1.42,9.2,2.89,1.44,-5.5
+2014-12-05,2014-15,Miami @ Milwaukee,Miami Heat,Milwaukee Bucks,1.31,5.4,2.01,1.91,1.02,3,1.39,2.04,-1.5
+2014-12-05,2014-15,Orlando @ Utah,Orlando Magic,Utah Jazz,1.01,3,1.41,2.84,1.49,50,3.48,1.55,-4.5
+2014-12-05,2014-15,Indiana @ Sacramento,Indiana Pacers,Sacramento Kings,1.42,12.5,2.52,2.44,1.05,3,1.27,1.69,-3.5
+2014-12-06,2014-15,Philadelphia @ Detroit,Philadelphia 76ers,Detroit Pistons,1.02,5.9,3.25,5.3,1.07,26,1.46,1.23,-9.5
+2014-12-06,2014-15,Golden State @ Chicago,Golden State Warriors,Chicago Bulls,1.01,2.26,1.31,1.81,1.8,100,3.01,2.22,2.5
+2014-12-06,2014-15,Phoenix @ Houston,Phoenix Suns,Houston Rockets,1.8,19.5,2.8,1.8,1.01,2.26,1.43,2.24,1.5
+2014-12-06,2014-15,Minnesota @ San Antonio,Minnesota Timberwolves,San Antonio Spurs,11,55,14.4,13,1.01,1.2,1.07,1.08,-14.5
+2014-12-06,2014-15,Orlando @ Sacramento,Orlando Magic,Sacramento Kings,1.06,3.4,1.65,3.3,1.42,5.1,2.04,1.43,-6.5
+2014-12-06,2014-15,New Orleans @ LA Clippers,New Orleans Pelicans,Los Angeles Clippers,4.2,7.2,5.31,5.1,1.01,1.32,1.22,1.24,-8.5
+2014-12-07,2014-15,Washington @ Boston,Washington Wizards,Boston Celtics,1.6,10,2.38,1.6,1.01,2.66,1.24,2.54,4.5
+2014-12-07,2014-15,Denver @ Atlanta,Denver Nuggets,Atlanta Hawks,2.94,8,3.23,3.25,1.01,1.51,1.13,1.44,-5.5
+2014-12-07,2014-15,Miami @ Memphis,Miami Heat,Memphis Grizzlies,3.6,8.6,6.51,4.3,1.03,1.35,1.2,1.3,-8.5
+2014-12-07,2014-15,Oklahoma @ Detroit,Oklahoma City Thunder,Detroit Pistons,1.02,1.78,1.34,1.18,2.38,17.5,4.12,6.4,8.5
+2014-12-07,2014-15,Milwaukee @ Dallas,Milwaukee Bucks,Dallas Mavericks,5,1000,6.91,5.2,1.01,1.25,1.18,1.24,-9.5
+2014-12-07,2014-15,Portland @ New York,Portland Trail Blazers,New York Knicks,1.1,2.2,1.42,1.38,1.86,5.3,3.2,3.7,7.5
+2014-12-07,2014-15,New Orleans @ LA Lakers,New Orleans Pelicans,Los Angeles Lakers,1.01,1.78,1.27,1.75,2.26,100,4.83,2.3,2.5
+2014-12-08,2014-15,Atlanta @ Indiana,Atlanta Hawks,Indiana Pacers,1.01,2.1,1.39,1.98,1.87,1000,3.09,2.02,-1.5
+2014-12-08,2014-15,Boston @ Washington,Boston Celtics,Washington Wizards,1.09,5.5,1.78,5,1.01,10,1.36,1.26,-9.5
+2014-12-08,2014-15,Cleveland @ Brooklyn,Cleveland Cavaliers,Brooklyn Nets,1.01,1.45,1.27,1.28,3.35,5.5,4.18,4.7,7.5
+2014-12-08,2014-15,Denver @ Toronto,Denver Nuggets,Toronto Raptors,1.19,100,4.06,5.7,1.05,2.7,1.48,1.21,-9.5
+2014-12-08,2014-15,Golden State @ Minnesota,Golden State Warriors,Minnesota Timberwolves,1.01,1.12,1.08,1.07,9.2,21,13.32,14.5,13.5
+2014-12-08,2014-15,Utah @ Sacramento,Utah Jazz,Sacramento Kings,1.19,4.3,3.19,2.96,1.02,2.04,1.28,1.47,-5.5
+2014-12-08,2014-15,Phoenix @ LA Clippers,Phoenix Suns,Los Angeles Clippers,1.07,12,2.78,4.3,1.01,11,1.48,1.29,-7.5
+2014-12-09,2014-15,Toronto @ Cleveland,Toronto Raptors,Cleveland Cavaliers,1.2,21,2.81,3.35,1.01,6,1.72,1.41,-6.5
+2014-12-09,2014-15,Portland @ Detroit,Portland Trail Blazers,Detroit Pistons,1.01,1.41,1.13,1.26,3.55,34,4.59,4.7,7.5
+2014-12-09,2014-15,Dallas @ Memphis,Dallas Mavericks,Memphis Grizzlies,1.6,34,3.2,2.3,1.01,2.64,1.66,1.79,-3.5
+2014-12-09,2014-15,New York @ New Orleans,New York Knicks,New Orleans Pelicans,2.92,10,3.56,3.45,1.01,1.42,1.14,1.41,-7.5
+2014-12-09,2014-15,Milwaukee @ Oklahoma,Milwaukee Bucks,Oklahoma City Thunder,3.8,20,6.54,7,1.01,1.37,1.14,1.18,-9.5
+2014-12-09,2014-15,Miami @ Phoenix,Miami Heat,Phoenix Suns,1.02,3.85,1.73,2.72,1.27,26,1.75,1.58,-4.5
+2014-12-09,2014-15,San Antonio @ Utah,San Antonio Spurs,Utah Jazz,1.19,17.5,2.13,1.2,1.01,6,1.48,5.8,9.5
+2014-12-09,2014-15,Sacramento @ LA Lakers,Sacramento Kings,Los Angeles Lakers,1.3,6.2,2.02,2.44,1.15,4.8,2.03,1.69,-3.5
+2014-12-10,2014-15,Boston @ Charlotte,Boston Celtics,Charlotte Hornets,2.2,12,2.64,2.36,1.02,1.77,1.37,1.75,-2.5
+2014-12-10,2014-15,LA Clippers @ Indiana,Los Angeles Clippers,Indiana Pacers,1.01,1.4,1.27,1.37,3.4,6.6,3.7,3.65,6.5
+2014-12-10,2014-15,Washington @ Orlando,Washington Wizards,Orlando Magic,1.02,4.8,1.97,1.47,1.08,3.4,1.99,3.1,4.5
+2014-12-10,2014-15,Philadelphia @ Atlanta,Philadelphia 76ers,Atlanta Hawks,8.6,12.5,11.48,11.5,1.01,1.11,1.05,1.09,-12.5
+2014-12-10,2014-15,Brooklyn @ Chicago,Brooklyn Nets,Chicago Bulls,3,13.5,6.78,6.8,1.01,1.49,1.17,1.17,-10.5
+2014-12-10,2014-15,Portland @ Minnesota,Portland Trail Blazers,Minnesota Timberwolves,1.13,13.5,2.12,1.18,1.04,7,1.7,6.8,9.5
+2014-12-10,2014-15,New Orleans @ Dallas,New Orleans Pelicans,Dallas Mavericks,2.5,4,3.81,3.85,1.05,1.84,1.18,1.35,-7.5
+2014-12-10,2014-15,New York @ San Antonio,New York Knicks,San Antonio Spurs,3.85,8,6.37,5.5,1.01,1.28,1.19,1.21,-10.5
+2014-12-10,2014-15,Houston @ Golden State,Houston Rockets,Golden State Warriors,2.24,7.2,3.93,4.7,1.01,2,1.34,1.26,-10.5
+2014-12-10,2014-15,Miami @ Denver,Miami Heat,Denver Nuggets,2,100,3.42,3,1.01,1.83,1.21,1.48,-5.5
+2014-12-11,2014-15,Cleveland @ Oklahoma City,Cleveland Cavaliers,Oklahoma City Thunder,2,17,2.96,3.6,1.01,1.98,1.37,1.38,-4.5
+2014-12-11,2014-15,Houston @ Sacramento,Houston Rockets,Sacramento Kings,1.01,8.6,2.08,2,1.12,26,1.66,1.97,1.5
+2014-12-12,2014-15,Portland @ Chicago,Portland Trail Blazers,Chicago Bulls,2,4.8,2.33,2.26,1.01,2.14,1.3,1.78,-2.5
+2014-12-12,2014-15,LA Clippers @ Washington,Los Angeles Clippers,Washington Wizards,1.72,20,2.35,1.76,1.01,2.34,1.51,2.3,2.5
+2014-12-13,2014-15,Golden State @ Dallas,Golden State Warriors,Dallas Mavericks,1.01,2.14,1.13,2,1.87,20,3.9,1.97,1.5
+2014-12-12,2014-15,Orlando @ Atlanta,Orlando Magic,Atlanta Hawks,1.37,8,4.69,5.3,1.02,2.06,1.41,1.22,-8.5
+2014-12-12,2014-15,New York @ Boston,New York Knicks,Boston Celtics,1.01,3.9,1.17,3.45,1.34,20,1.47,1.4,-6.5
+2014-12-12,2014-15,Philadelphia @ Brooklyn,Philadelphia 76ers,Brooklyn Nets,2.92,4.3,3.75,3.75,1.02,1.53,1.28,1.35,-7.5
+2014-12-12,2014-15,Indiana @ Toronto,Indiana Pacers,Toronto Raptors,5,6.6,5.41,5.2,1.01,1.25,1.19,1.25,-8.5
+2014-12-12,2014-15,Cleveland @ New Orleans,Cleveland Cavaliers,New Orleans Pelicans,1.87,29,2.16,2.1,1.01,2.18,1.36,1.88,-2.5
+2014-12-12,2014-15,Oklahoma @ Minnesota,Oklahoma City Thunder,Minnesota Timberwolves,1.01,1.27,1.16,1.26,4.8,5.1,5.01,4.8,8.5
+2014-12-12,2014-15,Charlotte @ Memphis,Charlotte Hornets,Memphis Grizzlies,1.23,14.5,2.42,6.4,1.01,2.48,1.34,1.19,-9.5
+2014-12-12,2014-15,Detroit @ Phoenix,Detroit Pistons,Phoenix Suns,1.02,5.8,2.84,5.8,1.18,20,1.51,1.2,-9.5
+2014-12-12,2014-15,Miami @ Utah,Miami Heat,Utah Jazz,1.01,2.36,1.31,2.12,1.74,20,3.7,1.89,-1.5
+2014-12-12,2014-15,LA Lakers @ San Antonio,Los Angeles Lakers,San Antonio Spurs,1.02,15,1.62,9.4,1.08,34,1.72,1.11,-12.5
+2014-12-13,2014-15,Brooklyn @ Charlotte,Brooklyn Nets,Charlotte Hornets,1.01,2.72,1.95,2.66,1.58,20,2.75,1.59,-3.5
+2014-12-13,2014-15,Portland @ Indiana,Portland Trail Blazers,Indiana Pacers,1.01,1.7,1.31,1.53,2.84,38,3.24,3,5.5
+2014-12-13,2014-15,Atlanta @ Orlando,Atlanta Hawks,Orlando Magic,1.14,20,1.61,1.71,1.24,2.68,2.05,2.4,3.5
+2014-12-13,2014-15,LA Clippers @ Milwaukee,Los Angeles Clippers,Milwaukee Bucks,1.26,1000,3.12,1.46,1.02,4.2,1.78,3.15,5.5
+2014-12-13,2014-15,Memphis @ Philadelphia,Memphis Grizzlies,Philadelphia 76ers,1.03,21,1.75,1.18,1.02,11,1.63,6.8,9.5
+2014-12-13,2014-15,Denver @ Houston,Denver Nuggets,Houston Rockets,3,18,4.22,3.75,1.01,2.08,1.22,1.35,-7.5
+2014-12-13,2014-15,Detroit @ Sacramento,Detroit Pistons,Sacramento Kings,1.01,3.65,2.18,3.1,1.37,50,2.2,1.47,-5.5
+2014-12-14,2014-15,Golden State @ New Orleans,Golden State Warriors,New Orleans Pelicans,1.03,4.8,1.77,1.37,1.28,12,2.59,3.7,5.5
+2014-12-14,2014-15,Chicago @ Miami,Chicago Bulls,Miami Heat,1.01,1.67,1.41,1.38,2.64,34,3.38,3.7,4.5
+2014-12-14,2014-15,Utah @ Washington,Utah Jazz,Washington Wizards,2.8,26,5.83,7.4,1.01,1.43,1.23,1.14,-10.5
+2014-12-14,2014-15,LA Lakers @ Minnesota,Los Angeles Lakers,Minnesota Timberwolves,1.01,1.76,1.34,1.66,2,4.5,2.49,2.52,2.5
+2014-12-14,2014-15,Phoenix @ Oklahoma City,Phoenix Suns,Oklahoma City Thunder,3.5,5,3.94,3.9,1.01,1.4,1.08,1.34,-6.5
+2014-12-14,2014-15,Toronto @ New York,Toronto Raptors,New York Knicks,1.01,1.86,1.29,1.38,2,9.2,4.4,3.6,6.5
+2014-12-14,2014-15,San Antonio @ Denver,San Antonio Spurs,Denver Nuggets,1.01,1.72,1.21,1.53,2.42,13.5,4.04,2.86,3.5
+2014-12-15,2014-15,Charlotte @ Cleveland,Charlotte Hornets,Cleveland Cavaliers,6.6,7.4,7.02,7.4,1.01,1.18,1.09,1.17,-10.5
+2014-12-15,2014-15,LA Lakers @ Indiana,Los Angeles Lakers,Indiana Pacers,2.76,120,15.53,2.84,1.01,1.55,1.41,1.54,-5.5
+2014-12-15,2014-15,Boston @ Philadelphia,Boston Celtics,Philadelphia 76ers,1.01,1.85,1.38,1.55,2.72,20,3.02,2.82,4.5
+2014-12-15,2014-15,Chicago @ Atlanta,Chicago Bulls,Atlanta Hawks,1.98,20,3.52,2.16,1.01,1.96,1.44,1.82,-2.5
+2014-12-15,2014-15,Orlando @ Toronto,Orlando Magic,Toronto Raptors,2.22,19,4.76,3.7,1.01,2.16,1.54,1.37,-7.5
+2014-12-15,2014-15,Milwaukee @ Phoenix,Milwaukee Bucks,Phoenix Suns,1.65,16,3.41,2.9,1.06,20,1.56,1.51,-5.5
+2014-12-15,2014-15,San Antonio @ Portland,San Antonio Spurs,Portland Trail Blazers,1.97,130,5.13,4.3,1.02,1.61,1.2,1.3,-7.5
+2014-12-15,2014-15,Detroit @ LA Clippers,Detroit Pistons,Los Angeles Clippers,7.4,26,9.32,9.4,1.01,1.35,1.1,1.12,-12.5
+2014-12-16,2014-15,Minnesota @ Washington,Minnesota Timberwolves,Washington Wizards,8.2,15,9.84,9.6,1.01,1.16,1.1,1.12,-12.5
+2014-12-16,2014-15,Miami @ Brooklyn,Miami Heat,Brooklyn Nets,1.01,4.3,1.46,3.35,1.3,20,1.55,1.41,-6.5
+2014-12-16,2014-15,Golden State @ Memphis,Golden State Warriors,Memphis Grizzlies,1.83,20,3.04,2.44,1.01,2.22,1.38,1.67,-2.5
+2014-12-16,2014-15,Utah @ New Orleans,Utah Jazz,New Orleans Pelicans,1.24,6,2.99,6,1.09,5.3,1.95,1.2,-7.5
+2014-12-16,2014-15,Dallas @ New York,Dallas Mavericks,New York Knicks,1.01,1.39,1.13,1.33,3.5,20,4.05,4.1,7.5
+2014-12-16,2014-15,Oklahoma @ Sacramento,Oklahoma City Thunder,Sacramento Kings,1.01,1.5,1.17,1.29,2.82,20,7.17,4.4,7.5
+2014-12-17,2014-15,Phoenix @ Charlotte,Phoenix Suns,Charlotte Hornets,1.01,4.8,2.34,1.73,1.39,3.9,1.75,2.4,3.5
+2014-12-17,2014-15,Atlanta @ Cleveland,Atlanta Hawks,Cleveland Cavaliers,1.01,6.2,2.03,3.7,1.18,26,2.03,1.36,-6.5
+2014-12-17,2014-15,Orlando @ Boston,Orlando Magic,Boston Celtics,1.23,3.9,2.76,2.56,1.02,3,1.17,1.65,-4.5
+2014-12-17,2014-15,Dallas @ Detroit,Dallas Mavericks,Detroit Pistons,1.01,1.43,1.21,1.34,3,1000,3.53,3.85,6.5
+2014-12-17,2014-15,Utah @ Miami,Utah Jazz,Miami Heat,1.01,2.82,1.31,2.52,1.4,210,2.92,1.65,-4.5
+2014-12-17,2014-15,Brooklyn @ Toronto,Brooklyn Nets,Toronto Raptors,2.8,8.8,7.54,8.6,1.01,1.52,1.14,1.12,-11.5
+2014-12-17,2014-15,Memphis @ San Antonio,Memphis Grizzlies,San Antonio Spurs,1.17,13,1.89,2.46,1.05,8,2.58,1.7,-3.5
+2014-12-17,2014-15,Milwaukee @ Portland,Milwaukee Bucks,Portland Trail Blazers,2.6,6,3.72,5.5,1.01,1.63,1.21,1.22,-9.5
+2014-12-17,2014-15,Indiana @ LA Clippers,Indiana Pacers,Los Angeles Clippers,2.02,8.6,3.57,8,1.01,2.2,1.22,1.14,-11.5
+2014-12-17,2014-15,Houston @ Denver,Houston Rockets,Denver Nuggets,1.01,3.9,1.68,1.7,1.41,8,3.32,2.42,3.5
+2014-12-18,2014-15,New York @ Chicago,New York Knicks,Chicago Bulls,3.05,13.5,8.9,9.6,1.01,1.53,1.15,1.1,-13.5
+2014-12-18,2014-15,New Orleans @ Houston,New Orleans Pelicans,Houston Rockets,1.01,3.55,1.92,2.88,1.35,20,1.91,1.54,-7.5
+2014-12-18,2014-15,Milwaukee @ Sacramento,Milwaukee Bucks,Sacramento Kings,1.09,5,2.56,4.1,1.19,20,1.42,1.33,-7.5
+2014-12-18,2014-15,Oklahoma City @ Golden State,Oklahoma City Thunder,Golden State Warriors,1.46,9.4,2.71,2.28,1.01,3.15,1.63,1.77,-2.5
+2014-12-19,2014-15,Utah @ Orlando,Utah Jazz,Orlando Magic,1.04,2.62,1.56,2.62,1.55,15.5,2.94,1.6,-3.5
+2014-12-19,2014-15,Charlotte @ Philadelphia,Charlotte Hornets,Philadelphia 76ers,1.01,1.63,1.17,1.53,2.74,95,6.72,2.86,4.5
+2014-12-19,2014-15,Minnesota @ Boston,Minnesota Timberwolves,Boston Celtics,3.25,3.55,3.32,3.35,1.01,1.56,1.31,1.43,-6.5
+2014-12-19,2014-15,Brooklyn @ Cleveland,Brooklyn Nets,Cleveland Cavaliers,3.3,34,6.28,7.4,1.02,1.43,1.2,1.15,-11.5
+2014-12-19,2014-15,Toronto @ Detroit,Toronto Raptors,Detroit Pistons,1.02,1.92,1.31,1.34,2.16,100,21.88,4.1,7.5
+2014-12-19,2014-15,Washington @ Miami,Washington Wizards,Miami Heat,1.02,2.52,1.48,1.45,1.53,9.4,2.95,3.3,5.5
+2014-12-19,2014-15,Chicago @ Memphis,Chicago Bulls,Memphis Grizzlies,1.02,3.55,1.62,3.55,1.29,20,2.58,1.4,-6.5
+2014-12-19,2014-15,Portland @ San Antonio,Portland Trail Blazers,San Antonio Spurs,1.03,12,2.99,2.76,1.02,50,1.4,1.55,-4.5
+2014-12-19,2014-15,LA Clippers @ Denver,Los Angeles Clippers,Denver Nuggets,1.22,13.5,2.09,1.62,1.01,3.85,1.5,2.62,4.5
+2014-12-19,2014-15,Oklahoma City @ LA Lakers,Oklahoma City Thunder,Los Angeles Lakers,1.01,2.26,1.52,1.46,1.8,9.4,2.89,3.2,5.5
+2014-12-20,2014-15,Phoenix @ New York,Phoenix Suns,New York Knicks,1.01,2,1.5,1.41,2.3,6,3.03,3.3,6.5
+2014-12-20,2014-15,Portland @ New Orleans,Portland Trail Blazers,New Orleans Pelicans,1.01,3.05,1.95,2.9,1.48,26,2.32,1.52,-5.5
+2014-12-20,2014-15,Utah @ Charlotte,Utah Jazz,Charlotte Hornets,2.48,8,3.94,2.5,1.01,1.72,1.51,1.65,-4.5
+2014-12-20,2014-15,Atlanta @ Houston,Atlanta Hawks,Houston Rockets,1.02,3,1.92,2.92,1.4,5.6,2.22,1.52,-5.5
+2014-12-20,2014-15,San Antonio @ Dallas,San Antonio Spurs,Dallas Mavericks,2,7.6,3.83,6.8,1.02,2.38,1.45,1.16,-10.5
+2014-12-20,2014-15,Indiana @ Denver,Indiana Pacers,Denver Nuggets,1.7,11,2.22,2.5,1.02,3,1.72,1.67,-3.5
+2014-12-20,2014-15,Milwaukee @ LA Clippers,Milwaukee Bucks,Los Angeles Clippers,1.66,7.2,4.62,6.2,1.01,2.5,1.34,1.19,-10.5
+2014-12-21,2014-15,New York @ Toronto,New York Knicks,Toronto Raptors,8,10.5,8.94,8.8,1.01,1.16,1.11,1.12,-12.5
+2014-12-21,2014-15,Memphis @ Cleveland,Memphis Grizzlies,Cleveland Cavaliers,2.14,12,4.06,2.76,1.01,1.66,1.3,1.56,-3.5
+2014-12-21,2014-15,LA Lakers @ Sacramento,Los Angeles Lakers,Sacramento Kings,1.53,34,3.28,3.65,1.02,3,1.57,1.35,-7.5
+2014-12-21,2014-15,Detroit @ Brooklyn,Detroit Pistons,Brooklyn Nets,2.18,3,2.29,2.26,1.04,1.84,1.69,1.8,-2.5
+2014-12-21,2014-15,Boston @ Miami,Boston Celtics,Miami Heat,1.7,6.4,2.67,1.7,1.05,2.5,1.56,2.44,-1.5
+2014-12-21,2014-15,Philadelphia @ Orlando,Philadelphia 76ers,Orlando Magic,1.01,5.1,4.9,5,1.2,2.2,1.28,1.24,-8.5
+2014-12-21,2014-15,Phoenix @ Washington,Phoenix Suns,Washington Wizards,1.13,3.7,2.74,3.1,1.26,11,1.76,1.47,-6.5
+2014-12-21,2014-15,Indiana @ Minnesota,Indiana Pacers,Minnesota Timberwolves,1.01,1.88,1.46,1.63,2.4,55,3.13,2.58,2.5
+2014-12-21,2014-15,New Orleans @ Oklahoma,New Orleans Pelicans,Oklahoma City Thunder,1.5,6.8,3.56,3.75,1.2,2.68,1.82,1.37,-7.5
+2014-12-22,2014-15,Denver @ Charlotte,Denver Nuggets,Charlotte Hornets,2.16,1000,4.38,2.28,1.02,1.86,1.36,1.79,-2.5
+2014-12-22,2014-15,Toronto @ Chicago,Toronto Raptors,Chicago Bulls,1.71,1000,2.76,2.6,1.01,3.9,1.73,1.64,-4.5
+2014-12-22,2014-15,Portland @ Houston,Portland Trail Blazers,Houston Rockets,2.32,500,3.5,2.8,1.01,1.8,1.22,1.54,-4.5
+2014-12-22,2014-15,Utah @ Memphis,Utah Jazz,Memphis Grizzlies,1.01,5.2,2.11,4.7,1.2,6.8,1.58,1.25,-9.5
+2014-12-22,2014-15,Atlanta @ Dallas,Atlanta Hawks,Dallas Mavericks,1.01,3.35,1.34,2.68,1.4,26,2.11,1.58,-4.5
+2014-12-22,2014-15,LA Clippers @ San Antonio,Los Angeles Clippers,San Antonio Spurs,1.6,100,2.54,2.08,1.01,2.58,1.72,1.91,-1.5
+2014-12-22,2014-15,Sacramento @ Golden State,Sacramento Kings,Golden State Warriors,6,24,8.9,7.6,1.01,1.21,1.12,1.16,-12.5
+2014-12-23,2014-15,Minnesota @ Cleveland,Minnesota Timberwolves,Cleveland Cavaliers,8,120,12.49,16,1.01,1.12,1.07,1.06,-14.5
+2014-12-23,2014-15,New Orleans @ Indiana,New Orleans Pelicans,Indiana Pacers,1.74,7,2.03,1.88,1.02,2.32,1.68,2.12,1.5
+2014-12-23,2014-15,Boston @ Orlando,Boston Celtics,Orlando Magic,2.1,150,3.81,2.18,1.01,1.84,1.22,1.83,-2.5
+2014-12-23,2014-15,Chicago @ Washington,Chicago Bulls,Washington Wizards,1.01,2.5,1.9,2.28,1.66,8.6,2.46,1.77,-3.5
+2014-12-23,2014-15,LA Clippers @ Atlanta,Los Angeles Clippers,Atlanta Hawks,1.2,1000,2.16,2.2,1.02,6.4,1.46,1.82,-1.5
+2014-12-23,2014-15,Denver @ Brooklyn,Denver Nuggets,Brooklyn Nets,1.31,10.5,2.61,2.56,1.02,3.5,1.6,1.65,-2.5
+2014-12-23,2014-15,Philadelphia @ Miami,Philadelphia 76ers,Miami Heat,1.01,8,2.37,4.2,1.03,4.2,1.36,1.31,-7.5
+2014-12-23,2014-15,Charlotte @ Milwaukee,Charlotte Hornets,Milwaukee Bucks,1.01,3.35,1.57,3.05,1.36,1000,1.71,1.48,-5.5
+2014-12-23,2014-15,Portland @ Oklahoma City,Portland Trail Blazers,Oklahoma City Thunder,1.03,22,2.05,2.8,1.01,3.7,1.42,1.54,-5.5
+2014-12-23,2014-15,Dallas @ Phoenix,Dallas Mavericks,Phoenix Suns,1.7,17.5,2.5,2.06,1.01,2.2,1.28,1.94,-1.5
+2014-12-23,2014-15,Golden State @ LA Lakers,Golden State Warriors,Los Angeles Lakers,1.16,38,1.47,1.18,1.01,6.6,1.36,6.2,8.5
+2014-12-25,2014-15,Washington @ New York,Washington Wizards,New York Knicks,1.01,1.52,1.3,1.51,2.96,18,4.15,2.96,5.5
+2014-12-25,2014-15,Oklahoma City @ San Antonio,Oklahoma City Thunder,San Antonio Spurs,1.03,4.2,2,3.25,1.19,100,1.78,1.43,-5.5
+2014-12-25,2014-15,Cleveland @ Miami,Cleveland Cavaliers,Miami Heat,1.19,120,2.2,1.43,1.02,6,1.68,3.3,5.5
+2014-12-25,2014-15,LA Lakers @ Chicago,Los Angeles Lakers,Chicago Bulls,6.4,21,8.97,7.6,1.01,1.22,1.11,1.15,-10.5
+2014-12-25,2014-15,Golden State @ LA Clippers,Golden State Warriors,Los Angeles Clippers,1.4,4.3,2.11,2.16,1.02,3.3,1.35,1.85,-1.5
+2014-12-26,2014-15,Brooklyn @ Boston,Brooklyn Nets,Boston Celtics,1.01,5.5,2.34,2.18,1.11,2.06,1.44,1.82,-2.5
+2014-12-26,2014-15,Cleveland @ Orlando,Cleveland Cavaliers,Orlando Magic,1.01,3.15,1.63,1.61,1.4,220,2.64,2.66,4.5
+2014-12-26,2014-15,Milwaukee @ Atlanta,Milwaukee Bucks,Atlanta Hawks,1.02,5.4,2.86,5.1,1.2,38,1.97,1.23,-8.5
+2014-12-26,2014-15,Indiana @ Detroit,Indiana Pacers,Detroit Pistons,1.57,17.5,2.43,1.72,1.02,2.42,1.32,2.4,2.5
+2014-12-26,2014-15,Houston @ Memphis,Houston Rockets,Memphis Grizzlies,1.01,5.1,1.79,2.16,1.3,6.8,1.97,1.86,-2.5
+2014-12-26,2014-15,San Antonio @ New Orleans,San Antonio Spurs,New Orleans Pelicans,1.75,16.5,2.55,2.32,1.01,2.4,1.33,1.72,-3.5
+2014-12-26,2014-15,Charlotte @ Oklahoma City,Charlotte Hornets,Oklahoma City Thunder,2.7,130,5.45,3.55,1.03,1.4,1.14,1.37,-6.5
+2014-12-26,2014-15,LA Lakers @ Dallas,Los Angeles Lakers,Dallas Mavericks,6,12.5,9.87,10.5,1.01,1.24,1.1,1.1,-12.5
+2014-12-26,2014-15,Minnesota @ Denver,Minnesota Timberwolves,Denver Nuggets,1.45,50,4.44,6.2,1.01,3.3,1.28,1.19,-10.5
+2014-12-26,2014-15,Philadelphia @ Portland,Philadelphia 76ers,Portland Trail Blazers,8.6,11.5,10.3,10,1.02,1.16,1.08,1.11,-12.5
+2014-12-26,2014-15,Phoenix @ Sacramento,Phoenix Suns,Sacramento Kings,1.02,1.9,1.31,1.5,2.1,5,2.91,2.92,1.5
+2014-12-27,2014-15,Toronto @ LA Clippers,Toronto Raptors,Los Angeles Clippers,1.01,4.5,1.88,2.74,1.3,15,1.84,1.57,-5.5
+2014-12-28,2014-15,Detroit @ Cleveland,Detroit Pistons,Cleveland Cavaliers,1.01,15,1.57,4.2,1.13,430,1.58,1.32,-7.5
+2014-12-27,2014-15,Orlando @ Charlotte,Orlando Magic,Charlotte Hornets,1.01,3.35,1.65,3.3,1.42,21,2.69,1.44,-6.5
+2014-12-27,2014-15,Boston @ Washington,Boston Celtics,Washington Wizards,5.6,34,6.95,5.8,1.01,1.22,1.07,1.2,-10.5
+2014-12-27,2014-15,Memphis @ Miami,Memphis Grizzlies,Miami Heat,1.02,1.77,1.57,1.64,2.24,120,3.26,2.58,2.5
+2014-12-27,2014-15,New Orleans @ Chicago,New Orleans Pelicans,Chicago Bulls,2,13.5,5.45,5.5,1.01,1.41,1.17,1.22,-9.5
+2014-12-27,2014-15,Indiana @ Brooklyn,Indiana Pacers,Brooklyn Nets,1.6,2.8,2.18,2.38,1.63,11,2.15,1.7,-2.5
+2014-12-27,2014-15,Atlanta @ Milwaukee,Atlanta Hawks,Milwaukee Bucks,1.01,1.98,1.52,1.57,2,8.6,3.1,2.74,4.5
+2014-12-27,2014-15,Philadelphia @ Utah,Philadelphia 76ers,Utah Jazz,5.1,15.5,6.3,6,1.01,1.25,1.16,1.2,-9.5
+2014-12-27,2014-15,New York @ Sacramento,New York Knicks,Sacramento Kings,1.7,18,2.68,3.3,1.03,2.54,1.18,1.42,-6.5
+2014-12-27,2014-15,Minnesota @ Golden State,Minnesota Timberwolves,Golden State Warriors,11,42,34.23,40,1.02,1.07,1.03,1.03,-17.5
+2014-12-28,2014-15,Houston @ San Antonio,Houston Rockets,San Antonio Spurs,1.57,15,2.04,2.06,1.02,3,1.86,1.94,-1.5
+2014-12-28,2014-15,Oklahoma City @ Dallas,Oklahoma City Thunder,Dallas Mavericks,1.3,14.5,2.79,2.18,1.02,4.5,2.05,1.8,-3.5
+2014-12-28,2014-15,New York @ Portland,New York Knicks,Portland Trail Blazers,7.8,13.5,8.99,9,1.03,1.14,1.12,1.13,-12.5
+2014-12-28,2014-15,Toronto @ Denver,Toronto Raptors,Denver Nuggets,1.01,2,1.37,1.74,2.22,4.8,2.98,2.32,2.5
+2014-12-28,2014-15,Phoenix @ LA Lakers,Phoenix Suns,Los Angeles Lakers,1.01,2.24,1.5,1.52,1.87,17.5,2.62,2.98,5.5
+2014-12-29,2014-15,Milwaukee @ Charlotte,Milwaukee Bucks,Charlotte Hornets,1.03,3.35,1.49,2.32,1.2,10.5,2.61,1.77,-3.5
+2014-12-29,2014-15,Chicago @ Indiana,Chicago Bulls,Indiana Pacers,1.02,2.62,1.48,1.53,2,3.8,2.78,2.86,5.5
+2014-12-29,2014-15,Sacramento @ Brooklyn,Sacramento Kings,Brooklyn Nets,2,2.48,2.1,2.1,1.01,2.28,1.37,1.91,-1.5
+2014-12-29,2014-15,Orlando @ Miami,Orlando Magic,Miami Heat,1.03,3.75,2.63,3.05,1.24,2.1,1.67,1.46,-5.5
+2014-12-29,2014-15,Washington @ Houston,Washington Wizards,Houston Rockets,1.01,3.6,1.4,2.5,1.3,12,2.3,1.65,-3.5
+2014-12-29,2014-15,Utah @ LA Clippers,Utah Jazz,Los Angeles Clippers,2.6,10,7.09,8.8,1.01,1.56,1.14,1.12,-11.5
+2014-12-30,2014-15,Detroit @ Orlando,Detroit Pistons,Orlando Magic,1.01,2.24,1.24,1.9,1.8,1000,2.63,2.1,1.5
+2014-12-30,2014-15,Cleveland @ Atlanta,Cleveland Cavaliers,Atlanta Hawks,2.4,9,3.44,3.65,1.01,1.77,1.38,1.39,-4.5
+2014-12-30,2014-15,Brooklyn @ Chicago,Brooklyn Nets,Chicago Bulls,1.01,6.8,2.2,6.4,1.12,21,1.75,1.19,-10.5
+2014-12-30,2014-15,San Antonio @ Memphis,San Antonio Spurs,Memphis Grizzlies,2,7,2.7,2,1.09,2,1.6,1.96,-2.5
+2014-12-30,2014-15,Phoenix @ New Orleans,Phoenix Suns,New Orleans Pelicans,1.74,8.6,2.5,2.1,1.03,2.36,1.36,1.91,-2.5
+2014-12-30,2014-15,Washington @ Dallas,Washington Wizards,Dallas Mavericks,2.56,9.2,3.71,2.9,1.02,1.65,1.27,1.52,-4.5
+2014-12-30,2014-15,LA Lakers @ Denver,Los Angeles Lakers,Denver Nuggets,1.02,4,1.21,3.05,1.33,10,3.45,1.47,-7.5
+2014-12-30,2014-15,Minnesota @ Utah,Minnesota Timberwolves,Utah Jazz,1.22,13.5,2.18,3.5,1.02,5.6,1.44,1.4,-7.5
+2014-12-30,2014-15,Toronto @ Portland,Toronto Raptors,Portland Trail Blazers,1.12,34,1.55,2.56,1.01,9.2,1.77,1.64,-3.5
+2014-12-30,2014-15,Philadelphia @ Golden State,Philadelphia 76ers,Golden State Warriors,18,25,19.36,18,1.01,1.08,1.04,1.05,-18.5
+2014-12-31,2014-15,Sacramento @ Boston,Sacramento Kings,Boston Celtics,1.78,4.2,2.09,1.91,1.01,2.28,1.47,2.16,1.5
+2014-12-31,2014-15,Miami @ Indiana,Miami Heat,Indiana Pacers,1.43,32,1.74,2.52,1.01,3.3,1.63,1.66,-4.5
+2014-12-31,2014-15,New York @ LA Clippers,New York Knicks,Los Angeles Clippers,8.2,17.5,12.3,10,1.01,1.13,1.09,1.11,-13.5
+2014-12-31,2014-15,Charlotte @ Houston,Charlotte Hornets,Houston Rockets,3.55,8.2,4.46,7.6,1.01,1.4,1.06,1.14,-11.5
+2014-12-31,2014-15,Milwaukee @ Cleveland,Milwaukee Bucks,Cleveland Cavaliers,1.03,3.3,1.48,1.95,1.42,17.5,2.48,2.04,-5.5
+2014-12-31,2014-15,New Orleans @ San Antonio,New Orleans Pelicans,San Antonio Spurs,1.11,6.6,3.24,2.9,1.02,5,1.63,1.51,-5.5
+2014-12-31,2014-15,Phoenix @ Oklahoma City,Phoenix Suns,Oklahoma City Thunder,1.52,7.2,3.63,4,1.01,3.5,1.37,1.33,-8.5
+2015-01-01,2014-15,Denver @ Chicago,Denver Nuggets,Chicago Bulls,1.71,7.4,4.73,6,1.02,2.4,1.35,1.2,-11.5
+2015-01-01,2014-15,Sacramento @ Minnesota,Sacramento Kings,Minnesota Timberwolves,1.05,1.9,1.35,1.59,2.02,11,3.37,2.78,5.5
+2015-01-02,2014-15,Cleveland @ Charlotte,Cleveland Cavaliers,Charlotte Hornets,1.01,3.15,1.68,1.87,1.36,34,2.12,2.16,2.5
+2015-01-02,2014-15,Brooklyn @ Orlando,Brooklyn Nets,Orlando Magic,1.02,1.91,1.44,1.74,2.12,10,2.75,2.34,1.5
+2015-01-02,2014-15,Dallas @ Boston,Dallas Mavericks,Boston Celtics,1.05,1.48,1.31,1.41,3.15,11,4.04,3.4,5.5
+2015-01-02,2014-15,Detroit @ New York,Detroit Pistons,New York Knicks,1.05,1.77,1.54,1.53,2.3,18.5,5.88,2.86,2.5
+2015-01-02,2014-15,Houston @ New Orleans,Houston Rockets,New Orleans Pelicans,1.71,7.6,2.37,1.79,1.01,2.26,1.11,2.26,1.5
+2015-01-02,2014-15,Washington @ Oklahoma City,Washington Wizards,Oklahoma City Thunder,2.04,6.2,3.39,3.85,1.01,2.68,1.49,1.35,-7.5
+2015-01-02,2014-15,Indiana @ Milwaukee,Indiana Pacers,Milwaukee Bucks,1.01,2.3,1.25,2.16,1.4,4.4,1.7,1.85,-1.5
+2015-01-02,2014-15,Philadelphia @ Phoenix,Philadelphia 76ers,Phoenix Suns,5.7,14.5,10.78,13,1.05,1.24,1.1,1.08,-13.5
+2015-01-02,2014-15,Atlanta @ Utah,Atlanta Hawks,Utah Jazz,1.02,1.62,1.22,1.55,2.62,5.1,3.03,2.8,4.5
+2015-01-02,2014-15,Toronto @ Golden State,Toronto Raptors,Golden State Warriors,2.34,17.5,4.49,2.74,1.01,1.75,1.29,1.58,-4.5
+2015-01-02,2014-15,Memphis @ LA Lakers,Memphis Grizzlies,Los Angeles Lakers,1.01,2.5,1.48,1.55,1.8,6.2,2.63,2.78,4.5
+2015-01-04,2014-15,Dallas @ Cleveland,Dallas Mavericks,Cleveland Cavaliers,1.02,1.37,1.2,1.32,3.9,5,4.07,4.1,7.5
+2015-01-04,2014-15,Sacramento @ Detroit,Sacramento Kings,Detroit Pistons,2.4,21,3.91,2.46,1.01,1.82,1.33,1.66,-3.5
+2015-01-04,2014-15,Brooklyn @ Miami,Brooklyn Nets,Miami Heat,1.74,6.6,2.34,1.83,1.02,2.3,1.5,2.18,2.5
+2015-01-03,2014-15,Charlotte @ Orlando,Charlotte Hornets,Orlando Magic,1.01,2.74,1.45,2.7,1.5,1000,2.11,1.58,-3.5
+2015-01-03,2014-15,Boston @ Chicago,Boston Celtics,Chicago Bulls,2.34,8.2,4.76,6,1.05,1.76,1.3,1.2,-11.5
+2015-01-03,2014-15,Miami @ Houston,Miami Heat,Houston Rockets,3.6,4.6,3.82,3.65,1.09,1.54,1.4,1.38,-7.5
+2015-01-03,2014-15,Utah @ Minnesota,Utah Jazz,Minnesota Timberwolves,1.01,2.16,1.54,2.12,1.74,7.2,1.96,1.89,1.5
+2015-01-03,2014-15,Washington @ San Antonio,Washington Wizards,San Antonio Spurs,2.04,3.3,2.65,3.1,1.01,2.04,1.19,1.47,-5.5
+2015-01-03,2014-15,Memphis @ Denver,Memphis Grizzlies,Denver Nuggets,1.41,4.8,2.16,2.12,1.09,2.02,1.6,1.88,-1.5
+2015-01-03,2014-15,Atlanta @ Portland,Atlanta Hawks,Portland Trail Blazers,1.01,4,1.51,3.35,1.37,150,3.1,1.42,-5.5
+2015-01-03,2014-15,Philadelphia @ LA Clippers,Philadelphia 76ers,Los Angeles Clippers,21,55,32.5,34,1.01,1.06,1.03,1.03,-19.5
+2015-01-04,2014-15,Milwaukee @ New York,Milwaukee Bucks,New York Knicks,1.01,1.42,1.27,1.32,3.4,21,5.8,4.2,6.5
+2015-01-04,2014-15,Toronto @ Phoenix,Toronto Raptors,Phoenix Suns,1.88,16.5,3.31,2.04,1.01,2.2,1.33,1.96,-1.5
+2015-01-04,2014-15,Indiana @ LA Lakers,Indiana Pacers,Los Angeles Lakers,1.15,10,1.53,2.04,1.01,5.3,2.09,1.92,1.5
+2015-01-05,2014-15,Cleveland @ Philadelphia,Cleveland Cavaliers,Philadelphia 76ers,1.05,2.36,1.35,1.52,1.55,6.6,2.86,2.94,4.5
+2015-01-05,2014-15,Charlotte @ Boston,Charlotte Hornets,Boston Celtics,1.01,3.1,1.73,3.05,1.41,6,3.46,1.49,-5.5
+2015-01-05,2014-15,Dallas @ Brooklyn,Dallas Mavericks,Brooklyn Nets,1.01,2.32,1.43,1.35,1.44,4,2.67,3.9,6.5
+2015-01-05,2014-15,Houston @ Chicago,Houston Rockets,Chicago Bulls,1.22,6.4,1.89,2.32,1.02,5,1.82,1.75,-3.5
+2015-01-05,2014-15,New York @ Memphis,New York Knicks,Memphis Grizzlies,10,16,12.17,15.5,1.01,1.18,1.08,1.07,-13.5
+2015-01-05,2014-15,Denver @ Minnesota,Denver Nuggets,Minnesota Timberwolves,1.01,1.66,1.28,1.52,2.52,2.98,2.85,2.96,4.5
+2015-01-05,2014-15,Washington @ New Orleans,Washington Wizards,New Orleans Pelicans,1.04,2.44,1.75,2.36,1.69,3.7,1.81,1.72,-2.5
+2015-01-05,2014-15,Indiana @ Utah,Indiana Pacers,Utah Jazz,1.01,2.3,1.14,2.14,1.76,6.2,2.16,1.86,-2.5
+2015-01-05,2014-15,LA Lakers @ Portland,Los Angeles Lakers,Portland Trail Blazers,1.33,9.8,5.54,9.8,1.01,3.6,1.32,1.1,-12.5
+2015-01-05,2014-15,Oklahoma City @ Golden State,Oklahoma City Thunder,Golden State Warriors,2.3,1000,3.55,2.5,1.01,1.79,1.2,1.67,-3.5
+2015-01-05,2014-15,Atlanta @ LA Clippers,Atlanta Hawks,Los Angeles Clippers,1.02,3.75,2,3.05,1.29,5.3,1.86,1.5,-5.5
+2015-01-06,2014-15,Phoenix @ Milwaukee,Phoenix Suns,Milwaukee Bucks,1.01,2.36,1.49,1.54,2.36,4.8,3.05,2.82,3.5
+2015-01-06,2014-15,Detroit @ San Antonio,Detroit Pistons,San Antonio Spurs,1.02,18,2.89,4.7,1.05,26,1.3,1.28,-8.5
+2015-01-07,2014-15,New Orleans @ Charlotte,New Orleans Pelicans,Charlotte Hornets,1.14,3.75,1.6,1.55,1.03,4,2.54,2.8,4.5
+2015-01-07,2014-15,Houston @ Cleveland,Houston Rockets,Cleveland Cavaliers,1.02,1.87,1.35,1.41,2.5,4,2.8,3.35,6.5
+2015-01-07,2014-15,Milwaukee @ Philadelphia,Milwaukee Bucks,Philadelphia 76ers,1.01,1.47,1.35,1.4,3.1,5,3.74,3.5,6.5
+2015-01-07,2014-15,New York @ Washington,New York Knicks,Washington Wizards,7.8,25,17.2,15,1.02,1.15,1.04,1.07,-14.5
+2015-01-07,2014-15,Memphis @ Atlanta,Memphis Grizzlies,Atlanta Hawks,2.5,3.9,2.82,2.62,1.03,1.71,1.46,1.61,-4.5
+2015-01-07,2014-15,Boston @ Brooklyn,Boston Celtics,Brooklyn Nets,1.04,3.15,1.39,2.78,1.29,4,1.57,1.55,-4.5
+2015-01-07,2014-15,Utah @ Chicago,Utah Jazz,Chicago Bulls,1.01,7.2,2.6,7,1.15,13.5,1.33,1.16,-10.5
+2015-01-07,2014-15,Detroit @ Dallas,Detroit Pistons,Dallas Mavericks,1.02,6,2.55,5.1,1.2,7.2,1.67,1.23,-9.5
+2015-01-07,2014-15,Orlando @ Denver,Orlando Magic,Denver Nuggets,3.4,4,3.51,3.8,1.04,1.57,1.31,1.36,-7.5
+2015-01-07,2014-15,Phoenix @ Minnesota,Phoenix Suns,Minnesota Timberwolves,1.04,2.82,1.43,1.28,1.53,4.8,2.12,4.8,8.5
+2015-01-07,2014-15,Oklahoma City @ Sacramento,Oklahoma City Thunder,Sacramento Kings,1.28,7,2.06,1.32,1.01,4.2,1.64,4,7.5
+2015-01-07,2014-15,Indiana @ Golden State,Indiana Pacers,Golden State Warriors,2.8,8.6,5.83,8,1.01,1.5,1.14,1.13,-11.5
+2015-01-07,2014-15,LA Lakers @ LA Clippers,Los Angeles Lakers,Los Angeles Clippers,5.7,50,9.37,6.8,1.01,1.21,1.16,1.18,-9.5
+2015-01-08,2014-15,Charlotte @ Toronto,Charlotte Hornets,Toronto Raptors,1.01,10,2.08,9.4,1.11,17.5,1.32,1.12,-12.5
+2015-01-08,2014-15,Houston @ New York,Houston Rockets,New York Knicks,1.01,1.15,1.09,1.13,4.5,210,12.17,8.8,11.5
+2015-01-08,2014-15,Miami @ Portland,Miami Heat,Portland Trail Blazers,2.02,50,4.75,4.8,1.01,1.97,1.23,1.25,-8.5
+2015-01-09,2014-15,Boston @ Indiana,Boston Celtics,Indiana Pacers,1.45,9.4,3.45,3.1,1.05,3,1.56,1.47,-4.5
+2015-01-09,2014-15,Philadelphia @ Brooklyn,Philadelphia 76ers,Brooklyn Nets,1.14,11,6.32,6.6,1.05,2.42,1.38,1.17,-10.5
+2015-01-09,2014-15,Atlanta @ Detroit,Atlanta Hawks,Detroit Pistons,1.02,1.79,1.25,1.74,2.3,180,7.32,2.36,3.5
+2015-01-09,2014-15,Memphis @ New Orleans,Memphis Grizzlies,New Orleans Pelicans,1.9,26,2.69,2.06,1.01,1.96,1.25,1.92,-1.5
+2015-01-09,2014-15,Utah @ Oklahoma City,Utah Jazz,Oklahoma City Thunder,1.51,26,8.39,8,1.02,2.6,1.34,1.13,-11.5
+2015-01-09,2014-15,Chicago @ Washington,Chicago Bulls,Washington Wizards,1.91,10,3.9,2.12,1.01,2.04,1.52,1.88,-1.5
+2015-01-09,2014-15,Minnesota @ Milwaukee,Minnesota Timberwolves,Milwaukee Bucks,2.7,5.6,4.98,5.2,1.01,1.61,1.18,1.24,-8.5
+2015-01-09,2014-15,Phoenix @ San Antonio,Phoenix Suns,San Antonio Spurs,1.29,15,3.69,2.86,1.04,6.2,1.74,1.53,-4.5
+2015-01-09,2014-15,Denver @ Sacramento,Denver Nuggets,Sacramento Kings,1.03,3.5,1.98,2.78,1.31,85,2.14,1.53,-4.5
+2015-01-09,2014-15,Cleveland @ Golden State,Cleveland Cavaliers,Golden State Warriors,5.4,11.5,9.96,11,1.01,1.25,1.13,1.09,-13.5
+2015-01-09,2014-15,Orlando @ LA Lakers,Orlando Magic,Los Angeles Lakers,2.08,15,2.49,2.22,1.01,1.99,1.44,1.84,-3.5
+2015-01-10,2014-15,Charlotte @ New York,Charlotte Hornets,New York Knicks,1.29,1.4,1.35,1.35,3.6,10,4.03,4.1,7.5
+2015-01-10,2014-15,Dallas @ LA Clippers,Dallas Mavericks,Los Angeles Clippers,2.34,12,3.03,2.44,1.01,1.74,1.22,1.69,-3.5
+2015-01-10,2014-15,Brooklyn @ Detroit,Brooklyn Nets,Detroit Pistons,2.76,3.5,3.13,3.2,1.01,1.56,1.42,1.44,-5.5
+2015-01-10,2014-15,Indiana @ Philadelphia,Indiana Pacers,Philadelphia 76ers,1.18,6,1.71,1.38,1.25,6.4,2.05,3.55,6.5
+2015-01-10,2014-15,Boston @ Toronto,Boston Celtics,Toronto Raptors,2.9,10,6.6,7.6,1.09,1.4,1.25,1.14,-11.5
+2015-01-10,2014-15,Milwaukee @ Chicago,Milwaukee Bucks,Chicago Bulls,3.2,6.4,3.43,3.25,1.01,1.44,1.3,1.44,-7.5
+2015-01-10,2014-15,Utah @ Houston,Utah Jazz,Houston Rockets,6.8,7.8,7.53,7.4,1.13,1.33,1.15,1.15,-11.5
+2015-01-10,2014-15,San Antonio @ Minnesota,San Antonio Spurs,Minnesota Timberwolves,1.03,1.2,1.16,1.17,5.8,6.6,6.02,6.4,10.5
+2015-01-10,2014-15,Orlando @ Portland,Orlando Magic,Portland Trail Blazers,3.25,34,5.86,15.5,1.04,1.31,1.09,1.08,-13.5
+2015-01-11,2014-15,Washington @ Atlanta,Washington Wizards,Atlanta Hawks,2.64,10,3.2,2.72,1.01,1.67,1.45,1.58,-4.5
+2015-01-11,2014-15,Miami @ LA Clippers,Miami Heat,Los Angeles Clippers,1.01,6.2,1.15,6.2,1.09,26,2.06,1.19,-10.5
+2015-01-11,2014-15,Phoenix @ Memphis,Phoenix Suns,Memphis Grizzlies,1.41,34,2.7,2.5,1.01,6,1.33,1.69,-4.5
+2015-01-11,2014-15,Cleveland @ Sacramento,Cleveland Cavaliers,Sacramento Kings,2.34,3.1,2.54,2.44,1.01,1.74,1.23,1.71,-3.5
+2015-01-11,2014-15,Portland @ LA Lakers,Portland Trail Blazers,Los Angeles Lakers,1.01,1.55,1.28,1.43,3.05,50,4.98,3.3,6.5
+2015-01-12,2014-15,New Orleans @ Boston,New Orleans Pelicans,Boston Celtics,1.29,3.9,1.52,1.48,1.01,4.4,1.54,3.05,4.5
+2015-01-12,2014-15,Houston @ Brooklyn,Houston Rockets,Brooklyn Nets,1.02,1.44,1.16,1.38,3.4,7,3.85,3.7,5.5
+2015-01-12,2014-15,Detroit @ Toronto,Detroit Pistons,Toronto Raptors,1.02,11,2.41,3.2,1.08,6,1.39,1.46,-5.5
+2015-01-12,2014-15,Orlando @ Chicago,Orlando Magic,Chicago Bulls,1.01,7.4,1.2,7.4,1.15,100,1.77,1.16,-10.5
+2015-01-13,2014-15,Minnesota @ Indiana,Minnesota Timberwolves,Indiana Pacers,1.01,8.8,1.38,7.2,1.07,2.8,1.33,1.17,-10.5
+2015-01-13,2014-15,Atlanta @ Philadelphia,Atlanta Hawks,Philadelphia 76ers,1.01,1.26,1.1,1.18,6.2,110,9.16,6.2,11.5
+2015-01-13,2014-15,San Antonio @ Washington,San Antonio Spurs,Washington Wizards,1.91,11,2.27,2.02,1.03,2.02,1.58,1.98,-1.5
+2015-01-13,2014-15,Cleveland @ Phoenix,Cleveland Cavaliers,Phoenix Suns,2,36,3.17,2.68,1.03,2,1.42,1.59,-5.5
+2015-01-13,2014-15,Golden State @ Utah,Golden State Warriors,Utah Jazz,1.03,1.51,1.23,1.27,3.2,4.8,4.45,4.8,7.5
+2015-01-13,2014-15,Dallas @ Sacramento,Dallas Mavericks,Sacramento Kings,1.03,6.2,1.58,1.5,1.15,16,2.44,3.05,4.5
+2015-01-13,2014-15,Miami @ LA Lakers,Miami Heat,Los Angeles Lakers,1.01,2,1.54,1.78,2.1,5.5,3,2.26,1.5
+2015-01-14,2014-15,Houston @ Orlando,Houston Rockets,Orlando Magic,1.22,3.7,1.32,1.24,1.02,5.4,2.21,5.3,8.5
+2015-01-14,2014-15,San Antonio @ Charlotte,San Antonio Spurs,Charlotte Hornets,1.01,1.73,1.38,1.54,2.76,7,3.07,2.76,4.5
+2015-01-14,2014-15,New Orleans @ Detroit,New Orleans Pelicans,Detroit Pistons,1.01,2.72,1.07,2.7,1.56,100,2.27,1.6,-3.5
+2015-01-14,2014-15,Memphis @ Brooklyn,Memphis Grizzlies,Brooklyn Nets,1.02,1.45,1.25,1.36,3.05,6,3.85,3.65,6.5
+2015-01-14,2014-15,Philadelphia @ Toronto,Philadelphia 76ers,Toronto Raptors,15,30,23.99,26,1.01,1.1,1.04,1.04,-16.5
+2015-01-14,2014-15,Atlanta @ Boston,Atlanta Hawks,Boston Celtics,1.01,1.54,1.27,1.47,2.92,8.2,3.54,3.3,6.5
+2015-01-14,2014-15,Washington @ Chicago,Washington Wizards,Chicago Bulls,1.01,6.2,1.36,3.05,1.16,7.6,1.68,1.47,-6.5
+2015-01-14,2014-15,Dallas @ Denver,Dallas Mavericks,Denver Nuggets,1.98,21,3.14,2.86,1.02,2.02,1.23,1.54,-2.5
+2015-01-14,2014-15,Miami @ Golden State,Miami Heat,Golden State Warriors,10,150,13.1,13,1.01,1.12,1.06,1.09,-14.5
+2015-01-14,2014-15,LA Clippers @ Portland,Los Angeles Clippers,Portland Trail Blazers,1.03,4.1,1.8,2.48,1.3,34,1.9,1.66,-3.5
+2015-01-15,2014-15,New York @ Milwaukee,New York Knicks,Milwaukee Bucks,3.05,380,6.6,4,1.01,1.42,1.17,1.33,-7.5
+2015-01-15,2014-15,Oklahoma City @ Houston,Oklahoma City Thunder,Houston Rockets,1.67,1000,4.53,1.75,1.01,2.5,1.26,2.3,2.5
+2015-01-15,2014-15,Cleveland @ LA Lakers,Cleveland Cavaliers,Los Angeles Lakers,1.01,1.71,1.33,1.4,2.44,4.9,2.97,3.35,5.5
+2015-01-16,2014-15,Detroit @ Indiana,Detroit Pistons,Indiana Pacers,1.01,4.7,1.58,2.08,1.27,3.2,1.71,1.88,1.5
+2015-01-16,2014-15,Memphis @ Orlando,Memphis Grizzlies,Orlando Magic,1.02,1.8,1.28,1.47,2.42,50,3.08,3,6.5
+2015-01-16,2014-15,New Orleans @ Philadelphia,New Orleans Pelicans,Philadelphia 76ers,1.23,10,1.75,1.36,1.04,5.5,2.67,3.75,6.5
+2015-01-16,2014-15,Brooklyn @ Washington,Brooklyn Nets,Washington Wizards,1.01,7,2,5.5,1.16,4,1.3,1.2,-9.5
+2015-01-16,2014-15,Chicago @ Boston,Chicago Bulls,Boston Celtics,1.22,2,1.5,1.53,2.9,3.8,3.14,2.9,5.5
+2015-01-16,2014-15,Atlanta @ Toronto,Atlanta Hawks,Toronto Raptors,1.01,2.1,1.52,1.87,1.96,3.7,2.24,2.16,-1.5
+2015-01-16,2014-15,Golden State @ Oklahoma City,Golden State Warriors,Oklahoma City Thunder,1.52,10,2.48,2,1.01,2.5,1.64,1.98,1.5
+2015-01-16,2014-15,Denver @ Dallas,Denver Nuggets,Dallas Mavericks,4.1,30,5.05,4.3,1.01,1.5,1.11,1.3,-8.5
+2015-01-16,2014-15,Portland @ San Antonio,Portland Trail Blazers,San Antonio Spurs,2.66,9.2,3.26,2.72,1.01,1.61,1.16,1.59,-4.5
+2015-01-16,2014-15,Minnesota @ Phoenix,Minnesota Timberwolves,Phoenix Suns,10.5,20,12.08,11.5,1.01,1.19,1.11,1.09,-13.5
+2015-01-16,2014-15,LA Lakers @ Utah,Los Angeles Lakers,Utah Jazz,2.3,7.2,3.65,4,1.02,1.8,1.28,1.33,-7.5
+2015-01-16,2014-15,Miami @ Sacramento,Miami Heat,Sacramento Kings,1.01,2.44,1.35,2.44,1.53,15,2.64,1.68,-3.5
+2015-01-16,2014-15,Cleveland @ LA Clippers,Cleveland Cavaliers,Los Angeles Clippers,1.01,6.8,1.78,4.3,1.12,21,1.58,1.31,-7.5
+2015-01-17,2014-15,Indiana @ Charlotte,Indiana Pacers,Charlotte Hornets,1.14,65,1.97,1.8,1.02,4,1.99,2.18,1.5
+2015-01-17,2014-15,Golden State @ Houston,Golden State Warriors,Houston Rockets,1.01,2.44,1.45,2.08,1.61,100,2.5,1.9,-3.5
+2015-01-18,2014-15,New Orleans @ Toronto,New Orleans Pelicans,Toronto Raptors,1.18,50,2.72,7,1.02,6.8,1.28,1.18,-10.5
+2015-01-17,2014-15,Philadelphia @ Detroit,Philadelphia 76ers,Detroit Pistons,6,65,10.11,9.6,1.01,1.12,1.09,1.11,-13.5
+2015-01-17,2014-15,Atlanta @ Chicago,Atlanta Hawks,Chicago Bulls,1.01,1.77,1.33,1.67,2.28,5.3,2.71,2.5,2.5
+2015-01-17,2014-15,Washington @ Brooklyn,Washington Wizards,Brooklyn Nets,1.02,1.8,1.44,1.46,2.1,3.3,3.04,3.1,4.5
+2015-01-17,2014-15,Portland @ Memphis,Portland Trail Blazers,Memphis Grizzlies,2.2,13.5,2.76,2.24,1.01,2,1.28,1.79,-2.5
+2015-01-17,2014-15,Minnesota @ Denver,Minnesota Timberwolves,Denver Nuggets,1.02,8.4,2.99,7.8,1.13,50,2.39,1.16,-11.5
+2015-01-17,2014-15,LA Clippers @ Sacramento,Los Angeles Clippers,Sacramento Kings,1.01,1.5,1.13,1.22,3.35,110,5.54,5.5,7.5
+2015-01-18,2014-15,Oklahoma City @ Orlando,Oklahoma City Thunder,Orlando Magic,1.02,1.24,1.2,1.23,5.1,6.8,5.17,5.1,9.5
+2015-01-19,2014-15,Minnesota @ Charlotte,Minnesota Timberwolves,Charlotte Hornets,2.86,3.25,2.97,2.9,1.02,1.57,1.2,1.53,-5.5
+2015-01-19,2014-15,Philadelphia @ Washington,Philadelphia 76ers,Washington Wizards,11.5,36,13.78,13.5,1.01,1.11,1.07,1.08,-13.5
+2015-01-19,2014-15,Detroit @ Atlanta,Detroit Pistons,Atlanta Hawks,3.4,12,5.08,3.95,1.03,1.5,1.21,1.31,-8.5
+2015-01-19,2014-15,Boston @ LA Clippers,Boston Celtics,Los Angeles Clippers,7.2,9.4,8.27,8.6,1.01,1.15,1.03,1.1,-12.5
+2015-01-19,2014-15,Denver @ Golden State,Denver Nuggets,Golden State Warriors,11.5,12.5,12.15,11.5,1.03,1.14,1.09,1.08,-13.5
+2015-01-19,2014-15,Dallas @ Memphis,Dallas Mavericks,Memphis Grizzlies,1.01,2.64,1.82,2.3,1.63,3.9,2.23,1.73,-3.5
+2015-01-19,2014-15,Indiana @ Houston,Indiana Pacers,Houston Rockets,5,6.6,5.81,5.7,1.01,1.23,1.11,1.23,-10.5
+2015-01-19,2014-15,New Orleans @ New York,New Orleans Pelicans,New York Knicks,1.27,5.7,1.75,1.57,1.01,3.9,1.39,2.74,7.5
+2015-01-18,2014-15,Utah @ San Antonio,Utah Jazz,San Antonio Spurs,7.8,36,8.42,8.2,1.02,1.16,1.1,1.13,-11.5
+2015-01-19,2014-15,Chicago @ Cleveland,Chicago Bulls,Cleveland Cavaliers,2.08,36,4.03,2.8,1.01,1.73,1.14,1.56,-3.5
+2015-01-19,2014-15,Toronto @ Milwaukee,Toronto Raptors,Milwaukee Bucks,1.1,2.46,1.75,2.06,1.72,5.5,2.04,1.91,-1.5
+2015-01-19,2014-15,Sacramento @ Portland,Sacramento Kings,Portland Trail Blazers,1.35,17.5,3.81,5.6,1.02,3.9,1.36,1.22,-10.5
+2015-01-19,2014-15,LA Lakers @ Phoenix,Los Angeles Lakers,Phoenix Suns,3.45,13.5,5.59,6.2,1.01,1.51,1.16,1.2,-10.5
+2015-01-20,2014-15,Oklahoma City @ Miami,Oklahoma City Thunder,Miami Heat,1.01,1.63,1.31,1.34,2.8,180,5.12,3.95,7.5
+2015-01-20,2014-15,San Antonio @ Denver,San Antonio Spurs,Denver Nuggets,1.01,1.4,1.18,1.27,3.2,26,4.92,4.6,8.5
+2015-01-21,2014-15,Miami @ Charlotte,Miami Heat,Charlotte Hornets,1.78,5.3,3.03,3.1,1.13,2.26,1.46,1.47,-5.5
+2015-01-21,2014-15,Utah @ Cleveland,Utah Jazz,Cleveland Cavaliers,5.6,6.4,6.01,5.8,1.02,1.23,1.16,1.18,-9.5
+2015-01-21,2014-15,New York @ Philadelphia,New York Knicks,Philadelphia 76ers,1.14,2.14,1.73,1.72,1.46,2.96,2.27,2.38,-1.5
+2015-01-21,2014-15,Indiana @ Atlanta,Indiana Pacers,Atlanta Hawks,6,18,7.89,6.8,1.06,1.2,1.15,1.16,-11.5
+2015-01-21,2014-15,Orlando @ Detroit,Orlando Magic,Detroit Pistons,4.2,15,4.91,4.3,1.03,1.44,1.18,1.29,-8.5
+2015-01-21,2014-15,Toronto @ Memphis,Toronto Raptors,Memphis Grizzlies,2.78,5,3.66,3.3,1.01,1.85,1.31,1.42,-6.5
+2015-01-21,2014-15,Dallas @ Minnesota,Dallas Mavericks,Minnesota Timberwolves,1.01,1.3,1.21,1.23,5.1,5.7,5.24,5.4,9.5
+2015-01-21,2014-15,LA Lakers @ New Orleans,Los Angeles Lakers,New Orleans Pelicans,2,4.1,3.52,3.9,1.01,1.37,1.08,1.35,-8.5
+2015-01-21,2014-15,Oklahoma City @ Washington,Oklahoma City Thunder,Washington Wizards,1.01,5,2.22,2,1.2,5.5,1.84,2,-1.5
+2015-01-21,2014-15,Portland @ Phoenix,Portland Trail Blazers,Phoenix Suns,1.16,10,3.33,3.85,1.01,3.5,1.15,1.33,-6.5
+2015-01-21,2014-15,Brooklyn @ Sacramento,Brooklyn Nets,Sacramento Kings,1.02,3.05,1.12,3,1.46,50,2.4,1.5,-5.5
+2015-01-21,2014-15,Houston @ Golden State,Houston Rockets,Golden State Warriors,3.8,29,6.03,4.2,1.01,1.38,1.26,1.31,-7.5
+2015-01-22,2014-15,San Antonio @ Chicago,San Antonio Spurs,Chicago Bulls,1.4,250,2.03,1.5,1.02,3.25,1.67,3,5.5
+2015-01-22,2014-15,Utah @ Milwaukee,Utah Jazz,Milwaukee Bucks,1.08,8.6,2.54,4.5,1.12,5,1.4,1.28,-7.5
+2015-01-22,2014-15,Boston @ Portland,Boston Celtics,Portland Trail Blazers,1.01,10,2.86,3.7,1.08,4.4,1.43,1.36,-7.5
+2015-01-22,2014-15,Brooklyn @ LA Clippers,Brooklyn Nets,Los Angeles Clippers,2.4,17.5,9.32,10.5,1.03,1.21,1.11,1.13,-11.5
+2015-01-23,2014-15,Toronto @ Philadelphia,Toronto Raptors,Philadelphia 76ers,1.01,4.2,1.18,1.13,1.25,11,4.59,9,11.5
+2015-01-23,2014-15,Oklahoma City @ Atlanta,Oklahoma City Thunder,Atlanta Hawks,1.65,17.5,3.13,2.52,1.01,2.24,1.58,1.64,-4.5
+2015-01-23,2014-15,Charlotte @ Cleveland,Charlotte Hornets,Cleveland Cavaliers,5.6,6.4,5.85,6,1.01,1.22,1.19,1.2,-9.5
+2015-01-23,2014-15,Indiana @ Miami,Indiana Pacers,Miami Heat,2.34,11,5.64,2.54,1.03,1.75,1.57,1.63,-4.5
+2015-01-23,2014-15,Orlando @ New York,Orlando Magic,New York Knicks,1.25,3.9,1.76,1.7,1.06,3.5,1.77,2.42,2.5
+2015-01-23,2014-15,Chicago @ Dallas,Chicago Bulls,Dallas Mavericks,1.05,3.55,1.75,3,1.32,7.8,2.48,1.5,-6.5
+2015-01-23,2014-15,New Orleans @ Minnesota,New Orleans Pelicans,Minnesota Timberwolves,1.07,1.5,1.34,1.41,2.34,10.5,2.97,3.3,6.5
+2015-01-23,2014-15,LA Lakers @ San Antonio,Los Angeles Lakers,San Antonio Spurs,11,34,12.66,17.5,1.06,1.13,1.08,1.06,-13.5
+2015-01-23,2014-15,Boston @ Denver,Boston Celtics,Denver Nuggets,1.01,4.7,2.16,3.25,1.12,1.9,1.38,1.41,-9.5
+2015-01-23,2014-15,Houston @ Phoenix,Houston Rockets,Phoenix Suns,1.06,2.32,1.74,2.22,1.76,4,1.85,1.81,-2.5
+2015-01-23,2014-15,Sacramento @ Golden State,Sacramento Kings,Golden State Warriors,7,1000,14.16,15.5,1.02,1.19,1.07,1.07,-15.5
+2015-01-25,2014-15,Miami @ Chicago,Miami Heat,Chicago Bulls,1.01,5.1,1.38,4.1,1.23,6,1.95,1.3,-8.5
+2015-01-25,2014-15,Oklahoma City @ Cleveland,Oklahoma City Thunder,Cleveland Cavaliers,1.8,6,2.89,2.5,1.01,2.36,1.4,1.64,-3.5
+2015-01-25,2014-15,LA Clippers @ Phoenix,Los Angeles Clippers,Phoenix Suns,1.01,2.04,1.46,1.75,2.08,130,3.38,2.3,2.5
+2015-01-25,2014-15,Dallas @ New Orleans,Dallas Mavericks,New Orleans Pelicans,1.33,2.44,1.84,1.65,1.14,2.58,2.12,2.44,2.5
+2015-01-25,2014-15,Minnesota @ Atlanta,Minnesota Timberwolves,Atlanta Hawks,19,24,20.52,19.5,1.01,1.18,1.04,1.06,-18.5
+2015-01-25,2014-15,Indiana @ Orlando,Indiana Pacers,Orlando Magic,1.02,7,1.92,1.9,1.18,4,1.71,2.1,2.5
+2015-01-24,2014-15,New York @ Charlotte,New York Knicks,Charlotte Hornets,1.99,50,4.1,4.7,1.01,1.96,1.26,1.26,-9.5
+2015-01-24,2014-15,Detroit @ Milwaukee,Detroit Pistons,Milwaukee Bucks,1.45,5.1,1.81,1.71,1.02,3.2,1.73,2.38,1.5
+2015-01-24,2014-15,Philadelphia @ Memphis,Philadelphia 76ers,Memphis Grizzlies,10,1000,28.12,22,1.02,1.11,1.05,1.05,-17.5
+2015-01-24,2014-15,Brooklyn @ Utah,Brooklyn Nets,Utah Jazz,2.54,26,4.42,2.66,1.03,1.64,1.19,1.6,-4.5
+2015-01-24,2014-15,Washington @ Portland,Washington Wizards,Portland Trail Blazers,1.21,5.1,1.54,1.66,1.03,5.2,3.13,2.48,4.5
+2015-01-25,2014-15,Milwaukee @ San Antonio,Milwaukee Bucks,San Antonio Spurs,1.77,10,5.25,7.2,1.05,2.2,1.24,1.16,-11.5
+2015-01-25,2014-15,Detroit @ Toronto,Detroit Pistons,Toronto Raptors,3.6,50,4.69,4.7,1.02,1.49,1.2,1.27,-7.5
+2015-01-25,2014-15,Boston @ Golden State,Boston Celtics,Golden State Warriors,18,26,23.69,23,1.01,1.11,1.05,1.04,-17.5
+2015-01-25,2014-15,Washington @ Denver,Washington Wizards,Denver Nuggets,1.02,5,1.6,1.68,1.47,26,1.99,2.42,2.5
+2015-01-25,2014-15,Houston @ LA Lakers,Houston Rockets,Los Angeles Lakers,1.01,1.27,1.14,1.26,4.6,80,5.68,5,8.5
+2015-01-26,2014-15,Orlando @ Memphis,Orlando Magic,Memphis Grizzlies,8.2,8.8,8.47,8.2,1.02,1.15,1.07,1.15,-12.5
+2015-01-26,2014-15,Philadelphia @ New Orleans,Philadelphia 76ers,New Orleans Pelicans,8,20,15.46,13.5,1.03,1.15,1.08,1.09,-14.5
+2015-01-26,2014-15,Minnesota @ Oklahoma City,Minnesota Timberwolves,Oklahoma City Thunder,7,18.5,14,10.5,1.03,1.17,1.09,1.11,-15.5
+2015-01-26,2014-15,Boston @ Utah,Boston Celtics,Utah Jazz,1.01,4.2,1.37,3.8,1.32,17,1.54,1.36,-8.5
+2015-01-26,2014-15,Denver @ LA Clippers,Denver Nuggets,Los Angeles Clippers,1.83,12.5,5.02,12,1.04,2.7,1.25,1.1,-13.5
+2015-01-27,2014-15,Chicago @ Golden State,Chicago Bulls,Golden State Warriors,1.28,11,4.43,6.4,1.04,2.6,1.27,1.17,-11.5
+2015-01-27,2014-15,Toronto @ Indiana,Toronto Raptors,Indiana Pacers,1.02,2.16,1.29,1.69,1.85,2.48,2.34,2.48,3.5
+2015-01-27,2014-15,Cleveland @ Detroit,Cleveland Cavaliers,Detroit Pistons,1.01,1.49,1.23,1.28,4.2,34,4.88,4.5,8.5
+2015-01-27,2014-15,Milwaukee @ Miami,Milwaukee Bucks,Miami Heat,1.01,2.66,1.25,2.22,1.27,7.8,2.05,1.84,-4.5
+2015-01-27,2014-15,Memphis @ Dallas,Memphis Grizzlies,Dallas Mavericks,1.01,3.75,2.06,3.15,1.35,130,4.03,1.45,-6.5
+2015-01-27,2014-15,Washington @ LA Lakers,Washington Wizards,Los Angeles Lakers,1.04,4,1.81,1.25,1.3,26,2.16,5,8.5
+2015-01-28,2014-15,Portland @ Cleveland,Portland Trail Blazers,Cleveland Cavaliers,1.35,3.95,2.47,2.34,1.08,2.5,1.53,1.73,-5.5
+2015-01-28,2014-15,Detroit @ Philadelphia,Detroit Pistons,Philadelphia 76ers,1.31,50,1.91,1.34,1.01,4.1,1.4,3.9,7.5
+2015-01-28,2014-15,Sacramento @ Toronto,Sacramento Kings,Toronto Raptors,2.92,320,7.37,3.1,1.01,1.53,1.34,1.46,-7.5
+2015-01-28,2014-15,Brooklyn @ Atlanta,Brooklyn Nets,Atlanta Hawks,6,12.5,7.87,11,1.02,1.21,1.09,1.1,-13.5
+2015-01-28,2014-15,Dallas @ Houston,Dallas Mavericks,Houston Rockets,1.91,13.5,3.29,2.62,1.05,1.81,1.46,1.63,-4.5
+2015-01-28,2014-15,Boston @ Minnesota,Boston Celtics,Minnesota Timberwolves,1.44,21,1.81,1.61,1.01,2.76,1.24,2.62,4.5
+2015-01-28,2014-15,Denver @ New Orleans,Denver Nuggets,New Orleans Pelicans,1.66,3.4,2.42,3.3,1.4,2.76,1.48,1.46,-6.5
+2015-01-28,2014-15,Oklahoma City @ New York,Oklahoma City Thunder,New York Knicks,1.2,50,1.39,1.3,1.03,6,1.87,4.8,9.5
+2015-01-28,2014-15,Charlotte @ San Antonio,Charlotte Hornets,San Antonio Spurs,8.2,26,11.38,10.5,1.01,1.21,1.11,1.13,-12.5
+2015-01-28,2014-15,LA Clippers @ Utah,Los Angeles Clippers,Utah Jazz,1.06,2,1.51,1.38,3,5.4,4.14,3.8,7.5
+2015-01-28,2014-15,Washington @ Phoenix,Washington Wizards,Phoenix Suns,2.68,36,4.55,3.15,1.01,1.59,1.32,1.47,-6.5
+2015-01-29,2014-15,Milwaukee @ Orlando,Milwaukee Bucks,Orlando Magic,1.01,1.66,1.16,1.63,2.52,16,3.55,2.58,4.5
+2015-01-29,2014-15,New York @ Indiana,New York Knicks,Indiana Pacers,2.4,6.8,3.23,4.1,1.05,1.72,1.37,1.32,-8.5
+2015-01-29,2014-15,Denver @ Memphis,Denver Nuggets,Memphis Grizzlies,5.8,17.5,8.36,5.8,1.02,1.24,1.08,1.2,-10.5
+2015-01-29,2014-15,Chicago @ LA Lakers,Chicago Bulls,Los Angeles Lakers,1.08,50,1.69,1.22,1.01,7.6,1.67,5.5,9.5
+2015-01-30,2014-15,Minnesota @ Philadelphia,Minnesota Timberwolves,Philadelphia 76ers,1.45,7.2,1.7,1.66,1.01,3.05,1.96,2.52,4.5
+2015-01-30,2014-15,Portland @ Atlanta,Portland Trail Blazers,Atlanta Hawks,1.9,6.4,3.06,3.05,1.06,2.54,1.51,1.48,-6.5
+2015-01-30,2014-15,Houston @ Boston,Houston Rockets,Boston Celtics,1.01,1.45,1.15,1.37,3.5,6,4.05,3.6,6.5
+2015-01-30,2014-15,Toronto @ Brooklyn,Toronto Raptors,Brooklyn Nets,1.04,3.85,1.59,1.35,1.39,34,1.79,4,7.5
+2015-01-30,2014-15,Sacramento @ Cleveland,Sacramento Kings,Cleveland Cavaliers,3.9,120,9.11,5.7,1.03,1.36,1.24,1.21,-8.5
+2015-01-30,2014-15,LA Clippers @ New Orleans,Los Angeles Clippers,New Orleans Pelicans,1.28,6,1.59,1.28,1.03,4.2,1.96,4.2,6.5
+2015-01-30,2014-15,Dallas @ Miami,Dallas Mavericks,Miami Heat,1.01,3.05,1.5,1.33,1.45,10,2.1,4,8.5
+2015-01-30,2014-15,Golden State @ Utah,Golden State Warriors,Utah Jazz,1.19,100,2.39,1.2,1.01,6.2,1.43,5.8,10.5
+2015-01-30,2014-15,Chicago @ Phoenix,Chicago Bulls,Phoenix Suns,2.32,11,4.71,3.45,1.01,1.61,1.24,1.42,-6.5
+2015-01-31,2014-15,Sacramento @ Indiana,Sacramento Kings,Indiana Pacers,1.03,3,1.42,3,1.49,12,2.68,1.5,-5.5
+2015-01-31,2014-15,Dallas @ Orlando,Dallas Mavericks,Orlando Magic,1.02,1.38,1.25,1.36,3.55,6.8,6.13,3.8,7.5
+2015-01-31,2014-15,Toronto @ Washington,Toronto Raptors,Washington Wizards,1.01,2.96,1.87,2.9,1.5,18,2.08,1.51,-4.5
+2015-01-31,2014-15,Philadelphia @ Atlanta,Philadelphia 76ers,Atlanta Hawks,6,24,14.08,20,1.02,1.65,1.11,1.05,-17.5
+2015-01-31,2014-15,Houston @ Detroit,Houston Rockets,Detroit Pistons,1.52,12,2.94,1.6,1.02,2.8,1.47,2.68,4.5
+2015-01-31,2014-15,Oklahoma City @ Memphis,Oklahoma City Thunder,Memphis Grizzlies,2.46,11.5,2.78,2.66,1.02,1.7,1.47,1.6,-6.5
+2015-01-31,2014-15,Cleveland @ Minnesota,Cleveland Cavaliers,Minnesota Timberwolves,1.02,1.94,1.18,1.17,1.83,7.2,2.6,7,10.5
+2015-01-31,2014-15,Portland @ Milwaukee,Portland Trail Blazers,Milwaukee Bucks,1.77,12,2.9,1.82,1.01,2.28,1.35,2.2,2.5
+2015-01-31,2014-15,Charlotte @ Denver,Charlotte Hornets,Denver Nuggets,1.01,3.15,1.21,2.82,1.41,180,2.01,1.53,-6.5
+2015-01-31,2014-15,LA Clippers @ San Antonio,Los Angeles Clippers,San Antonio Spurs,1.01,2.92,1.43,2.8,1.47,21,4.22,1.55,-5.5
+2015-01-31,2014-15,Phoenix @ Golden State,Phoenix Suns,Golden State Warriors,2.34,13.5,5.68,5.9,1.03,1.76,1.19,1.2,-9.5
+2015-02-01,2014-15,Miami @ Boston,Miami Heat,Boston Celtics,1.01,2.58,1.79,2.42,1.61,2.5,1.73,1.67,-3.5
+2015-02-01,2014-15,LA Lakers @ New York,Los Angeles Lakers,New York Knicks,2.26,2.38,2.31,2.32,1.01,1.79,1.21,1.71,-2.5
+2015-02-02,2014-15,Philadelphia @ Cleveland,Philadelphia 76ers,Cleveland Cavaliers,17.5,50,19.85,23,1.01,1.12,1.06,1.04,-16.5
+2015-02-02,2014-15,Charlotte @ Washington,Charlotte Hornets,Washington Wizards,1.01,4.3,1.28,4.2,1.24,4.3,1.63,1.31,-7.5
+2015-02-02,2014-15,LA Clippers @ Brooklyn,Los Angeles Clippers,Brooklyn Nets,1.01,4.3,1.25,1.29,1.12,5.2,2.08,4.4,8.5
+2015-02-02,2014-15,Milwaukee @ Toronto,Milwaukee Bucks,Toronto Raptors,1.06,3.7,1.9,3.25,1.37,10,1.7,1.43,-5.5
+2015-02-02,2014-15,Atlanta @ New Orleans,Atlanta Hawks,New Orleans Pelicans,1.4,50,2.01,1.71,1.01,2.62,1.52,2.38,3.5
+2015-02-02,2014-15,Orlando @ Oklahoma City,Orlando Magic,Oklahoma City Thunder,5.8,11,7.88,6,1.01,1.21,1.15,1.2,-12.5
+2015-02-02,2014-15,Minnesota @ Dallas,Minnesota Timberwolves,Dallas Mavericks,1.16,11,7.94,6.6,1.01,1.18,1.09,1.17,-11.5
+2015-02-02,2014-15,Memphis @ Phoenix,Memphis Grizzlies,Phoenix Suns,1.28,2.42,1.54,1.8,1.1,3.6,1.89,2.2,2.5
+2015-02-03,2014-15,Denver @ Philadelphia,Denver Nuggets,Philadelphia 76ers,1.21,80,1.58,1.34,1.01,4.1,1.39,3.95,8.5
+2015-02-03,2014-15,Miami @ Detroit,Miami Heat,Detroit Pistons,2.32,5.1,2.54,2.6,1.01,1.75,1.18,1.62,-4.5
+2015-02-03,2014-15,Boston @ New York,Boston Celtics,New York Knicks,1.01,2.1,1.41,2,1.85,17.5,2.14,2.04,-1.5
+2015-02-03,2014-15,Utah @ Portland,Utah Jazz,Portland Trail Blazers,3,6,4.61,4.6,1.01,1.67,1.27,1.27,-8.5
+2015-02-03,2014-15,Golden State @ Sacramento,Golden State Warriors,Sacramento Kings,1.01,1.45,1.15,1.2,3.6,60,8.28,6,10.5
+2015-02-04,2014-15,Detroit @ Indiana,Detroit Pistons,Indiana Pacers,1.98,7.2,2.85,2.62,1.01,1.91,1.33,1.61,-3.5
+2015-02-04,2014-15,Washington @ Atlanta,Washington Wizards,Atlanta Hawks,3.1,3.2,3.15,3.2,1.01,1.7,1.3,1.46,-5.5
+2015-02-04,2014-15,Denver @ Boston,Denver Nuggets,Boston Celtics,1.71,9.2,3.15,2.44,1.01,2.52,1.39,1.65,-3.5
+2015-02-04,2014-15,Brooklyn @ Toronto,Brooklyn Nets,Toronto Raptors,1.01,4.4,1.63,4.4,1.2,50,1.86,1.33,-7.5
+2015-02-04,2014-15,Chicago @ Houston,Chicago Bulls,Houston Rockets,1.8,100,2.64,2.32,1.01,2,1.27,1.73,-3.5
+2015-02-04,2014-15,LA Lakers @ Milwaukee,Los Angeles Lakers,Milwaukee Bucks,1.06,5.5,1.68,5.5,1.01,2.14,1.32,1.24,-9.5
+2015-02-04,2014-15,Miami @ Minnesota,Miami Heat,Minnesota Timberwolves,1.12,4.8,2.32,2.16,1.24,7.4,2.06,1.85,-1.5
+2015-02-04,2014-15,Oklahoma City @ New Orleans,Oklahoma City Thunder,New Orleans Pelicans,1.02,3.4,1.89,2.58,1.37,2.26,1.65,1.62,-3.5
+2015-02-04,2014-15,Orlando @ San Antonio,Orlando Magic,San Antonio Spurs,8,55,11.35,11,1.01,1.36,1.11,1.08,-13.5
+2015-02-04,2014-15,Memphis @ Utah,Memphis Grizzlies,Utah Jazz,1.02,1.44,1.21,1.39,3.45,10,3.95,3.6,6.5
+2015-02-04,2014-15,Dallas @ Golden State,Dallas Mavericks,Golden State Warriors,1.4,14.5,2.61,4.1,1.01,3.6,1.52,1.31,-8.5
+2015-02-05,2014-15,Washington @ Charlotte,Washington Wizards,Charlotte Hornets,1.15,9.2,1.79,1.88,1.01,5.7,1.81,2.12,-1.5
+2015-02-05,2014-15,LA Clippers @ Cleveland,Los Angeles Clippers,Cleveland Cavaliers,2.7,34,2.97,2.74,1.01,1.58,1.4,1.57,-5.5
+2015-02-05,2014-15,Dallas @ Sacramento,Dallas Mavericks,Sacramento Kings,1.01,1.94,1.45,1.68,2.3,32,2.47,2.44,3.5
+2015-02-05,2014-15,Phoenix @ Portland,Phoenix Suns,Portland Trail Blazers,2.68,310,3.01,2.84,1.01,1.6,1.16,1.54,-4.5
+2015-02-06,2014-15,New York @ Brooklyn,New York Knicks,Brooklyn Nets,2.3,4.8,3.51,3.5,1.02,2.16,1.32,1.41,-7.5
+2015-02-06,2014-15,Cleveland @ Indiana,Cleveland Cavaliers,Indiana Pacers,1.1,8,1.39,1.41,1.01,8.6,2.74,3.4,6.5
+2015-02-06,2014-15,LA Lakers @ Orlando,Los Angeles Lakers,Orlando Magic,1.2,2.94,1.77,2.72,1.02,5,1.59,1.52,-3.5
+2015-02-06,2014-15,LA Clippers @ Toronto,Los Angeles Clippers,Toronto Raptors,1.22,6.4,1.87,1.93,1.01,5.1,1.59,2.06,-2.5
+2015-02-06,2014-15,Golden State @ Atlanta,Golden State Warriors,Atlanta Hawks,1.41,4.5,1.94,1.8,1.01,2.34,1.22,2.24,2.5
+2015-02-06,2014-15,Philadelphia @ Boston,Philadelphia 76ers,Boston Celtics,3.5,21,5.77,4.6,1.01,1.39,1.19,1.28,-7.5
+2015-02-06,2014-15,Denver @ Detroit,Denver Nuggets,Detroit Pistons,3.2,9.4,3.59,3.55,1.01,1.43,1.22,1.39,-6.5
+2015-02-06,2014-15,Milwaukee @ Houston,Milwaukee Bucks,Houston Rockets,2.8,26,2.96,2.9,1.02,1.54,1.4,1.51,-4.5
+2015-02-06,2014-15,Memphis @ Minnesota,Memphis Grizzlies,Minnesota Timberwolves,1.02,2.34,1.21,1.28,1.41,11,3.19,4.7,8.5
+2015-02-06,2014-15,New Orleans @ Oklahoma City,New Orleans Pelicans,Oklahoma City Thunder,1.06,4.1,1.51,3.4,1.1,100,2.6,1.43,-6.5
+2015-02-06,2014-15,Utah @ Phoenix,Utah Jazz,Phoenix Suns,1.95,7.6,2.71,3.1,1.02,1.55,1.33,1.47,-4.5
+2015-02-06,2014-15,Miami @ San Antonio,Miami Heat,San Antonio Spurs,6,36,12,10,1.04,1.21,1.11,1.1,-12.5
+2015-02-08,2014-15,LA Clippers @ Oklahoma City,Los Angeles Clippers,Oklahoma City Thunder,2.46,34,3.35,4,1.01,1.67,1.43,1.34,-7.5
+2015-02-08,2014-15,LA Lakers @ Cleveland,Los Angeles Lakers,Cleveland Cavaliers,8.6,15,12.57,14.5,1.01,1.13,1.08,1.07,-13.5
+2015-02-08,2014-15,Atlanta @ Memphis,Atlanta Hawks,Memphis Grizzlies,1.67,3.6,2.46,2.3,1.03,1.93,1.58,1.79,-2.5
+2015-02-08,2014-15,Indiana @ Charlotte,Indiana Pacers,Charlotte Hornets,1.1,6.8,1.87,1.8,1.09,2.6,1.97,2.24,1.5
+2015-02-08,2014-15,Minnesota @ Detroit,Minnesota Timberwolves,Detroit Pistons,1.01,4.4,1.54,4.1,1.3,2.58,1.37,1.31,-7.5
+2015-02-08,2014-15,Chicago @ Orlando,Chicago Bulls,Orlando Magic,1.03,34,1.41,1.39,1.03,4.5,2,3.6,6.5
+2015-02-07,2014-15,Chicago @ New Orleans,Chicago Bulls,New Orleans Pelicans,1.01,2.1,1.57,1.84,2,200,2.35,2.16,1.5
+2015-02-07,2014-15,Brooklyn @ Washington,Brooklyn Nets,Washington Wizards,3,5.6,3.43,3.5,1.01,1.5,1.27,1.38,-6.5
+2015-02-07,2014-15,Golden State @ New York,Golden State Warriors,New York Knicks,1.02,1.17,1.06,1.07,11,50,19.35,16,14.5
+2015-02-07,2014-15,Charlotte @ Philadelphia,Charlotte Hornets,Philadelphia 76ers,1.05,12,1.51,1.3,1.01,4.5,1.53,4.2,7.5
+2015-02-07,2014-15,Portland @ Dallas,Portland Trail Blazers,Dallas Mavericks,1.03,1000,1.69,2.34,1.03,9.2,1.76,1.75,-2.5
+2015-02-07,2014-15,Boston @ Milwaukee,Boston Celtics,Milwaukee Bucks,2.6,8.4,3.84,3.3,1.08,1.66,1.28,1.42,-6.5
+2015-02-07,2014-15,Sacramento @ Utah,Sacramento Kings,Utah Jazz,2.76,50,3.22,3.1,1.02,1.5,1.24,1.48,-5.5
+2015-02-08,2014-15,Portland @ Houston,Portland Trail Blazers,Houston Rockets,1.01,2.82,1.38,2.72,1.36,55,3.06,1.55,-4.5
+2015-02-08,2014-15,San Antonio @ Toronto,San Antonio Spurs,Toronto Raptors,1.32,11,1.91,1.86,1.01,3.5,1.77,2.16,1.5
+2015-02-08,2014-15,Phoenix @ Sacramento,Phoenix Suns,Sacramento Kings,1.28,11,1.94,1.34,1.1,4.6,1.88,4.1,7.5
+2015-02-09,2014-15,San Antonio @ Indiana,San Antonio Spurs,Indiana Pacers,1.1,8,1.63,1.5,1.13,6,1.95,2.98,4.5
+2015-02-09,2014-15,Golden State @ Philadelphia,Golden State Warriors,Philadelphia 76ers,1.01,1.2,1.07,1.05,9.2,21,14.62,19,15.5
+2015-02-09,2014-15,Orlando @ Washington,Orlando Magic,Washington Wizards,5.4,120,6.46,6.6,1.01,1.3,1.15,1.18,-9.5
+2015-02-09,2014-15,New York @ Miami,New York Knicks,Miami Heat,1.57,8,2.16,2.74,1.01,2.72,1.54,1.56,-4.5
+2015-02-09,2014-15,Brooklyn @ Milwaukee,Brooklyn Nets,Milwaukee Bucks,1.41,3.3,2.83,2.94,1.01,2.02,1.51,1.51,-4.5
+2015-02-09,2014-15,Atlanta @ Minnesota,Atlanta Hawks,Minnesota Timberwolves,1.01,1.42,1.3,1.38,2.32,26,3.47,3.6,6.5
+2015-02-09,2014-15,Utah @ New Orleans,Utah Jazz,New Orleans Pelicans,1.04,3.05,2.28,2.3,1.15,10,2.78,1.77,-3.5
+2015-02-09,2014-15,LA Clippers @ Dallas,Los Angeles Clippers,Dallas Mavericks,1.01,5,1.96,4.4,1.24,1000,2.33,1.28,-8.5
+2015-02-09,2014-15,Oklahoma City @ Denver,Oklahoma City Thunder,Denver Nuggets,1.02,1.47,1.1,1.4,3.15,50,6.33,3.5,5.5
+2015-02-10,2014-15,Detroit @ Charlotte,Detroit Pistons,Charlotte Hornets,1.01,2.6,1.46,2.16,1.62,11,1.88,1.83,-2.5
+2015-02-10,2014-15,Houston @ Phoenix,Houston Rockets,Phoenix Suns,1.01,2.36,1.46,2.26,1.32,7.6,1.92,1.8,-2.5
+2015-02-10,2014-15,Sacramento @ Chicago,Sacramento Kings,Chicago Bulls,5,9.2,6.68,6.6,1.01,1.25,1.15,1.17,-10.5
+2015-02-10,2014-15,Brooklyn @ Memphis,Brooklyn Nets,Memphis Grizzlies,7,17.5,10,9.8,1.02,1.17,1.09,1.11,-11.5
+2015-02-10,2014-15,Denver @ LA Lakers,Denver Nuggets,Los Angeles Lakers,1.01,3.9,1.77,2.06,1.35,12,1.95,1.94,-1.5
+2015-02-11,2014-15,New York @ Orlando,New York Knicks,Orlando Magic,2.5,3.35,3.22,3.35,1.02,1.9,1.41,1.42,-5.5
+2015-02-11,2014-15,Atlanta @ Boston,Atlanta Hawks,Boston Celtics,1.03,1.65,1.21,1.36,1.1,30,3.37,3.85,7.5
+2015-02-11,2014-15,San Antonio @ Detroit,San Antonio Spurs,Detroit Pistons,1.03,1.48,1.23,1.4,3.15,7.8,5,3.4,6.5
+2015-02-11,2014-15,Washington @ Toronto,Washington Wizards,Toronto Raptors,1.4,3.5,2.8,2.9,1.1,3.5,1.69,1.53,-5.5
+2015-02-11,2014-15,Sacramento @ Milwaukee,Sacramento Kings,Milwaukee Bucks,5.4,6,5.64,5.4,1.1,1.39,1.21,1.22,-9.5
+2015-02-11,2014-15,Golden State @ Minnesota,Golden State Warriors,Minnesota Timberwolves,1.02,1.6,1.2,1.21,5.4,6.4,5.85,5.8,8.5
+2015-02-11,2014-15,Indiana @ New Orleans,Indiana Pacers,New Orleans Pelicans,1.01,2.36,1.43,1.98,1.75,9,2.03,2.02,-2.5
+2015-02-11,2014-15,Memphis @ Oklahoma City,Memphis Grizzlies,Oklahoma City Thunder,2.72,26,3.29,2.74,1.02,1.75,1.34,1.56,-6.5
+2015-02-11,2014-15,Miami @ Cleveland,Miami Heat,Cleveland Cavaliers,7.6,10,9.23,8.8,1.01,1.15,1.1,1.11,-11.5
+2015-02-11,2014-15,Utah @ Dallas,Utah Jazz,Dallas Mavericks,2.46,7,4.53,2.84,1.04,1.62,1.22,1.5,-4.5
+2015-02-11,2014-15,LA Lakers @ Portland,Los Angeles Lakers,Portland Trail Blazers,10,15,13.11,12,1.01,1.12,1.08,1.09,-13.5
+2015-02-11,2014-15,Houston @ LA Clippers,Houston Rockets,Los Angeles Clippers,1.8,26,3.34,2.44,1.01,1.99,1.49,1.71,-3.5
+2015-02-12,2014-15,Cleveland @ Chicago,Cleveland Cavaliers,Chicago Bulls,1.69,26,2.11,1.77,1.01,2.42,1.64,2.16,2.5
+2015-02-19,2014-15,Dallas @ Oklahoma City,Dallas Mavericks,Oklahoma City Thunder,2.8,36,5.73,2.88,1.01,1.55,1.22,1.52,-4.5
+2015-02-19,2014-15,San Antonio @ LA Clippers,San Antonio Spurs,Los Angeles Clippers,1.29,5.5,1.75,1.74,1.01,5.1,1.88,2.36,2.5
+2015-02-20,2014-15,Cleveland @ Washington,Cleveland Cavaliers,Washington Wizards,1.03,1.71,1.25,1.68,2.38,1000,5.3,2.42,3.5
+2015-02-20,2014-15,San Antonio @ Golden State,San Antonio Spurs,Golden State Warriors,3.3,10,4.27,3.9,1.01,1.54,1.26,1.32,-8.5
+2015-02-20,2014-15,New Orleans @ Orlando,New Orleans Pelicans,Orlando Magic,1.3,12,1.82,1.47,1.03,5.3,2.44,3.1,5.5
+2015-02-20,2014-15,Indiana @ Philadelphia,Indiana Pacers,Philadelphia 76ers,1.04,1.35,1.19,1.27,3.95,17.5,7.07,4.7,8.5
+2015-02-20,2014-15,Toronto @ Atlanta,Toronto Raptors,Atlanta Hawks,1.01,3.2,1.91,3.05,1.45,36,1.74,1.48,-5.5
+2015-02-20,2014-15,Chicago @ Detroit,Chicago Bulls,Detroit Pistons,1.29,7.6,1.52,1.42,1.02,3.35,1.57,3.25,5.5
+2015-02-20,2014-15,Miami @ New York,Miami Heat,New York Knicks,1.1,1.52,1.37,1.37,3.55,3.8,3.67,3.75,5.5
+2015-02-20,2014-15,Phoenix @ Minnesota,Phoenix Suns,Minnesota Timberwolves,1.48,50,2.66,2.14,1.01,2.08,1.75,1.89,-1.5
+2015-02-20,2014-15,Houston @ Dallas,Houston Rockets,Dallas Mavericks,1.75,5.3,2.84,2.26,1.01,1.95,1.49,1.79,-1.5
+2015-02-20,2014-15,Brooklyn @ LA Lakers,Brooklyn Nets,Los Angeles Lakers,1.01,1.8,1.23,1.68,2.06,4.2,3.56,2.44,2.5
+2015-02-20,2014-15,Boston @ Sacramento,Boston Celtics,Sacramento Kings,2.38,7.2,2.8,2.58,1.01,1.7,1.43,1.62,-3.5
+2015-02-20,2014-15,Portland @ Utah,Portland Trail Blazers,Utah Jazz,1.3,21,1.69,1.52,1.04,2.98,1.42,2.84,4.5
+2015-02-20,2014-15,Denver @ Milwaukee,Denver Nuggets,Milwaukee Bucks,1.61,5.6,2.56,4.3,1.05,1.73,1.29,1.28,-6.5
+2015-02-21,2014-15,Oklahoma City @ Charlotte,Oklahoma City Thunder,Charlotte Hornets,1.01,1.77,1.42,1.55,2.42,3.6,2.92,2.8,4.5
+2015-02-21,2014-15,New Orleans @ Miami,New Orleans Pelicans,Miami Heat,1.01,2.28,1.82,2.2,1.6,50,2.29,1.8,-2.5
+2015-02-21,2014-15,Phoenix @ Chicago,Phoenix Suns,Chicago Bulls,2.6,21,5.42,4.3,1.05,2.32,1.25,1.31,-7.5
+2015-02-21,2014-15,Toronto @ Houston,Toronto Raptors,Houston Rockets,2,4.3,2.26,2.24,1.02,1.82,1.65,1.8,-2.5
+2015-02-21,2014-15,Sacramento @ LA Clippers,Sacramento Kings,Los Angeles Clippers,3.55,26,5.24,6.2,1.01,1.51,1.21,1.2,-9.5
+2015-02-22,2014-15,Cleveland @ New York,Cleveland Cavaliers,New York Knicks,1.05,1.16,1.06,1.05,11,22,18.47,22,15.5
+2015-02-22,2014-15,Atlanta @ Milwaukee,Atlanta Hawks,Milwaukee Bucks,1.01,1.63,1.38,1.49,2.6,3.85,3.44,3,4.5
+2015-02-22,2014-15,Washington @ Detroit,Washington Wizards,Detroit Pistons,1.25,34,1.82,1.82,1.02,2.56,1.59,2.2,1.5
+2015-02-22,2014-15,Golden State @ Indiana,Golden State Warriors,Indiana Pacers,1.2,3.6,1.53,1.56,1.02,3.6,2.3,2.8,6.5
+2015-02-22,2014-15,Philadelphia @ Orlando,Philadelphia 76ers,Orlando Magic,2.46,8.8,5.03,4.8,1.07,1.45,1.25,1.25,-8.5
+2015-02-22,2014-15,Denver @ Oklahoma City,Denver Nuggets,Oklahoma City Thunder,4.8,5.8,5.04,4.9,1.05,1.26,1.21,1.25,-10.5
+2015-02-22,2014-15,Boston @ LA Lakers,Boston Celtics,Los Angeles Lakers,1.33,15,2.05,1.69,1.01,4,1.24,2.46,2.5
+2015-02-22,2014-15,Memphis @ Portland,Memphis Grizzlies,Portland Trail Blazers,1.01,13.5,2.12,2.12,1.08,50,2,1.88,-3.5
+2015-02-22,2014-15,Charlotte @ Dallas,Charlotte Hornets,Dallas Mavericks,5.4,6.6,6.03,5.9,1.01,1.23,1.13,1.2,-9.5
+2015-02-23,2014-15,Philadelphia @ Miami,Philadelphia 76ers,Miami Heat,4.7,8.4,7.38,7.4,1.06,1.49,1.15,1.16,-11.5
+2015-02-23,2014-15,Milwaukee @ Chicago,Milwaukee Bucks,Chicago Bulls,3.6,6,3.97,4,1.03,1.44,1.2,1.35,-7.5
+2015-02-23,2014-15,Minnesota @ Houston,Minnesota Timberwolves,Houston Rockets,3.8,5.9,4.45,4.6,1.05,1.46,1.25,1.26,-8.5
+2015-02-23,2014-15,Toronto @ New Orleans,Toronto Raptors,New Orleans Pelicans,1.1,4.7,1.36,1.33,1.15,4.7,2.06,3.9,7.5
+2015-02-23,2014-15,Brooklyn @ Denver,Brooklyn Nets,Denver Nuggets,1.06,2.1,1.51,1.77,2.1,26,3.27,2.26,2.5
+2015-02-23,2014-15,Boston @ Phoenix,Boston Celtics,Phoenix Suns,1.11,4.3,1.51,4.1,1.3,5,2.7,1.31,-7.5
+2015-02-23,2014-15,San Antonio @ Utah,San Antonio Spurs,Utah Jazz,1.43,8.8,2.09,1.45,1.12,3.5,1.53,3.25,5.5
+2015-02-23,2014-15,Memphis @ LA Clippers,Memphis Grizzlies,Los Angeles Clippers,1.01,3.6,1.89,2.46,1.43,34,2.35,1.69,-4.5
+2015-02-24,2014-15,Golden State @ Washington,Golden State Warriors,Washington Wizards,1.01,1.66,1.3,1.36,2.4,9.2,3.58,3.7,6.5
+2015-02-24,2014-15,Cleveland @ Detroit,Cleveland Cavaliers,Detroit Pistons,1.05,2.3,1.39,1.4,1.26,5,2.36,3.65,6.5
+2015-02-24,2014-15,Indiana @ Oklahoma City,Indiana Pacers,Oklahoma City Thunder,3.4,4.1,3.97,4.1,1.01,1.43,1.28,1.33,-6.5
+2015-02-24,2014-15,Toronto @ Dallas,Toronto Raptors,Dallas Mavericks,1.4,11,2.3,2.74,1.01,2.7,1.83,1.58,-4.5
+2015-02-25,2014-15,Miami @ Orlando,Miami Heat,Orlando Magic,1.1,2.46,1.63,1.65,1.01,3,2.43,2.58,2.5
+2015-02-25,2014-15,Dallas @ Atlanta,Dallas Mavericks,Atlanta Hawks,2.2,6,4.1,4.6,1.04,2,1.38,1.28,-6.5
+2015-02-25,2014-15,New York @ Boston,New York Knicks,Boston Celtics,3.25,8.8,7.05,6.6,1.09,1.6,1.18,1.18,-10.5
+2015-02-25,2014-15,Charlotte @ Chicago,Charlotte Hornets,Chicago Bulls,1.02,4.6,2.89,3.9,1.23,11,1.5,1.34,-6.5
+2015-02-25,2014-15,LA Clippers @ Houston,Los Angeles Clippers,Houston Rockets,2.04,18.5,2.56,2.44,1.03,2.1,1.27,1.69,-3.5
+2015-02-25,2014-15,Philadelphia @ Milwaukee,Philadelphia 76ers,Milwaukee Bucks,6.2,6.8,6.59,6.2,1.02,1.19,1.12,1.18,-10.5
+2015-02-25,2014-15,Washington @ Minnesota,Washington Wizards,Minnesota Timberwolves,1.37,15,2.11,2.32,1.01,2.36,1.67,1.77,-1.5
+2015-02-25,2014-15,Brooklyn @ New Orleans,Brooklyn Nets,New Orleans Pelicans,1.6,3.05,1.95,1.77,1.05,2.36,2.01,2.24,3.5
+2015-02-25,2014-15,Phoenix @ Denver,Phoenix Suns,Denver Nuggets,1.09,1.46,1.29,1.44,2.62,3.5,3.36,3.2,5.5
+2015-02-25,2014-15,LA Lakers @ Utah,Los Angeles Lakers,Utah Jazz,1.01,10,2.68,5.6,1.08,11,1.24,1.24,-9.5
+2015-02-25,2014-15,Memphis @ Sacramento,Memphis Grizzlies,Sacramento Kings,1.34,7,1.59,1.36,1.01,3.8,1.63,3.75,7.5
+2015-02-25,2014-15,San Antonio @ Portland,San Antonio Spurs,Portland Trail Blazers,2.26,1000,2.82,2.28,1.01,1.82,1.39,1.79,-3.5
+2015-02-26,2014-15,Golden State @ Cleveland,Golden State Warriors,Cleveland Cavaliers,2.22,50,2.53,2.34,1.01,1.98,1.56,1.74,-3.5
+2015-02-26,2014-15,Oklahoma City @ Phoenix,Oklahoma City Thunder,Phoenix Suns,1.35,7,1.61,1.5,1.02,3.8,2.04,2.98,5.5
+2015-02-27,2014-15,Cleveland @ Indiana,Cleveland Cavaliers,Indiana Pacers,1.59,3.85,2.11,2.38,1.01,2.64,1.8,1.74,4.5
+2015-02-27,2014-15,Washington @ Philadelphia,Washington Wizards,Philadelphia 76ers,1.25,4.4,1.4,1.35,1.11,5,2.74,3.9,8.5
+2015-02-27,2014-15,Orlando @ Atlanta,Orlando Magic,Atlanta Hawks,3.3,1000,20.86,7.8,1.05,1.38,1.13,1.14,-11.5
+2015-02-27,2014-15,Charlotte @ Boston,Charlotte Hornets,Boston Celtics,1.14,3.5,1.42,2.12,1.02,4.6,1.5,1.82,-2.5
+2015-02-27,2014-15,New York @ Detroit,New York Knicks,Detroit Pistons,1.03,13,2.06,12,1.05,3.5,1.15,1.09,-13.5
+2015-02-27,2014-15,Golden State @ Toronto,Golden State Warriors,Toronto Raptors,1.04,2,1.68,1.79,1.99,18,2.51,2.28,2.5
+2015-02-27,2014-15,Minnesota @ Chicago,Minnesota Timberwolves,Chicago Bulls,2.78,3.35,2.84,2.94,1.18,1.6,1.51,1.52,-6.5
+2015-02-27,2014-15,Brooklyn @ Houston,Brooklyn Nets,Houston Rockets,1.21,4.4,2.53,4.1,1.13,3.75,1.36,1.32,-6.5
+2015-02-27,2014-15,LA Clippers @ Memphis,Los Angeles Clippers,Memphis Grizzlies,1.06,2.88,1.55,2.8,1.52,6.2,1.66,1.56,-5.5
+2015-02-27,2014-15,Miami @ New Orleans,Miami Heat,New Orleans Pelicans,1.28,2.1,1.75,1.85,2,3.2,2.15,2.16,1.5
+2015-02-27,2014-15,Utah @ Denver,Utah Jazz,Denver Nuggets,1.02,1.72,1.3,1.57,2.68,2.86,2.76,2.74,4.5
+2015-02-27,2014-15,San Antonio @ Sacramento,San Antonio Spurs,Sacramento Kings,1.02,1.55,1.25,1.23,2.84,5.5,4.82,5.5,9.5
+2015-02-27,2014-15,Milwaukee @ LA Lakers,Milwaukee Bucks,Los Angeles Lakers,1.08,5,1.32,1.44,1.03,6.8,2.87,3.25,5.5
+2015-02-27,2014-15,Oklahoma City @ Portland,Oklahoma City Thunder,Portland Trail Blazers,1.1,26,2.17,3.15,1.01,10,1.7,1.47,-6.5
+2015-02-28,2014-15,Detroit @ Washington,Detroit Pistons,Washington Wizards,2.24,8.6,3.02,2.78,1.02,1.8,1.44,1.55,-3.5
+2015-02-28,2014-15,Atlanta @ Miami,Atlanta Hawks,Miami Heat,1.01,1.77,1.55,1.74,2.28,5.4,2.49,2.34,4.5
+2015-02-28,2014-15,Toronto @ New York,Toronto Raptors,New York Knicks,1.11,6,1.2,1.17,1.01,10,2.24,7,11.5
+2015-02-28,2014-15,Memphis @ Minnesota,Memphis Grizzlies,Minnesota Timberwolves,1.06,2.74,1.4,1.47,1.53,3.5,2.96,3.1,5.5
+2015-02-28,2014-15,Brooklyn @ Dallas,Brooklyn Nets,Dallas Mavericks,1.01,6,2.33,4.1,1.15,7.6,1.45,1.32,-8.5
+2015-02-28,2014-15,San Antonio @ Phoenix,San Antonio Spurs,Phoenix Suns,1.01,2.26,1.7,2.16,1.77,7.6,1.95,1.83,1.5
+2015-02-28,2014-15,Milwaukee @ Utah,Milwaukee Bucks,Utah Jazz,2.24,8.6,2.8,2.54,1.05,1.71,1.41,1.64,-3.5
+2015-03-01,2014-15,LA Clippers @ Chicago,Los Angeles Clippers,Chicago Bulls,1.02,2.52,1.3,1.86,1.77,2.6,2.13,2.18,2.5
+2015-03-01,2014-15,Cleveland @ Houston,Cleveland Cavaliers,Houston Rockets,1.55,7.6,2.28,1.96,1.02,2.86,1.48,2.04,-1.5
+2015-03-01,2014-15,Portland @ Sacramento,Portland Trail Blazers,Sacramento Kings,1.06,1.4,1.2,1.31,4.2,10,4.44,4.2,8.5
+2015-03-01,2014-15,Golden State @ Boston,Golden State Warriors,Boston Celtics,1.1,6.4,2.68,1.25,1.19,5.4,1.58,4.9,8.5
+2015-03-01,2014-15,Philadelphia @ Indiana,Philadelphia 76ers,Indiana Pacers,5,9.2,7.1,6.6,1.04,1.19,1.13,1.19,-11.5
+2015-03-01,2014-15,Charlotte @ Orlando,Charlotte Hornets,Orlando Magic,1.07,1.96,1.59,1.89,2.04,2.16,2.08,2.14,1.5
+2015-03-01,2014-15,Oklahoma City @ LA Lakers,Oklahoma City Thunder,Los Angeles Lakers,1.07,1.7,1.39,1.6,2.5,6,3.75,2.66,3.5
+2015-03-01,2014-15,New Orleans @ Denver,New Orleans Pelicans,Denver Nuggets,1.02,2.5,1.34,1.6,1.83,17.5,2.53,2.58,4.5
+2015-03-02,2014-15,Toronto @ Philadelphia,Toronto Raptors,Philadelphia 76ers,1.02,1.35,1.18,1.24,3.45,7.2,5.98,5.1,8.5
+2015-03-02,2014-15,Golden State @ Brooklyn,Golden State Warriors,Brooklyn Nets,1.42,9.2,2.46,1.44,1.11,3.35,1.79,3.25,5.5
+2015-03-02,2014-15,Phoenix @ Miami,Phoenix Suns,Miami Heat,1.86,6.8,2.31,2.12,1.01,2.16,1.42,1.87,-1.5
+2015-03-02,2014-15,LA Clippers @ Minnesota,Los Angeles Clippers,Minnesota Timberwolves,1.06,2.26,1.41,1.43,1.8,3.95,2.64,3.35,4.5
+2015-03-02,2014-15,New Orleans @ Dallas,New Orleans Pelicans,Dallas Mavericks,2.96,6.4,3.55,4.1,1.01,1.5,1.15,1.32,-8.5
+2015-03-03,2014-15,LA Lakers @ Charlotte,Los Angeles Lakers,Charlotte Hornets,2.9,9,4.19,4.5,1.03,1.36,1.23,1.26,-8.5
+2015-03-03,2014-15,Boston @ Cleveland,Boston Celtics,Cleveland Cavaliers,5,130,6.94,6.4,1.01,1.21,1.1,1.18,-12.5
+2015-03-03,2014-15,Sacramento @ New York,Sacramento Kings,New York Knicks,1.01,1.62,1.34,1.53,2.56,3.6,2.62,2.74,4.5
+2015-03-03,2014-15,Houston @ Atlanta,Houston Rockets,Atlanta Hawks,1.1,8.6,1.81,4.4,1.01,8.8,1.66,1.29,-8.5
+2015-03-03,2014-15,Washington @ Chicago,Washington Wizards,Chicago Bulls,1.74,13.5,2.05,1.9,1.05,2.14,1.47,2.08,1.5
+2015-03-03,2014-15,Utah @ Memphis,Utah Jazz,Memphis Grizzlies,1.01,4.7,1.3,3.8,1.26,55,3.09,1.33,-7.5
+2015-03-03,2014-15,Milwaukee @ Denver,Milwaukee Bucks,Denver Nuggets,1.28,11,1.61,1.54,1.01,5.5,1.35,2.84,5.5
+2015-03-04,2014-15,New York @ Indiana,New York Knicks,Indiana Pacers,10,12,11.19,11.5,1.04,1.12,1.09,1.1,-13.5
+2015-03-04,2014-15,Phoenix @ Orlando,Phoenix Suns,Orlando Magic,1.09,1.9,1.56,1.56,1.3,4.3,2.43,2.74,4.5
+2015-03-04,2014-15,Utah @ Boston,Utah Jazz,Boston Celtics,1.16,8.6,1.58,2.14,1.04,3.2,1.82,1.91,-1.5
+2015-03-04,2014-15,Charlotte @ Brooklyn,Charlotte Hornets,Brooklyn Nets,1.01,3.15,1.31,3,1.43,4.3,1.51,1.52,-5.5
+2015-03-04,2014-15,Cleveland @ Toronto,Cleveland Cavaliers,Toronto Raptors,1.01,1.65,1.39,1.52,2.72,3.2,2.91,2.94,4.5
+2015-03-04,2014-15,Denver @ Minnesota,Denver Nuggets,Minnesota Timberwolves,1.21,3.5,2.15,3.5,1.39,1.45,1.41,1.39,-6.5
+2015-03-04,2014-15,Detroit @ New Orleans,Detroit Pistons,New Orleans Pelicans,2.22,34,3.04,2.84,1.05,1.56,1.47,1.52,-5.5
+2015-03-04,2014-15,Philadelphia @ Oklahoma City,Philadelphia 76ers,Oklahoma City Thunder,1.5,17,6.84,17,1.01,3.25,1.36,1.07,-14.5
+2015-03-04,2014-15,LA Lakers @ Miami,Los Angeles Lakers,Miami Heat,2.1,5.3,4.32,5.3,1.09,2.02,1.24,1.22,-9.5
+2015-03-04,2014-15,Sacramento @ San Antonio,Sacramento Kings,San Antonio Spurs,5.6,6.8,6.51,6.8,1.15,1.21,1.17,1.17,-10.5
+2015-03-04,2014-15,Milwaukee @ Golden State,Milwaukee Bucks,Golden State Warriors,3.75,12.5,8.39,12.5,1.01,1.49,1.09,1.09,-13.5
+2015-03-04,2014-15,Portland @ LA Clippers,Portland Trail Blazers,Los Angeles Clippers,1.01,11.5,1.77,1.93,1.02,5.3,1.65,2.1,1.5
+2015-03-04,2014-15,Memphis @ Houston,Memphis Grizzlies,Houston Rockets,1.1,2.92,1.31,2.4,1.31,100,1.85,1.67,-3.5
+2015-03-05,2014-15,Oklahoma City @ Chicago,Oklahoma City Thunder,Chicago Bulls,1.1,6.2,1.59,1.91,1.08,6.6,2.18,2.08,3.5
+2015-03-05,2014-15,Dallas @ Portland,Dallas Mavericks,Portland Trail Blazers,1.76,6,2.51,2.46,1.02,2.3,1.52,1.7,-3.5
+2015-03-06,2014-15,Toronto @ Charlotte,Toronto Raptors,Charlotte Hornets,1.86,3,2.21,2.08,1.01,2.02,1.55,1.99,1.5
+2015-03-06,2014-15,Chicago @ Indiana,Chicago Bulls,Indiana Pacers,2.46,4.7,3.06,3.05,1.01,1.52,1.27,1.43,-5.5
+2015-03-06,2014-15,Sacramento @ Orlando,Sacramento Kings,Orlando Magic,1.6,3.7,1.78,1.73,1.01,2.46,1.46,2.3,1.5
+2015-03-06,2014-15,Utah @ Philadelphia,Utah Jazz,Philadelphia 76ers,1.03,1.54,1.37,1.35,3.4,3.85,3.79,3.65,7.5
+2015-03-06,2014-15,Miami @ Washington,Miami Heat,Washington Wizards,2.2,3.2,2.95,3.1,1.01,1.8,1.38,1.47,-4.5
+2015-03-06,2014-15,Cleveland @ Atlanta,Cleveland Cavaliers,Atlanta Hawks,1.8,1000,2.35,1.87,1.01,2.2,1.71,2.1,1.5
+2015-03-06,2014-15,Phoenix @ Brooklyn,Phoenix Suns,Brooklyn Nets,1.01,8.6,1.73,2.32,1.03,2.32,1.46,1.76,-2.5
+2015-03-06,2014-15,Detroit @ Houston,Detroit Pistons,Houston Rockets,3.5,4.3,4.01,4.3,1.02,1.36,1.24,1.31,-7.5
+2015-03-06,2014-15,LA Lakers @ Memphis,Los Angeles Lakers,Memphis Grizzlies,1.31,8.2,3.61,8.2,1.01,3.6,1.28,1.15,-11.5
+2015-03-06,2014-15,Boston @ New Orleans,Boston Celtics,New Orleans Pelicans,1.01,3.65,1.64,3.65,1.29,5,1.37,1.35,-6.5
+2015-03-06,2014-15,Denver @ San Antonio,Denver Nuggets,San Antonio Spurs,6.8,7.6,7.09,7.2,1.01,1.27,1.12,1.15,-11.5
+2015-03-06,2014-15,Dallas @ Golden State,Dallas Mavericks,Golden State Warriors,6,32,7.75,7,1.02,1.25,1.14,1.16,-11.5
+2015-03-07,2014-15,Memphis @ New Orleans,Memphis Grizzlies,New Orleans Pelicans,1.2,6.4,1.97,2.04,1.05,4.8,1.59,1.95,1.5
+2015-03-07,2014-15,Phoenix @ Cleveland,Phoenix Suns,Cleveland Cavaliers,6.4,110,9.08,8,1.01,1.25,1.12,1.15,-11.5
+2015-03-07,2014-15,Sacramento @ Miami,Sacramento Kings,Miami Heat,1.06,5.3,2.05,1.96,1.01,12,1.93,1.97,-4.5
+2015-03-07,2014-15,Indiana @ New York,Indiana Pacers,New York Knicks,1.23,3,1.7,1.25,1.51,5.4,2.82,5.1,9.5
+2015-03-07,2014-15,Atlanta @ Philadelphia,Atlanta Hawks,Philadelphia 76ers,1.09,3.35,1.32,1.32,1.01,6.6,3.4,3.95,10.5
+2015-03-07,2014-15,Portland @ Minnesota,Portland Trail Blazers,Minnesota Timberwolves,1.27,3.6,1.74,1.52,1.02,2.96,1.47,2.92,5.5
+2015-03-07,2014-15,Washington @ Milwaukee,Washington Wizards,Milwaukee Bucks,2,10,2.99,2.62,1.02,2.32,1.37,1.6,-4.5
+2015-03-07,2014-15,Houston @ Denver,Houston Rockets,Denver Nuggets,1.01,1.65,1.44,1.59,1.71,100,9.2,2.7,4.5
+2015-03-08,2014-15,Chicago @ San Antonio,Chicago Bulls,San Antonio Spurs,4.9,8,6.77,5.8,1.01,1.24,1.11,1.21,-9.5
+2015-03-08,2014-15,LA Clippers @ Golden State,Los Angeles Clippers,Golden State Warriors,4.8,8,5.69,4.9,1.01,1.4,1.14,1.26,-9.5
+2015-03-08,2014-15,Utah @ Brooklyn,Utah Jazz,Brooklyn Nets,1.02,2.3,1.78,2.24,1.47,6.2,2.11,1.8,-1.5
+2015-03-08,2014-15,Charlotte @ Detroit,Charlotte Hornets,Detroit Pistons,1.05,3.35,2,1.96,1.3,2.54,1.84,2.02,-1.5
+2015-03-08,2014-15,Boston @ Orlando,Boston Celtics,Orlando Magic,1.15,6.2,1.89,1.75,1.01,4.8,1.98,2.26,1.5
+2015-03-08,2014-15,Toronto @ Oklahoma City,Toronto Raptors,Oklahoma City Thunder,2.3,6.4,3.37,3.45,1.02,1.95,1.38,1.4,-6.5
+2015-03-08,2014-15,Dallas @ LA Lakers,Dallas Mavericks,Los Angeles Lakers,1.02,3.3,1.55,1.31,1.44,4.4,2.34,4.1,7.5
+2015-03-09,2014-15,Washington @ Charlotte,Washington Wizards,Charlotte Hornets,1.02,2.32,1.63,2.24,1.78,6,2.41,1.8,-1.5
+2015-03-09,2014-15,Sacramento @ Atlanta,Sacramento Kings,Atlanta Hawks,6.8,120,8.13,7.4,1.01,1.17,1.13,1.14,-10.5
+2015-03-09,2014-15,Boston @ Miami,Boston Celtics,Miami Heat,1.01,2.5,1.48,2.4,1.65,5.3,2.61,1.7,-3.5
+2015-03-09,2014-15,Memphis @ Chicago,Memphis Grizzlies,Chicago Bulls,1.01,3,1.43,1.51,1.51,13.5,3.88,2.94,5.5
+2015-03-09,2014-15,New Orleans @ Milwaukee,New Orleans Pelicans,Milwaukee Bucks,1.01,2.16,1.79,1.88,1.9,4.5,2.1,2.14,-2.5
+2015-03-09,2014-15,New York @ Denver,New York Knicks,Denver Nuggets,4.3,5.9,5.51,5.8,1.02,1.31,1.17,1.21,-9.5
+2015-03-09,2014-15,Golden State @ Phoenix,Golden State Warriors,Phoenix Suns,1.01,1.54,1.33,1.45,2.84,6,3.38,3.1,5.5
+2015-03-09,2014-15,Minnesota @ LA Clippers,Minnesota Timberwolves,Los Angeles Clippers,3.05,230,4.37,4,1.01,1.52,1.25,1.33,-7.5
+2015-03-10,2014-15,Orlando @ Indiana,Orlando Magic,Indiana Pacers,3.2,40,4.8,4.4,1.05,1.55,1.33,1.29,-7.5
+2015-03-10,2014-15,New Orleans @ Brooklyn,New Orleans Pelicans,Brooklyn Nets,1.02,4,1.94,2.34,1.28,7.8,1.73,1.76,-2.5
+2015-03-10,2014-15,Cleveland @ Dallas,Cleveland Cavaliers,Dallas Mavericks,1.01,1.82,1.36,1.64,2.32,11,8.39,2.6,4.5
+2015-03-10,2014-15,Toronto @ San Antonio,Toronto Raptors,San Antonio Spurs,3.35,3.8,3.5,3.8,1.01,1.49,1.16,1.35,-6.5
+2015-03-10,2014-15,New York @ Utah,New York Knicks,Utah Jazz,2.98,15,6.58,11.5,1.03,1.79,1.12,1.09,-13.5
+2015-03-10,2014-15,Detroit @ LA Lakers,Detroit Pistons,Los Angeles Lakers,1.6,6.2,1.7,1.68,1.09,2.56,1.75,2.48,3.5
+2015-03-11,2014-15,Sacramento @ Charlotte,Sacramento Kings,Charlotte Hornets,1.03,4.6,2.94,4.4,1.28,2.4,1.32,1.28,-8.5
+2015-03-11,2014-15,Chicago @ Philadelphia,Chicago Bulls,Philadelphia 76ers,1.07,3.5,1.39,1.41,1.51,3.45,2.78,3.45,5.5
+2015-03-11,2014-15,Memphis @ Boston,Memphis Grizzlies,Boston Celtics,1.24,2.42,1.87,1.4,1.06,3.45,2.37,3.4,4.5
+2015-03-11,2014-15,Brooklyn @ Miami,Brooklyn Nets,Miami Heat,2.22,2.8,2.45,2.8,1.02,1.74,1.61,1.57,-3.5
+2015-03-12,2014-15,Milwaukee @ Indiana,Milwaukee Bucks,Indiana Pacers,2.46,6.4,3.5,3.7,1.05,2.44,1.36,1.36,-7.5
+2015-03-12,2014-15,Memphis @ Washington,Memphis Grizzlies,Washington Wizards,1.99,25,10.26,4.7,1.02,2,1.27,1.27,-9.5
+2015-03-11,2014-15,Orlando @ Milwaukee,Orlando Magic,Milwaukee Bucks,3,4.5,3.24,4.3,1.03,2.1,1.3,1.3,-7.5
+2015-03-11,2014-15,LA Clippers @ Oklahoma City,Los Angeles Clippers,Oklahoma City Thunder,1.01,3.6,1.18,3.5,1.33,26,3.77,1.41,-7.5
+2015-03-11,2014-15,Atlanta @ Denver,Atlanta Hawks,Denver Nuggets,1.34,7,2.47,1.34,1.04,3.75,1.59,3.7,6.5
+2015-03-11,2014-15,Minnesota @ Phoenix,Minnesota Timberwolves,Phoenix Suns,2.22,4.7,2.93,2.86,1.01,1.97,1.4,1.54,-4.5
+2015-03-11,2014-15,Detroit @ Golden State,Detroit Pistons,Golden State Warriors,5.5,21,8.87,15,1.01,1.34,1.15,1.06,-14.5
+2015-03-11,2014-15,Houston @ Portland,Houston Rockets,Portland Trail Blazers,1.5,15,2.28,2.22,1.03,3,1.45,1.79,-3.5
+2015-03-12,2014-15,Houston @ Utah,Houston Rockets,Utah Jazz,1.68,15,3.01,1.78,1.09,2.38,1.98,2.28,2.5
+2015-03-12,2014-15,Cleveland @ San Antonio,Cleveland Cavaliers,San Antonio Spurs,1.04,15,1.65,1.95,1.05,6,1.61,2.04,1.5
+2015-03-12,2014-15,New York @ LA Lakers,New York Knicks,Los Angeles Lakers,1.01,3.65,1.93,3.5,1.38,8.4,2.03,1.38,-6.5
+2015-03-13,2014-15,Chicago @ Charlotte,Chicago Bulls,Charlotte Hornets,1.24,12.5,2.07,1.95,1.01,3.6,1.65,2,-1.5
+2015-03-13,2014-15,Sacramento @ Philadelphia,Sacramento Kings,Philadelphia 76ers,1.07,2.4,1.46,1.6,1.02,8.6,1.68,2.62,3.5
+2015-03-13,2014-15,Orlando @ Boston,Orlando Magic,Boston Celtics,1.44,3.4,2.1,2.84,1.01,4.9,1.4,1.48,-4.5
+2015-03-13,2014-15,Miami @ Toronto,Miami Heat,Toronto Raptors,2.8,12,2.88,2.86,1.04,1.55,1.32,1.5,-5.5
+2015-03-13,2014-15,Minnesota @ Oklahoma City,Minnesota Timberwolves,Oklahoma City Thunder,5,7,6.03,6.4,1.01,1.22,1.11,1.17,-9.5
+2015-03-13,2014-15,LA Clippers @ Dallas,Los Angeles Clippers,Dallas Mavericks,2.06,5.5,2.88,2.28,1.01,2.46,1.46,1.76,-2.5
+2015-03-13,2014-15,Golden State @ Denver,Golden State Warriors,Denver Nuggets,1.31,5,3.02,2.34,1.02,4.1,1.31,1.75,-1.5
+2015-03-13,2014-15,Atlanta @ Phoenix,Atlanta Hawks,Phoenix Suns,1.02,3,1.31,1.45,1.5,5.6,2.88,3.15,6.5
+2015-03-13,2014-15,Detroit @ Portland,Detroit Pistons,Portland Trail Blazers,4.1,38,4.95,4.6,1.01,1.46,1.15,1.27,-8.5
+2015-03-14,2014-15,Boston @ Indiana,Boston Celtics,Indiana Pacers,1.01,5,1.86,4.4,1.25,9.2,1.5,1.27,-7.5
+2015-03-14,2014-15,Sacramento @ Washington,Sacramento Kings,Washington Wizards,1.23,15.5,1.7,6.2,1.02,5.4,1.32,1.19,-9.5
+2015-03-14,2014-15,Brooklyn @ Philadelphia,Brooklyn Nets,Philadelphia 76ers,1.01,1.88,1.26,1.39,2.32,5.2,3.4,3.5,5.5
+2015-03-14,2014-15,Milwaukee @ Memphis,Milwaukee Bucks,Memphis Grizzlies,1.18,5.7,3.71,3.5,1.01,1.58,1.29,1.37,-5.5
+2015-03-14,2014-15,Detroit @ Utah,Detroit Pistons,Utah Jazz,2.74,6.2,3.45,4.3,1.1,1.99,1.36,1.3,-7.5
+2015-03-14,2014-15,New York @ Golden State,New York Knicks,Golden State Warriors,5.7,30,22.63,23,1.03,1.09,1.04,1.04,-16.5
+2015-03-15,2014-15,Chicago @ Oklahoma City,Chicago Bulls,Oklahoma City Thunder,3.7,4.1,3.94,3.7,1.01,1.8,1.3,1.35,-7.5
+2015-03-15,2014-15,Houston @ LA Clippers,Houston Rockets,Los Angeles Clippers,1.15,3.85,1.61,2.86,1.33,7.2,2.44,1.52,-4.5
+2015-03-15,2014-15,Denver @ New Orleans,Denver Nuggets,New Orleans Pelicans,1.05,9.2,1.37,4.2,1.1,34,1.5,1.3,-7.5
+2015-03-15,2014-15,Cleveland @ Orlando,Cleveland Cavaliers,Orlando Magic,1.01,1.33,1.1,1.19,4.6,8,5,6.2,9.5
+2015-03-15,2014-15,Minnesota @ San Antonio,Minnesota Timberwolves,San Antonio Spurs,5.8,11.5,10.78,11.5,1.01,1.16,1.08,1.09,-12.5
+2015-03-15,2014-15,Portland @ Toronto,Portland Trail Blazers,Toronto Raptors,1.01,2.18,1.34,2.18,1.83,21,4.97,1.85,-2.5
+2015-03-15,2014-15,New York @ Phoenix,New York Knicks,Phoenix Suns,3.4,50,5.96,8.6,1.01,1.52,1.12,1.15,-11.5
+2015-03-15,2014-15,Atlanta @ LA Lakers,Atlanta Hawks,Los Angeles Lakers,1.01,1.44,1.15,1.4,3.4,21,3.81,3.55,8.5
+2015-03-16,2014-15,Toronto @ Indiana,Toronto Raptors,Indiana Pacers,1.01,3,1.51,2.76,1.48,3.35,1.85,1.55,-5.5
+2015-03-16,2014-15,Portland @ Washington,Portland Trail Blazers,Washington Wizards,2.04,7.8,2.66,2.08,1.01,1.93,1.24,1.93,-2.5
+2015-03-16,2014-15,Philadelphia @ Boston,Philadelphia 76ers,Boston Celtics,4.7,500,7.81,5.2,1.02,1.28,1.22,1.24,-8.5
+2015-03-16,2014-15,Denver @ Memphis,Denver Nuggets,Memphis Grizzlies,3,10,6.47,8.8,1.05,1.5,1.13,1.12,-12.5
+2015-03-16,2014-15,Brooklyn @ Minnesota,Brooklyn Nets,Minnesota Timberwolves,1.1,1.83,1.62,1.54,2.16,5.5,2.97,2.8,3.5
+2015-03-16,2014-15,Cleveland @ Miami,Cleveland Cavaliers,Miami Heat,1.34,34,2.78,1.44,1.01,3.3,1.39,3.3,5.5
+2015-03-16,2014-15,Oklahoma City @ Dallas,Oklahoma City Thunder,Dallas Mavericks,1.36,7.8,1.92,3.15,1.01,5.6,1.46,1.44,-5.5
+2015-03-16,2014-15,Charlotte @ Utah,Charlotte Hornets,Utah Jazz,2.52,2.8,2.54,2.52,1.01,1.64,1.14,1.63,-4.5
+2015-03-16,2014-15,Atlanta @ Sacramento,Atlanta Hawks,Sacramento Kings,1.02,1.65,1.41,1.55,2.68,6.8,2.94,2.8,4.5
+2015-03-16,2014-15,LA Lakers @ Golden State,Los Angeles Lakers,Golden State Warriors,9.4,48,24.89,34,1.02,1.39,1.06,1.03,-18.5
+2015-03-17,2014-15,Memphis @ Detroit,Memphis Grizzlies,Detroit Pistons,1.07,6.8,1.53,1.56,1.01,3,1.81,2.74,5.5
+2015-03-17,2014-15,San Antonio @ New York,San Antonio Spurs,New York Knicks,1.05,4.1,1.15,1.07,1.22,21,6.61,15.5,14.5
+2015-03-17,2014-15,Orlando @ Houston,Orlando Magic,Houston Rockets,5.1,7.2,6.51,6.4,1.02,2.3,1.18,1.15,-10.5
+2015-03-17,2014-15,Milwaukee @ New Orleans,Milwaukee Bucks,New Orleans Pelicans,2.86,7.2,4.47,3.5,1.01,1.52,1.19,1.36,-7.5
+2015-03-17,2014-15,Charlotte @ LA Clippers,Charlotte Hornets,Los Angeles Clippers,3.25,6.4,5.3,6,1.01,1.5,1.17,1.18,-10.5
+2015-03-18,2014-15,Brooklyn @ Cleveland,Brooklyn Nets,Cleveland Cavaliers,1.1,15.5,11.16,8,1.01,1.49,1.14,1.14,-11.5
+2015-03-18,2014-15,Detroit @ Philadelphia,Detroit Pistons,Philadelphia 76ers,1.77,6.2,1.96,1.92,1.04,2.22,1.61,2.08,1.5
+2015-03-18,2014-15,Portland @ Miami,Portland Trail Blazers,Miami Heat,1.28,6.8,1.7,1.74,1.32,3.6,2.17,2.32,2.5
+2015-03-18,2014-15,Minnesota @ Toronto,Minnesota Timberwolves,Toronto Raptors,6,7.8,6.76,7.2,1.02,1.5,1.15,1.16,-11.5
+2015-03-18,2014-15,Indiana @ Chicago,Indiana Pacers,Chicago Bulls,1.99,2.08,2.04,2.04,1.02,1.96,1.86,1.93,-2.5
+2015-03-18,2014-15,San Antonio @ Milwaukee,San Antonio Spurs,Milwaukee Bucks,1.04,1.67,1.21,1.46,2.3,3.3,3.02,3.05,6.5
+2015-03-18,2014-15,Boston @ Oklahoma City,Boston Celtics,Oklahoma City Thunder,2.4,3.9,3.45,3.45,1.03,2,1.12,1.38,-7.5
+2015-03-18,2014-15,Orlando @ Dallas,Orlando Magic,Dallas Mavericks,7.8,21,10.05,10,1.04,1.39,1.1,1.1,-12.5
+2015-03-18,2014-15,LA Clippers @ Sacramento,Los Angeles Clippers,Sacramento Kings,1.01,1.48,1.12,1.27,3.85,4.7,4.57,4.5,8.5
+2015-03-18,2014-15,Atlanta @ Golden State,Atlanta Hawks,Golden State Warriors,3,9.2,3.58,3.65,1.01,1.46,1.18,1.38,-6.5
+2015-03-18,2014-15,Washington @ Utah,Washington Wizards,Utah Jazz,1.01,2.8,1.72,2.36,1.4,21,1.81,1.71,-3.5
+2015-03-19,2014-15,Minnesota @ New York,Minnesota Timberwolves,New York Knicks,1.03,3.3,1.74,2.18,1.34,2.74,1.89,1.83,-1.5
+2015-03-19,2014-15,Denver @ Houston,Denver Nuggets,Houston Rockets,3.6,5.5,3.87,3.95,1.01,1.4,1.1,1.35,-8.5
+2015-03-19,2014-15,New Orleans @ Phoenix,New Orleans Pelicans,Phoenix Suns,1.74,6.8,2.28,2.34,1.1,2.3,1.62,1.74,-1.5
+2015-03-19,2014-15,Utah @ LA Lakers,Utah Jazz,Los Angeles Lakers,1.05,2.28,1.33,1.58,2,4.1,2.59,2.68,4.5
+2015-03-20,2014-15,Portland @ Orlando,Portland Trail Blazers,Orlando Magic,1.2,6.2,1.6,1.3,1.02,4.3,2.14,4.3,8.5
+2015-03-20,2014-15,New York @ Philadelphia,New York Knicks,Philadelphia 76ers,2.74,4.7,4.28,3.2,1.06,1.53,1.4,1.46,-5.5
+2015-03-20,2014-15,Milwaukee @ Brooklyn,Milwaukee Bucks,Brooklyn Nets,1.35,9.4,2.11,2.16,1.01,3.5,1.77,1.86,-2.5
+2015-03-20,2014-15,Indiana @ Cleveland,Indiana Pacers,Cleveland Cavaliers,3.15,8,4.69,6.2,1.07,1.59,1.19,1.18,-10.5
+2015-03-20,2014-15,Denver @ Miami,Denver Nuggets,Miami Heat,3.9,4,3.96,4,1.01,1.59,1.19,1.32,-7.5
+2015-03-20,2014-15,Toronto @ Chicago,Toronto Raptors,Chicago Bulls,1.9,11,2.22,2.12,1.01,1.98,1.72,1.88,-1.5
+2015-03-20,2014-15,Atlanta @ Oklahoma City,Atlanta Hawks,Oklahoma City Thunder,1.16,13,2.1,2.04,1.01,3.45,1.75,1.93,-1.5
+2015-03-20,2014-15,Memphis @ Dallas,Memphis Grizzlies,Dallas Mavericks,1.01,2.5,1.68,2.44,1.66,3.75,2.02,1.71,-3.5
+2015-03-20,2014-15,Boston @ San Antonio,Boston Celtics,San Antonio Spurs,4.6,5.5,5.25,5.5,1.01,1.27,1.13,1.23,-8.5
+2015-03-20,2014-15,Charlotte @ Sacramento,Charlotte Hornets,Sacramento Kings,1.52,1.95,1.61,1.54,1.01,2.82,2.12,2.78,4.5
+2015-03-20,2014-15,New Orleans @ Golden State,New Orleans Pelicans,Golden State Warriors,11,15,11.88,12,1.07,1.3,1.09,1.09,-12.5
+2015-03-20,2014-15,Washington @ LA Clippers,Washington Wizards,Los Angeles Clippers,3.35,8.2,4.14,3.75,1.01,1.45,1.17,1.35,-6.5
+2015-03-21,2014-15,Brooklyn @ Indiana,Brooklyn Nets,Indiana Pacers,1.1,4.8,2.67,4.3,1.23,3.9,1.46,1.29,-8.5
+2015-03-21,2014-15,Chicago @ Detroit,Chicago Bulls,Detroit Pistons,1.1,6,1.77,1.72,1.02,2.52,1.42,2.34,2.5
+2015-03-21,2014-15,Phoenix @ Houston,Phoenix Suns,Houston Rockets,1.09,4.6,1.84,4.1,1.17,8,1.52,1.33,-8.5
+2015-03-21,2014-15,Portland @ Memphis,Portland Trail Blazers,Memphis Grizzlies,2.36,26,2.63,2.36,1.01,2,1.21,1.69,-3.5
+2015-03-21,2014-15,Utah @ Golden State,Utah Jazz,Golden State Warriors,4.7,18.5,6.43,5,1.01,1.27,1.14,1.25,-8.5
+2015-03-22,2014-15,Cleveland @ Milwaukee,Cleveland Cavaliers,Milwaukee Bucks,1.01,2.3,1.24,1.3,1.73,4.6,2.66,4.2,7.5
+2015-03-22,2014-15,Miami @ Oklahoma City,Miami Heat,Oklahoma City Thunder,2.4,2.4,2.4,2.4,1.01,1.79,1.14,1.6,-3.5
+2015-03-22,2014-15,San Antonio @ Atlanta,San Antonio Spurs,Atlanta Hawks,1.01,2.3,1.28,2.12,1.75,1.9,1.81,1.81,-1.5
+2015-03-22,2014-15,New Orleans @ LA Clippers,New Orleans Pelicans,Los Angeles Clippers,2.4,5.8,4.98,5.4,1.01,1.69,1.15,1.19,-9.5
+2015-03-22,2014-15,New York @ Toronto,New York Knicks,Toronto Raptors,1.18,30,7.45,10.5,1.02,1.17,1.05,1.11,-12.5
+2015-03-22,2014-15,Washington @ Sacramento,Washington Wizards,Sacramento Kings,1.56,50,1.96,1.63,1.01,2.6,1.44,2.6,3.5
+2015-03-22,2014-15,Detroit @ Boston,Detroit Pistons,Boston Celtics,1.01,4.4,1.35,3.2,1.16,8.6,1.43,1.46,-5.5
+2015-03-22,2014-15,Denver @ Orlando,Denver Nuggets,Orlando Magic,1.01,2.02,1.19,2,1.9,25,2.73,2,-1.5
+2015-03-22,2014-15,Charlotte @ Minnesota,Charlotte Hornets,Minnesota Timberwolves,1.03,2.2,1.31,1.52,1.64,6,2.27,2.86,5.5
+2015-03-22,2014-15,Dallas @ Phoenix,Dallas Mavericks,Phoenix Suns,1.13,7.2,1.5,1.58,1.01,4.4,1.36,2.68,4.5
+2015-03-22,2014-15,Philadelphia @ LA Lakers,Philadelphia 76ers,Los Angeles Lakers,1.65,4,2.26,2.76,1.01,2.16,1.35,1.56,-4.5
+2015-03-23,2014-15,Houston @ Indiana,Houston Rockets,Indiana Pacers,1.01,2.04,1.33,1.9,1.48,8,2.29,2.12,1.5
+2015-03-23,2014-15,Boston @ Brooklyn,Boston Celtics,Brooklyn Nets,1.02,4,1.85,3.05,1.26,13.5,1.78,1.48,-4.5
+2015-03-23,2014-15,Memphis @ New York,Memphis Grizzlies,New York Knicks,1.01,1.2,1.06,1.09,7.8,13,10.77,13,13.5
+2015-03-23,2014-15,Charlotte @ Chicago,Charlotte Hornets,Chicago Bulls,3.25,5.6,3.63,3.85,1.07,1.6,1.26,1.34,-7.5
+2015-03-23,2014-15,Minnesota @ Utah,Minnesota Timberwolves,Utah Jazz,1.01,9.2,2.05,6,1.04,3.9,1.21,1.21,-11.5
+2015-03-23,2014-15,Washington @ Golden State,Washington Wizards,Golden State Warriors,5.8,34,9.63,7.2,1.01,1.34,1.14,1.15,-11.5
+2015-03-24,2014-15,Toronto @ Detroit,Toronto Raptors,Detroit Pistons,1.63,6.6,2.01,1.64,1.01,2.56,1.94,2.52,2.5
+2015-03-24,2014-15,Miami @ Milwaukee,Miami Heat,Milwaukee Bucks,1.04,2.32,1.5,1.83,1.06,8.6,2.13,2.18,1.5
+2015-03-24,2014-15,LA Lakers @ Oklahoma City,Los Angeles Lakers,Oklahoma City Thunder,5.8,6.8,6.26,6.4,1.01,1.21,1.08,1.19,-10.5
+2015-03-24,2014-15,San Antonio @ Dallas,San Antonio Spurs,Dallas Mavericks,1.18,5.5,1.86,1.63,1.02,6,1.73,2.52,3.5
+2015-03-24,2014-15,Philadelphia @ Sacramento,Philadelphia 76ers,Sacramento Kings,1.46,9,2.42,4.8,1.12,3.1,1.43,1.27,-8.5
+2015-03-24,2014-15,Golden State @ Portland,Golden State Warriors,Portland Trail Blazers,1.04,2,1.27,1.37,1.95,29,3,3.7,6.5
+2015-03-25,2014-15,Brooklyn @ Charlotte,Brooklyn Nets,Charlotte Hornets,1.04,2.66,2.26,2.5,1.32,36,1.72,1.67,-3.5
+2015-03-25,2014-15,LA Clippers @ New York,Los Angeles Clippers,New York Knicks,1.03,1.11,1.08,1.06,12,16.5,14.79,15.5,14.5
+2015-03-25,2014-15,Atlanta @ Orlando,Atlanta Hawks,Orlando Magic,1.23,2.24,1.49,1.24,1.38,5.3,4.13,5.3,9.5
+2015-03-25,2014-15,Indiana @ Washington,Indiana Pacers,Washington Wizards,1.14,3.3,2.68,2.54,1.1,5.5,1.61,1.65,-3.5
+2015-03-25,2014-15,Chicago @ Toronto,Chicago Bulls,Toronto Raptors,1.01,3.2,1.7,1.73,1.32,7.2,2.25,2.36,2.5
+2015-03-25,2014-15,Miami @ Boston,Miami Heat,Boston Celtics,1.01,4.1,1.21,4.1,1.29,5,1.36,1.31,-5.5
+2015-03-25,2014-15,Cleveland @ Memphis,Cleveland Cavaliers,Memphis Grizzlies,1.1,2,1.82,1.92,1.96,3.1,2.16,2.08,2.5
+2015-03-25,2014-15,LA Lakers @ Minnesota,Los Angeles Lakers,Minnesota Timberwolves,1.03,2.18,1.7,2.14,1.46,15,2.01,1.91,-1.5
+2015-03-25,2014-15,Houston @ New Orleans,Houston Rockets,New Orleans Pelicans,1.02,3.05,1.67,2.04,1.23,2.1,1.68,2,1.5
+2015-03-25,2014-15,Philadelphia @ Denver,Philadelphia 76ers,Denver Nuggets,1.05,7.8,2.99,6.8,1.15,17.5,1.29,1.17,-11.5
+2015-03-25,2014-15,Portland @ Utah,Portland Trail Blazers,Utah Jazz,1.12,8.8,2.71,2.1,1.21,2.18,1.84,1.9,-3.5
+2015-03-25,2014-15,Oklahoma City @ San Antonio,Oklahoma City Thunder,San Antonio Spurs,3.9,26,4.98,4,1.01,1.39,1.27,1.35,-7.5
+2015-03-25,2014-15,Sacramento @ Phoenix,Sacramento Kings,Phoenix Suns,1.01,4.8,1.86,4.4,1.18,6.4,1.4,1.29,-8.5
+2015-03-26,2014-15,Indiana @ Milwaukee,Indiana Pacers,Milwaukee Bucks,2.08,12,3.14,2.52,1.05,1.91,1.25,1.64,-3.5
+2015-03-27,2014-15,Detroit @ Orlando,Detroit Pistons,Orlando Magic,1.05,2.08,1.72,1.75,1.8,3.15,2.31,2.36,2.5
+2015-03-27,2014-15,LA Clippers @ Philadelphia,Los Angeles Clippers,Philadelphia 76ers,1.01,1.16,1.1,1.13,7.4,13,9.67,9,12.5
+2015-03-27,2014-15,Charlotte @ Washington,Charlotte Hornets,Washington Wizards,1.04,9.2,2.85,2.88,1.09,3.55,1.86,1.55,-4.5
+2015-03-27,2014-15,Miami @ Atlanta,Miami Heat,Atlanta Hawks,4.3,5.2,4.99,4.3,1.01,1.97,1.17,1.29,-9.5
+2015-03-27,2014-15,Cleveland @ Brooklyn,Cleveland Cavaliers,Brooklyn Nets,1.2,34,1.47,1.27,1.01,5,2.12,4.8,9.5
+2015-03-27,2014-15,Boston @ New York,Boston Celtics,New York Knicks,1.01,1.3,1.18,1.2,3.75,6.6,5.57,6.2,10.5
+2015-03-27,2014-15,LA Lakers @ Toronto,Los Angeles Lakers,Toronto Raptors,4.4,8.8,6.87,4.6,1.01,1.51,1.16,1.29,-8.5
+2015-03-27,2014-15,Minnesota @ Houston,Minnesota Timberwolves,Houston Rockets,9,12,11.56,12,1.06,1.14,1.08,1.08,-12.5
+2015-03-27,2014-15,Golden State @ Memphis,Golden State Warriors,Memphis Grizzlies,1.05,1.72,1.46,1.67,2.4,4.7,2.59,2.44,3.5
+2015-03-27,2014-15,Sacramento @ New Orleans,Sacramento Kings,New Orleans Pelicans,2.52,3.45,2.98,3.45,1.38,1.69,1.46,1.38,-6.5
+2015-03-27,2014-15,Dallas @ San Antonio,Dallas Mavericks,San Antonio Spurs,4.2,15,4.85,4.5,1.03,1.4,1.22,1.25,-9.5
+2015-03-27,2014-15,Utah @ Denver,Utah Jazz,Denver Nuggets,2.16,6.4,2.32,2.16,1.01,1.86,1.3,1.83,-2.5
+2015-03-27,2014-15,Portland @ Phoenix,Portland Trail Blazers,Phoenix Suns,1.06,3.2,1.68,1.87,1.44,8,2.24,2.08,1.5
+2015-03-28,2014-15,Atlanta @ Charlotte,Atlanta Hawks,Charlotte Hornets,1.59,13.5,3.24,3.1,1.01,2.32,1.33,1.5,2.5
+2015-03-28,2014-15,New York @ Chicago,New York Knicks,Chicago Bulls,24,30,26,28,1.03,1.09,1.04,1.03,-16.5
+2015-03-28,2014-15,Oklahoma @ Utah,Oklahoma City Thunder,Utah Jazz,1.19,10,2.64,1.46,1.01,3.5,1.59,3,5.5
+2015-03-28,2014-15,Golden State @ Milwaukee,Golden State Warriors,Milwaukee Bucks,1.02,1.69,1.34,1.48,2.68,4.2,3.1,2.98,4.5
+2015-03-28,2014-15,Denver @ Portland,Denver Nuggets,Portland Trail Blazers,4,5.2,4.68,4.9,1.01,1.33,1.17,1.27,-8.5
+2015-03-29,2014-15,Houston @ Washington,Houston Rockets,Washington Wizards,1.01,2,1.39,1.84,2.26,7.8,4.09,2.26,2.5
+2015-03-29,2014-15,LA Lakers @ Brooklyn,Los Angeles Lakers,Brooklyn Nets,3.3,4.3,3.32,4.3,1.04,1.43,1.19,1.29,-7.5
+2015-03-29,2014-15,Minnesota @ New Orleans,Minnesota Timberwolves,New Orleans Pelicans,8.2,9.4,8.93,9,1.01,1.15,1.05,1.11,-12.5
+2015-03-29,2014-15,Philadelphia @ Cleveland,Philadelphia 76ers,Cleveland Cavaliers,3.2,26,6.04,22,1.02,1.56,1.09,1.04,-16.5
+2015-03-29,2014-15,LA Clippers @ Boston,Los Angeles Clippers,Boston Celtics,1.25,1.63,1.43,1.46,3,26,3.36,3.15,6.5
+2015-03-29,2014-15,Detroit @ Miami,Detroit Pistons,Miami Heat,1.92,3,2.43,2.28,1.02,2.22,1.21,1.79,-3.5
+2015-03-29,2014-15,Memphis @ San Antonio,Memphis Grizzlies,San Antonio Spurs,3.8,1000,5.53,4.2,1.01,1.4,1.08,1.3,-8.5
+2015-03-29,2014-15,Dallas @ Indiana,Dallas Mavericks,Indiana Pacers,1.49,3,2.24,2.18,1.03,1.9,1.43,1.82,-1.5
+2015-03-30,2014-15,Boston @ Charlotte,Boston Celtics,Charlotte Hornets,1.01,2.6,1.23,2.42,1.62,3.2,2.17,1.71,-3.5
+2015-03-30,2014-15,LA Lakers @ Philadelphia,Los Angeles Lakers,Philadelphia 76ers,1.01,6.4,3.54,2.74,1.16,7.2,1.74,1.53,-3.5
+2015-03-30,2014-15,Milwaukee @ Atlanta,Milwaukee Bucks,Atlanta Hawks,1.5,5.1,4.2,4.9,1.04,3,1.17,1.26,-7.5
+2015-03-30,2014-15,Houston @ Toronto,Houston Rockets,Toronto Raptors,1.57,7.4,2.04,2.16,1.15,2.32,1.79,1.84,-1.5
+2015-03-29,2014-15,Oklahoma @ Phoenix,Oklahoma City Thunder,Phoenix Suns,1.02,10,1.69,2.28,1.12,3,1.61,1.76,-1.5
+2015-03-30,2014-15,Sacramento @ Memphis,Sacramento Kings,Memphis Grizzlies,4.4,17,5.73,6.6,1.01,1.29,1.18,1.19,-8.5
+2015-03-30,2014-15,Utah @ Minnesota,Utah Jazz,Minnesota Timberwolves,1.02,1.56,1.2,1.32,2.5,4.2,3.44,4.2,3.5
+2015-03-30,2014-15,Phoenix @ Portland,Phoenix Suns,Portland Trail Blazers,4.2,7.2,6.11,5.2,1.01,1.37,1.2,1.24,-7.5
+2015-03-31,2014-15,Indiana @ Brooklyn,Indiana Pacers,Brooklyn Nets,1.64,6.2,3.31,2,1.02,2.3,1.76,2.02,-2.5
+2015-03-31,2014-15,Atlanta @ Detroit,Atlanta Hawks,Detroit Pistons,1.52,3.5,2.05,1.83,1.01,2.34,1.65,2.18,2.5
+2015-03-31,2014-15,San Antonio @ Miami,San Antonio Spurs,Miami Heat,1.01,1.4,1.16,1.28,4.1,9.2,5.39,4.3,8.5
+2015-03-31,2014-15,Golden State @ LA Clippers,Golden State Warriors,Los Angeles Clippers,1.01,5,2.45,2.42,1.14,4,1.55,1.69,-3.5
+2015-04-01,2014-15,Detroit @ Charlotte,Detroit Pistons,Charlotte Hornets,2.5,9.2,4.53,3.15,1.01,1.52,1.09,1.5,-5.5
+2015-04-01,2014-15,San Antonio @ Orlando,San Antonio Spurs,Orlando Magic,1.04,1.33,1.14,1.19,4.3,12,8.26,6.4,10.5
+2015-04-01,2014-15,Philadelphia @ Washington,Philadelphia 76ers,Washington Wizards,5.6,55,7.2,6.8,1.01,1.2,1.07,1.18,-10.5
+2015-04-01,2014-15,Indiana @ Boston,Indiana Pacers,Boston Celtics,2.56,6.2,3.43,2.62,1.01,1.62,1.34,1.6,-4.5
+2015-04-01,2014-15,Brooklyn @ New York,Brooklyn Nets,New York Knicks,1.03,2.06,1.2,1.22,5,5.5,5.06,5.5,10.5
+2015-04-01,2014-15,Sacramento @ Houston,Sacramento Kings,Houston Rockets,3.85,9.2,7.89,7,1.01,1.23,1.11,1.18,-12.5
+2015-04-01,2014-15,Chicago @ Milwaukee,Chicago Bulls,Milwaukee Bucks,1.38,1.73,1.55,1.51,1.01,3.85,2.03,3.05,5.5
+2015-04-01,2014-15,Toronto @ Minnesota,Toronto Raptors,Minnesota Timberwolves,1.02,1.31,1.22,1.21,4.3,50,18.01,6,9.5
+2015-04-01,2014-15,Dallas @ Oklahoma,Dallas Mavericks,Oklahoma City Thunder,1.1,3.8,1.87,2.42,1.1,5.7,2.5,1.72,-2.5
+2015-04-01,2014-15,Denver @ Utah,Denver Nuggets,Utah Jazz,2.84,7.2,2.87,3.05,1.03,2,1.19,1.51,-5.5
+2015-04-01,2014-15,LA Clippers @ Portland,Los Angeles Clippers,Portland Trail Blazers,1.01,11,1.71,2.42,1.09,34,1.38,1.71,-3.5
+2015-04-01,2014-15,New Orleans @ LA Lakers,New Orleans Pelicans,Los Angeles Lakers,1.03,1.39,1.21,1.22,3.45,6.8,5.26,5.5,9.5
+2015-04-02,2014-15,Miami @ Cleveland,Miami Heat,Cleveland Cavaliers,6.2,19,8.76,6.4,1.01,1.24,1.12,1.17,-11.5
+2015-04-02,2014-15,Houston @ Dallas,Houston Rockets,Dallas Mavericks,1.02,4.7,2.11,2.26,1.25,7.6,1.72,1.8,-2.5
+2015-04-02,2014-15,Phoenix @ Golden State,Phoenix Suns,Golden State Warriors,1.17,17.5,3.94,9.2,1.01,11,1.25,1.12,-11.5
+2015-04-03,2014-15,Charlotte @ Indiana,Charlotte Hornets,Indiana Pacers,2.14,180,3.13,2.9,1.01,1.73,1.32,1.52,-5.5
+2015-04-03,2014-15,New York @ Washington,New York Knicks,Washington Wizards,12,15,13.76,14,1.01,1.1,1.05,1.07,-13.5
+2015-04-03,2014-15,Milwaukee @ Boston,Milwaukee Bucks,Boston Celtics,1.01,4,1.97,2.96,1.34,4.3,1.69,1.51,-5.5
+2015-04-03,2014-15,Toronto @ Brooklyn,Toronto Raptors,Brooklyn Nets,1.64,4.3,2.34,2.32,1.02,2.42,1.78,1.75,-3.5
+2015-04-03,2014-15,Detroit @ Chicago,Detroit Pistons,Chicago Bulls,1.26,50,4.89,5.6,1.03,1.55,1.18,1.23,-9.5
+2015-04-03,2014-15,Oklahoma @ Memphis,Oklahoma City Thunder,Memphis Grizzlies,2,9.2,3.41,3,1.01,1.77,1.27,1.5,-6.5
+2015-04-03,2014-15,Orlando @ Minnesota,Orlando Magic,Minnesota Timberwolves,1.01,2.22,1.32,1.62,1.84,4,3.43,2.6,4.5
+2015-04-03,2014-15,Denver @ San Antonio,Denver Nuggets,San Antonio Spurs,7.6,200,15.77,11,1.01,1.13,1.03,1.1,-12.5
+2015-04-03,2014-15,New Orleans @ Sacramento,New Orleans Pelicans,Sacramento Kings,1.01,1.43,1.29,1.39,2.28,12,4.05,3.55,6.5
+2015-04-03,2014-15,Portland @ LA Lakers,Portland Trail Blazers,Los Angeles Lakers,1.01,1.22,1.05,1.18,5.4,26,6.58,6.4,10.5
+2015-04-04,2014-15,Philadelphia @ Charlotte,Philadelphia 76ers,Charlotte Hornets,1.18,4.7,2.44,3.8,1.22,2.8,1.56,1.36,-7.5
+2015-04-04,2014-15,Brooklyn @ Atlanta,Brooklyn Nets,Atlanta Hawks,5.5,7.2,6.02,6,1.02,1.24,1.15,1.19,-9.5
+2015-04-04,2014-15,Miami @ Detroit,Miami Heat,Detroit Pistons,1.01,2.62,1.29,1.61,1.47,4.5,3.02,2.62,3.5
+2015-04-04,2014-15,Boston @ Toronto,Boston Celtics,Toronto Raptors,1.02,3,2.13,2.3,1.1,5,1.88,1.75,-3.5
+2015-04-04,2014-15,Washington @ Memphis,Washington Wizards,Memphis Grizzlies,1.01,4.8,1.19,4.8,1.28,7.2,2.23,1.3,-7.5
+2015-04-04,2014-15,Golden State @ Dallas,Golden State Warriors,Dallas Mavericks,1.01,1.48,1.21,1.4,2.94,1000,6.48,3.4,6.5
+2015-04-04,2014-15,Orlando @ Milwaukee,Orlando Magic,Milwaukee Bucks,1.02,5.2,2.06,5.2,1.19,3,1.37,1.23,-8.5
+2015-04-04,2014-15,LA Clippers @ Denver,Los Angeles Clippers,Denver Nuggets,1.01,1.23,1.13,1.19,4.8,6.8,5.58,6.8,9.5
+2015-04-04,2014-15,Utah @ Phoenix,Utah Jazz,Phoenix Suns,1.5,100,2.25,2.24,1.16,3.2,1.65,1.84,1.5
+2015-04-04,2014-15,New Orleans @ Portland,New Orleans Pelicans,Portland Trail Blazers,1.7,17.5,2.75,2.9,1.01,2.42,1.28,1.52,-5.5
+2015-04-05,2014-15,Houston @ Oklahoma City,Houston Rockets,Oklahoma City Thunder,1.02,2.22,1.65,1.96,1.82,3.5,2.01,2.04,-1.5
+2015-04-05,2014-15,Chicago @ Cleveland,Chicago Bulls,Cleveland Cavaliers,4,5.3,4.6,4.3,1.01,1.45,1.07,1.26,-8.5
+2015-04-05,2014-15,Miami @ Indiana,Miami Heat,Indiana Pacers,2.96,9.2,3.67,3.5,1.01,1.57,1.27,1.4,-6.5
+2015-04-05,2014-15,Golden State @ San Antonio,Golden State Warriors,San Antonio Spurs,2.7,21,6.54,2.72,1.01,1.6,1.12,1.53,-5.5
+2015-04-05,2014-15,Philadelphia @ New York,Philadelphia 76ers,New York Knicks,1.8,6,2,1.96,1.08,2.34,1.78,1.99,1.5
+2015-04-05,2014-15,Utah @ Sacramento,Utah Jazz,Sacramento Kings,1.01,2.3,1.5,2.12,1.8,6.8,1.98,1.98,-1.5
+2015-04-05,2014-15,LA Clippers @ LA Lakers,Los Angeles Clippers,Los Angeles Lakers,1.01,1.16,1.08,1.07,10,50,14.12,12.5,13.5
+2015-04-06,2014-15,Portland @ Brooklyn,Portland Trail Blazers,Brooklyn Nets,2.82,11,3.27,3.5,1.01,1.6,1.27,1.41,-7.5
+2015-04-07,2014-15,Phoenix @ Atlanta,Phoenix Suns,Atlanta Hawks,3.8,5.9,3.94,3.85,1.01,1.35,1.28,1.35,-7.5
+2015-04-07,2014-15,Charlotte @ Miami,Charlotte Hornets,Miami Heat,2.2,5.5,3.98,3.35,1.02,1.76,1.32,1.41,-5.5
+2015-04-07,2014-15,Golden State @ New Orleans,Golden State Warriors,New Orleans Pelicans,1.11,5,1.84,1.55,1.12,4.4,2.02,2.76,4.5
+2015-04-07,2014-15,San Antonio @ Oklahoma City,San Antonio Spurs,Oklahoma City Thunder,1.04,2.94,1.19,1.45,3.15,50,5.24,3.2,5.5
+2015-04-07,2014-15,Minnesota @ Sacramento,Minnesota Timberwolves,Sacramento Kings,2.48,34,6.35,4.9,1.02,1.72,1.17,1.29,-9.5
+2015-04-07,2014-15,LA Lakers @ LA Clippers,Los Angeles Lakers,Los Angeles Clippers,5.1,50,11.11,34,1.01,1.25,1.05,1.03,-16.5
+2015-04-08,2014-15,Toronto @ Charlotte,Toronto Raptors,Charlotte Hornets,1.01,1.71,1.18,1.66,2.4,2.44,2.43,2.4,3.5
+2015-04-08,2014-15,Chicago @ Orlando,Chicago Bulls,Orlando Magic,1.14,100,1.62,1.3,1.14,7.4,2.42,4.3,8.5
+2015-04-08,2014-15,Washington @ Philadelphia,Washington Wizards,Philadelphia 76ers,1.02,1.57,1.16,1.5,2.86,6.8,3.31,2.88,4.5
+2015-04-08,2014-15,Boston @ Detroit,Boston Celtics,Detroit Pistons,1.01,2.26,1.45,1.87,1.9,7.2,2.67,2.14,1.5
+2015-04-08,2014-15,Atlanta @ Brooklyn,Atlanta Hawks,Brooklyn Nets,1.07,2.98,2.07,2.7,1.49,7.8,2.21,1.59,-5.5
+2015-04-08,2014-15,Indiana @ New York,Indiana Pacers,New York Knicks,1.08,1.17,1.12,1.15,8,8.6,8.43,8.6,12.5
+2015-04-08,2014-15,New Orleans @ Memphis,New Orleans Pelicans,Memphis Grizzlies,2.5,2.9,2.66,2.76,1.08,1.7,1.53,1.58,-4.5
+2015-04-08,2014-15,Cleveland @ Milwaukee,Cleveland Cavaliers,Milwaukee Bucks,1.01,1.66,1.25,1.4,2.5,4.5,3.38,3.25,6.5
+2015-04-08,2014-15,Houston @ San Antonio,Houston Rockets,San Antonio Spurs,2,100,3.71,3.45,1.01,1.7,1.37,1.43,-6.5
+2015-04-08,2014-15,LA Lakers @ Denver,Los Angeles Lakers,Denver Nuggets,3,34,3.92,5.3,1.01,1.27,1.17,1.22,-9.5
+2015-04-08,2014-15,Sacramento @ Utah,Sacramento Kings,Utah Jazz,2.26,8.2,5,7.8,1.01,1.81,1.14,1.15,-11.5
+2015-04-08,2014-15,Phoenix @ Dallas,Phoenix Suns,Dallas Mavericks,1.73,5,3.51,4.7,1.01,2.46,1.22,1.27,-8.5
+2015-04-08,2014-15,Minnesota @ Portland,Minnesota Timberwolves,Portland Trail Blazers,22,26,24.42,26,1.01,1.05,1.02,1.04,-16.5
+2015-04-09,2014-15,Chicago @ Miami,Chicago Bulls,Miami Heat,1.01,13,1.86,2.08,1.07,11,1.67,1.91,-1.5
+2015-04-09,2014-15,Portland @ Golden State,Portland Trail Blazers,Golden State Warriors,2.22,7.2,4.32,6,1.01,1.64,1.21,1.2,-10.5
+2015-04-10,2014-15,Toronto @ Orlando,Toronto Raptors,Orlando Magic,1.22,3.55,1.48,1.5,1.38,4.1,2.89,3,5.5
+2015-04-10,2014-15,Charlotte @ Atlanta,Charlotte Hornets,Atlanta Hawks,5,6.6,5.99,6.6,1.01,1.5,1.17,1.19,-9.5
+2015-04-10,2014-15,Washington @ Brooklyn,Washington Wizards,Brooklyn Nets,2.8,3.3,3.15,2.9,1.02,1.55,1.32,1.47,-4.5
+2015-04-10,2014-15,Boston @ Cleveland,Boston Celtics,Cleveland Cavaliers,1.02,3.6,1.21,3.4,1.3,7.6,2.07,1.4,-6.5
+2015-04-10,2014-15,Indiana @ Detroit,Indiana Pacers,Detroit Pistons,1.05,1.55,1.45,1.54,1.34,2.5,2.1,1.34,5.5
+2015-04-10,2014-15,Milwaukee @ New York,Milwaukee Bucks,New York Knicks,1.15,1.33,1.23,1.18,5.3,6.8,5.62,6.8,8.5
+2015-04-10,2014-15,San Antonio @ Houston,San Antonio Spurs,Houston Rockets,1.02,2.66,1.66,1.65,1.82,4.1,2.61,2.5,2.5
+2015-04-10,2014-15,Phoenix @ New Orleans,Phoenix Suns,New Orleans Pelicans,3.65,5.3,4.86,4.8,1.01,1.57,1.23,1.26,-9.5
+2015-04-10,2014-15,Sacramento @ Oklahoma,Sacramento Kings,Oklahoma City Thunder,8.8,17.5,11.78,13,1.01,1.17,1.09,1.08,-13.5
+2015-04-10,2014-15,Dallas @ Denver,Dallas Mavericks,Denver Nuggets,1.09,4,1.59,2.02,1.32,3.2,1.91,1.89,-1.5
+2015-04-10,2014-15,Memphis @ Utah,Memphis Grizzlies,Utah Jazz,1.02,4.8,1.6,1.7,1.35,2.78,1.85,2.36,2.5
+2015-04-10,2014-15,Minnesota @ LA Lakers,Minnesota Timberwolves,Los Angeles Lakers,2.76,3.75,3,2.92,1.01,1.6,1.24,1.54,-5.5
+2015-04-11,2014-15,New York @ Orlando,New York Knicks,Orlando Magic,1.01,7.8,1.85,6.6,1.14,21,1.8,1.18,-10.5
+2015-04-11,2014-15,Toronto @ Miami,Toronto Raptors,Miami Heat,1.04,3.2,1.82,2.46,1.26,4.9,1.82,1.66,-3.5
+2015-04-11,2014-15,Philadelphia @ Chicago,Philadelphia 76ers,Chicago Bulls,6,21,11.41,17.5,1.02,1.33,1.07,1.06,-16.5
+2015-04-11,2014-15,Memphis @ LA Clippers,Memphis Grizzlies,Los Angeles Clippers,3,12,5.03,5.7,1.03,1.55,1.21,1.2,-8.5
+2015-04-11,2014-15,Utah @ Portland,Utah Jazz,Portland Trail Blazers,1.02,5.6,3.21,5.3,1.2,4.5,1.53,1.28,-8.5
+2015-04-11,2014-15,Minnesota @ Golden State,Minnesota Timberwolves,Golden State Warriors,6,40,37.29,38,1.02,1.26,1.06,1.03,-20.5
+2015-04-12,2014-15,Brooklyn @ Milwaukee,Brooklyn Nets,Milwaukee Bucks,1.85,2.72,2.21,2.06,1.02,2.04,1.32,1.93,1.5
+2015-04-12,2014-15,Cleveland @ Boston,Cleveland Cavaliers,Boston Celtics,2.02,6.2,3.18,6,1.12,1.44,1.22,1.19,-6.5
+2015-04-12,2014-15,Charlotte @ Detroit,Charlotte Hornets,Detroit Pistons,3.85,4,3.86,3.85,1.28,1.36,1.32,1.3,-7.5
+2015-04-12,2014-15,Sacramento @ Denver,Sacramento Kings,Denver Nuggets,3,6,5.47,4.8,1.05,1.55,1.2,1.24,-10.5
+2015-04-12,2014-15,Oklahoma City @ Indiana,Oklahoma City Thunder,Indiana Pacers,1.93,18,3.19,2.26,1.06,2.28,1.46,1.7,-4.5
+2015-04-12,2014-15,Atlanta @ Washington,Atlanta Hawks,Washington Wizards,2.1,28,5.09,5,1.02,1.93,1.37,1.27,-2.5
+2015-04-12,2014-15,New Orleans @ Houston,New Orleans Pelicans,Houston Rockets,1.72,3.75,2.5,3,1.01,2.88,1.47,1.5,-5.5
+2015-04-12,2014-15,Phoenix @ San Antonio,Phoenix Suns,San Antonio Spurs,14,34,22.33,25,1.02,1.06,1.03,1.04,-15.5
+2015-04-12,2014-15,Dallas @ LA Lakers,Dallas Mavericks,Los Angeles Lakers,1.04,1.61,1.19,1.47,2.88,7.2,4.07,3.2,5.5
+2015-04-13,2014-15,Houston @ Charlotte,Houston Rockets,Charlotte Hornets,1.06,1.29,1.13,1.15,4,8,7.57,7.2,11.5
+2015-04-13,2014-15,Detroit @ Cleveland,Detroit Pistons,Cleveland Cavaliers,1.42,34,4.95,4.6,1.01,1.41,1.18,1.28,-7.5
+2015-04-13,2014-15,Milwaukee @ Philadelphia,Milwaukee Bucks,Philadelphia 76ers,1.01,3.1,1.49,1.61,1.43,2.68,2.02,2.62,8.5
+2015-04-13,2014-15,New York @ Atlanta,New York Knicks,Atlanta Hawks,1.06,15,2.31,14,1.07,6,1.88,1.07,-13.5
+2015-04-13,2014-15,Chicago @ Brooklyn,Chicago Bulls,Brooklyn Nets,1.03,2.1,1.64,1.84,1.91,3.5,2.19,2.26,2.5
+2015-04-13,2014-15,Orlando @ Miami,Orlando Magic,Miami Heat,3.05,3.6,3.31,3.15,1.01,1.47,1.08,1.46,-6.5
+2015-04-13,2014-15,New Orleans @ Minnesota,New Orleans Pelicans,Minnesota Timberwolves,1.02,1.19,1.09,1.08,9.8,85,12.89,11,13.5
+2015-04-13,2014-15,Portland @ Oklahoma City,Portland Trail Blazers,Oklahoma City Thunder,1.92,11,5.28,4.2,1.01,1.86,1.16,1.3,-8.5
+2015-04-13,2014-15,Dallas @ Utah,Dallas Mavericks,Utah Jazz,2.8,7.2,3.75,3.4,1.01,1.6,1.11,1.4,-7.5
+2015-04-13,2014-15,LA Lakers @ Sacramento,Los Angeles Lakers,Sacramento Kings,1.9,5,1.98,2.48,1.02,2.14,1.41,1.62,-3.5
+2015-04-13,2014-15,Memphis @ Golden State,Memphis Grizzlies,Golden State Warriors,4,6,4.29,4.3,1.01,1.35,1.18,1.3,-7.5
+2015-04-13,2014-15,Denver @ LA Clippers,Denver Nuggets,Los Angeles Clippers,1.58,29,9.55,27,1.01,2.78,1.11,1.03,-15.5
+2015-04-14,2014-15,Toronto @ Boston,Toronto Raptors,Boston Celtics,1.23,3.5,1.77,2,1.23,5.3,1.86,1.98,1.5
+2015-04-14,2014-15,Washington @ Indiana,Washington Wizards,Indiana Pacers,1.32,11,2.55,4,1.01,6,1.54,1.32,-7.5
+2015-04-14,2014-15,LA Clippers @ Phoenix,Los Angeles Clippers,Phoenix Suns,1.01,1.31,1.15,1.19,4.2,6.6,5.94,6,9.5
+2015-04-15,2014-15,Charlotte @ Toronto,Charlotte Hornets,Toronto Raptors,5.5,12.5,6.54,5.9,1.03,1.21,1.13,1.19,-12.5
+2015-04-15,2014-15,Atlanta @ Chicago,Atlanta Hawks,Chicago Bulls,1.15,3.3,2.58,3.05,1.06,4.2,1.45,1.49,-5.5
+2015-04-15,2014-15,Portland @ Dallas,Portland Trail Blazers,Dallas Mavericks,3.25,4,3.6,3.25,1.11,1.42,1.31,1.38,-6.5
+2015-04-15,2014-15,Utah @ Houston,Utah Jazz,Houston Rockets,7.8,9,8.37,8.6,1.06,1.18,1.12,1.15,-11.5
+2015-04-15,2014-15,Boston @ Milwaukee,Boston Celtics,Milwaukee Bucks,1.15,3.2,2.83,3.2,1.44,1.57,1.48,1.45,-5.5
+2015-04-15,2014-15,Oklahoma City @ Minnesota,Oklahoma City Thunder,Minnesota Timberwolves,1.02,1.08,1.07,1.07,12,28,15.47,15.5,14.5
+2015-04-15,2014-15,San Antonio @ New Orleans,San Antonio Spurs,New Orleans Pelicans,1.42,26,2.06,1.47,1.03,3.4,1.61,3,4.5
+2015-04-15,2014-15,Orlando @ Brooklyn,Orlando Magic,Brooklyn Nets,1.87,5.6,4.14,5.4,1.01,2.14,1.26,1.23,-8.5
+2015-04-15,2014-15,Washington @ Cleveland,Washington Wizards,Cleveland Cavaliers,1.83,1000,9.06,4,1.04,2.2,1.43,1.33,-7.5
+2015-04-15,2014-15,Detroit @ New York,Detroit Pistons,New York Knicks,1.02,1.29,1.24,1.24,4.5,5,4.83,5,5.5
+2015-04-15,2014-15,Miami @ Philadelphia,Miami Heat,Philadelphia 76ers,1.1,3,1.99,2.16,1.34,8,1.97,1.87,-2.5
+2015-04-15,2014-15,Indiana @ Memphis,Indiana Pacers,Memphis Grizzlies,1.5,17,1.94,1.78,1.01,3.25,1.35,2.28,1.5
+2015-04-15,2014-15,Denver @ Golden State,Denver Nuggets,Golden State Warriors,1.2,250,5.09,7.6,1.01,2,1.13,1.15,-11.5
+2015-04-15,2014-15,Sacramento @ LA Lakers,Sacramento Kings,Los Angeles Lakers,1.01,2.5,1.17,2.46,1.61,17.5,2.56,1.68,-3.5

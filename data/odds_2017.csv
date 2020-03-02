@@ -1,0 +1,1231 @@
+game_date,season,match_up,away_team,home_team,away_min_p,away_max_p,away_weighted_avg_price,away_last_traded_price,home_min_p,home_max_p,home_weighted_avg_price,home_last_traded_price,home_line
+2016-10-25,2016-17,New York Knicks @ Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,5.1,7.6,5.59,5.3,1.01,1.31,1.19,1.23,-9.5
+2016-10-26,2016-17,Brooklyn Nets @ Boston Celtics,Brooklyn Nets,Boston Celtics,8.6,13,9.57,8.6,1.03,1.15,1.11,1.12,-13.5
+2016-10-26,2016-17,Dallas Mavericks @ Indiana Pacers,Dallas Mavericks,Indiana Pacers,3.05,5.2,3.37,3.15,1.01,1.88,1.4,1.47,-6.5
+2016-10-26,2016-17,Detroit Pistons @ Toronto Raptors,Detroit Pistons,Toronto Raptors,3.5,4.4,3.69,3.55,1.11,1.4,1.36,1.4,-7.5
+2016-10-26,2016-17,Miami Heat @ Orlando Magic,Miami Heat,Orlando Magic,1.01,2.7,1.14,2.44,1.45,2.62,1.69,1.68,-4.5
+2016-10-25,2016-17,San Antonio Spurs @ Golden State Warriors,San Antonio Spurs,Golden State Warriors,1.03,5.3,2.28,4.6,1.22,17.5,1.46,1.28,-8.5
+2016-10-25,2016-17,Utah Jazz @ Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,1.36,5.3,2.85,3.3,1.02,2.6,1.28,1.42,-5.5
+2016-10-26,2016-17,Charlotte Hornets @ Milwaukee Bucks,Charlotte Hornets,Milwaukee Bucks,1.01,1.91,1.21,1.89,2.08,2.22,2.15,2.12,1.5
+2016-10-26,2016-17,Denver Nuggets @ New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,1.17,2.22,2,2.08,1.76,3.65,1.95,1.91,-1.5
+2016-10-26,2016-17,Houston Rockets @ Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,1.22,18,1.65,1.44,1.01,5,2.57,3.25,6.5
+2016-10-26,2016-17,Minnesota Timberwolves @ Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,1.32,2.94,1.91,1.92,1.03,3.25,1.76,2.12,1.5
+2016-10-26,2016-17,Oklahoma City Thunder @ Philadelphia 76ers,Oklahoma City Thunder,Philadelphia 76ers,1.03,3.05,1.45,1.24,1.3,21,3.91,5.1,8.5
+2016-10-26,2016-17,Sacramento Kings @ Phoenix Suns,Sacramento Kings,Phoenix Suns,1.08,2.48,1.5,2.46,1.66,4.5,1.97,1.67,-2.5
+2016-10-27,2016-17,Washington Wizards @ Atlanta Hawks,Washington Wizards,Atlanta Hawks,2.12,4.6,2.58,2.64,1.04,2.3,1.54,1.62,-3.5
+2016-10-27,2016-17,Boston Celtics @ Chicago Bulls,Boston Celtics,Chicago Bulls,1.98,6.4,2.42,2.04,1.04,2.04,1.75,1.94,2.5
+2016-10-27,2016-17,Los Angeles Clippers @ Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,1.01,2.2,1.15,1.77,1.8,15,3.19,2.3,2.5
+2016-10-27,2016-17,San Antonio Spurs @ Sacramento Kings,San Antonio Spurs,Sacramento Kings,1.01,2.4,1.31,1.31,1.69,5.8,3.11,4.2,8.5
+2016-10-28,2016-17,Cleveland Cavaliers @ Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,1.01,2.04,1.32,1.7,1.9,5.7,2.86,2.42,2.5
+2016-10-28,2016-17,Indiana Pacers @ Brooklyn Nets,Indiana Pacers,Brooklyn Nets,1.19,2.44,1.42,1.44,1.02,3.45,2.17,3.2,6.5
+2016-10-28,2016-17,Orlando Magic @ Detroit Pistons,Orlando Magic,Detroit Pistons,2.56,2.82,2.67,2.7,1.06,1.64,1.55,1.59,-4.5
+2016-10-28,2016-17,Charlotte Hornets @ Miami Heat,Charlotte Hornets,Miami Heat,1.11,9.2,1.94,1.97,1.44,2.32,1.99,2.04,-2.5
+2016-10-28,2016-17,Phoenix Suns @ Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,1.31,5.5,2.72,4.2,1.01,4.5,1.85,1.29,-9.5
+2016-10-28,2016-17,Houston Rockets @ Dallas Mavericks,Houston Rockets,Dallas Mavericks,1.01,2.06,1.47,1.84,1.92,3.45,2.3,2.22,-1.5
+2016-10-28,2016-17,Los Angeles Lakers @ Utah Jazz,Los Angeles Lakers,Utah Jazz,2,7.2,4.95,5,1.05,1.9,1.21,1.24,-8.5
+2016-10-28,2016-17,Golden State Warriors @ New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,1.01,1.31,1.13,1.11,5.3,13.5,7.72,9.2,9.5
+2016-10-29,2016-17,Atlanta Hawks @ Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,1.04,1.4,1.32,1.3,3.7,7.6,6.09,4.3,7.5
+2016-10-29,2016-17,Boston Celtics @ Charlotte Hornets,Boston Celtics,Charlotte Hornets,1.03,1.84,1.46,1.76,2,6.2,2.46,2.3,2.5
+2016-10-29,2016-17,Orlando Magic @ Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,7.2,21,8.56,7.8,1.02,1.18,1.08,1.14,-12.5
+2016-10-29,2016-17,Memphis Grizzlies @ New York Knicks,Memphis Grizzlies,New York Knicks,2.08,8.6,2.69,2.48,1.02,1.9,1.5,1.72,-2.5
+2016-10-29,2016-17,Indiana Pacers @ Chicago Bulls,Indiana Pacers,Chicago Bulls,2.46,2.54,2.49,2.5,1.03,1.71,1.45,1.65,-3.5
+2016-10-29,2016-17,Portland Trail Blazers @ Denver Nuggets,Portland Trail Blazers,Denver Nuggets,1.07,3.65,1.49,1.89,1.03,7,1.55,2.12,-2.5
+2016-10-29,2016-17,Brooklyn Nets @ Milwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,3.25,6,4.06,3.9,1.11,1.5,1.31,1.34,-6.5
+2016-10-29,2016-17,New Orleans Pelicans @ San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,12,13,12.19,12.5,1.07,1.12,1.09,1.09,11.5
+2016-10-29,2016-17,Minnesota Timberwolves @ Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,1.2,8.6,1.87,2.04,1.04,6,1.46,1.96,-1.5
+2016-10-29,2016-17,Utah Jazz @ Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,3,5.5,3.9,4,1.01,1.56,1.19,1.31,-8.5
+2016-10-30,2016-17,Milwaukee Bucks @ Detroit Pistons,Milwaukee Bucks,Detroit Pistons,4.1,4.5,4.41,4.3,1.01,1.34,1.12,1.31,-7.5
+2016-10-30,2016-17,San Antonio Spurs @ Miami Heat,San Antonio Spurs,Miami Heat,1.03,1.88,1.34,1.4,3.2,6,3.52,3.45,6.5
+2016-10-30,2016-17,Golden State Warriors @ Phoenix Suns,Golden State Warriors,Phoenix Suns,1.04,1.47,1.18,1.12,3.2,9.6,6.43,8.6,11.5
+2016-10-30,2016-17,Los Angeles Lakers @ Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,3.1,10,4.7,4.5,1.03,1.45,1.19,1.29,-7.5
+2016-10-30,2016-17,Washington Wizards @ Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,1.15,2.84,1.74,1.67,1.03,2.52,1.95,2.44,3.5
+2016-10-30,2016-17,Dallas Mavericks @ Houston Rockets,Dallas Mavericks,Houston Rockets,2.7,6.2,3.13,2.8,1.02,1.78,1.37,1.55,-4.5
+2016-10-31,2016-17,Denver Nuggets @ Toronto Raptors,Denver Nuggets,Toronto Raptors,1.36,6.8,2.9,2.94,1.01,3.5,1.37,1.01,-7.5
+2016-10-31,2016-17,Chicago Bulls @ Brooklyn Nets,Chicago Bulls,Brooklyn Nets,1.36,1.43,1.38,1.36,3.2,3.6,3.46,3.5,6.5
+2016-10-31,2016-17,Sacramento Kings @ Atlanta Hawks,Sacramento Kings,Atlanta Hawks,2.1,6.8,4.86,2.1,1.01,2.08,1.2,1.01,-7.5
+2016-10-31,2016-17,Phoenix Suns @ Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,6,21,9.29,8.6,1.04,1.24,1.13,1.13,-10.5
+2016-11-01,2016-17,Sacramento Kings @ Miami Heat,Sacramento Kings,Miami Heat,1.6,4.2,2.62,2.48,1.41,1.72,1.62,1.66,-3.5
+2016-11-01,2016-17,Orlando Magic @ Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,1.04,4.3,1.55,1.53,1.24,21,2.48,2.86,5.5
+2016-11-01,2016-17,Houston Rockets @ Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,4,6.6,5.34,5.8,1.04,1.5,1.22,1.19,-9.5
+2016-11-01,2016-17,Los Angeles Lakers @ Indiana Pacers,Los Angeles Lakers,Indiana Pacers,3.2,5.4,4.28,4.9,1.1,1.78,1.26,1.28,-9.5
+2016-11-01,2016-17,New York Knicks @ Detroit Pistons,New York Knicks,Detroit Pistons,2.56,2.8,2.61,2.58,1.01,1.63,1.32,1.6,-4.5
+2016-11-02,2016-17,Detroit Pistons @ Brooklyn Nets,Detroit Pistons,Brooklyn Nets,1.52,7.4,2.79,1.64,1.02,2.84,1.77,2.56,4.5
+2016-11-01,2016-17,Golden State Warriors @ Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,1.01,1.7,1.42,1.48,2.74,6.8,3.5,3.2,4.5
+2016-11-02,2016-17,Houston Rockets @ New York Knicks,Houston Rockets,New York Knicks,1.01,2.3,1.59,2.06,1.91,8.4,3.85,1.93,-1.5
+2016-11-02,2016-17,Los Angeles Lakers @ Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,1.14,9.4,5.51,8.8,1.05,3.1,1.23,1.12,-11.5
+2016-11-01,2016-17,Memphis Grizzlies @ Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,2.5,5.7,2.93,3.6,1.06,1.65,1.53,1.34,-3.5
+2016-11-01,2016-17,Milwaukee Bucks @ New Orleans Pelicans,Milwaukee Bucks,New Orleans Pelicans,1.38,2.7,2.48,2.58,1.52,1.67,1.58,1.64,-3.5
+2016-11-02,2016-17,Philadelphia 76ers @ Charlotte Hornets,Philadelphia 76ers,Charlotte Hornets,2.3,1000,15.9,10,1.02,1.9,1.13,1.11,-12.5
+2016-11-02,2016-17,Toronto Raptors @ Washington Wizards,Toronto Raptors,Washington Wizards,1.01,3.25,1.75,2,1.45,5.3,2.04,2,1.5
+2016-11-01,2016-17,Utah Jazz @ San Antonio Spurs,Utah Jazz,San Antonio Spurs,1.19,7.6,2.94,6.2,1.13,5.5,1.43,1.18,-10.5
+2016-11-02,2016-17,Oklahoma City Thunder @ Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,1.06,4,2.97,3.6,1.3,15,1.44,1.37,-7.5
+2016-11-02,2016-17,New Orleans Pelicans @ Memphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,1.49,3.5,2.12,3.05,1.41,3.05,1.47,1.51,-5.5
+2016-11-02,2016-17,Dallas Mavericks @ Utah Jazz,Dallas Mavericks,Utah Jazz,2.46,17.5,2.66,2.48,1.02,1.69,1.51,1.69,-4.5
+2016-11-02,2016-17,Chicago Bulls @ Boston Celtics,Chicago Bulls,Boston Celtics,2.26,6.2,2.68,2.52,1.02,1.86,1.6,1.68,-3.5
+2016-11-02,2016-17,Portland Trail Blazers @ Phoenix Suns,Portland Trail Blazers,Phoenix Suns,1.16,2.3,1.4,1.66,1.02,2.52,2.02,2.42,3.5
+2016-11-03,2016-17,Sacramento Kings @ Orlando Magic,Sacramento Kings,Orlando Magic,1.61,5,1.96,1.95,1.16,2.7,1.87,2.06,-1.5
+2016-11-04,2016-17,Atlanta Hawks @ Washington Wizards,Atlanta Hawks,Washington Wizards,2,3.4,2.18,2.08,1.09,2,1.84,1.91,-5.5
+2016-11-03,2016-17,Boston Celtics @ Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,5.3,34,7.21,7,1.01,1.24,1.16,1.17,-10.5
+2016-11-04,2016-17,Charlotte Hornets @ Brooklyn Nets,Charlotte Hornets,Brooklyn Nets,1.01,2.2,1.4,1.38,1.51,6,3.2,3.65,6.5
+2016-11-03,2016-17,Denver Nuggets @ Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,1.13,2.74,2.1,2.58,1.33,9,1.63,1.61,-3.5
+2016-11-03,2016-17,Indiana Pacers @ Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,1.7,11,1.94,1.74,1.02,2.56,1.94,2.38,2.5
+2016-11-04,2016-17,Miami Heat @ Toronto Raptors,Miami Heat,Toronto Raptors,3.3,1000,8.55,3.75,1.14,1.83,1.33,1.36,-7.5
+2016-11-03,2016-17,Oklahoma City Thunder @ Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,4,34,8.38,8.4,1.01,1.35,1.15,1.14,-10.5
+2016-11-05,2016-17,Chicago Bulls @ Indiana Pacers,Chicago Bulls,Indiana Pacers,2.12,19,2.67,2.52,1.02,1.74,1.4,1.65,-3.5
+2016-11-05,2016-17,Cleveland Cavaliers @ Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,1.05,2.06,1.13,1.12,1.36,14.5,7.43,10,13.5
+2016-11-05,2016-17,Denver Nuggets @ Detroit Pistons,Denver Nuggets,Detroit Pistons,2.72,8,3.26,2.78,1.2,1.58,1.49,1.56,-4.5
+2016-11-04,2016-17,Golden State Warriors @ Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,1.11,23,1.31,1.13,1.01,8.8,1.57,8.6,10.5
+2016-11-05,2016-17,Houston Rockets @ Atlanta Hawks,Houston Rockets,Atlanta Hawks,2.18,4.2,2.74,2.4,1.01,1.78,1.52,1.72,-3.5
+2016-11-04,2016-17,Los Angeles Clippers @ Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,1.01,1.49,1.19,1.45,3.05,1000,23.35,3.25,5.5
+2016-11-05,2016-17,Minnesota Timberwolves @ Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,1.52,21,3.02,2.8,1.04,1.56,1.5,1.56,-5.5
+2016-11-04,2016-17,New York Knicks @ Chicago Bulls,New York Knicks,Chicago Bulls,1.01,4.7,1.52,3.9,1.28,9.8,1.52,1.33,-7.5
+2016-11-04,2016-17,Phoenix Suns @ New Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,1.05,9.6,1.91,2.26,1.08,3.9,1.71,1.78,-3.5
+2016-11-04,2016-17,Portland Trail Blazers @ Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,1.05,2.3,1.53,1.8,2.04,6.6,2.46,2.28,1.5
+2016-11-04,2016-17,San Antonio Spurs @ Utah Jazz,San Antonio Spurs,Utah Jazz,1.04,1.65,1.22,1.65,2.52,2.72,2.65,2.52,3.5
+2016-11-05,2016-17,Washington Wizards @ Orlando Magic,Washington Wizards,Orlando Magic,1.3,3.4,2.75,3.35,1.41,2.54,1.44,1.43,-2.5
+2016-11-05,2016-17,Sacramento Kings @ Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,2.04,7.4,2.53,2.5,1.05,1.93,1.51,1.65,-2.5
+2016-11-05,2016-17,Los Angeles Clippers @ San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,1.01,3.75,1.25,2.74,1.37,32,1.57,1.53,-4.5
+2016-11-06,2016-17,Utah Jazz @ New York Knicks,Utah Jazz,New York Knicks,1.01,2.24,1.39,1.78,1.37,1000,3.16,2.26,2.5
+2016-11-06,2016-17,Portland Trail Blazers @ Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,1.03,2.32,1.92,1.98,1.35,5,1.78,2.02,2.5
+2016-11-06,2016-17,Sacramento Kings @ Toronto Raptors,Sacramento Kings,Toronto Raptors,1.13,9.8,4.21,4.1,1.11,2.44,1.28,1.33,-9.5
+2016-11-06,2016-17,Denver Nuggets @ Boston Celtics,Denver Nuggets,Boston Celtics,1.02,4.2,1.54,3.6,1.25,15.5,1.73,1.38,-8.5
+2016-11-06,2016-17,Milwaukee Bucks @ Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,1.3,8.2,2.37,2.32,1.1,4.7,1.65,1.73,-2.5
+2016-11-06,2016-17,Phoenix Suns @ Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,2.22,1000,6.49,2.6,1.01,1.74,1.31,1.6,-2.5
+2016-11-07,2016-17,Detroit Pistons @ Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,4.5,1000,8.97,4.8,1.02,1.29,1.26,1.27,-8.5
+2016-11-07,2016-17,Houston Rockets @ Washington Wizards,Houston Rockets,Washington Wizards,1.01,2.36,1.98,2.02,1.63,3.55,1.96,1.97,-1.5
+2016-11-07,2016-17,Indiana Pacers @ Charlotte Hornets,Indiana Pacers,Charlotte Hornets,2.02,5,2.38,2.34,1.03,1.78,1.63,1.74,-3.5
+2016-11-07,2016-17,Miami Heat @ Oklahoma City Thunder,Miami Heat,Oklahoma City Thunder,3,3.35,3.15,3.1,1.01,1.52,1.32,1.45,-5.5
+2016-11-07,2016-17,New Orleans Pelicans @ Golden State Warriors,New Orleans Pelicans,Golden State Warriors,6.4,400,13.52,23,1.02,1.26,1.06,1.05,-16.5
+2016-11-07,2016-17,Orlando Magic @ Chicago Bulls,Orlando Magic,Chicago Bulls,3.15,8.8,3.63,3.2,1.01,1.5,1.39,1.43,-6.5
+2016-11-07,2016-17,Utah Jazz @ Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,1.01,1.67,1.4,1.53,2.44,50,3.29,2.86,7.5
+2016-11-08,2016-17,Atlanta Hawks @ Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,1.05,5.3,1.99,4.3,1.22,34,1.57,1.31,-8.5
+2016-11-08,2016-17,Dallas Mavericks @ Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,1.1,3.75,2.23,2.52,1.33,8.6,1.75,1.63,-4.5
+2016-11-08,2016-17,Denver Nuggets @ Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,1.05,6,2.5,2.66,1.08,2.58,1.53,1.66,-3.5
+2016-11-08,2016-17,Minnesota Timberwolves @ Brooklyn Nets,Minnesota Timberwolves,Brooklyn Nets,1.53,2.8,1.62,1.61,1.01,2.84,2.01,2.68,-3.5
+2016-11-08,2016-17,New Orleans Pelicans @ Sacramento Kings,New Orleans Pelicans,Sacramento Kings,3,17.5,3.49,3.35,1.02,1.5,1.29,1.42,-5.5
+2016-11-08,2016-17,Phoenix Suns @ Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,3,8.8,4.04,4.3,1.01,1.47,1.21,1.3,-7.5
+2016-11-09,2016-17,Dallas Mavericks @ Golden State Warriors,Dallas Mavericks,Golden State Warriors,8,34,16.94,15.5,1.02,1.08,1.06,1.07,-14.5
+2016-11-09,2016-17,Philadelphia 76ers @ Indiana Pacers,Philadelphia 76ers,Indiana Pacers,1.24,30,6.29,8,1.03,2.52,1.13,1.14,-12.5
+2016-11-09,2016-17,Brooklyn Nets @ New York Knicks,Brooklyn Nets,New York Knicks,1.84,34,3.52,4.1,1.09,2.62,1.49,1.3,-8.5
+2016-11-09,2016-17,Minnesota Timberwolves @ Orlando Magic,Minnesota Timberwolves,Orlando Magic,1.01,2.46,1.83,2.3,1.68,5.8,2.01,1.77,-2.5
+2016-11-09,2016-17,Boston Celtics @ Washington Wizards,Boston Celtics,Washington Wizards,1.92,17.5,2.47,2.16,1.03,2.08,1.76,1.85,1.5
+2016-11-09,2016-17,Chicago Bulls @ Atlanta Hawks,Chicago Bulls,Atlanta Hawks,2,2.52,2.4,2.46,1.04,1.84,1.57,1.66,-3.5
+2016-11-09,2016-17,Toronto Raptors @ Oklahoma City Thunder,Toronto Raptors,Oklahoma City Thunder,1.01,4.4,2.26,2.6,1.6,100,2.24,1.62,-3.5
+2016-11-09,2016-17,Detroit Pistons @ Phoenix Suns,Detroit Pistons,Phoenix Suns,1.2,3,1.68,1.61,1.05,2.8,2.55,2.68,3.5
+2016-11-09,2016-17,Houston Rockets @ San Antonio Spurs,Houston Rockets,San Antonio Spurs,1.21,5,2.71,4.5,1.25,3.05,1.52,1.28,-7.5
+2016-11-09,2016-17,Portland Trail Blazers @ Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,5.3,6.8,6.21,6,1.01,1.41,1.13,1.18,-9.5
+2016-11-09,2016-17,Utah Jazz @ Charlotte Hornets,Utah Jazz,Charlotte Hornets,1.6,2.5,2.24,2.46,1.04,3,1.75,1.68,-1.5
+2016-11-10,2016-17,Chicago Bulls @ Miami Heat,Chicago Bulls,Miami Heat,1.03,2.8,1.98,2.04,1.51,2.1,1.92,1.97,-2.5
+2016-11-10,2016-17,Golden State Warriors @ Denver Nuggets,Golden State Warriors,Denver Nuggets,1.01,1.46,1.4,1.39,3.2,3.9,3.34,3.55,6.5
+2016-11-10,2016-17,Los Angeles Lakers @ Sacramento Kings,Los Angeles Lakers,Sacramento Kings,1.05,11.5,3.32,2.88,1.11,10,1.54,1.53,-4.5
+2016-11-10,2016-17,New Orleans Pelicans @ Milwaukee Bucks,New Orleans Pelicans,Milwaukee Bucks,1.03,3.1,2.25,2.88,1.41,4.5,1.68,1.5,-4.5
+2016-11-11,2016-17,Los Angeles Clippers @ Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,1.04,2.06,1.52,1.59,2,6.8,2.83,2.74,5.5
+2016-11-11,2016-17,Cleveland Cavaliers @ Washington Wizards,Cleveland Cavaliers,Washington Wizards,1.03,1.69,1.33,1.31,1.86,6,2.7,4.2,6.5
+2016-11-11,2016-17,Detroit Pistons @ San Antonio Spurs,Detroit Pistons,San Antonio Spurs,3,5.2,4.71,5,1.03,1.5,1.29,1.25,-8.5
+2016-11-11,2016-17,Indiana Pacers @ Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,1.19,5.1,1.56,1.52,1.03,6,2.43,2.92,5.5
+2016-11-11,2016-17,New York Knicks @ Boston Celtics,New York Knicks,Boston Celtics,2.74,3.55,2.85,2.74,1.01,1.57,1.48,1.57,-5.5
+2016-11-11,2016-17,Sacramento Kings @ Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,1.3,6.2,3.51,4,1.07,4,1.42,1.32,-6.5
+2016-11-11,2016-17,Toronto Raptors @ Charlotte Hornets,Toronto Raptors,Charlotte Hornets,1.25,5.2,2.04,2,1.18,5.5,1.94,2,-1.5
+2016-11-11,2016-17,Utah Jazz @ Orlando Magic,Utah Jazz,Orlando Magic,1.02,1.6,1.48,1.55,1.8,3.15,2.8,2.78,3.5
+2016-11-12,2016-17,Boston Celtics @ Indiana Pacers,Boston Celtics,Indiana Pacers,1.01,3.2,1.88,1.9,1.39,2.18,2.02,2.08,-2.5
+2016-11-12,2016-17,Brooklyn Nets @ Phoenix Suns,Brooklyn Nets,Phoenix Suns,1.01,2.9,1.69,2.82,1.52,3.7,1.64,1.54,-5.5
+2016-11-13,2016-17,Charlotte Hornets @ Cleveland Cavaliers,Charlotte Hornets,Cleveland Cavaliers,2.6,9.4,4.85,3.9,1.03,1.8,1.31,1.35,-8.5
+2016-11-12,2016-17,Detroit Pistons @ Denver Nuggets,Detroit Pistons,Denver Nuggets,1.34,2.9,2.09,2.82,1.51,5.1,1.68,1.53,-4.5
+2016-11-12,2016-17,Los Angeles Clippers @ Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,1.13,1.58,1.47,1.51,2.62,3.4,2.95,3.05,5.5
+2016-11-12,2016-17,Los Angeles Lakers @ New Orleans Pelicans,Los Angeles Lakers,New Orleans Pelicans,1.08,2.1,1.84,1.98,1.73,140,2.09,2,-1.5
+2016-11-12,2016-17,Memphis Grizzlies @ Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,2.12,2.5,2.43,2.42,1.08,1.83,1.66,1.72,-2.5
+2016-11-12,2016-17,New York Knicks @ Toronto Raptors,New York Knicks,Toronto Raptors,2.22,6.2,3.92,4,1.04,1.92,1.33,1.33,-5.5
+2016-11-12,2016-17,Philadelphia 76ers @ Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,9.2,21,14.79,15.5,1.03,1.14,1.08,1.06,-13.5
+2016-11-12,2016-17,San Antonio Spurs @ Houston Rockets,San Antonio Spurs,Houston Rockets,1.01,2.06,1.7,1.84,2,3.2,2.2,2.18,1.5
+2016-11-12,2016-17,Utah Jazz @ Miami Heat,Utah Jazz,Miami Heat,1.06,2,1.76,1.84,1.83,2.44,2.15,2.18,4.5
+2016-11-12,2016-17,Washington Wizards @ Chicago Bulls,Washington Wizards,Chicago Bulls,1.83,6.2,5.23,5.7,1.07,1.64,1.2,1.2,-6.5
+2016-11-13,2016-17,Denver Nuggets @ Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,1.46,500,5.95,3.9,1.01,3.15,1.47,1.34,-5.5
+2016-11-13,2016-17,Los Angeles Lakers @ Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,1.9,1000,3.16,2.04,1.05,2.2,1.55,1.72,-4.5
+2016-11-13,2016-17,Orlando Magic @ Oklahoma City Thunder,Orlando Magic,Oklahoma City Thunder,1.11,5.8,2.99,5.3,1.14,12,1.5,1.24,-9.5
+2016-11-13,2016-17,Phoenix Suns @ Golden State Warriors,Phoenix Suns,Golden State Warriors,2.3,1000,21.47,21,1.01,1.83,1.07,1.05,-16.5
+2016-11-14,2016-17,Boston Celtics @ New Orleans Pelicans,Boston Celtics,New Orleans Pelicans,1.28,6.4,1.83,1.66,1.06,3.2,2.26,2.52,4.5
+2016-11-14,2016-17,Brooklyn Nets @ Los Angeles Clippers,Brooklyn Nets,Los Angeles Clippers,10.5,100,21.38,21,1.01,1.09,1.05,1.05,-14.5
+2016-11-14,2016-17,Dallas Mavericks @ New York Knicks,Dallas Mavericks,New York Knicks,2.1,12,2.38,2.62,1.03,2.1,1.61,1.63,-3.5
+2016-11-14,2016-17,Memphis Grizzlies @ Utah Jazz,Memphis Grizzlies,Utah Jazz,1.01,3.7,1.95,3.35,1.34,12,1.49,1.41,-5.5
+2016-11-14,2016-17,Miami Heat @ San Antonio Spurs,Miami Heat,San Antonio Spurs,7.2,120,7.92,7.2,1.01,1.22,1.13,1.15,-11.5
+2016-11-14,2016-17,Oklahoma City Thunder @ Detroit Pistons,Oklahoma City Thunder,Detroit Pistons,1.78,5.2,1.96,1.98,1.03,2.3,1.75,2,-3.5
+2016-11-14,2016-17,Orlando Magic @ Indiana Pacers,Orlando Magic,Indiana Pacers,3.3,4.7,3.9,3.9,1.01,1.62,1.32,1.34,-7.5
+2016-11-14,2016-17,Philadelphia 76ers @ Houston Rockets,Philadelphia 76ers,Houston Rockets,6.8,10,7.78,7.6,1.03,1.25,1.14,1.15,-11.5
+2016-11-15,2016-17,Atlanta Hawks @ Miami Heat,Atlanta Hawks,Miami Heat,1.1,1.66,1.38,1.36,2.32,6.2,3.76,3.8,6.5
+2016-11-15,2016-17,Brooklyn Nets @ Los Angeles Lakers,Brooklyn Nets,Los Angeles Lakers,2.6,13.5,3.66,3.8,1.05,1.45,1.34,1.35,-7.5
+2016-11-15,2016-17,Charlotte Hornets @ Minnesota Timberwolves,Charlotte Hornets,Minnesota Timberwolves,1.01,2.22,1.75,1.94,1.24,5,1.95,2.04,2.5
+2016-11-15,2016-17,Chicago Bulls @ Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,1.02,2.74,1.74,2.68,1.57,100,2.62,1.59,-3.5
+2016-11-15,2016-17,Toronto Raptors @ Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,1.3,21,3.47,3.2,1.04,4,1.41,1.44,-5.5
+2016-11-16,2016-17,Cleveland Cavaliers @ Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,1.54,18,2.3,2.34,1.01,2.72,1.75,1.75,-2.5
+2016-11-16,2016-17,Dallas Mavericks @ Boston Celtics,Dallas Mavericks,Boston Celtics,2.2,8,3.42,3.3,1.16,1.88,1.4,1.42,-7.5
+2016-11-16,2016-17,Detroit Pistons @ New York Knicks,Detroit Pistons,New York Knicks,2,3.1,2.16,2.1,1.06,1.9,1.82,1.87,-2.5
+2016-11-16,2016-17,Golden State Warriors @ Toronto Raptors,Golden State Warriors,Toronto Raptors,1.05,1.95,1.4,1.42,2.16,21,3.51,3.35,5.5
+2016-11-16,2016-17,Houston Rockets @ Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,1.23,3.85,2.2,2.28,1.03,3.05,1.82,1.79,-1.5
+2016-11-16,2016-17,Memphis Grizzlies @ Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,1.01,12,2.06,10,1.08,4,1.42,1.11,-12.5
+2016-11-16,2016-17,Milwaukee Bucks @ Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,2.74,18,3.11,3,1.05,1.65,1.46,1.5,-7.5
+2016-11-16,2016-17,New Orleans Pelicans @ Orlando Magic,New Orleans Pelicans,Orlando Magic,2.6,4.3,3.8,3.9,1.01,1.68,1.38,1.34,-4.5
+2016-11-16,2016-17,Phoenix Suns @ Denver Nuggets,Phoenix Suns,Denver Nuggets,2.66,14.5,2.76,2.82,1.04,2,1.43,1.55,-4.5
+2016-11-16,2016-17,San Antonio Spurs @ Sacramento Kings,San Antonio Spurs,Sacramento Kings,1.01,1.51,1.23,1.47,3.05,8.8,3.31,3.15,5.5
+2016-11-16,2016-17,Washington Wizards @ Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,1.39,15.5,1.58,1.39,1.06,3.6,2.75,3.6,6.5
+2016-11-17,2016-17,Chicago Bulls @ Utah Jazz,Chicago Bulls,Utah Jazz,1.03,3,2.04,2.36,1.5,110,1.94,1.73,-3.5
+2016-11-17,2016-17,Milwaukee Bucks @ Miami Heat,Milwaukee Bucks,Miami Heat,1.59,2.6,2.43,2.56,1.03,2,1.64,1.64,-3.5
+2016-11-17,2016-17,New York Knicks @ Washington Wizards,New York Knicks,Washington Wizards,2.02,150,2.75,2.9,1.02,1.87,1.56,1.52,-2.5
+2016-11-17,2016-17,Philadelphia 76ers @ Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,6.2,110,9.71,7.8,1.05,1.19,1.15,1.15,-11.5
+2016-11-17,2016-17,Portland Trail Blazers @ Houston Rockets,Portland Trail Blazers,Houston Rockets,2.48,21,3.07,2.96,1.01,1.68,1.44,1.51,-3.5
+2016-11-18,2016-17,Golden State Warriors @ Boston Celtics,Golden State Warriors,Boston Celtics,1.01,1.41,1.27,1.24,3.6,5.1,4.25,5,7.5
+2016-11-19,2016-17,Utah Jazz @ Houston Rockets,Utah Jazz,Houston Rockets,3,18,3.65,3.75,1.01,1.5,1.32,1.36,-5.5
+2016-11-18,2016-17,Toronto Raptors @ Denver Nuggets,Toronto Raptors,Denver Nuggets,1.01,3.5,1.64,1.63,1.57,1000,8.63,2.58,3.5
+2016-11-18,2016-17,San Antonio Spurs @ Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,1.06,1.5,1.3,1.34,3.05,15,3.8,4.1,6.5
+2016-11-18,2016-17,Portland Trail Blazers @ New Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,1.47,5.9,1.97,1.99,1.03,2.7,1.91,2.08,1.5
+2016-11-18,2016-17,Phoenix Suns @ Indiana Pacers,Phoenix Suns,Indiana Pacers,1.09,4.2,2.48,2.72,1.31,15,1.48,1.57,-7.5
+2016-11-18,2016-17,Memphis Grizzlies @ Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,1.01,1.8,1.54,1.65,1.83,4.3,2.53,2.54,2.5
+2016-11-18,2016-17,Los Angeles Clippers @ Sacramento Kings,Los Angeles Clippers,Sacramento Kings,1.02,1.35,1.26,1.29,3.55,26,4.95,4.7,7.5
+2016-11-18,2016-17,Detroit Pistons @ Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,3.8,12,4.84,4.7,1.05,1.3,1.21,1.27,-9.5
+2016-11-18,2016-17,Brooklyn Nets @ Oklahoma City Thunder,Brooklyn Nets,Oklahoma City Thunder,3.5,1000,7.58,5.5,1.01,1.62,1.2,1.23,-9.5
+2016-11-18,2016-17,Atlanta Hawks @ Charlotte Hornets,Atlanta Hawks,Charlotte Hornets,1.18,9,1.93,2.24,1.13,3.35,1.73,1.79,-2.5
+2016-11-20,2016-17,Atlanta Hawks @ New York Knicks,Atlanta Hawks,New York Knicks,1.41,18,1.73,1.6,1.01,2.68,2,2.68,2.5
+2016-11-19,2016-17,Boston Celtics @ Detroit Pistons,Boston Celtics,Detroit Pistons,1.1,2.98,2.11,2.2,1.35,4,1.79,1.82,-2.5
+2016-11-19,2016-17,Charlotte Hornets @ New Orleans Pelicans,Charlotte Hornets,New Orleans Pelicans,1.06,110,1.85,1.84,1.13,13.5,2.06,2.18,5.5
+2016-11-19,2016-17,Chicago Bulls @ Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,1.4,18,2.24,4.4,1.03,3.2,1.36,1.3,-6.5
+2016-11-19,2016-17,Dallas Mavericks @ Orlando Magic,Dallas Mavericks,Orlando Magic,2.3,5,4.07,4.1,1.13,1.5,1.3,1.3,-6.5
+2016-11-19,2016-17,Golden State Warriors @ Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,1.02,1.46,1.24,1.25,3.1,15.5,4.54,5.1,8.5
+2016-11-19,2016-17,Miami Heat @ Washington Wizards,Miami Heat,Washington Wizards,1.01,3,1.84,2.82,1.44,2.5,1.56,1.51,-4.5
+2016-11-19,2016-17,Minnesota Timberwolves @ Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,1.67,1000,2.16,2.04,1.03,2.58,1.81,1.99,1.5
+2016-11-19,2016-17,Phoenix Suns @ Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,1.43,4,1.88,1.82,1.26,2.28,1.91,2.24,1.5
+2016-11-20,2016-17,Portland Trail Blazers @ Brooklyn Nets,Portland Trail Blazers,Brooklyn Nets,1.01,1.71,1.47,1.58,2.58,6.4,3.03,2.74,4.5
+2016-11-20,2016-17,Chicago Bulls @ Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,1.01,2.82,1.8,2.22,1.5,18,1.95,1.84,2.5
+2016-11-20,2016-17,Indiana Pacers @ Oklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,1.04,5.8,2.87,5.6,1.21,15.5,1.34,1.25,-10.5
+2016-11-20,2016-17,Toronto Raptors @ Sacramento Kings,Toronto Raptors,Sacramento Kings,1.35,2.74,1.68,1.66,1.41,3.75,2.32,2.52,3.5
+2016-11-20,2016-17,Utah Jazz @ Denver Nuggets,Utah Jazz,Denver Nuggets,2.32,6.6,2.72,2.58,1.09,1.76,1.66,1.63,-2.5
+2016-11-21,2016-17,Boston Celtics @ Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,1.1,2,1.88,1.85,1.07,18,1.91,2.14,2.5
+2016-11-21,2016-17,Dallas Mavericks @ San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,2.4,25,13.2,15,1.04,1.75,1.11,1.07,-16.5
+2016-11-21,2016-17,Golden State Warriors @ Indiana Pacers,Golden State Warriors,Indiana Pacers,1.01,1.13,1.08,1.07,7.8,18,14.06,18,13.5
+2016-11-21,2016-17,Houston Rockets @ Detroit Pistons,Houston Rockets,Detroit Pistons,1.18,2.52,1.8,1.8,1.6,2.44,2.1,2.28,2.5
+2016-11-21,2016-17,Memphis Grizzlies @ Charlotte Hornets,Memphis Grizzlies,Charlotte Hornets,1.01,3.35,1.86,2.9,1.41,20,1.97,1.52,-5.5
+2016-11-21,2016-17,Miami Heat @ Philadelphia 76ers,Miami Heat,Philadelphia 76ers,1.35,4.8,1.6,1.56,1.01,3.2,2.67,2.76,4.5
+2016-11-21,2016-17,Orlando Magic @ Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,2.5,15,3.06,3.55,1.07,1.9,1.43,1.38,-5.5
+2016-11-21,2016-17,Phoenix Suns @ Washington Wizards,Phoenix Suns,Washington Wizards,2,5.5,3.87,3.95,1.18,2.6,1.35,1.35,-8.5
+2016-11-21,2016-17,Toronto Raptors @ Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,4.2,15.5,5.23,5.1,1.01,1.32,1.18,1.23,-8.5
+2016-11-22,2016-17,Portland Trail Blazers @ New York Knicks,Portland Trail Blazers,New York Knicks,1.48,4.6,2.14,2.1,1.11,2.4,1.8,1.9,-1.5
+2016-11-22,2016-17,Oklahoma City Thunder @ Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,1.52,9.2,1.79,1.65,1.04,2.56,1.86,2.52,2.5
+2016-11-22,2016-17,New Orleans Pelicans @ Atlanta Hawks,New Orleans Pelicans,Atlanta Hawks,1.02,5,1.38,4.5,1.25,50,1.59,1.28,-7.5
+2016-11-22,2016-17,Chicago Bulls @ Denver Nuggets,Chicago Bulls,Denver Nuggets,1.28,2.72,1.85,1.83,1.01,3.5,1.91,2.18,2.5
+2016-11-23,2016-17,Atlanta Hawks @ Indiana Pacers,Atlanta Hawks,Indiana Pacers,1.02,2,1.67,1.98,1.9,5,2.09,2.02,1.5
+2016-11-23,2016-17,Boston Celtics @ Brooklyn Nets,Boston Celtics,Brooklyn Nets,1.15,1.35,1.33,1.35,3.8,6,4.05,3.85,7.5
+2016-11-23,2016-17,Denver Nuggets @ Utah Jazz,Denver Nuggets,Utah Jazz,2.7,4.3,3.89,4.2,1.14,1.58,1.33,1.3,-6.5
+2016-11-23,2016-17,Los Angeles Clippers @ Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,1.05,1.36,1.18,1.19,3.8,26,6.14,6,9.5
+2016-11-23,2016-17,Los Angeles Lakers @ Golden State Warriors,Los Angeles Lakers,Golden State Warriors,5.1,50,24.07,23,1.03,1.05,1.04,1.04,-16.5
+2016-11-23,2016-17,Memphis Grizzlies @ Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,1.01,1.95,1.45,1.45,1.41,7.2,2.82,3.15,4.5
+2016-11-23,2016-17,Miami Heat @ Detroit Pistons,Miami Heat,Detroit Pistons,2.72,2.9,2.81,2.76,1.13,1.58,1.53,1.57,-4.5
+2016-11-23,2016-17,Minnesota Timberwolves @ New Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,1.41,50,2.17,1.81,1.02,2.5,1.86,2.24,2.5
+2016-11-23,2016-17,Oklahoma City Thunder @ Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,2.14,5,2.37,2.14,1.03,1.84,1.68,1.84,-2.5
+2016-11-23,2016-17,Phoenix Suns @ Orlando Magic,Phoenix Suns,Orlando Magic,1.11,2.76,2.65,2.68,1.54,2.88,1.65,1.59,-4.5
+2016-11-23,2016-17,Portland Trail Blazers @ Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,6.8,22,8.56,9,1.01,1.14,1.12,1.13,-11.5
+2016-11-23,2016-17,San Antonio Spurs @ Charlotte Hornets,San Antonio Spurs,Charlotte Hornets,1.01,1.65,1.48,1.49,2.5,10.5,2.98,3,4.5
+2016-11-23,2016-17,Toronto Raptors @ Houston Rockets,Toronto Raptors,Houston Rockets,1.04,2.64,2.22,2.6,1.6,21,2.05,1.63,-3.5
+2016-11-25,2016-17,San Antonio Spurs @ Boston Celtics,San Antonio Spurs,Boston Celtics,1.02,2.5,1.76,1.66,1.7,4.3,2.35,2.32,3.5
+2016-11-25,2016-17,Atlanta Hawks @ Utah Jazz,Atlanta Hawks,Utah Jazz,2.3,4.6,2.47,2.42,1.3,1.83,1.66,1.66,-2.5
+2016-11-25,2016-17,Brooklyn Nets @ Indiana Pacers,Brooklyn Nets,Indiana Pacers,3.15,4.7,3.44,3.2,1.01,1.6,1.39,1.46,-8.5
+2016-11-25,2016-17,Charlotte Hornets @ New York Knicks,Charlotte Hornets,New York Knicks,1.38,4,2.08,1.87,1.17,2.5,2.07,2.12,1.5
+2016-11-25,2016-17,Chicago Bulls @ Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,1.05,1.35,1.24,1.25,3.8,5.1,4.89,5,9.5
+2016-11-25,2016-17,Dallas Mavericks @ Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,12,15,12.73,12,1.01,1.1,1.08,1.09,-13.5
+2016-11-25,2016-17,Golden State Warriors @ Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,1.02,1.13,1.09,1.09,8.4,34,12.52,11.5,13.5
+2016-11-25,2016-17,Houston Rockets @ Sacramento Kings,Houston Rockets,Sacramento Kings,1.08,1.72,1.59,1.66,2.4,2.54,2.49,2.5,3.5
+2016-11-25,2016-17,Los Angeles Clippers @ Detroit Pistons,Los Angeles Clippers,Detroit Pistons,1.35,1000,2.06,1.39,1.04,3.75,2.02,3.55,6.5
+2016-11-25,2016-17,Miami Heat @ Memphis Grizzlies,Miami Heat,Memphis Grizzlies,1.04,3.4,2.43,2.96,1.36,100,1.51,1.52,-6.5
+2016-11-25,2016-17,Minnesota Timberwolves @ Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,1.02,5.1,1.84,1.76,1.18,18,2.18,2.28,6.5
+2016-11-25,2016-17,New Orleans Pelicans @ Portland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,2.18,1000,4.09,2.62,1.03,1.7,1.4,1.6,-4.5
+2016-11-25,2016-17,Oklahoma City Thunder @ Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,1.01,2.5,1.83,1.76,1.11,15.5,2.17,2.34,3.5
+2016-11-25,2016-17,Toronto Raptors @ Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,1.04,1.76,1.5,1.64,2.36,6,2.6,2.5,3.5
+2016-11-25,2016-17,Washington Wizards @ Orlando Magic,Washington Wizards,Orlando Magic,1.01,2.5,1.85,1.83,1.63,1000,2.62,2.18,2.5
+2016-11-27,2016-17,Cleveland Cavaliers @ Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,1.01,1.91,1.19,1.15,1.87,18,4.83,7.2,12.5
+2016-11-27,2016-17,Denver Nuggets @ Phoenix Suns,Denver Nuggets,Phoenix Suns,1.01,2.5,1.88,2.26,1.66,8.4,2.28,1.79,-3.5
+2016-11-26,2016-17,Detroit Pistons @ Oklahoma City Thunder,Detroit Pistons,Oklahoma City Thunder,2.5,7.2,2.74,2.68,1.03,1.67,1.55,1.59,-4.5
+2016-11-26,2016-17,Los Angeles Clippers @ Indiana Pacers,Los Angeles Clippers,Indiana Pacers,1.14,50,1.28,1.15,1.01,8.2,1.13,7.4,10.5
+2016-11-26,2016-17,Memphis Grizzlies @ Miami Heat,Memphis Grizzlies,Miami Heat,1.02,3.3,1.96,1.92,1.96,15.5,2.23,2.06,-1.5
+2016-11-27,2016-17,Milwaukee Bucks @ Orlando Magic,Milwaukee Bucks,Orlando Magic,1.02,2.5,1.98,2.14,1.8,2.5,2.17,1.88,1.5
+2016-11-26,2016-17,Minnesota Timberwolves @ Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,3.85,100,10.91,9.2,1.01,1.34,1.1,1.12,-13.5
+2016-11-26,2016-17,New York Knicks @ Charlotte Hornets,New York Knicks,Charlotte Hornets,2.5,15,3.51,3.2,1.02,1.56,1.46,1.46,-6.5
+2016-11-27,2016-17,Sacramento Kings @ Brooklyn Nets,Sacramento Kings,Brooklyn Nets,1.05,1.63,1.52,1.54,2.08,100,4.22,2.86,4.5
+2016-11-26,2016-17,San Antonio Spurs @ Washington Wizards,San Antonio Spurs,Washington Wizards,1.01,1.48,1.39,1.44,2.4,8,3.42,3.3,6.5
+2016-11-27,2016-17,Atlanta Hawks @ Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,1.19,4.1,1.63,1.52,1.01,5.8,1.22,2.94,5.5
+2016-11-27,2016-17,Houston Rockets @ Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,1.01,1.9,1.48,1.88,1.84,100,2.35,2.14,2.5
+2016-11-27,2016-17,New Orleans Pelicans @ Dallas Mavericks,New Orleans Pelicans,Dallas Mavericks,1.36,10.5,1.58,1.52,1.01,3.05,1.47,2.88,3.5
+2016-11-28,2016-17,Atlanta Hawks @ Golden State Warriors,Atlanta Hawks,Golden State Warriors,3.3,100,10,12,1.01,1.6,1.09,1.09,-13.5
+2016-11-28,2016-17,Boston Celtics @ Miami Heat,Boston Celtics,Miami Heat,1.21,1.68,1.5,1.59,2.36,3.5,2.97,2.72,3.5
+2016-11-28,2016-17,Charlotte Hornets @ Memphis Grizzlies,Charlotte Hornets,Memphis Grizzlies,1.02,2.5,1.68,1.87,1.74,50,2.69,2.16,1.5
+2016-11-28,2016-17,Oklahoma City Thunder @ New York Knicks,Oklahoma City Thunder,New York Knicks,1.02,2.5,1.94,1.99,1.57,12,2.1,2,1.5
+2016-11-28,2016-17,Philadelphia 76ers @ Toronto Raptors,Philadelphia 76ers,Toronto Raptors,10.5,34,16.06,15,1.01,1.13,1.04,1.07,-15.5
+2016-11-28,2016-17,Sacramento Kings @ Washington Wizards,Sacramento Kings,Washington Wizards,2.3,11,2.83,2.8,1.01,1.94,1.57,1.55,-4.5
+2016-11-28,2016-17,Utah Jazz @ Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,1.01,2,1.6,1.75,2,9.2,2.56,2.32,2.5
+2016-11-29,2016-17,Cleveland Cavaliers @ Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,1.13,160,1.55,1.36,1.01,9.2,1.42,3.7,6.5
+2016-11-29,2016-17,Detroit Pistons @ Charlotte Hornets,Detroit Pistons,Charlotte Hornets,1.02,3.6,1.38,2.62,1.36,7.2,1.69,1.63,-2.5
+2016-11-29,2016-17,Houston Rockets @ Utah Jazz,Houston Rockets,Utah Jazz,1.63,1000,7.27,1.94,1.01,2.5,1.33,2.06,1.5
+2016-11-29,2016-17,Los Angeles Clippers @ Brooklyn Nets,Los Angeles Clippers,Brooklyn Nets,1.01,18,1.39,1.18,1.01,15,2.32,6.4,12.5
+2016-11-29,2016-17,Los Angeles Lakers @ New Orleans Pelicans,Los Angeles Lakers,New Orleans Pelicans,2.72,34,4.66,3,1.01,1.61,1.32,1.47,-5.5
+2016-11-29,2016-17,Orlando Magic @ San Antonio Spurs,Orlando Magic,San Antonio Spurs,1.02,13.5,1.5,10,1.07,1000,1.63,1.1,-13.5
+2016-11-30,2016-17,Atlanta Hawks @ Phoenix Suns,Atlanta Hawks,Phoenix Suns,1.3,2.2,1.58,1.59,1.04,3.9,2.19,2.72,5.5
+2016-11-30,2016-17,Detroit Pistons @ Boston Celtics,Detroit Pistons,Boston Celtics,1.01,5,1.63,3.5,1.15,4.1,1.45,1.4,-7.5
+2016-11-30,2016-17,Indiana Pacers @ Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,3.3,11.5,4.42,3.7,1.01,1.41,1.24,1.37,-7.5
+2016-11-30,2016-17,Los Angeles Lakers @ Chicago Bulls,Los Angeles Lakers,Chicago Bulls,1.2,12,4.58,5.9,1.1,15.5,1.28,1.2,-10.5
+2016-11-30,2016-17,Memphis Grizzlies @ Toronto Raptors,Memphis Grizzlies,Toronto Raptors,4.3,12.5,7.9,9.8,1.06,1.41,1.15,1.12,-12.5
+2016-11-30,2016-17,Miami Heat @ Denver Nuggets,Miami Heat,Denver Nuggets,1.01,5.1,1.1,3.3,1.2,1000,9.8,1.44,-6.5
+2016-11-30,2016-17,New York Knicks @ Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,1.05,2.64,2.29,2.58,1.6,11,2.14,1.61,-4.5
+2016-11-30,2016-17,San Antonio Spurs @ Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,1.02,3.1,1.19,1.26,1.29,1000,27.75,4.6,9.5
+2016-11-30,2016-17,Washington Wizards @ Oklahoma City Thunder,Washington Wizards,Oklahoma City Thunder,1.11,16,1.25,2.98,1.01,8.8,1.41,1.5,-6.5
+2016-12-01,2016-17,Dallas Mavericks @ Charlotte Hornets,Dallas Mavericks,Charlotte Hornets,6,12.5,8.21,7.8,1.02,1.22,1.15,1.15,-10.5
+2016-12-01,2016-17,Houston Rockets @ Golden State Warriors,Houston Rockets,Golden State Warriors,1.01,8,3.19,6.6,1.12,100,1.27,1.17,-10.5
+2016-12-01,2016-17,Los Angeles Clippers @ Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,1.03,3.1,1.4,2.56,1.46,50,1.84,1.64,-5.5
+2016-12-01,2016-17,Miami Heat @ Utah Jazz,Miami Heat,Utah Jazz,1.05,5.5,2.81,3.85,1.22,2.58,1.39,1.35,-9.5
+2016-12-01,2016-17,Milwaukee Bucks @ Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,1.01,1.64,1.09,1.47,2.62,1000,28.26,3.05,4.5
+2016-12-01,2016-17,Orlando Magic @ Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,1.1,100,1.69,1.61,1.01,27,2.37,2.6,1.5
+2016-12-03,2016-17,Brooklyn Nets @ Milwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,2.12,50,5.68,5.7,1.04,1.9,1.24,1.2,-9.5
+2016-12-02,2016-17,Cleveland Cavaliers @ Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,1.27,5.7,1.96,1.87,1.01,4,1.75,2.12,3.5
+2016-12-02,2016-17,Detroit Pistons @ Atlanta Hawks,Detroit Pistons,Atlanta Hawks,1.07,2.5,1.62,2.12,1.67,11,1.85,1.86,-2.5
+2016-12-02,2016-17,Houston Rockets @ Denver Nuggets,Houston Rockets,Denver Nuggets,1.02,3,1.91,2.44,1.5,42,1.99,1.69,-1.5
+2016-12-02,2016-17,Los Angeles Clippers @ New Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,1.02,2,1.54,1.58,2,3.5,2.86,2.72,3.5
+2016-12-02,2016-17,Los Angeles Lakers @ Toronto Raptors,Los Angeles Lakers,Toronto Raptors,5,100,6.25,5.1,1.01,1.26,1.11,1.24,-10.5
+2016-12-02,2016-17,Minnesota Timberwolves @ New York Knicks,Minnesota Timberwolves,New York Knicks,1.77,8.2,2.03,1.77,1.15,2.5,2.07,2.28,-2.5
+2016-12-02,2016-17,Orlando Magic @ Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,1.01,2.5,1.73,2,1.73,19,2.02,2,-2.5
+2016-12-02,2016-17,Sacramento Kings @ Boston Celtics,Sacramento Kings,Boston Celtics,1.8,100,4.34,3.3,1.02,2.08,1.37,1.44,-6.5
+2016-12-02,2016-17,Washington Wizards @ San Antonio Spurs,Washington Wizards,San Antonio Spurs,2.18,17.5,4.49,4.7,1.08,2,1.26,1.28,-9.5
+2016-12-03,2016-17,Atlanta Hawks @ Toronto Raptors,Atlanta Hawks,Toronto Raptors,3.9,19.5,4.99,4.5,1.03,1.42,1.09,1.27,-7.5
+2016-12-03,2016-17,Boston Celtics @ Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,1.01,2.5,1.26,1.22,2.48,21,5.35,5.5,8.5
+2016-12-03,2016-17,Chicago Bulls @ Dallas Mavericks,Chicago Bulls,Dallas Mavericks,1.59,55,1.78,1.68,1.02,2.6,1.06,2.44,3.5
+2016-12-03,2016-17,Denver Nuggets @ Utah Jazz,Denver Nuggets,Utah Jazz,3.35,50,4.45,3.7,1.01,1.5,1.05,1.35,-6.5
+2016-12-03,2016-17,Los Angeles Lakers @ Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,1.51,18.5,2.28,2.24,1.01,3,1.71,1.81,-1.5
+2016-12-03,2016-17,Miami Heat @ Portland Trail Blazers,Miami Heat,Portland Trail Blazers,1.19,8.6,2.84,3.35,1.01,3,1.39,1.42,-6.5
+2016-12-03,2016-17,Minnesota Timberwolves @ Charlotte Hornets,Minnesota Timberwolves,Charlotte Hornets,1.01,15,3.19,3.2,1.02,13.5,1.45,1.47,-6.5
+2016-12-04,2016-17,Orlando Magic @ Detroit Pistons,Orlando Magic,Detroit Pistons,1.01,5.6,1.89,3.85,1.2,7.8,1.41,1.34,-7.5
+2016-12-03,2016-17,Phoenix Suns @ Golden State Warriors,Phoenix Suns,Golden State Warriors,12.5,100,23.52,18.5,1.01,1.09,1.05,1.06,-16.5
+2016-12-04,2016-17,Indiana Pacers @ Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,1.02,13,2.56,6.6,1.07,26,1.22,1.19,-12.5
+2016-12-04,2016-17,New Orleans Pelicans @ Oklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,3.15,10,3.56,3.55,1.01,1.51,1.28,1.42,-6.5
+2016-12-04,2016-17,Sacramento Kings @ New York Knicks,Sacramento Kings,New York Knicks,2.02,13,2.51,2.1,1.01,2.2,1.69,1.9,-2.5
+2016-12-05,2016-17,Boston Celtics @ Houston Rockets,Boston Celtics,Houston Rockets,1.33,4,3.27,3.05,1.1,2.2,1.51,1.47,-4.5
+2016-12-05,2016-17,Charlotte Hornets @ Dallas Mavericks,Charlotte Hornets,Dallas Mavericks,1.03,2.4,1.64,1.63,1.4,18,2.53,2.52,4.5
+2016-12-05,2016-17,Cleveland Cavaliers @ Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,1.01,2.5,1.27,2.18,1.75,20,1.97,1.83,-1.5
+2016-12-05,2016-17,Denver Nuggets @ Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,1.05,2.2,1.56,1.61,1.62,7.4,2.72,2.58,4.5
+2016-12-05,2016-17,Indiana Pacers @ Golden State Warriors,Indiana Pacers,Golden State Warriors,8.6,1000,46.15,11,1.03,1.2,1.09,1.1,-15.5
+2016-12-05,2016-17,Memphis Grizzlies @ New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,1.44,8.2,2.62,2.6,1.1,5.6,1.59,1.6,-5.5
+2016-12-05,2016-17,Oklahoma City Thunder @ Atlanta Hawks,Oklahoma City Thunder,Atlanta Hawks,1.04,3.25,2.08,2.6,1.52,6.2,1.75,1.61,-2.5
+2016-12-05,2016-17,Portland Trail Blazers @ Chicago Bulls,Portland Trail Blazers,Chicago Bulls,1.01,3,1.95,2.6,1.45,2.14,1.73,1.64,-5.5
+2016-12-05,2016-17,San Antonio Spurs @ Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,1.25,3.55,1.56,1.44,1.52,3.35,2.13,3.25,5.5
+2016-12-05,2016-17,Utah Jazz @ Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,1.01,1.8,1.1,1.59,2.22,17.5,3.3,2.68,3.5
+2016-12-05,2016-17,Washington Wizards @ Brooklyn Nets,Washington Wizards,Brooklyn Nets,1.1,1.7,1.44,1.4,1.29,4.5,2.81,3.5,5.5
+2016-12-06,2016-17,Chicago Bulls @ Detroit Pistons,Chicago Bulls,Detroit Pistons,2.34,1000,12.5,3.1,1.02,2,1.15,1.46,-5.5
+2016-12-06,2016-17,New York Knicks @ Miami Heat,New York Knicks,Miami Heat,1.01,2.92,1.99,2.1,1.38,11,1.86,1.92,-1.5
+2016-12-06,2016-17,Orlando Magic @ Washington Wizards,Orlando Magic,Washington Wizards,1.03,2.5,1.83,2.42,1.64,15.5,2.11,1.7,-3.5
+2016-12-06,2016-17,Philadelphia 76ers @ Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,1.49,5.5,3.3,3.6,1.01,3.45,1.36,1.38,-8.5
+2016-12-06,2016-17,Phoenix Suns @ Utah Jazz,Phoenix Suns,Utah Jazz,2.44,50,10.91,3.6,1.01,1.6,1.11,1.38,-7.5
+2016-12-06,2016-17,San Antonio Spurs @ Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,1.01,2.14,1.16,1.64,1.95,1000,14.36,2.58,4.5
+2016-12-07,2016-17,Boston Celtics @ Orlando Magic,Boston Celtics,Orlando Magic,1.33,2.5,1.9,1.97,1.8,3,2.27,2.04,1.5
+2016-12-07,2016-17,Cleveland Cavaliers @ New York Knicks,Cleveland Cavaliers,New York Knicks,1.01,1.36,1.11,1.28,3.55,220,5.93,4.4,8.5
+2016-12-07,2016-17,Denver Nuggets @ Brooklyn Nets,Denver Nuggets,Brooklyn Nets,1.49,18,1.77,1.59,1.02,2.84,1.73,2.66,5.5
+2016-12-07,2016-17,Detroit Pistons @ Charlotte Hornets,Detroit Pistons,Charlotte Hornets,2.18,21,3.11,2.96,1.06,1.8,1.45,1.48,-5.5
+2016-12-07,2016-17,Golden State Warriors @ Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,1.01,1.67,1.22,1.61,2.18,50,3.71,2.6,4.5
+2016-12-07,2016-17,Indiana Pacers @ Phoenix Suns,Indiana Pacers,Phoenix Suns,1.06,1.9,1.56,1.64,2,26,2.94,2.54,4.5
+2016-12-07,2016-17,Los Angeles Lakers @ Houston Rockets,Los Angeles Lakers,Houston Rockets,7.8,13.5,10.99,11,1.04,1.15,1.1,1.1,-12.5
+2016-12-07,2016-17,Miami Heat @ Atlanta Hawks,Miami Heat,Atlanta Hawks,3.95,1000,5.22,5,1.03,1.34,1.17,1.25,-8.5
+2016-12-07,2016-17,Portland Trail Blazers @ Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,1.7,2.66,2.31,2.16,1.08,2.92,2.27,1.87,-2.5
+2016-12-07,2016-17,Sacramento Kings @ Dallas Mavericks,Sacramento Kings,Dallas Mavericks,1.07,1.74,1.58,1.71,2.34,50,3.11,2.4,3.5
+2016-12-08,2016-17,Denver Nuggets @ Washington Wizards,Denver Nuggets,Washington Wizards,1.55,21,2.95,3,1.02,2.72,1.59,1.48,-5.5
+2016-12-08,2016-17,Golden State Warriors @ Utah Jazz,Golden State Warriors,Utah Jazz,1.01,1.57,1.06,1.16,3,36,14.88,7.2,10.5
+2016-12-08,2016-17,Minnesota Timberwolves @ Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,2.7,6.2,4.74,5.5,1.01,1.69,1.2,1.21,-7.5
+2016-12-08,2016-17,Philadelphia 76ers @ New Orleans Pelicans,Philadelphia 76ers,New Orleans Pelicans,1.02,5,1.92,3.3,1.19,3.7,1.44,1.41,-9.5
+2016-12-08,2016-17,Portland Trail Blazers @ Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,1.02,2.64,1.59,1.71,1.02,50,2.38,2.42,1.5
+2016-12-08,2016-17,San Antonio Spurs @ Chicago Bulls,San Antonio Spurs,Chicago Bulls,1.35,17.5,2.35,1.65,1.05,2.78,1.92,2.52,3.5
+2016-12-09,2016-17,Atlanta Hawks @ Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,1.02,8.6,2.01,2.44,1.04,14,1.52,1.68,-3.5
+2016-12-09,2016-17,Detroit Pistons @ Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,1.01,2.06,1.15,1.69,1.83,3.4,2.46,2.42,-3.5
+2016-12-09,2016-17,Houston Rockets @ Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,1.04,2.04,1.37,1.92,1.96,6.8,2.27,2.08,1.5
+2016-12-09,2016-17,Indiana Pacers @ Dallas Mavericks,Indiana Pacers,Dallas Mavericks,1.27,4,1.83,1.62,1.01,2.9,1.93,2.6,4.5
+2016-12-09,2016-17,Miami Heat @ Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,7,16,9.36,9.2,1.01,1.19,1.08,1.11,-13.5
+2016-12-09,2016-17,New York Knicks @ Sacramento Kings,New York Knicks,Sacramento Kings,1.01,5,2.5,3.1,1.3,8.6,1.62,1.48,-4.5
+2016-12-09,2016-17,Orlando Magic @ Charlotte Hornets,Orlando Magic,Charlotte Hornets,3,5.2,3.73,3.55,1.01,1.48,1.28,1.38,-7.5
+2016-12-09,2016-17,Phoenix Suns @ Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,1.01,2.22,1.5,2.12,1.64,18,1.93,1.87,-1.5
+2016-12-09,2016-17,Toronto Raptors @ Boston Celtics,Toronto Raptors,Boston Celtics,1.05,8,1.44,2.24,1.2,6.2,1.73,1.8,-1.5
+2016-12-10,2016-17,Brooklyn Nets @ San Antonio Spurs,Brooklyn Nets,San Antonio Spurs,9.8,16.5,14.74,15,1.06,1.09,1.07,1.07,-14.5
+2016-12-10,2016-17,Charlotte Hornets @ Cleveland Cavaliers,Charlotte Hornets,Cleveland Cavaliers,3.8,6.8,4.34,4,1.03,1.36,1.27,1.33,-7.5
+2016-12-10,2016-17,Dallas Mavericks @ Houston Rockets,Dallas Mavericks,Houston Rockets,8.4,10.5,9.42,8.4,1.1,1.16,1.11,1.13,-13.5
+2016-12-10,2016-17,Denver Nuggets @ Orlando Magic,Denver Nuggets,Orlando Magic,1.01,3.1,1.74,1.9,1.45,3.7,2.21,2.1,3.5
+2016-12-10,2016-17,Golden State Warriors @ Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,1.11,26,1.38,1.11,1.01,10,1.46,9.2,10.5
+2016-12-10,2016-17,Miami Heat @ Chicago Bulls,Miami Heat,Chicago Bulls,4,11,5.59,5.1,1.05,1.53,1.2,1.23,-10.5
+2016-12-10,2016-17,Milwaukee Bucks @ Washington Wizards,Milwaukee Bucks,Washington Wizards,1.31,3.5,2.5,2.56,1.03,3.6,1.67,1.62,-4.5
+2016-12-10,2016-17,New Orleans Pelicans @ Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,7.4,100,13.65,13,1.04,1.61,1.1,1.09,-13.5
+2016-12-11,2016-17,Philadelphia 76ers @ Detroit Pistons,Philadelphia 76ers,Detroit Pistons,1.02,11,3.68,8.2,1.1,18,1.23,1.14,-13.5
+2016-12-10,2016-17,Portland Trail Blazers @ Indiana Pacers,Portland Trail Blazers,Indiana Pacers,1.2,4.1,1.59,1.98,1.01,5.8,1.77,2.02,1.5
+2016-12-10,2016-17,Sacramento Kings @ Utah Jazz,Sacramento Kings,Utah Jazz,3,13.5,3.25,3.2,1.01,2.2,1.37,1.44,-6.5
+2016-12-11,2016-17,Boston Celtics @ Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,1.28,2.74,2.06,2.52,1.01,6.4,1.61,1.65,-3.5
+2016-12-11,2016-17,Golden State Warriors @ Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,1.02,2.5,1.23,1.2,1.5,16,3.72,5.8,10.5
+2016-12-11,2016-17,New Orleans Pelicans @ Phoenix Suns,New Orleans Pelicans,Phoenix Suns,1.01,3.15,1.76,2.16,1.08,4.4,1.67,1.89,-4.5
+2016-12-11,2016-17,New York Knicks @ Los Angeles Lakers,New York Knicks,Los Angeles Lakers,1.01,1.85,1.5,1.75,2.08,12.5,2.45,2.3,2.5
+2016-12-12,2016-17,Charlotte Hornets @ Indiana Pacers,Charlotte Hornets,Indiana Pacers,1.7,3.85,1.95,1.9,1.18,2.5,1.95,2.06,-1.5
+2016-12-12,2016-17,Washington Wizards @ Miami Heat,Washington Wizards,Miami Heat,1.2,34,1.92,1.88,1.01,3.25,1.8,2.1,1.5
+2016-12-12,2016-17,Milwaukee Bucks @ Toronto Raptors,Milwaukee Bucks,Toronto Raptors,3.8,4.7,4.26,4.3,1.03,1.35,1.3,1.28,-8.5
+2016-12-12,2016-17,Brooklyn Nets @ Houston Rockets,Brooklyn Nets,Houston Rockets,2,13.5,10.14,10,1.02,2.2,1.12,1.11,-14.5
+2016-12-12,2016-17,Denver Nuggets @ Dallas Mavericks,Denver Nuggets,Dallas Mavericks,1.73,2.56,1.83,1.76,1.02,2.36,1.57,2.36,2.5
+2016-12-12,2016-17,Portland Trail Blazers @ Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,1.75,14,3.93,5.1,1.01,1.85,1.21,1.24,-9.5
+2016-12-12,2016-17,Los Angeles Lakers @ Sacramento Kings,Los Angeles Lakers,Sacramento Kings,1.72,34,4.38,4.1,1.01,2.34,1.19,1.3,-8.5
+2016-12-13,2016-17,Golden State Warriors @ New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,1.01,1.69,1.2,1.18,2.5,6.8,4.61,6.4,10.5
+2016-12-13,2016-17,Memphis Grizzlies @ Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,8.6,60,15.32,11,1.01,1.13,1.06,1.11,-13.5
+2016-12-13,2016-17,Minnesota Timberwolves @ Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,1.16,5.5,3.23,3.05,1.07,1000,1.87,1.47,-7.5
+2016-12-13,2016-17,New York Knicks @ Phoenix Suns,New York Knicks,Phoenix Suns,1.15,12.5,1.86,1.82,1.01,4,1.91,2.22,3.5
+2016-12-13,2016-17,Oklahoma City Thunder @ Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,1.75,34,3.05,2.26,1.02,2.28,1.43,1.78,-2.5
+2016-12-13,2016-17,Orlando Magic @ Atlanta Hawks,Orlando Magic,Atlanta Hawks,1.07,5.1,2.95,4.3,1.23,13.5,1.41,1.29,-8.5
+2016-12-14,2016-17,Boston Celtics @ San Antonio Spurs,Boston Celtics,San Antonio Spurs,3,50,4.29,3.6,1.01,1.48,1.08,1.39,-5.5
+2016-12-14,2016-17,Charlotte Hornets @ Washington Wizards,Charlotte Hornets,Washington Wizards,1.3,12,1.99,1.83,1.01,2.2,1.9,2.2,-1.5
+2016-12-14,2016-17,Cleveland Cavaliers @ Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,1.09,10.5,2.36,3.65,1.01,4.3,1.26,1.38,7.5
+2016-12-14,2016-17,Detroit Pistons @ Dallas Mavericks,Detroit Pistons,Dallas Mavericks,1.01,1.71,1.34,1.48,1.53,18,2.18,3,5.5
+2016-12-14,2016-17,Indiana Pacers @ Miami Heat,Indiana Pacers,Miami Heat,1.5,5,1.93,1.9,1.3,3,2.07,2.14,-1.5
+2016-12-14,2016-17,Los Angeles Clippers @ Orlando Magic,Los Angeles Clippers,Orlando Magic,1.01,1.49,1.29,1.29,4.2,13.5,4.47,4.4,8.5
+2016-12-14,2016-17,Los Angeles Lakers @ Brooklyn Nets,Los Angeles Lakers,Brooklyn Nets,1.55,15.5,1.9,1.88,1.1,2.26,1.87,2.12,-1.5
+2016-12-14,2016-17,Oklahoma City Thunder @ Utah Jazz,Oklahoma City Thunder,Utah Jazz,3.75,1000,45.58,3.85,1.01,1.36,1.06,1.35,-7.5
+2016-12-14,2016-17,Sacramento Kings @ Houston Rockets,Sacramento Kings,Houston Rockets,5.6,11,10.27,11,1.1,1.24,1.11,1.1,-13.5
+2016-12-14,2016-17,Toronto Raptors @ Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,1.01,1.45,1.19,1.29,3,4.7,4.25,4.4,8.5
+2016-12-15,2016-17,Chicago Bulls @ Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,1.94,60,2.34,2,1.01,2.06,1.29,2.02,-2.5
+2016-12-15,2016-17,Indiana Pacers @ New Orleans Pelicans,Indiana Pacers,New Orleans Pelicans,1.42,26,2.25,2.28,1.04,2.4,1.71,1.75,-2.5
+2016-12-15,2016-17,New York Knicks @ Golden State Warriors,New York Knicks,Golden State Warriors,10,50,16.99,17.5,1.02,1.1,1.06,1.06,-14.5
+2016-12-15,2016-17,Portland Trail Blazers @ Denver Nuggets,Portland Trail Blazers,Denver Nuggets,1.99,26,2.28,2.28,1.01,1.98,1.72,1.79,-1.5
+2016-12-15,2016-17,San Antonio Spurs @ Phoenix Suns,San Antonio Spurs,Phoenix Suns,1.02,1.55,1.32,1.33,3.7,50,4.62,4.2,7.5
+2016-12-16,2016-17,Atlanta Hawks @ Toronto Raptors,Atlanta Hawks,Toronto Raptors,1.01,3.95,2.36,3.75,1.32,100,1.56,1.36,-7.5
+2016-12-16,2016-17,Brooklyn Nets @ Orlando Magic,Brooklyn Nets,Orlando Magic,1.76,100,3.41,3.75,1.24,2.28,1.42,1.37,-6.5
+2016-12-16,2016-17,Charlotte Hornets @ Boston Celtics,Charlotte Hornets,Boston Celtics,1.45,15.5,2.76,3.4,1.01,2.7,1.46,1.41,-6.5
+2016-12-16,2016-17,Dallas Mavericks @ Utah Jazz,Dallas Mavericks,Utah Jazz,3.2,34,7.19,7.2,1.02,1.6,1.13,1.16,-11.5
+2016-12-16,2016-17,Detroit Pistons @ Washington Wizards,Detroit Pistons,Washington Wizards,1.67,55,2.03,1.89,1.01,2.5,1.66,2.08,1.5
+2016-12-16,2016-17,Los Angeles Clippers @ Miami Heat,Los Angeles Clippers,Miami Heat,1.03,1.41,1.33,1.3,3.6,13.5,4.6,4.3,7.5
+2016-12-16,2016-17,Los Angeles Lakers @ Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,1.01,2.24,1.4,2.04,1.79,1000,4.36,1.95,-1.5
+2016-12-16,2016-17,Milwaukee Bucks @ Chicago Bulls,Milwaukee Bucks,Chicago Bulls,1.35,3.15,2.62,3.15,1.45,2,1.5,1.48,-4.5
+2016-12-16,2016-17,New Orleans Pelicans @ Houston Rockets,New Orleans Pelicans,Houston Rockets,7.2,9.4,8.2,9.2,1.01,1.2,1.14,1.13,-11.5
+2016-12-17,2016-17,Phoenix Suns @ Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,3.4,18,3.46,3.6,1.01,1.43,1.37,1.38,-6.5
+2016-12-16,2016-17,Sacramento Kings @ Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,1.01,3.05,2,2.94,1.48,17.5,2.68,1.53,-5.5
+2016-12-18,2016-17,Boston Celtics @ Miami Heat,Boston Celtics,Miami Heat,1.03,1.62,1.48,1.61,2.5,9.2,3.59,2.56,4.5
+2016-12-18,2016-17,Brooklyn Nets @ Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,1.45,8,2.08,2.04,1.01,2.34,1.68,1.93,-2.5
+2016-12-17,2016-17,Charlotte Hornets @ Atlanta Hawks,Charlotte Hornets,Atlanta Hawks,1.03,2.54,1.47,2.26,1.6,5.5,2.14,1.76,-1.5
+2016-12-17,2016-17,Houston Rockets @ Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,1.01,11,1.56,1.72,1.01,7.2,1.35,2.34,3.5
+2016-12-17,2016-17,Indiana Pacers @ Detroit Pistons,Indiana Pacers,Detroit Pistons,1.01,2.88,1.79,2.74,1.45,1000,1.92,1.59,-4.5
+2016-12-17,2016-17,Los Angeles Clippers @ Washington Wizards,Los Angeles Clippers,Washington Wizards,1.12,4.3,1.45,1.52,1.02,7.2,1.52,2.96,5.5
+2016-12-17,2016-17,Los Angeles Lakers @ Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,8.2,1000,21.14,16.5,1.02,1.21,1.07,1.07,-14.5
+2016-12-17,2016-17,New York Knicks @ Denver Nuggets,New York Knicks,Denver Nuggets,2.46,50,3.36,2.48,1.01,1.7,1.29,1.68,-4.5
+2016-12-17,2016-17,Portland Trail Blazers @ Golden State Warriors,Portland Trail Blazers,Golden State Warriors,9.4,100,13.18,12,1.01,1.12,1.06,1.1,-13.5
+2016-12-18,2016-17,Toronto Raptors @ Orlando Magic,Toronto Raptors,Orlando Magic,1.01,1.55,1.34,1.45,1.7,100,2.58,3.15,6.5
+2016-12-18,2016-17,Utah Jazz @ Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,1.07,1.94,1.8,1.85,1.76,2.68,2.07,2.1,1.5
+2016-12-18,2016-17,Sacramento Kings @ Dallas Mavericks,Sacramento Kings,Dallas Mavericks,1.55,1000,30.88,2.04,1.1,2,1.29,2,-1.5
+2016-12-18,2016-17,New Orleans Pelicans @ San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,8,15,9.43,8.6,1.01,1.32,1.07,1.13,-11.5
+2016-12-19,2016-17,Atlanta Hawks @ Oklahoma City Thunder,Atlanta Hawks,Oklahoma City Thunder,1.15,5,1.71,2.46,1.18,2.86,1.71,1.69,-2.5
+2016-12-19,2016-17,Dallas Mavericks @ Denver Nuggets,Dallas Mavericks,Denver Nuggets,1.72,300,9,4.2,1.06,2.42,1.19,1.31,-8.5
+2016-12-19,2016-17,Detroit Pistons @ Chicago Bulls,Detroit Pistons,Chicago Bulls,2.26,3.5,2.56,2.26,1.01,1.81,1.67,1.8,-3.5
+2016-12-19,2016-17,Phoenix Suns @ Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,3,5.7,3.08,3.35,1.16,1.7,1.34,1.42,-5.5
+2016-12-19,2016-17,Washington Wizards @ Indiana Pacers,Washington Wizards,Indiana Pacers,2.16,1000,9.51,2.96,1.02,2.2,1.39,1.51,-5.5
+2016-12-20,2016-17,Boston Celtics @ Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,1.01,4.1,1.75,1.84,1.19,6,2,2.16,2.5
+2016-12-20,2016-17,Brooklyn Nets @ Toronto Raptors,Brooklyn Nets,Toronto Raptors,13.5,18,16.05,16,1.02,1.1,1.07,1.07,-15.5
+2016-12-20,2016-17,Cleveland Cavaliers @ Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,1.02,2.2,1.48,1.66,2.48,6.2,2.76,2.52,3.5
+2016-12-20,2016-17,Denver Nuggets @ Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,4,6,4.27,4.1,1.01,1.33,1.26,1.32,-8.5
+2016-12-20,2016-17,Indiana Pacers @ New York Knicks,Indiana Pacers,New York Knicks,1.2,4,1.57,2.7,1.01,4.5,1.34,1.59,-5.5
+2016-12-20,2016-17,Los Angeles Lakers @ Charlotte Hornets,Los Angeles Lakers,Charlotte Hornets,1.31,6.2,3.17,4.9,1.01,4.5,1.34,1.26,-9.5
+2016-12-20,2016-17,New Orleans Pelicans @ Philadelphia 76ers,New Orleans Pelicans,Philadelphia 76ers,1.1,1.82,1.68,1.67,1.78,6.6,2.56,2.46,2.5
+2016-12-20,2016-17,Orlando Magic @ Miami Heat,Orlando Magic,Miami Heat,2.38,3.05,2.52,2.56,1.02,2.5,1.78,1.68,-2.5
+2016-12-20,2016-17,Portland Trail Blazers @ Sacramento Kings,Portland Trail Blazers,Sacramento Kings,1.16,3.9,1.55,1.98,1.01,6.2,2.09,2.06,1.5
+2016-12-20,2016-17,San Antonio Spurs @ Houston Rockets,San Antonio Spurs,Houston Rockets,1.02,3.05,1.75,2.04,1.05,2.3,1.53,1.96,-1.5
+2016-12-20,2016-17,Utah Jazz @ Golden State Warriors,Utah Jazz,Golden State Warriors,6.6,11.5,8.79,8.6,1.02,1.17,1.13,1.14,-12.5
+2016-12-21,2016-17,Dallas Mavericks @ Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,1.06,3.35,1.59,3.15,1.3,12,1.75,1.45,-7.5
+2016-12-21,2016-17,Houston Rockets @ Phoenix Suns,Houston Rockets,Phoenix Suns,1.01,1.42,1.33,1.41,3.4,6,3.48,3.45,5.5
+2016-12-21,2016-17,Memphis Grizzlies @ Detroit Pistons,Memphis Grizzlies,Detroit Pistons,1.04,3.6,2.03,3.25,1.4,110,1.79,1.4,-6.5
+2016-12-21,2016-17,Milwaukee Bucks @ Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,3.1,32,4.09,3.75,1.01,1.48,1.35,1.35,-6.5
+2016-12-21,2016-17,Minnesota Timberwolves @ Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,1.04,3.2,2.33,2.74,1.46,5.1,1.76,1.58,-5.5
+2016-12-21,2016-17,Oklahoma City Thunder @ New Orleans Pelicans,Oklahoma City Thunder,New Orleans Pelicans,1.01,2.06,1.51,1.82,2.16,6.2,2.38,2.18,1.5
+2016-12-21,2016-17,Sacramento Kings @ Utah Jazz,Sacramento Kings,Utah Jazz,1.44,4.6,3.13,4.6,1.01,1.43,1.27,1.28,-6.5
+2016-12-21,2016-17,Washington Wizards @ Chicago Bulls,Washington Wizards,Chicago Bulls,1.05,3,1.59,2.66,1.32,4.7,1.62,1.57,-4.5
+2016-12-22,2016-17,Boston Celtics @ Indiana Pacers,Boston Celtics,Indiana Pacers,1.02,2.52,1.59,1.95,1.56,1000,4.03,2.04,1.5
+2016-12-22,2016-17,Golden State Warriors @ Brooklyn Nets,Golden State Warriors,Brooklyn Nets,1.06,2.62,1.38,1.09,1.58,17,6.79,12,14.5
+2016-12-22,2016-17,Los Angeles Lakers @ Miami Heat,Los Angeles Lakers,Miami Heat,1.4,10,1.95,3.2,1.03,4,1.68,1.45,-4.5
+2016-12-22,2016-17,San Antonio Spurs @ Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,1.7,5.7,1.99,1.8,1.02,2.9,1.85,2.18,1.5
+2016-12-22,2016-17,Orlando Magic @ New York Knicks,Orlando Magic,New York Knicks,2.6,5,2.81,2.6,1.01,1.61,1.5,1.6,-5.5
+2016-12-23,2016-17,Brooklyn Nets @ Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,12,22,18.08,21,1.01,1.08,1.05,1.05,-15.5
+2016-12-23,2016-17,Golden State Warriors @ Detroit Pistons,Golden State Warriors,Detroit Pistons,1.02,1.8,1.31,1.3,2,4.5,3.8,4.4,6.5
+2016-12-23,2016-17,San Antonio Spurs @ Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,1.02,1.9,1.37,1.8,2.16,26,2.38,2.24,2.5
+2016-12-23,2016-17,Sacramento Kings @ Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,1.02,3.8,2.57,2.94,1.2,3.5,1.86,1.52,-4.5
+2016-12-23,2016-17,Philadelphia 76ers @ Phoenix Suns,Philadelphia 76ers,Phoenix Suns,1.33,5.5,2.66,3.15,1.02,4,1.78,1.46,-5.5
+2016-12-23,2016-17,Los Angeles Lakers @ Orlando Magic,Los Angeles Lakers,Orlando Magic,2.84,34,4.28,2.88,1.01,1.56,1.39,1.52,-6.5
+2016-12-23,2016-17,Dallas Mavericks @ Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,1.2,6,2.67,2.62,1.2,6,1.55,1.64,-6.5
+2016-12-23,2016-17,Miami Heat @ New Orleans Pelicans,Miami Heat,New Orleans Pelicans,1.3,3.8,2.71,2.88,1.03,3.2,1.49,1.53,-4.5
+2016-12-23,2016-17,Chicago Bulls @ Charlotte Hornets,Chicago Bulls,Charlotte Hornets,1.93,25,2.7,2.78,1.13,1.85,1.54,1.55,-3.5
+2016-12-23,2016-17,Oklahoma City Thunder @ Boston Celtics,Oklahoma City Thunder,Boston Celtics,1.03,4.4,1.93,3,1.34,13.5,2,1.47,-4.5
+2016-12-23,2016-17,Houston Rockets @ Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,1.36,100,2.08,1.68,1.03,3.8,1.6,2.36,3.5
+2016-12-23,2016-17,Washington Wizards @ Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,2.3,3.8,2.4,2.46,1.03,1.79,1.66,1.69,-3.5
+2016-12-23,2016-17,Toronto Raptors @ Utah Jazz,Toronto Raptors,Utah Jazz,1.01,2.5,1.82,1.99,2,7.2,2.46,2,1.5
+2016-12-23,2016-17,Atlanta Hawks @ Denver Nuggets,Atlanta Hawks,Denver Nuggets,1.55,3.8,2.77,3,1.3,2.22,1.58,1.48,-4.5
+2016-12-25,2016-17,Boston Celtics @ New York Knicks,Boston Celtics,New York Knicks,1.01,2.24,1.6,1.86,1.7,120,2.87,2.12,2.5
+2016-12-25,2016-17,Chicago Bulls @ San Antonio Spurs,Chicago Bulls,San Antonio Spurs,3,12,4.98,5.6,1.01,1.5,1.19,1.22,-8.5
+2016-12-25,2016-17,Golden State Warriors @ Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,1.05,3.2,1.6,1.67,1.01,10.5,2.48,2.48,2.5
+2016-12-25,2016-17,Los Angeles Clippers @ Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,1.32,15,1.68,1.75,1.01,4,1.91,2.3,6.5
+2016-12-25,2016-17,Minnesota Timberwolves @ Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,1.8,8,2.96,2.8,1.01,2.02,1.51,1.55,-5.5
+2016-12-26,2016-17,Atlanta Hawks @ Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,1.84,9,2.09,1.86,1.02,4.4,2.06,2.18,-2.5
+2016-12-26,2016-17,Charlotte Hornets @ Brooklyn Nets,Charlotte Hornets,Brooklyn Nets,1.13,920,1.4,1.4,1.22,6.2,2.73,3.45,6.5
+2016-12-26,2016-17,Cleveland Cavaliers @ Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,1.8,26,2.89,2.9,1.05,1.98,1.51,1.52,1.5
+2016-12-26,2016-17,Dallas Mavericks @ New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,2.6,17.5,2.9,2.66,1.01,1.8,1.42,1.61,-4.5
+2016-12-26,2016-17,Denver Nuggets @ Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,1.01,3.45,1.58,1.58,1.32,110,3.26,2.72,2.5
+2016-12-26,2016-17,Indiana Pacers @ Chicago Bulls,Indiana Pacers,Chicago Bulls,2.1,9.6,2.44,2.24,1.13,1.87,1.57,1.81,-3.5
+2016-12-26,2016-17,Memphis Grizzlies @ Orlando Magic,Memphis Grizzlies,Orlando Magic,1.64,260,1.79,1.66,1.04,2.56,1.2,2.56,1.5
+2016-12-26,2016-17,Milwaukee Bucks @ Washington Wizards,Milwaukee Bucks,Washington Wizards,1.25,3.8,2.37,2.56,1.06,8.6,1.64,1.6,-4.5
+2016-12-26,2016-17,Philadelphia 76ers @ Sacramento Kings,Philadelphia 76ers,Sacramento Kings,1.67,13.5,4.05,4.1,1.06,3,1.39,1.31,-7.5
+2016-12-26,2016-17,Phoenix Suns @ Houston Rockets,Phoenix Suns,Houston Rockets,8.6,10.5,9.57,8.6,1.01,1.13,1.11,1.12,-13.5
+2016-12-26,2016-17,Toronto Raptors @ Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,1.05,2.16,1.39,1.34,1.62,11,3.87,3.85,4.5
+2016-12-27,2016-17,Memphis Grizzlies @ Boston Celtics,Memphis Grizzlies,Boston Celtics,3.3,20,4.4,4,1.01,1.43,1.31,1.31,-7.5
+2016-12-27,2016-17,Oklahoma City Thunder @ Miami Heat,Oklahoma City Thunder,Miami Heat,1.02,1.82,1.18,1.58,2.38,18,2.82,2.74,2.5
+2016-12-27,2016-17,Houston Rockets @ Dallas Mavericks,Houston Rockets,Dallas Mavericks,1.01,1.57,1.36,1.54,2.74,18,3.34,2.84,6.5
+2016-12-27,2016-17,Utah Jazz @ Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,1.01,2.72,1.52,1.52,1.58,950,3.36,2.92,5.5
+2016-12-28,2016-17,Brooklyn Nets @ Chicago Bulls,Brooklyn Nets,Chicago Bulls,1.2,5.9,3.24,5.7,1.2,2.78,1.4,1.2,-9.5
+2016-12-28,2016-17,Charlotte Hornets @ Orlando Magic,Charlotte Hornets,Orlando Magic,1.28,1.75,1.57,1.58,2.08,9.4,3.38,2.7,4.5
+2016-12-28,2016-17,Indiana Pacers @ Washington Wizards,Indiana Pacers,Washington Wizards,2.3,7.2,3.28,2.8,1.04,1.85,1.48,1.53,-3.5
+2016-12-28,2016-17,Los Angeles Clippers @ New Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,1.28,5.5,1.87,1.94,1.01,3.4,2.28,2.04,-4.5
+2016-12-28,2016-17,Milwaukee Bucks @ Detroit Pistons,Milwaukee Bucks,Detroit Pistons,1.01,2.48,1.3,2.38,1.6,20,2.18,1.68,-3.5
+2016-12-28,2016-17,Minnesota Timberwolves @ Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,1.61,6,3.17,2.6,1.02,2.3,1.55,1.59,-3.5
+2016-12-28,2016-17,New York Knicks @ Atlanta Hawks,New York Knicks,Atlanta Hawks,1.72,34,2.86,2.96,1.01,2.34,1.69,1.5,-3.5
+2016-12-28,2016-17,Phoenix Suns @ San Antonio Spurs,Phoenix Suns,San Antonio Spurs,3,15,6.64,7.6,1.05,1.51,1.13,1.15,-15.5
+2016-12-28,2016-17,Sacramento Kings @ Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,1.92,15,3.49,2.12,1.02,2.08,1.2,1.81,-2
+2016-12-28,2016-17,Toronto Raptors @ Golden State Warriors,Toronto Raptors,Golden State Warriors,5.2,18,6.18,5.9,1.03,1.24,1.12,1.2,-9.5
+2016-12-29,2016-17,Oklahoma City Thunder @ Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,1.96,21,2.34,2.06,1.03,2.02,1.8,1.92,-1.5
+2016-12-29,2016-17,Philadelphia 76ers @ Utah Jazz,Philadelphia 76ers,Utah Jazz,2.4,15,6.73,13.5,1.03,1.57,1.15,1.08,-13.5
+2016-12-29,2016-17,Toronto Raptors @ Phoenix Suns,Toronto Raptors,Phoenix Suns,1.23,8.2,1.46,1.29,1.02,5.2,2.03,4.7,8.5
+2016-12-29,2016-17,Miami Heat @ Charlotte Hornets,Miami Heat,Charlotte Hornets,1.83,26,3.18,3.5,1.01,2.16,1.4,1.41,-7.5
+2016-12-29,2016-17,Dallas Mavericks @ Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,1.01,6,1.5,2.7,1.2,34,1.75,1.59,-2.5
+2016-12-29,2016-17,Boston Celtics @ Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,3.3,5,3.53,3.6,1.01,1.5,1.28,1.38,-6.5
+2016-12-30,2016-17,Chicago Bulls @ Indiana Pacers,Chicago Bulls,Indiana Pacers,2.24,11.5,2.89,2.6,1.01,1.89,1.45,1.62,-4.5
+2016-12-30,2016-17,Brooklyn Nets @ Washington Wizards,Brooklyn Nets,Washington Wizards,3.85,20,4.72,4,1.01,1.42,1.09,1.32,-8.5
+2016-12-30,2016-17,Miami Heat @ Boston Celtics,Miami Heat,Boston Celtics,2.64,9.2,5.37,5.9,1.01,2.2,1.25,1.2,-9.5
+2016-12-30,2016-17,Detroit Pistons @ Atlanta Hawks,Detroit Pistons,Atlanta Hawks,2.02,13.5,2.65,2.38,1.01,1.89,1.5,1.7,-3.5
+2016-12-30,2016-17,Los Angeles Clippers @ Houston Rockets,Los Angeles Clippers,Houston Rockets,5.7,26,6.08,5.9,1.02,1.46,1.11,1.21,-6.5
+2016-12-30,2016-17,Milwaukee Bucks @ Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,1.95,13.5,2.31,2.16,1.04,2,1.53,1.86,-1.5
+2016-12-30,2016-17,New York Knicks @ New Orleans Pelicans,New York Knicks,New Orleans Pelicans,2.32,20,2.72,2.38,1.03,2,1.55,1.69,-2.5
+2016-12-30,2016-17,Portland Trail Blazers @ San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,2,1000,10.48,6.4,1.01,2,1.08,1.19,-11.5
+2016-12-30,2016-17,Philadelphia 76ers @ Denver Nuggets,Philadelphia 76ers,Denver Nuggets,1.01,7,1.59,5.9,1.17,7.6,1.36,1.19,-11.5
+2016-12-30,2016-17,Dallas Mavericks @ Golden State Warriors,Dallas Mavericks,Golden State Warriors,15.5,50,27.11,28,1.02,1.1,1.04,1.03,-16.5
+2016-12-31,2016-17,Memphis Grizzlies @ Sacramento Kings,Memphis Grizzlies,Sacramento Kings,1.01,2.1,1.6,1.81,1.9,4.8,2.31,2.22,2.5
+2016-12-31,2016-17,Milwaukee Bucks @ Chicago Bulls,Milwaukee Bucks,Chicago Bulls,1.01,3.6,2.15,2.48,1.4,12,1.83,1.67,-2.5
+2016-12-31,2016-17,Los Angeles Clippers @ Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,4.3,7,4.57,4.6,1.01,1.5,1.19,1.27,-8.5
+2016-12-31,2016-17,Cleveland Cavaliers @ Charlotte Hornets,Cleveland Cavaliers,Charlotte Hornets,1.02,1.96,1.32,1.94,2.04,5,2.65,2.06,2.5
+2016-12-31,2016-17,Phoenix Suns @ Utah Jazz,Phoenix Suns,Utah Jazz,3.85,8.2,5.93,7.2,1.1,1.55,1.22,1.17,-11.5
+2016-12-31,2016-17,New York Knicks @ Houston Rockets,New York Knicks,Houston Rockets,2.66,34,7.21,9,1.01,1.4,1.13,1.12,-10.5
+2017-01-01,2016-17,San Antonio Spurs @ Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,1.1,15,1.47,1.48,1.15,9.2,2.01,3.05,4.5
+2017-01-01,2016-17,Detroit Pistons @ Miami Heat,Detroit Pistons,Miami Heat,1.03,2.6,1.46,1.41,1.73,4.8,2.54,3.5,4.5
+2017-01-01,2016-17,Orlando Magic @ Indiana Pacers,Orlando Magic,Indiana Pacers,3.1,3.8,3.36,3.4,1.01,1.48,1.19,1.41,-5.5
+2017-01-01,2016-17,Portland Trail Blazers @ Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,1.02,3.8,2.37,3.4,1.2,26,1.58,1.43,-4.5
+2017-01-01,2016-17,Toronto Raptors @ Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,1.03,2,1.19,1.3,2,13.5,3.2,4.3,8.5
+2017-01-02,2016-17,Oklahoma City Thunder @ Milwaukee Bucks,Oklahoma City Thunder,Milwaukee Bucks,1.35,3,1.99,2.2,1.05,3.7,1.93,1.84,-1.5
+2017-01-02,2016-17,New Orleans Pelicans @ Cleveland Cavaliers,New Orleans Pelicans,Cleveland Cavaliers,1.91,8.8,3.39,5.7,1.02,2.44,1.25,1.21,-8.5
+2017-01-02,2016-17,Utah Jazz @ Brooklyn Nets,Utah Jazz,Brooklyn Nets,1.03,2.1,1.37,1.39,1.59,3.8,3.68,3.7,6.5
+2017-01-02,2016-17,Orlando Magic @ New York Knicks,Orlando Magic,New York Knicks,1.03,2.76,1.72,2.74,1.53,8.6,1.68,1.58,-5.5
+2017-01-02,2016-17,Charlotte Hornets @ Chicago Bulls,Charlotte Hornets,Chicago Bulls,1.2,5,1.93,1.89,1.03,4,1.98,2.08,1.5
+2017-01-02,2016-17,Washington Wizards @ Houston Rockets,Washington Wizards,Houston Rockets,1.5,50,2.76,4.4,1.05,2.84,1.63,1.29,-9.5
+2017-01-02,2016-17,Phoenix Suns @ Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,2.78,26,3.17,2.86,1.03,1.57,1.47,1.54,-6.5
+2017-01-02,2016-17,Denver Nuggets @ Golden State Warriors,Denver Nuggets,Golden State Warriors,8,21,15.35,14,1.04,1.15,1.07,1.08,-14.5
+2017-01-03,2016-17,Minnesota Timberwolves @ Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,1.5,7,2.23,1.52,1.01,2.96,1.22,2.96,4.5
+2017-01-03,2016-17,Indiana Pacers @ Detroit Pistons,Indiana Pacers,Detroit Pistons,1.04,3,1.86,3,1.45,3.6,1.63,1.47,-4.5
+2017-01-03,2016-17,Toronto Raptors @ San Antonio Spurs,Toronto Raptors,San Antonio Spurs,3.3,7,3.59,3.45,1.01,1.47,1.13,1.39,-5.5
+2017-01-03,2016-17,Utah Jazz @ Boston Celtics,Utah Jazz,Boston Celtics,3,50,4.85,3.2,1.01,1.52,1.09,1.47,-6.5
+2017-01-03,2016-17,Washington Wizards @ Dallas Mavericks,Washington Wizards,Dallas Mavericks,1.4,3.6,1.85,2.04,1.03,3.5,1.14,1.9,1.5
+2017-01-03,2016-17,Sacramento Kings @ Denver Nuggets,Sacramento Kings,Denver Nuggets,1.02,2.66,2.03,2.64,1.5,5,1.79,1.6,-3.5
+2017-01-03,2016-17,Memphis Grizzlies @ Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,1.49,29,1.78,1.55,1.02,3.35,1.36,2.78,4.5
+2017-01-03,2016-17,Miami Heat @ Phoenix Suns,Miami Heat,Phoenix Suns,2.32,3.8,2.85,2.98,1.02,1.74,1.42,1.5,-4.5
+2017-01-04,2016-17,Oklahoma City Thunder @ Charlotte Hornets,Oklahoma City Thunder,Charlotte Hornets,2,100,2.63,2.24,1.02,2.32,1.5,1.82,-2.5
+2017-01-04,2016-17,Atlanta Hawks @ Orlando Magic,Atlanta Hawks,Orlando Magic,1.01,1.99,1.57,1.75,1.98,4.5,2.82,2.2,3.5
+2017-01-04,2016-17,Milwaukee Bucks @ New York Knicks,Milwaukee Bucks,New York Knicks,1.01,6.8,1.89,1.71,1.2,3.7,2.21,2.4,-1.5
+2017-01-04,2016-17,Chicago Bulls @ Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,1.03,5.2,2.14,2.66,1.24,6.4,1.83,1.61,-7.5
+2017-01-04,2016-17,Memphis Grizzlies @ Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,1.38,5.5,1.9,1.87,1.2,4.8,2.03,2.12,-1.5
+2017-01-04,2016-17,Portland Trail Blazers @ Golden State Warriors,Portland Trail Blazers,Golden State Warriors,6.2,36,15.44,20,1.04,1.33,1.07,1.06,-15.5
+2017-01-04,2016-17,Miami Heat @ Sacramento Kings,Miami Heat,Sacramento Kings,1.01,5,2.64,4.5,1.27,3.2,1.57,1.31,-6.5
+2017-01-05,2016-17,Brooklyn Nets @ Indiana Pacers,Brooklyn Nets,Indiana Pacers,5.3,20,6.98,7.2,1.01,1.28,1.15,1.17,-10.5
+2017-01-05,2016-17,Utah Jazz @ Toronto Raptors,Utah Jazz,Toronto Raptors,1.3,5.8,2.55,2.96,1.02,3.7,1.65,1.51,-5.5
+2017-01-05,2016-17,Charlotte Hornets @ Detroit Pistons,Charlotte Hornets,Detroit Pistons,2.54,17.5,3,2.96,1.02,1.65,1.26,1.52,-4.5
+2017-01-05,2016-17,Atlanta Hawks @ New Orleans Pelicans,Atlanta Hawks,New Orleans Pelicans,1.01,2.78,2.16,2.1,1.2,2.56,1.85,1.84,-2.5
+2017-01-05,2016-17,Oklahoma City Thunder @ Houston Rockets,Oklahoma City Thunder,Houston Rockets,1.9,11,4.25,4.5,1.01,2.18,1.35,1.28,-8.5
+2017-01-05,2016-17,Phoenix Suns @ Dallas Mavericks,Phoenix Suns,Dallas Mavericks,1.02,3.8,2.47,3.2,1.31,26,1.83,1.47,-5.5
+2017-01-05,2016-17,San Antonio Spurs @ Denver Nuggets,San Antonio Spurs,Denver Nuggets,1.1,1.55,1.26,1.34,3.75,4.8,4.03,3.9,7.5
+2017-01-05,2016-17,Los Angeles Lakers @ Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,1.75,8,3.46,3.6,1.01,2.32,1.29,1.4,-6.5
+2017-01-06,2016-17,Cleveland Cavaliers @ Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,1.01,1.19,1.06,1.1,5,15,10.07,12,13.5
+2017-01-06,2016-17,Houston Rockets @ Orlando Magic,Houston Rockets,Orlando Magic,1.02,2.4,1.47,1.55,1.71,26,3.02,2.74,5.5
+2017-01-06,2016-17,Minnesota Timberwolves @ Washington Wizards,Minnesota Timberwolves,Washington Wizards,1.69,3.8,2.9,2.9,1.13,2.42,1.4,1.53,-4.5
+2017-01-06,2016-17,Memphis Grizzlies @ Golden State Warriors,Memphis Grizzlies,Golden State Warriors,1.03,50,7.16,11,1.01,170,1.14,1.1,-13.5
+2017-01-06,2016-17,Miami Heat @ Los Angeles Lakers,Miami Heat,Los Angeles Lakers,2.2,6.8,2.55,2.36,1.12,1.82,1.54,1.73,-4.5
+2017-01-06,2016-17,Los Angeles Clippers @ Sacramento Kings,Los Angeles Clippers,Sacramento Kings,1.08,2.6,1.92,1.78,2.14,6,2.5,2.32,2.5
+2017-01-06,2016-17,New York Knicks @ Milwaukee Bucks,New York Knicks,Milwaukee Bucks,1.02,8.8,2.18,3.05,1.06,6.4,1.45,1.49,-6.5
+2017-01-06,2016-17,Philadelphia 76ers @ Boston Celtics,Philadelphia 76ers,Boston Celtics,1.66,26,5.48,7.2,1.07,2.22,1.23,1.17,-12.5
+2017-01-07,2016-17,New York Knicks @ Indiana Pacers,New York Knicks,Indiana Pacers,3.6,110,4.28,3.75,1.01,1.4,1.08,1.37,-7.5
+2017-01-07,2016-17,New Orleans Pelicans @ Boston Celtics,New Orleans Pelicans,Boston Celtics,2.1,3.9,3.08,3.45,1.01,1.9,1.33,1.4,-6.5
+2017-01-07,2016-17,Toronto Raptors @ Chicago Bulls,Toronto Raptors,Chicago Bulls,1.03,3.5,1.44,1.87,1.1,2.26,1.39,2.2,2.5
+2017-01-07,2016-17,Utah Jazz @ Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,1.5,8.6,2.41,1.56,1.05,3.85,1.62,2.8,3.5
+2017-01-07,2016-17,Denver Nuggets @ Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,3.5,11,4.95,4.5,1.03,1.7,1.25,1.27,-7.5
+2017-01-07,2016-17,Atlanta Hawks @ Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,1.01,2.18,1.89,1.94,2,34,2.28,2.06,2.5
+2017-01-07,2016-17,Charlotte Hornets @ San Antonio Spurs,Charlotte Hornets,San Antonio Spurs,3.7,11.5,8.66,7.2,1.01,1.4,1.16,1.16,-10.5
+2017-01-08,2016-17,Washington Wizards @ Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,1.04,3.5,2.16,1.95,1.39,21,2.21,2.04,-4.5
+2017-01-08,2016-17,Philadelphia 76ers @ Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,1.39,3.2,2.14,2.04,1.45,7.2,1.79,1.95,-2.5
+2017-01-07,2016-17,Miami Heat @ Los Angeles Clippers,Miami Heat,Los Angeles Clippers,5.3,18.5,6.59,5.3,1.02,1.27,1.07,1.24,-7.5
+2017-01-08,2016-17,Houston Rockets @ Toronto Raptors,Houston Rockets,Toronto Raptors,1.01,5.2,1.23,1.82,1.22,15,2.05,2.22,2.5
+2017-01-08,2016-17,Utah Jazz @ Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,2.2,100,3.03,2.2,1.01,1.76,1.12,1.73,-4.5
+2017-01-08,2016-17,Cleveland Cavaliers @ Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,1.03,1.29,1.13,1.26,3.6,6,4.77,4.9,9.5
+2017-01-08,2016-17,Detroit Pistons @ Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,1.1,6.8,1.73,2.54,1.11,960,1.72,1.62,-3.5
+2017-01-08,2016-17,Golden State Warriors @ Sacramento Kings,Golden State Warriors,Sacramento Kings,1.01,1.65,1.07,1.16,3.35,26,9.11,7,10.5
+2017-01-08,2016-17,Orlando Magic @ Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,2.22,6,2.34,2.32,1.05,1.84,1.49,1.72,-1.5
+2017-01-09,2016-17,New Orleans Pelicans @ New York Knicks,New Orleans Pelicans,New York Knicks,1.02,2.8,2.37,2.46,1.5,1000,1.95,1.7,-3.5
+2017-01-09,2016-17,Oklahoma City Thunder @ Chicago Bulls,Oklahoma City Thunder,Chicago Bulls,1.01,2.12,1.21,1.88,1.85,100,2.09,2.12,1.5
+2017-01-09,2016-17,Dallas Mavericks @ Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,2.7,3.8,3.05,2.76,1.01,1.57,1.17,1.54,-4.5
+2017-01-10,2016-17,Chicago Bulls @ Washington Wizards,Chicago Bulls,Washington Wizards,1.36,1000,6.46,7.6,1.13,4,1.41,1.13,-10.5
+2017-01-10,2016-17,Boston Celtics @ Toronto Raptors,Boston Celtics,Toronto Raptors,1.19,6.2,2.71,3.25,1.03,5.6,1.75,1.48,-4.5
+2017-01-10,2016-17,Atlanta Hawks @ Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,1.01,1.33,1.16,1.29,4.3,5,4.66,4.3,7.5
+2017-01-10,2016-17,Charlotte Hornets @ Houston Rockets,Charlotte Hornets,Houston Rockets,2.56,1000,27.21,5.3,1.02,1.61,1.21,1.2,-9.5
+2017-01-10,2016-17,Milwaukee Bucks @ San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,1.4,6.6,5.16,6,1.11,6,1.22,1.21,-9.5
+2017-01-10,2016-17,Cleveland Cavaliers @ Utah Jazz,Cleveland Cavaliers,Utah Jazz,1.65,15,2.31,1.94,1.01,2.62,1.67,2.06,2.5
+2017-01-10,2016-17,Portland Trail Blazers @ Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,1.07,2.56,1.83,1.81,2,180,2.59,2.22,1.5
+2017-01-10,2016-17,Miami Heat @ Golden State Warriors,Miami Heat,Golden State Warriors,7.2,50,15.1,19.5,1.02,1.2,1.07,1.05,-16.5
+2017-01-10,2016-17,Detroit Pistons @ Sacramento Kings,Detroit Pistons,Sacramento Kings,1.09,3.8,2.15,2.28,1.04,15.5,1.87,1.76,-1.5
+2017-01-11,2016-17,New York Knicks @ Philadelphia 76ers,New York Knicks,Philadelphia 76ers,1.04,4,1.29,1.77,1.7,17.5,2.56,2.3,2.5
+2017-01-11,2016-17,Memphis Grizzlies @ Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,2.66,8,2.99,2.8,1.02,1.59,1.21,1.55,-4.5
+2017-01-11,2016-17,Houston Rockets @ Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,1.21,55,1.99,1.67,1.02,2.62,2.12,2.4,4.5
+2017-01-11,2016-17,Washington Wizards @ Boston Celtics,Washington Wizards,Boston Celtics,1.62,8,2.37,2.96,1.02,2.5,1.69,1.5,-5.5
+2017-01-11,2016-17,Orlando Magic @ Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,2.9,6.8,5.92,6.4,1.13,1.6,1.23,1.19,-9.5
+2017-01-11,2016-17,Cleveland Cavaliers @ Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,1.38,34,1.65,1.52,1.01,3.3,1.83,2.92,4.5
+2017-01-12,2016-17,Indiana Pacers @ Denver Nuggets,Indiana Pacers,Denver Nuggets,1.5,2,1.59,1.65,1.13,2.9,1.92,2.6,4.5
+2017-01-12,2016-17,New Orleans Pelicans @ Brooklyn Nets,New Orleans Pelicans,Brooklyn Nets,1.19,3.85,1.88,2.16,1.3,6.2,2.04,1.82,-4.5
+2017-01-12,2016-17,Chicago Bulls @ New York Knicks,Chicago Bulls,New York Knicks,2.06,50,2.65,2.44,1.03,1.8,1.56,1.68,-3.5
+2017-01-12,2016-17,Los Angeles Lakers @ San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,13,26,15.66,14.5,1.04,1.09,1.07,1.08,-14.5
+2017-01-12,2016-17,Dallas Mavericks @ Phoenix Suns,Dallas Mavericks,Phoenix Suns,1.06,2.02,1.57,1.82,1.95,6,2.25,2.2,1.5
+2017-01-12,2016-17,Detroit Pistons @ Golden State Warriors,Detroit Pistons,Golden State Warriors,7.6,13.5,9.83,12,1.01,1.18,1.09,1.09,-12.5
+2017-01-13,2016-17,Boston Celtics @ Atlanta Hawks,Boston Celtics,Atlanta Hawks,1.04,2.48,1.96,2.46,1.67,36,1.75,1.71,-2.5
+2017-01-13,2016-17,Charlotte Hornets @ Philadelphia 76ers,Charlotte Hornets,Philadelphia 76ers,1.46,10,1.7,1.46,1.04,3.15,2.12,3.15,5.5
+2017-01-13,2016-17,Memphis Grizzlies @ Houston Rockets,Memphis Grizzlies,Houston Rockets,1.33,15,2.78,4.2,1.1,1000,1.5,1.33,-7.5
+2017-01-13,2016-17,Miami Heat @ Milwaukee Bucks,Miami Heat,Milwaukee Bucks,3.65,8.6,4.04,4.1,1.01,1.36,1.33,1.31,-7.5
+2017-01-13,2016-17,Cleveland Cavaliers @ Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,1.01,1.42,1.3,1.39,3.35,34,5.29,3.6,6.5
+2017-01-13,2016-17,Oklahoma City Thunder @ Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,1.4,8,2.11,1.84,1.01,3.8,1.49,2.2,1.5
+2017-01-13,2016-17,Orlando Magic @ Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,1.07,4.1,2.01,3.85,1.32,11,1.59,1.35,-6.5
+2017-01-13,2016-17,Detroit Pistons @ Utah Jazz,Detroit Pistons,Utah Jazz,3.65,10.5,6.72,6.6,1.01,1.4,1.15,1.18,-10.5
+2017-01-13,2016-17,Brooklyn Nets @ Toronto Raptors,Brooklyn Nets,Toronto Raptors,4.4,20,15.55,17.5,1.05,1.5,1.07,1.06,-14.5
+2017-01-13,2016-17,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,6,15,8.6,6.4,1.02,1.2,1.15,1.16,-10.5
+2017-01-14,2016-17,New Orleans Pelicans @ Chicago Bulls,New Orleans Pelicans,Chicago Bulls,2.26,55,3.78,2.58,1.03,1.79,1.56,1.63,-3.5
+2017-01-14,2016-17,San Antonio Spurs @ Phoenix Suns,San Antonio Spurs,Phoenix Suns,1.06,7.2,1.18,1.12,1.21,13.5,5.52,9.2,11.5
+2017-01-14,2016-17,Philadelphia 76ers @ Washington Wizards,Philadelphia 76ers,Washington Wizards,2.44,20,6.67,5.5,1.02,1.85,1.25,1.22,-7.5
+2017-01-14,2016-17,Orlando Magic @ Utah Jazz,Orlando Magic,Utah Jazz,1.4,230,4.45,8,1.01,3.35,1.19,1.15,-11.5
+2017-01-15,2016-17,New York Knicks @ Toronto Raptors,New York Knicks,Toronto Raptors,4.9,6.2,5.69,6.2,1.02,1.25,1.15,1.19,-9.5
+2017-01-15,2016-17,Milwaukee Bucks @ Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,2.28,6.8,2.91,2.58,1.16,1.77,1.35,1.6,-2.5
+2017-01-15,2016-17,Minnesota Timberwolves @ Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,1.7,5.7,3.27,1.99,1.07,1.99,1.84,1.9,-1.5
+2017-01-15,2016-17,Houston Rockets @ Brooklyn Nets,Houston Rockets,Brooklyn Nets,1.01,1.12,1.08,1.08,10,18,13.91,13.5,12.5
+2017-01-15,2016-17,Oklahoma City Thunder @ Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,1.01,1.89,1.4,1.81,2.1,17.5,3.33,2.18,1.5
+2017-01-15,2016-17,Detroit Pistons @ LA Lakers,Detroit Pistons,Los Angeles Lakers,1.08,2.82,1.77,1.82,1.48,3.05,2.09,2.22,1.5
+2017-01-15,2016-17,Chicago Bulls @ Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,1.04,5.2,2.33,4.4,1.2,2.52,1.41,1.29,-8.5
+2017-01-16,2016-17,Atlanta Hawks @ New York Knicks,Atlanta Hawks,New York Knicks,1.11,2.94,1.74,1.81,1.37,3.85,2.39,2.28,3.5
+2017-01-16,2016-17,Portland Trail Blazers @ Washington Wizards,Portland Trail Blazers,Washington Wizards,2.48,6.4,3.03,2.5,1.02,1.67,1.61,1.64,-4.5
+2017-01-16,2016-17,Philadelphia 76ers @ Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,1.02,4.7,2.84,4.3,1.11,3.7,1.63,1.28,-7.5
+2017-01-16,2016-17,New Orleans Pelicans @ Indiana Pacers,New Orleans Pelicans,Indiana Pacers,2.78,4.4,3.11,3,1.03,1.56,1.4,1.5,-5.5
+2017-01-16,2016-17,Orlando Magic @ Denver Nuggets,Orlando Magic,Denver Nuggets,3.05,50,4.08,3.2,1.01,1.54,1.3,1.46,-5.5
+2017-01-16,2016-17,Charlotte Hornets @ Boston Celtics,Charlotte Hornets,Boston Celtics,2.5,17.5,3.66,3.05,1.06,1.64,1.31,1.48,-5.5
+2017-01-16,2016-17,Cleveland Cavaliers @ Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,3.95,160,5.7,4.8,1.01,1.32,1.19,1.24,-7.5
+2017-01-16,2016-17,Utah Jazz @ Phoenix Suns,Utah Jazz,Phoenix Suns,1.11,2.3,1.61,1.41,1.9,7.6,3.09,3.35,5.5
+2017-01-16,2016-17,Oklahoma City Thunder @ Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,3.1,55,6.65,4.5,1.01,1.47,1.27,1.29,-7.5
+2017-01-17,2016-17,Toronto Raptors @ Brooklyn Nets,Toronto Raptors,Brooklyn Nets,1.02,1.6,1.19,1.26,2.96,8,5.73,4.5,11.5
+2017-01-17,2016-17,Houston Rockets @ Miami Heat,Houston Rockets,Miami Heat,1.26,3.55,1.44,1.37,1.19,5,2.36,3.9,7.5
+2017-01-17,2016-17,Dallas Mavericks @ Chicago Bulls,Dallas Mavericks,Chicago Bulls,1.2,3.8,2.34,2.76,1.2,4.4,1.55,1.49,-5.5
+2017-01-17,2016-17,Minnesota Timberwolves @ San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,2.3,150,6.23,8,1.01,1.75,1.05,1.14,-11.5
+2017-01-17,2016-17,Denver Nuggets @ Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,1.01,2.22,1.35,1.96,1.84,21,2.24,2.04,-1.5
+2017-01-18,2016-17,Atlanta Hawks @ Detroit Pistons,Atlanta Hawks,Detroit Pistons,1.8,3,1.85,1.8,1.04,2.32,1.8,2.24,2.5
+2017-01-18,2016-17,Indiana Pacers @ Sacramento Kings,Indiana Pacers,Sacramento Kings,1.02,6,2.44,2.26,1.06,4.3,1.75,1.78,-1.5
+2017-01-18,2016-17,Memphis Grizzlies @ Washington Wizards,Memphis Grizzlies,Washington Wizards,2.16,8.6,2.48,2.22,1.03,1.85,1.6,1.83,-3.5
+2017-01-18,2016-17,Milwaukee Bucks @ Houston Rockets,Milwaukee Bucks,Houston Rockets,2.44,11,3.89,3.5,1.02,1.73,1.3,1.4,-7.5
+2017-01-18,2016-17,New York Knicks @ Boston Celtics,New York Knicks,Boston Celtics,1.02,6,2.49,5.1,1.15,3.15,1.23,1.25,-8.5
+2017-01-18,2016-17,Oklahoma City Thunder @ Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,5.5,36,12.69,13.5,1.03,1.28,1.09,1.07,-13.5
+2017-01-18,2016-17,Orlando Magic @ New Orleans Pelicans,Orlando Magic,New Orleans Pelicans,2.78,2.94,2.89,2.94,1.49,1.55,1.52,1.49,-5.5
+2017-01-18,2016-17,Portland Trail Blazers @ Charlotte Hornets,Portland Trail Blazers,Charlotte Hornets,2.52,3.2,2.73,2.94,1.04,1.7,1.48,1.52,-4.5
+2017-01-18,2016-17,Toronto Raptors @ Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,1.39,3.75,1.59,1.5,1.01,3.3,1.69,3,5.5
+2017-01-19,2016-17,Phoenix Suns @ Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,6.4,8.8,7.95,7.2,1.02,1.17,1.11,1.16,-11.5
+2017-01-19,2016-17,Dallas Mavericks @ Miami Heat,Dallas Mavericks,Miami Heat,1.46,6,2.31,2.1,1.05,3.1,1.74,1.85,-2.5
+2017-01-19,2016-17,Washington Wizards @ New York Knicks,Washington Wizards,New York Knicks,1.08,2.02,1.92,1.88,1.98,10,2.22,2.1,1.5
+2017-01-19,2016-17,Denver Nuggets @ San Antonio Spurs,Denver Nuggets,San Antonio Spurs,5,10.5,8.08,9.4,1.02,1.25,1.11,1.12,-12.5
+2017-01-19,2016-17,Minnesota Timberwolves @ Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,1.02,4.1,1.92,1.89,1.26,930,2.11,2.12,1.5
+2017-01-20,2016-17,Chicago Bulls @ Atlanta Hawks,Chicago Bulls,Atlanta Hawks,2.62,250,3.42,2.62,1.05,1.61,1.54,1.6,-5.5
+2017-01-20,2016-17,Brooklyn Nets @ New Orleans Pelicans,Brooklyn Nets,New Orleans Pelicans,1.13,6,4.03,5.7,1.21,8.2,1.77,1.21,-9.5
+2017-01-20,2016-17,Utah Jazz @ Dallas Mavericks,Utah Jazz,Dallas Mavericks,1.15,2.28,1.56,1.49,1.92,7.2,2.97,2.9,5.5
+2017-01-20,2016-17,Toronto Raptors @ Charlotte Hornets,Toronto Raptors,Charlotte Hornets,1.93,5.8,2.76,2.12,1.02,1.99,1.7,1.88,-1.5
+2017-01-20,2016-17,Sacramento Kings @ Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,4.1,5,4.51,4.1,1.26,1.6,1.3,1.31,-6.5
+2017-01-20,2016-17,Portland Trail Blazers @ Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,1.13,2.68,1.72,1.76,1.25,3.75,2.19,2.36,1.5
+2017-01-20,2016-17,Milwaukee Bucks @ Orlando Magic,Milwaukee Bucks,Orlando Magic,1.63,5.2,1.69,1.66,1.01,3.8,2.47,2.44,2.5
+2017-01-20,2016-17,Indiana Pacers @ Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,1.39,26,1.75,1.62,1.02,3,2.49,2.58,3.5
+2017-01-20,2016-17,Golden State Warriors @ Houston Rockets,Golden State Warriors,Houston Rockets,1.01,1.57,1.44,1.47,2.88,50,5.34,3.15,4.5
+2017-01-21,2016-17,Washington Wizards @ Detroit Pistons,Washington Wizards,Detroit Pistons,1.79,6.8,2.16,2.26,1.03,2.08,1.74,1.79,-1.5
+2017-01-21,2016-17,Portland Trail Blazers @ Boston Celtics,Portland Trail Blazers,Boston Celtics,1.01,4.3,3.41,4.2,1.13,8,1.58,1.31,-8.5
+2017-01-21,2016-17,Philadelphia 76ers @ Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,5,8.2,5.87,5.6,1.01,1.4,1.16,1.22,-9.5
+2017-01-21,2016-17,Milwaukee Bucks @ Miami Heat,Milwaukee Bucks,Miami Heat,1.64,3,1.98,1.81,1.01,2.24,1.35,2.18,-1.5
+2017-01-21,2016-17,Brooklyn Nets @ Charlotte Hornets,Brooklyn Nets,Charlotte Hornets,2.16,9,7.48,8,1.03,1.83,1.14,1.15,-12.5
+2017-01-21,2016-17,San Antonio Spurs @ Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,1.03,4.3,1.88,2.56,1.3,8,1.59,1.63,-3.5
+2017-01-21,2016-17,Sacramento Kings @ Chicago Bulls,Sacramento Kings,Chicago Bulls,1.43,17.5,2.86,3.35,1.38,3,1.45,1.44,-6.5
+2017-01-21,2016-17,Phoenix Suns @ New York Knicks,Phoenix Suns,New York Knicks,1.6,3.8,3.01,2.94,1.35,2.04,1.49,1.52,-5.5
+2017-01-21,2016-17,Los Angeles Clippers @ Denver Nuggets,Los Angeles Clippers,Denver Nuggets,2.84,3.8,3.22,2.84,1.4,1.55,1.52,1.54,-7.5
+2017-01-21,2016-17,Indiana Pacers @ Utah Jazz,Indiana Pacers,Utah Jazz,3.65,6.8,3.77,3.65,1.02,1.39,1.35,1.36,-6.5
+2017-01-21,2016-17,Houston Rockets @ Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,1.01,2.06,1.8,2,1.78,12.5,2.23,2,-1.5
+2017-01-22,2016-17,Golden State Warriors @ Orlando Magic,Golden State Warriors,Orlando Magic,1.05,1.25,1.12,1.08,10.5,17.5,12.67,13,12.5
+2017-01-22,2016-17,Los Angeles Lakers @ Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,3.1,3.25,3.18,3.1,1.01,1.49,1.24,1.46,-5.5
+2017-01-22,2016-17,Phoenix Suns @ Toronto Raptors,Phoenix Suns,Toronto Raptors,1.01,9.4,4.44,8.6,1.12,5.7,1.16,1.13,-11.5
+2017-01-22,2016-17,Denver Nuggets @ Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,1.3,3.8,2.86,2.6,1.02,6,1.63,1.62,-4.5
+2017-01-23,2016-17,Cleveland Cavaliers @ New Orleans Pelicans,Cleveland Cavaliers,New Orleans Pelicans,1.19,9.2,1.52,1.19,1.01,5.8,1.88,5.6,6.5
+2017-01-23,2016-17,Washington Wizards @ Charlotte Hornets,Washington Wizards,Charlotte Hornets,1.01,3.85,2.74,3.3,1.41,26,1.68,1.41,-4.5
+2017-01-23,2016-17,San Antonio Spurs @ Brooklyn Nets,San Antonio Spurs,Brooklyn Nets,1.01,1.45,1.19,1.27,4.5,11,6.12,4.6,12.5
+2017-01-23,2016-17,Los Angeles Clippers @ Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,1.04,4,1.57,4,1.34,17.5,2.62,1.35,-6.5
+2017-01-23,2016-17,Golden State Warriors @ Miami Heat,Golden State Warriors,Miami Heat,1.1,34,1.31,1.15,1.04,10.5,4.8,7.8,11.5
+2017-01-23,2016-17,Sacramento Kings @ Detroit Pistons,Sacramento Kings,Detroit Pistons,1.01,3.85,3.11,3.5,1.28,2.5,1.57,1.39,-6.5
+2017-01-23,2016-17,Houston Rockets @ Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,1.5,12,1.98,1.54,1.12,3.1,2.61,2.9,4.5
+2017-01-23,2016-17,Oklahoma City Thunder @ Utah Jazz,Oklahoma City Thunder,Utah Jazz,1.01,5,2.21,2.88,1.29,3,1.6,1.56,-6.5
+2017-01-23,2016-17,New York Knicks @ Indiana Pacers,New York Knicks,Indiana Pacers,1.15,3.8,1.8,2.9,1.2,5.2,1.41,1.51,-5.5
+2017-01-24,2016-17,Boston Celtics @ Washington Wizards,Boston Celtics,Washington Wizards,1.85,12,2.12,2,1.1,2.14,1.95,1.98,1.5
+2017-01-24,2016-17,Chicago Bulls @ Orlando Magic,Chicago Bulls,Orlando Magic,1.01,2.2,1.72,1.73,2.24,3.8,2.61,2.3,2.5
+2017-01-24,2016-17,Los Angeles Clippers @ Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,1.19,13.5,2.67,1.61,1.03,10.5,2.17,2.58,4.5
+2017-01-24,2016-17,San Antonio Spurs @ Toronto Raptors,San Antonio Spurs,Toronto Raptors,1.03,3.3,1.82,2.34,1.59,3.6,2.23,1.75,2.5
+2017-01-24,2016-17,Minnesota Timberwolves @ Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,1.29,3,1.68,1.96,1.47,6.8,2.54,2,-1.5
+2017-01-24,2016-17,Utah Jazz @ Denver Nuggets,Utah Jazz,Denver Nuggets,1.67,21,3.07,2.2,1.02,3,1.63,1.78,-2.5
+2017-01-25,2016-17,Sacramento Kings @ Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,1.02,10.5,3.3,7.6,1.05,4.4,1.15,1.16,-11.5
+2017-01-25,2016-17,Houston Rockets @ Boston Celtics,Houston Rockets,Boston Celtics,1.3,5.3,1.68,1.64,1.02,3.85,2.06,2.56,2.5
+2017-01-25,2016-17,Miami Heat @ Brooklyn Nets,Miami Heat,Brooklyn Nets,1.3,4.4,1.74,1.8,1.08,3.85,2.02,2.18,2.5
+2017-01-25,2016-17,Golden State Warriors @ Charlotte Hornets,Golden State Warriors,Charlotte Hornets,1.01,2.2,1.27,1.22,1.7,8.8,2.74,5.2,9.5
+2017-01-25,2016-17,Atlanta Hawks @ Chicago Bulls,Atlanta Hawks,Chicago Bulls,1.81,3.1,1.94,1.87,1.5,2.22,1.96,2.16,1.5
+2017-01-25,2016-17,Toronto Raptors @ Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,2.3,3.8,2.94,2.9,1.02,1.8,1.51,1.48,-5.5
+2017-01-25,2016-17,Philadelphia 76ers @ Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,1.01,7.6,2.4,7.2,1.15,3.1,1.25,1.16,-11.5
+2017-01-25,2016-17,Oklahoma City Thunder @ New Orleans Pelicans,Oklahoma City Thunder,New Orleans Pelicans,1.02,1.92,1.7,1.87,2.08,17,3.37,2.14,1.5
+2017-01-25,2016-17,New York Knicks @ Dallas Mavericks,New York Knicks,Dallas Mavericks,1.96,3.9,2.37,2.4,1.04,2.04,1.62,1.7,-2.5
+2017-01-25,2016-17,Los Angeles Lakers @ Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,1.82,15,5.18,4.4,1.05,1.73,1.29,1.3,-9.5
+2017-01-26,2016-17,Indiana Pacers @ Minnesota,Indiana Pacers,Minnesota Timberwolves,1.02,2.66,2.01,2.44,1.65,1000,1.98,1.72,-3.5
+2017-01-26,2016-17,Dallas Mavericks @ Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,3.6,30,6.1,5.3,1.02,1.54,1.2,1.23,-8.5
+2017-01-26,2016-17,Phoenix Suns @ Denver Nuggets,Phoenix Suns,Denver Nuggets,1.62,17.5,2.53,3.5,1.05,2.3,1.51,1.41,-6.5
+2017-01-26,2016-17,Los Angeles Lakers @ Utah Jazz,Los Angeles Lakers,Utah Jazz,4.5,34,8.68,10,1.03,1.32,1.11,1.11,-12.5
+2017-01-27,2016-17,Washington Wizards @ Atlanta Hawks,Washington Wizards,Atlanta Hawks,1.01,2.52,1.35,2.4,1.64,10,2.97,1.69,-3.5
+2017-01-27,2016-17,Sacramento Kings @ Indiana Pacers,Sacramento Kings,Indiana Pacers,1.12,3.85,2.02,3,1.31,6,2.02,1.47,-3.5
+2017-01-27,2016-17,Orlando Magic @ Boston Celtics,Orlando Magic,Boston Celtics,3.85,11.5,4.15,3.85,1.01,1.38,1.32,1.35,-8.5
+2017-01-27,2016-17,Milwaukee Bucks @ Toronto Raptors,Milwaukee Bucks,Toronto Raptors,2.92,9.2,5.24,3.25,1.1,1.6,1.4,1.44,-6.5
+2017-01-27,2016-17,Houston Rockets @ Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,1.01,1.75,1.38,1.4,2.5,110,4.27,3.5,7.5
+2017-01-27,2016-17,Charlotte Hornets @ New York Knicks,Charlotte Hornets,New York Knicks,1.64,2.7,1.95,1.9,1.7,2.7,2.24,2.1,1.5
+2017-01-27,2016-17,Brooklyn Nets @ Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,15.5,24,21.59,20,1.01,1.12,1.05,1.06,-16.5
+2017-01-27,2016-17,San Antonio Spurs @ New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,1.2,13.5,1.8,1.34,1.13,4.5,2.01,4,6.5
+2017-01-27,2016-17,Miami Heat @ Chicago Bulls,Miami Heat,Chicago Bulls,1.01,4.1,3.69,3.9,1.31,26,1.54,1.34,-7.5
+2017-01-27,2016-17,Memphis Grizzlies @ Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,1.8,5.7,2.45,2.02,1.01,2.04,1.56,2,-1.5
+2017-01-28,2016-17,Sacramento Kings @ Charlotte Hornets,Sacramento Kings,Charlotte Hornets,1.16,4.1,2.02,3.75,1.32,6.8,1.51,1.35,-7.5
+2017-01-28,2016-17,Detroit Pistons @ Miami Heat,Detroit Pistons,Miami Heat,1.52,6.2,2.04,1.72,1.04,2.52,2.31,2.38,3.5
+2017-01-28,2016-17,Boston Celtics @ Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,1.03,2.26,1.75,2.22,1.78,6.2,1.97,1.8,3.5
+2017-01-28,2016-17,Los Angeles Clippers @ Golden State Warriors,Los Angeles Clippers,Golden State Warriors,7.2,70,9.59,9,1.01,1.17,1.12,1.13,-12.5
+2017-01-28,2016-17,Memphis Grizzlies @ Utah Jazz,Memphis Grizzlies,Utah Jazz,1.11,4.9,2,4.1,1.27,4.8,1.44,1.3,-7.5
+2017-01-28,2016-17,Denver Nuggets @ Phoenix Suns,Denver Nuggets,Phoenix Suns,1.02,3.7,1.33,2.4,1.32,50,1.73,1.67,-2.5
+2017-01-28,2016-17,Brooklyn Nets @ Minnesota Timberwolves,Brooklyn Nets,Minnesota Timberwolves,6.6,10,7.97,7.2,1.03,1.18,1.16,1.16,-11.5
+2017-01-29,2016-17,New York Knicks @ Atlanta Hawks,New York Knicks,Atlanta Hawks,1.25,15.5,3.45,3.35,1.05,2.28,1.46,1.45,-7.5
+2017-01-29,2016-17,Oklahoma City Thunder @ Cleveland Cavaliers,Oklahoma City Thunder,Cleveland Cavaliers,2.78,4.4,4.1,4,1.02,1.35,1.27,1.33,-7.5
+2017-01-29,2016-17,Houston Rockets @ Indiana Pacers,Houston Rockets,Indiana Pacers,1.64,5.5,2.12,1.66,1.02,2.58,1.91,2.5,3.5
+2017-01-29,2016-17,Washington Wizards @ New Orleans Pelicans,Washington Wizards,New Orleans Pelicans,1.09,2.04,1.7,1.99,1.96,7.2,2.12,2,1.5
+2017-01-29,2016-17,Orlando Magic @ Toronto Raptors,Orlando Magic,Toronto Raptors,1.14,7,2.17,6.8,1.14,50,1.32,1.19,-9.5
+2017-01-29,2016-17,Philadelphia 76ers @ Chicago Bulls,Philadelphia 76ers,Chicago Bulls,3,15,3.66,3.75,1.04,1.49,1.28,1.35,-6.5
+2017-01-29,2016-17,Dallas Mavericks @ San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,1.02,13.5,4.66,9.2,1.06,5.1,1.17,1.12,-13.5
+2017-01-29,2016-17,Golden State Warriors @ Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,1.01,1.56,1.37,1.42,2.96,110,4.09,3.45,8.5
+2017-01-30,2016-17,Sacramento Kings @ Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,1.17,150,1.74,1.72,1.01,5.1,2.12,2.38,2.5
+2017-01-30,2016-17,Brooklyn Nets @ Miami Heat,Brooklyn Nets,Miami Heat,2.52,6.4,4.41,4.4,1.04,1.6,1.29,1.28,-8.5
+2017-01-30,2016-17,Memphis Grizzlies @ Phoenix Suns,Memphis Grizzlies,Phoenix Suns,1.01,1.73,1.42,1.56,2.46,50,2.71,2.6,3.5
+2017-01-30,2016-17,Orlando Magic @ Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,1.38,17.5,3.83,4.1,1.12,1.87,1.32,1.31,-9.5
+2017-01-30,2016-17,Detroit Pistons @ Boston Celtics,Detroit Pistons,Boston Celtics,2,50,3.76,3.1,1.01,2.08,1.45,1.43,-5.5
+2017-01-30,2016-17,Cleveland Cavaliers @ Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,1.4,100,1.67,1.57,1.02,4,1.29,2.74,4.5
+2017-01-31,2016-17,Charlotte Hornets @ Portland Trail Blazers,Charlotte Hornets,Portland Trail Blazers,2.32,50,2.61,2.66,1.02,1.68,1.59,1.6,-3.5
+2017-01-31,2016-17,Denver Nuggets @ Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,1.2,4,1.92,1.97,1.02,4.5,1.68,2.04,2.5
+2017-01-31,2016-17,Oklahoma City Thunder @ San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,2.42,50,5.26,5.2,1.02,1.7,1.15,1.23,-9.5
+2017-01-31,2016-17,New Orleans Pelicans @ Toronto Raptors,New Orleans Pelicans,Toronto Raptors,1.41,6,3.12,4,1.01,3.4,1.52,1.33,-7.5
+2017-01-31,2016-17,Sacramento Kings @ Houston Rockets,Sacramento Kings,Houston Rockets,7.2,29,8.53,8,1.07,1.16,1.13,1.14,-11.5
+2017-01-31,2016-17,New York Knicks @ Washington Wizards,New York Knicks,Washington Wizards,3.15,21,4.45,4.5,1.01,1.45,1.32,1.28,-7.5
+2017-02-01,2016-17,Minnesota Timberwolves @ Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,3.35,1000,5.8,3.65,1.01,1.6,1.36,1.38,-7.5
+2017-02-01,2016-17,Indiana Pacers @ Orlando Magic,Indiana Pacers,Orlando Magic,1.02,1.84,1.64,1.74,2.2,4.5,2.66,2.24,2.5
+2017-02-01,2016-17,Toronto Raptors @ Boston Celtics,Toronto Raptors,Boston Celtics,1.19,15,1.72,3.4,1.01,6.4,1.65,1.42,-6.5
+2017-02-01,2016-17,New York Knicks @ Brooklyn Nets,New York Knicks,Brooklyn Nets,1.13,2.82,1.76,1.75,1.3,2.42,2.19,2.34,2.5
+2017-02-01,2016-17,New Orleans Pelicans @ Detroit Pistons,New Orleans Pelicans,Detroit Pistons,2.96,4.3,3.75,3.75,1.24,2,1.41,1.36,-6.5
+2017-02-01,2016-17,Atlanta Hawks @ Miami Heat,Atlanta Hawks,Miami Heat,1.81,8,2.42,2.12,1.3,2.06,1.9,1.88,2.5
+2017-02-01,2016-17,Philadelphia 76ers @ Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,3.2,6.2,4.06,4.1,1.06,1.66,1.34,1.32,-6.5
+2017-02-01,2016-17,Memphis Grizzlies @ Denver Nuggets,Memphis Grizzlies,Denver Nuggets,1.03,2,1.51,1.64,2,6,2.62,2.56,3.5
+2017-02-01,2016-17,Los Angeles Clippers @ Phoenix Suns,Los Angeles Clippers,Phoenix Suns,1.1,1.76,1.56,1.74,2.26,13.5,2.59,2.36,2.5
+2017-02-01,2016-17,Milwaukee Bucks @ Utah Jazz,Milwaukee Bucks,Utah Jazz,3.6,26,5.56,4.3,1.01,1.36,1.18,1.29,-8.5
+2017-02-01,2016-17,Chicago Bulls @ Oklahoma City Thunder,Chicago Bulls,Oklahoma City Thunder,1.02,2.56,1.52,2.4,1.56,26,1.85,1.7,-4.5
+2017-02-01,2016-17,Charlotte Hornets @ Golden State Warriors,Charlotte Hornets,Golden State Warriors,11,17.5,15.3,13,1.01,1.1,1.07,1.08,-14.5
+2017-02-02,2016-17,Los Angeles Lakers @ Washington Wizards,Los Angeles Lakers,Washington Wizards,3,21,8.09,6.8,1.05,1.46,1.18,1.18,-11.5
+2017-02-02,2016-17,Atlanta Hawks @ Houston Rockets,Atlanta Hawks,Houston Rockets,1.01,15,4.28,5.5,1.03,1.8,1.21,1.21,-9.5
+2017-02-02,2016-17,Philadelphia 76ers @ San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,3.9,34,6.03,17.5,1.01,1.3,1.07,1.06,-14.5
+2017-02-02,2016-17,Golden State Warriors @ Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,1.01,1.35,1.29,1.34,3.8,130,4.2,4,8.5
+2017-02-03,2016-17,Chicago Bulls @ Houston Rockets,Chicago Bulls,Houston Rockets,1.21,26,3.8,5.5,1.1,2.6,1.28,1.21,-6.5
+2017-02-03,2016-17,Toronto Raptors @ Orlando Magic,Toronto Raptors,Orlando Magic,1.32,4.8,1.56,1.47,1.01,3.2,1.82,3.05,5.5
+2017-02-03,2016-17,Indiana Pacers @ Brooklyn Nets,Indiana Pacers,Brooklyn Nets,1.01,1.5,1.3,1.39,3.45,8.2,3.88,3.5,7.5
+2017-02-03,2016-17,Minnesota Timberwolves @ Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,2.34,4.6,2.91,2.9,1.05,1.61,1.52,1.53,-4.5
+2017-02-03,2016-17,Memphis Grizzlies @ Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,1.28,3.8,1.99,1.93,1.03,3.75,1.92,2.08,1.5
+2017-02-03,2016-17,Los Angeles Lakers @ Boston Celtics,Los Angeles Lakers,Boston Celtics,5,21,6.99,6.6,1.02,1.3,1.16,1.17,-11.5
+2017-02-03,2016-17,Milwaukee Bucks @ Denver Nuggets,Milwaukee Bucks,Denver Nuggets,2.16,15,2.54,2.44,1.06,2.04,1.57,1.68,-2.5
+2017-02-03,2016-17,Dallas Mavericks @ Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,1.06,3.55,1.74,3.55,1.39,7.2,1.79,1.39,-6.5
+2017-02-03,2016-17,Phoenix Suns @ Sacramento Kings,Phoenix Suns,Sacramento Kings,1.1,3.85,2.41,2.62,1.25,3.15,1.58,1.62,-4.5
+2017-02-04,2016-17,Orlando Magic @ Atlanta Hawks,Orlando Magic,Atlanta Hawks,3.75,21,4.52,3.85,1.01,1.37,1.31,1.35,-7.5
+2017-02-04,2016-17,Detroit Pistons @ Indiana Pacers,Detroit Pistons,Indiana Pacers,1.98,3.35,2.05,2.42,1.15,1.76,1.62,1.68,-4.5
+2017-02-04,2016-17,New Orleans Pelicans @ Washington Wizards,New Orleans Pelicans,Washington Wizards,2,11,3.68,3.7,1.01,2,1.51,1.36,-7.5
+2017-02-04,2016-17,Philadelphia 76ers @ Miami Heat,Philadelphia 76ers,Miami Heat,4.8,10,5.2,5.3,1.06,1.28,1.17,1.24,-8.5
+2017-02-04,2016-17,Cleveland Cavaliers @ New York Knicks,Cleveland Cavaliers,New York Knicks,1.01,1.7,1.44,1.7,2.46,26,3.13,2.52,6.5
+2017-02-04,2016-17,Memphis Grizzlies @ Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,1.01,3.85,1.95,2.62,1.16,34,1.65,1.62,1.5
+2017-02-04,2016-17,Denver Nuggets @ San Antonio Spurs,Denver Nuggets,San Antonio Spurs,7,55,9.79,10,1.01,1.13,1.11,1.12,-10.5
+2017-02-04,2016-17,Milwaukee Bucks @ Phoenix Suns,Milwaukee Bucks,Phoenix Suns,1.01,2.06,1.85,1.91,2,50,3.76,2.1,-1.5
+2017-02-04,2016-17,Charlotte Hornets @ Utah Jazz,Charlotte Hornets,Utah Jazz,1.36,7.6,2.77,4.3,1.1,4.3,1.2,1.28,-7.5
+2017-02-04,2016-17,Golden State Warriors @ Sacramento Kings,Golden State Warriors,Sacramento Kings,1.07,17.5,1.15,1.08,1.11,16,6.71,13,12.5
+2017-02-05,2016-17,Toronto Raptors @ Brooklyn Nets,Toronto Raptors,Brooklyn Nets,1.1,1.5,1.3,1.4,3.1,6,3.47,3.75,6.5
+2017-02-04,2016-17,Los Angeles Clippers @ Boston Celtics,Los Angeles Clippers,Boston Celtics,2.9,110,5.14,2.92,1.01,1.53,1.27,1.48,-5.5
+2017-02-05,2016-17,Portland Trail Blazers @ Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,2,10,3.06,2.8,1.01,2.12,1.52,1.54,-4.5
+2017-02-06,2016-17,Chicago Bulls @ Sacramento Kings,Chicago Bulls,Sacramento Kings,1.01,2.72,1.89,2.5,1.59,15,1.9,1.62,-2.5
+2017-02-06,2016-17,Cleveland Cavaliers @ Washington Wizards,Cleveland Cavaliers,Washington Wizards,1.08,10,1.94,1.88,1.09,12,1.93,2.14,-1.5
+2017-02-06,2016-17,Dallas Mavericks @ Denver Nuggets,Dallas Mavericks,Denver Nuggets,2.28,330,4.84,2.3,1.01,1.76,1.42,1.74,-2.5
+2017-02-06,2016-17,Los Angeles Clippers @ Toronto Raptors,Los Angeles Clippers,Toronto Raptors,3,7.2,3.69,3.35,1.04,1.59,1.42,1.43,-4.5
+2017-02-06,2016-17,Los Angeles Lakers @ New York Knicks,Los Angeles Lakers,New York Knicks,1.02,3.25,1.17,3,1.39,34,1.57,1.49,-3.5
+2017-02-06,2016-17,Miami Heat @ Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,1.36,2.14,2,2.06,1.86,100,1.99,1.94,-1.5
+2017-02-06,2016-17,Oklahoma City Thunder @ Indiana Pacers,Oklahoma City Thunder,Indiana Pacers,1.38,12,2.35,2.96,1.06,3.5,1.53,1.54,-5.5
+2017-02-06,2016-17,Philadelphia 76ers @ Detroit Pistons,Philadelphia 76ers,Detroit Pistons,3.35,6.2,5.38,4.7,1.17,1.42,1.26,1.27,-9.5
+2017-02-06,2016-17,Phoenix Suns @ New Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,1.35,3.9,2.31,3.3,1.22,2.46,1.44,1.43,-5.5
+2017-02-06,2016-17,San Antonio Spurs @ Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,1.68,6,2.21,1.99,1.01,2.44,1.82,1.99,2.5
+2017-02-06,2016-17,Utah Jazz @ Atlanta Hawks,Utah Jazz,Atlanta Hawks,1.13,2.04,1.91,1.99,1.87,2.76,2,2.02,-1.5
+2017-02-07,2016-17,Brooklyn Nets @ Charlotte Hornets,Brooklyn Nets,Charlotte Hornets,5,1000,10.05,5.4,1.02,1.26,1.12,1.23,-10.5
+2017-02-07,2016-17,Orlando Magic @ Houston Rockets,Orlando Magic,Houston Rockets,4.5,50,7.83,7,1.03,1.28,1.14,1.15,-11.5
+2017-02-07,2016-17,Portland Trail Blazers @ Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,1.01,3.5,1.59,1.75,1.1,10,2.27,2.28,-1.5
+2017-02-08,2016-17,San Antonio Spurs @ Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,1.07,1.28,1.16,1.14,4.7,12,7.21,7.8,10.5
+2017-02-08,2016-17,Cleveland Cavaliers @ Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,1.04,3,1.61,1.65,1.57,18,2.47,2.52,2.5
+2017-02-08,2016-17,Washington Wizards @ Brooklyn Nets,Washington Wizards,Brooklyn Nets,1.02,2.02,1.2,1.21,2.66,9.2,5.41,5.9,11.5
+2017-02-08,2016-17,Denver Nuggets @ Atlanta Hawks,Denver Nuggets,Atlanta Hawks,2.48,2.68,2.54,2.56,1.02,1.67,1.56,1.63,-4.5
+2017-02-08,2016-17,Los Angeles Lakers @ Detroit Pistons,Los Angeles Lakers,Detroit Pistons,2.68,7.2,3.65,3.5,1.04,1.5,1.35,1.38,-7.5
+2017-02-08,2016-17,Miami Heat @ Milwaukee Bucks,Miami Heat,Milwaukee Bucks,1.04,2.74,2.21,2.74,1.57,6.8,1.68,1.57,-3.5
+2017-02-08,2016-17,Phoenix Suns @ Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,4,8,4.44,4.3,1.01,1.35,1.27,1.33,-9.5
+2017-02-08,2016-17,Utah Jazz @ New Orleans Pelicans,Utah Jazz,New Orleans Pelicans,1.04,1.64,1.56,1.61,2.54,3,2.82,2.64,4.5
+2017-02-08,2016-17,Toronto Raptors @ Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,1.23,6,1.65,1.67,1.72,2.72,2.55,2.5,3.5
+2017-02-08,2016-17,Los Angeles Clippers @ New York Knicks,Los Angeles Clippers,New York Knicks,1.05,5,1.9,1.91,1.24,50,1.99,2.1,1.5
+2017-02-08,2016-17,Chicago Bulls @ Golden State Warriors,Chicago Bulls,Golden State Warriors,15.5,34,18.92,19,1.01,1.11,1.05,1.05,-14.5
+2017-02-08,2016-17,Boston Celtics @ Sacramento Kings,Boston Celtics,Sacramento Kings,1.14,110,1.47,1.27,1.01,7.2,2.34,4.8,8.5
+2017-02-09,2016-17,Houston Rockets @ Charlotte Hornets,Houston Rockets,Charlotte Hornets,1.04,2.44,1.7,1.8,1.72,7.6,2.35,2.32,4.5
+2017-02-09,2016-17,Philadelphia 76ers @ Orlando Magic,Philadelphia 76ers,Orlando Magic,1.85,5,3.23,3.4,1.16,2,1.44,1.4,-6.5
+2017-02-09,2016-17,Cleveland Cavaliers @ Oklahoma City Thunder,Cleveland Cavaliers,Oklahoma City Thunder,1.65,50,2.79,2.04,1.02,2.28,1.54,1.96,-10.5
+2017-02-09,2016-17,Utah Jazz @ Dallas Mavericks,Utah Jazz,Dallas Mavericks,1.02,100,1.68,1.76,1.07,26,2.19,2.3,2.5
+2017-02-09,2016-17,Boston Celtics @ Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,1.02,6.8,2.13,2.52,1.14,1000,2,1.65,-1.5
+2017-02-10,2016-17,San Antonio Spurs @ Detroit Pistons,San Antonio Spurs,Detroit Pistons,1.01,1.62,1.36,1.55,2.62,3.7,2.83,2.8,4.5
+2017-02-10,2016-17,Denver Nuggets @ New York Knicks,Denver Nuggets,New York Knicks,1.07,2.6,1.43,2.24,1.3,2.6,1.82,1.79,-2.5
+2017-02-10,2016-17,Miami Heat @ Brooklyn Nets,Miami Heat,Brooklyn Nets,1.01,2.56,1.54,1.49,1.51,8,2.64,2.96,6.5
+2017-02-10,2016-17,Los Angeles Lakers @ Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,1.02,3.2,1.28,3,1.45,8.6,1.65,1.48,-3.5
+2017-02-10,2016-17,Golden State Warriors @ Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,1.01,1.35,1.28,1.3,3.95,50,5.27,4.2,7.5
+2017-02-10,2016-17,Indiana Pacers @ Washington Wizards,Indiana Pacers,Washington Wizards,2.1,26,3.08,3.1,1.03,2.16,1.39,1.47,-5.5
+2017-02-10,2016-17,New Orleans Pelicans @ Minnesota Timberwolves,New Orleans Pelicans,Minnesota Timberwolves,1.06,4.4,2.52,2.88,1.52,6.4,1.61,1.54,-3.5
+2017-02-10,2016-17,Chicago Bulls @ Phoenix Suns,Chicago Bulls,Phoenix Suns,1.32,17.5,1.94,1.64,1.04,4.8,1.89,2.6,1.5
+2017-02-10,2016-17,Atlanta Hawks @ Sacramento Kings,Atlanta Hawks,Sacramento Kings,1.06,7.8,1.36,1.9,1.4,9.6,2.47,2.12,1.5
+2017-02-10,2016-17,Los Angeles Clippers @ Charlotte Hornets,Los Angeles Clippers,Charlotte Hornets,1.01,3.55,1.51,2.32,1.44,100,2.05,1.75,-2.5
+2017-02-11,2016-17,Milwaukee Bucks @ Indiana Pacers,Milwaukee Bucks,Indiana Pacers,1.01,3.6,1.71,3.45,1.28,34,1.52,1.41,-6.5
+2017-02-11,2016-17,Denver Nuggets @ Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,4.5,34,7.64,8,1.01,1.3,1.13,1.14,-12.5
+2017-02-11,2016-17,Golden State Warriors @ Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,1.01,1.5,1.18,1.38,2.8,50,4.59,3.9,7.5
+2017-02-11,2016-17,Phoenix Suns @ Houston Rockets,Phoenix Suns,Houston Rockets,8.4,50,14.91,15.5,1.01,1.1,1.07,1.07,-13.5
+2017-02-11,2016-17,Orlando Magic @ Dallas Mavericks,Orlando Magic,Dallas Mavericks,3.35,23,4.5,3.35,1.02,1.63,1.4,1.42,-6.5
+2017-02-11,2016-17,Boston Celtics @ Utah Jazz,Boston Celtics,Utah Jazz,1.01,3.5,2.08,3.4,1.38,6,1.55,1.43,-5.5
+2017-02-11,2016-17,Miami Heat @ Philadelphia 76ers,Miami Heat,Philadelphia 76ers,1.6,21,1.83,1.8,1.02,2.6,1.63,2.3,3.5
+2017-02-12,2016-17,Chicago Bulls @ Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,1.7,3.45,3.08,3.45,1.01,1.81,1.29,1.42,-3.5
+2017-02-12,2016-17,San Antonio Spurs @ New York Knicks,San Antonio Spurs,New York Knicks,1.07,21,1.29,1.23,1.02,6,2.57,5,8.5
+2017-02-12,2016-17,Detroit Pistons @ Toronto Raptors,Detroit Pistons,Toronto Raptors,1.2,5,3.29,3.7,1.03,2.26,1.37,1.37,-6.5
+2017-02-12,2016-17,New Orleans Pelicans @ Sacramento Kings,New Orleans Pelicans,Sacramento Kings,1.49,9.2,2.57,2.66,1.03,3,1.36,1.6,-3.5
+2017-02-13,2016-17,Philadelphia 76ers @ Charlotte Hornets,Philadelphia 76ers,Charlotte Hornets,1.02,4.9,1.54,4,1.26,60,1.42,1.32,-8.5
+2017-02-13,2016-17,San Antonio Spurs @ Indiana Pacers,San Antonio Spurs,Indiana Pacers,1.05,2.74,1.56,1.54,1.9,2.9,2.56,2.86,3.5
+2017-02-13,2016-17,Orlando Magic @ Miami Heat,Orlando Magic,Miami Heat,1.33,4.5,3.43,3.9,1.27,50,1.4,1.33,-8.5
+2017-02-13,2016-17,Memphis Grizzlies @ Brooklyn Nets,Memphis Grizzlies,Brooklyn Nets,1.01,1.29,1.27,1.28,4.4,1000,12.93,4.8,9.5
+2017-02-13,2016-17,Detroit Pistons @ Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,2.3,110,3.1,2.3,1.03,1.77,1.62,1.73,-3.5
+2017-02-13,2016-17,Oklahoma City Thunder @ Washington Wizards,Oklahoma City Thunder,Washington Wizards,2.76,26,3.47,3,1.03,1.55,1.46,1.48,-5.5
+2017-02-13,2016-17,Boston Celtics @ Dallas Mavericks,Boston Celtics,Dallas Mavericks,1.01,1.91,1.75,1.84,2.1,4.5,2.25,2.18,1.5
+2017-02-13,2016-17,New Orleans Pelicans @ Phoenix Suns,New Orleans Pelicans,Phoenix Suns,1.5,3.7,2.35,2.5,1.45,4.1,1.73,1.67,-2.5
+2017-02-13,2016-17,Los Angeles Clippers @ Utah Jazz,Los Angeles Clippers,Utah Jazz,1.01,4.5,2.43,4.3,1.29,100,1.47,1.29,-7.5
+2017-02-13,2016-17,Golden State Warriors @ Denver Nuggets,Golden State Warriors,Denver Nuggets,1.12,1000,2.17,1.13,1.02,8.8,1.35,8.6,11.5
+2017-02-13,2016-17,Atlanta Hawks @ Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,1.07,8,2.24,2.22,1.1,8.6,1.78,1.81,-2.5
+2017-02-14,2016-17,Toronto Raptors @ Chicago Bulls,Toronto Raptors,Chicago Bulls,1.37,200,2.13,1.61,1.05,3.75,1.59,2.62,4.5
+2017-02-14,2016-17,Cleveland Cavaliers @ Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,1.03,1.98,1.46,1.61,2,11,2.39,2.6,3.5
+2017-02-14,2016-17,Sacramento Kings @ Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,1.1,2.46,2,2.28,1.7,6.8,1.95,1.78,-1.5
+2017-02-15,2016-17,San Antonio Spurs @ Orlando Magic,San Antonio Spurs,Orlando Magic,1.1,1.21,1.19,1.2,5.8,8.8,6.4,5.8,10.5
+2017-02-15,2016-17,Portland Trail Blazers @ Utah Jazz,Portland Trail Blazers,Utah Jazz,4.3,8,4.6,4.6,1.15,1.5,1.28,1.28,-8.5
+2017-02-15,2016-17,Philadelphia 76ers @ Boston Celtics,Philadelphia 76ers,Boston Celtics,2.7,11,5.68,5.9,1.01,1.5,1.21,1.2,-9.5
+2017-02-15,2016-17,New Orleans Pelicans @ Memphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,1.22,5.6,2.67,4,1.16,4.8,1.9,1.31,-8.5
+2017-02-15,2016-17,Minnesota Timberwolves @ Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,1.61,3.5,3,3.3,1.4,6.6,1.65,1.41,-5.5
+2017-02-15,2016-17,Milwaukee Bucks @ Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,1.01,1.54,1.48,1.48,2.74,4.7,3.14,3,5.5
+2017-02-15,2016-17,Miami Heat @ Houston Rockets,Miami Heat,Houston Rockets,1.02,6.6,1.3,6.6,1.18,150,1.33,1.2,-9.5
+2017-02-15,2016-17,Los Angeles Lakers @ Phoenix Suns,Los Angeles Lakers,Phoenix Suns,2.46,50,4.98,2.56,1.07,1.61,1.56,1.59,-4.5
+2017-02-15,2016-17,Indiana Pacers @ Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,2.42,50,3.72,3.5,1.01,1.72,1.41,1.4,-6.5
+2017-02-15,2016-17,Dallas Mavericks @ Detroit Pistons,Dallas Mavericks,Detroit Pistons,2.72,4.2,3.08,2.72,1.02,1.58,1.07,1.56,-5.5
+2017-02-15,2016-17,Charlotte Hornets @ Toronto Raptors,Charlotte Hornets,Toronto Raptors,1.07,10,3.27,3.4,1.04,13.5,1.28,1.42,-6.5
+2017-02-15,2016-17,New York Knicks @ Oklahoma City Thunder,New York Knicks,Oklahoma City Thunder,1.57,9,2.51,4,1.07,3,1.51,1.34,-7.5
+2017-02-15,2016-17,Atlanta Hawks @ Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,2.38,21,3.82,2.6,1.02,1.77,1.41,1.61,-2.5
+2017-02-15,2016-17,Sacramento Kings @ Golden State Warriors,Sacramento Kings,Golden State Warriors,6,100,22.34,21,1.03,1.2,1.06,1.05,-18.5
+2017-02-16,2016-17,Washington Wizards @ Indiana Pacers,Washington Wizards,Indiana Pacers,1.03,1.88,1.48,1.77,2.14,1000,4.43,2.3,3.5
+2017-02-16,2016-17,Boston Celtics @ Chicago Bulls,Boston Celtics,Chicago Bulls,1.2,7.6,1.84,1.96,1.01,5,2.01,2.02,1.5
+2017-02-23,2016-17,Charlotte Hornets @ Detroit Pistons,Charlotte Hornets,Detroit Pistons,1.07,8,1.99,2.84,1.01,5.3,1.54,1.53,-4.5
+2017-02-23,2016-17,Denver Nuggets @ Sacramento Kings,Denver Nuggets,Sacramento Kings,1.33,100,1.72,1.4,1.03,4.3,1.42,3.45,6.5
+2017-02-23,2016-17,Houston Rockets @ New Orleans Pelicans,Houston Rockets,New Orleans Pelicans,1.01,1.79,1.59,1.64,2.38,6.2,2.66,2.5,1.5
+2017-02-23,2016-17,Los Angeles Clippers @ Golden State Warriors,Los Angeles Clippers,Golden State Warriors,1.88,28,8.71,9.2,1.03,2.08,1.29,1.12,-13.5
+2017-02-23,2016-17,New York Knicks @ Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,4.3,11,7.05,7.2,1.02,1.31,1.16,1.17,-9.5
+2017-02-23,2016-17,Portland Trail Blazers @ Orlando Magic,Portland Trail Blazers,Orlando Magic,1.02,4.2,1.78,1.75,1.17,6.4,2.07,2.32,3.5
+2017-02-24,2016-17,Memphis Grizzlies @ Indiana Pacers,Memphis Grizzlies,Indiana Pacers,1.67,5,2.09,2.02,1.02,2.06,1.19,1.97,1.5
+2017-02-24,2016-17,Washington Wizards @ Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,1.2,34,1.88,1.24,1.02,6,1.69,5.1,7.5
+2017-02-24,2016-17,Utah Jazz @ Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,1.08,1.76,1.57,1.65,2.34,5,2.65,2.54,2.5
+2017-02-24,2016-17,Miami Heat @ Atlanta Hawks,Miami Heat,Atlanta Hawks,1.21,2.52,2.1,2.38,1.62,4.9,2.16,1.72,-3.5
+2017-02-24,2016-17,Phoenix Suns @ Chicago Bulls,Phoenix Suns,Chicago Bulls,1.2,3.3,2.65,3.3,1.06,5.2,1.61,1.44,-6.5
+2017-02-24,2016-17,San Antonio Spurs @ Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,1.01,2.78,1.57,1.73,1.39,5.7,2.28,2.34,3.5
+2017-02-24,2016-17,Los Angeles Lakers @ Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,5.8,22,6.67,6.2,1.05,1.22,1.17,1.19,-10.5
+2017-02-24,2016-17,Dallas Mavericks @ Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,1.68,7,3.64,2.56,1.12,1.65,1.46,1.63,-3.5
+2017-02-24,2016-17,Boston Celtics @ Toronto Raptors,Boston Celtics,Toronto Raptors,1.36,4.6,2.05,2.2,1.02,6,1.83,1.85,-2.5
+2017-02-24,2016-17,Brooklyn Nets @ Denver Nuggets,Brooklyn Nets,Denver Nuggets,4.8,6.2,5.81,5.8,1.01,1.21,1.12,1.2,-9.5
+2017-02-25,2016-17,Charlotte Hornets @ Sacramento Kings,Charlotte Hornets,Sacramento Kings,1.01,1.73,1.53,1.66,2.2,23,3.08,2.52,2.5
+2017-02-25,2016-17,Atlanta Hawks @ Orlando Magic,Atlanta Hawks,Orlando Magic,1.38,1000,1.81,1.65,1.01,3.6,1.8,2.52,4.5
+2017-02-25,2016-17,Philadelphia 76ers @ New York Knicks,Philadelphia 76ers,New York Knicks,1.92,34,4.76,3.45,1.03,2.18,1.24,1.4,-5.5
+2017-02-25,2016-17,Indiana Pacers @ Miami Heat,Indiana Pacers,Miami Heat,1.51,4.3,2.54,2.68,1.01,1.87,1.5,1.59,-4.5
+2017-02-25,2016-17,New Orleans Pelicans @ Dallas Mavericks,New Orleans Pelicans,Dallas Mavericks,1.5,50,2.25,1.85,1.02,2.4,1.98,2.18,2.5
+2017-02-25,2016-17,Chicago Bulls @ Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,1.01,5.8,2.11,3.6,1.16,100,1.51,1.38,-10.5
+2017-02-25,2016-17,Minnesota Timberwolves @ Houston Rockets,Minnesota Timberwolves,Houston Rockets,7.6,9,8.3,8.2,1.01,1.17,1.06,1.14,-11.5
+2017-02-25,2016-17,Brooklyn Nets @ Golden State Warriors,Brooklyn Nets,Golden State Warriors,11,200,30.51,27,1.01,1.08,1.03,1.04,-22.5
+2017-02-26,2016-17,San Antonio Spurs @ Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,1.07,1.16,1.12,1.14,7.2,8.8,7.83,8,10.5
+2017-02-26,2016-17,Phoenix Suns @ Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,3,50,4.95,3.2,1.02,2.28,1.12,1.43,-6.5
+2017-02-26,2016-17,Memphis Grizzlies @ Denver Nuggets,Memphis Grizzlies,Denver Nuggets,1.02,2.8,1.82,2.16,1.53,4,1.9,1.83,-1.5
+2017-02-26,2016-17,Utah Jazz @ Washington Wizards,Utah Jazz,Washington Wizards,1.01,2.42,1.15,2.26,1.76,100,3.06,1.8,-2.5
+2017-02-26,2016-17,Portland Trail Blazers @ Toronto Raptors,Portland Trail Blazers,Toronto Raptors,1.6,160,4.46,3,1.01,2.26,1.45,1.44,-4.5
+2017-02-26,2016-17,Boston Celtics @ Detroit Pistons,Boston Celtics,Detroit Pistons,1.15,2.4,1.58,1.86,1.75,1000,3.44,2.06,1.5
+2017-02-26,2016-17,New Orleans Pelicans @ Oklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,2.24,1000,4.41,3.05,1.04,1.8,1.44,1.48,-6.5
+2017-02-26,2016-17,Charlotte Hornets @ Los Angeles Clippers,Charlotte Hornets,Los Angeles Clippers,2,23,5.13,6.2,1.01,1.8,1.24,1.2,-9.5
+2017-02-27,2016-17,Golden State Warriors @ Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,1.01,1.17,1.08,1.07,7.6,18,12.37,14.5,13.5
+2017-02-27,2016-17,Milwaukee Bucks @ Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,2.2,8.8,5.02,5.3,1.03,1.63,1.24,1.21,-6.5
+2017-02-27,2016-17,Minnesota Timberwolves @ Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,1.01,1.9,1.52,1.61,2,12,2.75,2.62,4.5
+2017-02-27,2016-17,Miami Heat @ Dallas Mavericks,Miami Heat,Dallas Mavericks,1.33,6,2.01,2,1.2,3.2,1.93,1.97,1.5
+2017-02-27,2016-17,Toronto Raptors @ New York Knicks,Toronto Raptors,New York Knicks,1.2,3.95,1.78,1.62,1.31,3.75,2.28,2.56,2.5
+2017-02-27,2016-17,Atlanta Hawks @ Boston Celtics,Atlanta Hawks,Boston Celtics,1.01,2.84,1.88,2.78,1.37,50,1.66,1.53,-4.5
+2017-02-27,2016-17,Indiana Pacers @ Houston Rockets,Indiana Pacers,Houston Rockets,1.01,15,1.58,5.6,1.07,11,1.43,1.21,-10.5
+2017-02-28,2016-17,Golden State Warriors @ Washington Wizards,Golden State Warriors,Washington Wizards,1.21,18,1.72,1.35,1.02,4,2.55,3.75,6.5
+2017-02-28,2016-17,Portland Trail Blazers @ Detroit Pistons,Portland Trail Blazers,Detroit Pistons,1.28,11,2.59,2.6,1.11,3.1,1.67,1.63,-5.5
+2017-02-28,2016-17,Denver Nuggets @ Chicago Bulls,Denver Nuggets,Chicago Bulls,1.04,2.7,2.12,2.28,1.4,9,1.74,1.76,-3.5
+2017-02-28,2016-17,Phoenix Suns @ Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,2.64,6.2,4.74,5.4,1.03,1.45,1.23,1.23,-10.5
+2017-02-28,2016-17,Utah Jazz @ Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,1.3,17.5,2.6,1.82,1.02,2.6,2.02,2.14,1.5
+2017-02-28,2016-17,Charlotte Hornets @ Los Angeles Lakers,Charlotte Hornets,Los Angeles Lakers,1.01,3.25,1.57,1.49,1.41,11,2.67,2.98,3.5
+2017-03-01,2016-17,New York Knicks @ Orlando Magic,New York Knicks,Orlando Magic,1.01,2.3,1.53,2.22,1.75,15,2.04,1.77,-1.5
+2017-03-01,2016-17,Philadelphia 76ers @ Miami Heat,Philadelphia 76ers,Miami Heat,4.8,1000,9.81,5,1.04,1.27,1.19,1.25,-8.5
+2017-03-01,2016-17,Washington Wizards @ Toronto Raptors,Washington Wizards,Toronto Raptors,1.05,2.76,1.81,2.62,1.55,11,2.14,1.61,-4.5
+2017-03-01,2016-17,Dallas Mavericks @ Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,1.89,10.5,3.5,3.3,1.13,1.65,1.41,1.42,-5.5
+2017-03-01,2016-17,Cleveland Cavaliers @ Boston Celtics,Cleveland Cavaliers,Boston Celtics,1.5,2.86,1.99,2.12,1.01,2.84,1.91,1.87,1.5
+2017-03-01,2016-17,Denver Nuggets @ Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,1.01,2.76,1.93,2.7,1.54,13.5,1.71,1.6,-3.5
+2017-03-01,2016-17,Detroit Pistons @ New Orleans Pelicans,Detroit Pistons,New Orleans Pelicans,2.1,34,3.94,2.34,1.36,1.8,1.71,1.73,-1.5
+2017-03-01,2016-17,Indiana Pacers @ San Antonio Spurs,Indiana Pacers,San Antonio Spurs,1.18,6.4,2.81,6.4,1.08,2.58,1.27,1.19,-10.5
+2017-03-01,2016-17,Houston Rockets @ Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,1.01,2.9,1.56,2.24,1.5,6,1.98,1.8,-1.5
+2017-03-01,2016-17,Brooklyn Nets @ Sacramento Kings,Brooklyn Nets,Sacramento Kings,1.02,2.36,1.2,2.36,1.7,26,1.82,1.74,-3.5
+2017-03-01,2016-17,Minnesota Timberwolves @ Utah Jazz,Minnesota Timberwolves,Utah Jazz,1.25,3.8,2.76,3.5,1.36,13.5,1.86,1.4,-6.5
+2017-03-02,2016-17,Golden State Warriors @ Chicago Bulls,Golden State Warriors,Chicago Bulls,1.19,10.5,1.38,1.33,1.06,6.2,3.44,3.8,7.5
+2017-03-02,2016-17,Charlotte Hornets @ Phoenix Suns,Charlotte Hornets,Phoenix Suns,1.31,220,3.1,1.64,1.01,4.3,1.67,2.54,3.5
+2017-03-02,2016-17,Oklahoma City Thunder @ Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,1.19,1000,2.75,2,1.02,4.5,1.4,1.99,-1.5
+2017-03-03,2016-17,Toronto Raptors @ Washington Wizards,Toronto Raptors,Washington Wizards,1.02,3.25,1.12,2.94,1.48,21,2.41,1.49,-4.5
+2017-03-03,2016-17,Cleveland Cavaliers @ Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,1.02,1.79,1.23,1.72,2.28,100,4.53,2.28,3.5
+2017-03-03,2016-17,Miami Heat @ Orlando Magic,Miami Heat,Orlando Magic,1.53,2.34,1.8,1.53,1.09,2.88,2.02,2.88,3.5
+2017-03-03,2016-17,New York Knicks @ Philadelphia 76ers,New York Knicks,Philadelphia 76ers,1.46,3.25,1.86,1.85,1.5,3.1,2.14,2.2,1.5
+2017-03-03,2016-17,Los Angeles Clippers @ Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,1.48,100,1.83,1.52,1.01,3.05,1.65,2.92,3.5
+2017-03-03,2016-17,Memphis Grizzlies @ Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,1.69,1000,4.84,1.78,1.01,2.38,1.11,2.26,3.5
+2017-03-03,2016-17,Oklahoma City Thunder @ Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,1.53,7.2,1.98,1.56,1.01,5.4,1.16,2.8,3.5
+2017-03-03,2016-17,Brooklyn Nets @ Utah Jazz,Brooklyn Nets,Utah Jazz,11,15.5,12.05,11.5,1.01,1.12,1.09,1.1,-13.5
+2017-03-03,2016-17,San Antonio Spurs @ New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,1.01,3.05,1.36,1.44,1.25,1000,4.01,3.25,6.5
+2017-03-03,2016-17,Boston Celtics @ Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,1.01,1.37,1.06,1.33,3.6,21,3.88,3.85,7.5
+2017-03-04,2016-17,Detroit Pistons @ Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,1.05,1.67,1.45,1.49,2.26,14,3.31,3,4.5
+2017-03-04,2016-17,Cleveland Cavaliers @ Miami Heat,Cleveland Cavaliers,Miami Heat,1.73,34,3.16,4.3,1.01,2.28,1.47,1.3,1.5
+2017-03-04,2016-17,Toronto Raptors @ Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,1.53,21,2.09,2.04,1.09,2.74,1.27,1.94,-1.5
+2017-03-04,2016-17,Los Angeles Clippers @ Chicago Bulls,Los Angeles Clippers,Chicago Bulls,1.01,2.42,1.17,1.54,1.6,5.2,2.23,2.68,2.5
+2017-03-04,2016-17,Charlotte Hornets @ Denver Nuggets,Charlotte Hornets,Denver Nuggets,1.02,3.8,1.25,3,1.47,13.5,1.72,1.5,-4.5
+2017-03-04,2016-17,Memphis Grizzlies @ Houston Rockets,Memphis Grizzlies,Houston Rockets,4.3,4.7,4.52,4.6,1.01,1.48,1.23,1.27,-8.5
+2017-03-04,2016-17,Minnesota Timberwolves @ San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,1.5,5.2,2.33,4,1.26,3,1.47,1.33,-8.5
+2017-03-04,2016-17,Brooklyn Nets @ Portland Trail Blazers,Brooklyn Nets,Portland Trail Blazers,5,7.6,6.8,6.2,1.01,1.25,1.03,1.19,-10.5
+2017-03-05,2016-17,Utah Jazz @ Sacramento Kings,Utah Jazz,Sacramento Kings,1.02,4.6,1.51,1.22,1.02,5.7,1.54,5.4,9.5
+2017-03-05,2016-17,Orlando Magic @ Washington Wizards,Orlando Magic,Washington Wizards,1.18,13.5,3.48,8.6,1.01,3.4,1.62,1.12,-10.5
+2017-03-05,2016-17,Indiana Pacers @ Atlanta Hawks,Indiana Pacers,Atlanta Hawks,1.08,2.48,2.22,2.4,1.09,1.76,1.67,1.7,-3.5
+2017-03-05,2016-17,Golden State Warriors @ New York Knicks,Golden State Warriors,New York Knicks,1.07,1.4,1.17,1.16,3.6,12,7.09,7.2,9.5
+2017-03-05,2016-17,Boston Celtics @ Phoenix Suns,Boston Celtics,Phoenix Suns,1.1,5,1.72,1.56,1.16,3.55,2.3,2.74,6.5
+2017-03-05,2016-17,Oklahoma City Thunder @ Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,1.88,100,2.39,2.14,1.02,2.14,1.16,1.87,-1.5
+2017-03-05,2016-17,New Orleans Pelicans @ Los Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,1.01,1.9,1.18,1.4,2.28,13.5,3.96,3.3,6.5
+2017-03-06,2016-17,Milwaukee Bucks @ Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,1.08,1.75,1.49,1.47,2.54,8,3.04,3.1,3.5
+2017-03-06,2016-17,New York Knicks @ Orlando Magic,New York Knicks,Orlando Magic,1.01,5.8,2.33,2.38,1.5,6.4,1.68,1.72,-1.5
+2017-03-06,2016-17,Miami Heat @ Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,1.01,6,1.25,5.5,1.2,21,1.3,1.22,-8.5
+2017-03-06,2016-17,Golden State Warriors @ Atlanta Hawks,Golden State Warriors,Atlanta Hawks,1.01,2.12,1.11,1.46,2.1,8,3.13,3.25,6.5
+2017-03-06,2016-17,Chicago Bulls @ Detroit Pistons,Chicago Bulls,Detroit Pistons,2.28,4.6,2.97,3.2,1.15,1.75,1.49,1.43,-5.5
+2017-03-06,2016-17,Brooklyn Nets @ Memphis Grizzlies,Brooklyn Nets,Memphis Grizzlies,1.01,14,1.77,6.6,1.13,4.7,1.16,1.16,-12.5
+2017-03-06,2016-17,Indiana Pacers @ Charlotte Hornets,Indiana Pacers,Charlotte Hornets,2.5,6,3.09,2.9,1.01,1.68,1.42,1.57,-3.5
+2017-03-06,2016-17,Houston Rockets @ San Antonio Spurs,Houston Rockets,San Antonio Spurs,1.28,1000,2.84,2.44,1.15,3.65,2.08,1.66,-4.5
+2017-03-06,2016-17,Sacramento Kings @ Denver Nuggets,Sacramento Kings,Denver Nuggets,6.6,13.5,7.69,7.2,1.02,1.25,1.1,1.17,-10.5
+2017-03-06,2016-17,New Orleans Pelicans @ Utah Jazz,New Orleans Pelicans,Utah Jazz,2.9,12.5,3.5,2.92,1.01,1.53,1.43,1.53,-7.5
+2017-03-06,2016-17,Boston Celtics @ Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,1.52,1000,4.57,3.9,1.01,2.64,1.45,1.33,-5.5
+2017-03-07,2016-17,Washington Wizards @ Phoenix Suns,Washington Wizards,Phoenix Suns,1.01,2.42,1.18,1.47,1.47,12,2.78,3.25,3.5
+2017-03-07,2016-17,Portland Trail Blazers @ Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,1.08,7.6,2.38,3.7,1.17,9.2,1.52,1.36,-6.5
+2017-03-07,2016-17,Los Angeles Lakers @ Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,4.8,20,5.27,5,1.02,1.27,1.17,1.26,-10.5
+2017-03-08,2016-17,Chicago Bulls @ Orlando Magic,Chicago Bulls,Orlando Magic,1.31,4,1.97,1.97,1.02,5,1.79,2,-1.5
+2017-03-08,2016-17,Charlotte Hornets @ Miami Heat,Charlotte Hornets,Miami Heat,2,3.4,2.58,2.62,1.01,2.5,1.18,1.61,-4.5
+2017-03-08,2016-17,Brooklyn Nets @ Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,3,6.2,4.84,6,1.01,1.5,1.12,1.19,-9.5
+2017-03-08,2016-17,Detroit Pistons @ Indiana Pacers,Detroit Pistons,Indiana Pacers,2.56,3.45,2.75,2.56,1.01,1.8,1.29,1.62,-3.5
+2017-03-08,2016-17,New York Knicks @ Milwaukee Bucks,New York Knicks,Milwaukee Bucks,1.4,6,2.8,3.45,1.21,1.57,1.44,1.42,-6.5
+2017-03-08,2016-17,Utah Jazz @ Houston Rockets,Utah Jazz,Houston Rockets,1.1,4.8,1.42,4.5,1.26,6.2,1.4,1.27,-7.5
+2017-03-08,2016-17,Toronto Raptors @ New Orleans Pelicans,Toronto Raptors,New Orleans Pelicans,1.5,2.5,2.13,2.5,1.41,3.35,1.72,1.67,-2.5
+2017-03-08,2016-17,Los Angeles Clippers @ Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,1.64,8,2.07,1.67,1.02,2.58,1.94,2.48,3.5
+2017-03-08,2016-17,Sacramento Kings @ San Antonio Spurs,Sacramento Kings,San Antonio Spurs,1.18,1000,1.98,7.4,1.01,4.9,1.17,1.14,-12.5
+2017-03-08,2016-17,Boston Celtics @ Golden State Warriors,Boston Celtics,Golden State Warriors,1.02,5.7,1.34,4.2,1.2,26,1.4,1.31,-8.5
+2017-03-08,2016-17,Washington Wizards @ Denver Nuggets,Washington Wizards,Denver Nuggets,1.01,2.2,1.2,1.86,1.79,36,3.14,2.14,-2.5
+2017-03-09,2016-17,Cleveland Cavaliers @ Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,1.2,17.5,1.54,1.54,1.15,5.3,1.87,2.84,4.5
+2017-03-09,2016-17,San Antonio Spurs @ Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,1.6,12,1.95,1.76,1.22,2.62,2.19,2.24,2.5
+2017-03-09,2016-17,Los Angeles Clippers @ Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,1.01,2.44,1.72,2.22,1.65,11,2.01,1.8,-2.5
+2017-03-09,2016-17,Philadelphia 76ers @ Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,2,8.6,5.16,5.3,1.04,1.75,1.23,1.2,-10.5
+2017-03-09,2016-17,Los Angeles Lakers @ Phoenix Suns,Los Angeles Lakers,Phoenix Suns,1.01,4,1.29,3.5,1.27,65,1.76,1.34,-6.5
+2017-03-10,2016-17,Orlando Magic @ Charlotte Hornets,Orlando Magic,Charlotte Hornets,4,9,4.79,4.9,1.04,1.31,1.23,1.25,-8.5
+2017-03-10,2016-17,Golden State Warriors @ Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,1.39,5.3,1.59,1.47,1.03,3.15,2.21,3.1,5.5
+2017-03-10,2016-17,Houston Rockets @ Chicago Bulls,Houston Rockets,Chicago Bulls,1.01,2.16,1.51,1.42,2.3,7,3.4,3.25,6.5
+2017-03-10,2016-17,Indiana Pacers @ Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,1.64,2.46,2.14,2.16,1.02,3.25,1.72,1.86,-2.5
+2017-03-10,2016-17,Toronto Raptors @ Atlanta Hawks,Toronto Raptors,Atlanta Hawks,1.9,3.2,2.22,2.42,1.01,1.9,1.07,1.71,-2.5
+2017-03-10,2016-17,Boston Celtics @ Denver Nuggets,Boston Celtics,Denver Nuggets,1.6,50,1.96,1.75,1.02,2.66,1.09,2.5,2.5
+2017-03-10,2016-17,Brooklyn Nets @ Dallas Mavericks,Brooklyn Nets,Dallas Mavericks,3,12.5,5.2,6.2,1.01,1.5,1.2,1.19,-10.5
+2017-03-10,2016-17,Washington Wizards @ Sacramento Kings,Washington Wizards,Sacramento Kings,1.02,6.8,1.21,1.3,1.11,5.2,1.66,4.4,8.5
+2017-03-11,2016-17,Utah Jazz @ Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,2.08,17.5,3.33,2.72,1.03,1.89,1.48,1.58,-2.5
+2017-03-11,2016-17,New York Knicks @ Detroit Pistons,New York Knicks,Detroit Pistons,3.3,11,5.53,3.3,1.04,1.5,1.08,1.42,-6.5
+2017-03-10,2016-17,Philadelphia 76ers @ Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,3.9,13.5,6.85,12,1.01,1.61,1.08,1.07,-12.5
+2017-03-11,2016-17,New Orleans Pelicans @ Charlotte Hornets,New Orleans Pelicans,Charlotte Hornets,1.05,2.56,2.07,2.44,1.35,2.24,1.8,1.69,-2.5
+2017-03-11,2016-17,Toronto Raptors @ Miami Heat,Toronto Raptors,Miami Heat,2.68,18,4.45,3.15,1.01,1.59,1.05,1.45,-5.5
+2017-03-11,2016-17,Phoenix Suns @ Dallas Mavericks,Phoenix Suns,Dallas Mavericks,1.01,5.4,2.84,3.1,1.2,2.64,1.48,1.46,-6.5
+2017-03-11,2016-17,Washington Wizards @ Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,1.2,17.5,2.74,2.62,1.04,100,1.73,1.61,-4.5
+2017-03-11,2016-17,Cleveland Cavaliers @ Orlando Magic,Cleveland Cavaliers,Orlando Magic,1.01,1.4,1.1,1.25,3.7,6,4.66,4.8,7.5
+2017-03-11,2016-17,Minnesota Timberwolves @ Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,2.2,2.44,2.32,2.36,1.01,1.79,1.67,1.79,-2.5
+2017-03-11,2016-17,Golden State Warriors @ San Antonio Spurs,Golden State Warriors,San Antonio Spurs,4.6,21,6.45,6,1.01,1.33,1.14,1.21,-12.5
+2017-03-11,2016-17,Atlanta Hawks @ Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,1.01,3.5,1.43,3.4,1.41,17.5,2.19,1.42,-5.5
+2017-03-11,2016-17,Denver Nuggets @ Sacramento Kings,Denver Nuggets,Sacramento Kings,1.02,1.53,1.43,1.52,2.36,7.8,4.69,2.94,3.5
+2017-03-12,2016-17,Chicago Bulls @ Boston Celtics,Chicago Bulls,Boston Celtics,3.9,4.3,4.16,3.95,1.02,1.35,1.23,1.34,-7.5
+2017-03-12,2016-17,New York Knicks @ Brooklyn Nets,New York Knicks,Brooklyn Nets,1.92,8.6,2.15,1.98,1.01,2.14,1.07,1.96,-1.5
+2017-03-12,2016-17,Miami Heat @ Indiana Pacers,Miami Heat,Indiana Pacers,1.9,6,3.32,3.25,1.1,2.1,1.36,1.43,-4.5
+2017-03-12,2016-17,Portland Trail Blazers @ Phoenix Suns,Portland Trail Blazers,Phoenix Suns,1.13,1.96,1.58,1.78,1.9,4.5,2.27,2.2,2.5
+2017-03-12,2016-17,Cleveland Cavaliers @ Houston Rockets,Cleveland Cavaliers,Houston Rockets,1.4,100,3.18,3.4,1.01,2.58,1.14,1.42,-5.5
+2017-03-12,2016-17,Philadelphia 76ers @ Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,1.28,2.92,2.04,2.7,1.54,3.6,2.41,1.56,-4.5
+2017-03-13,2016-17,Chicago Bulls @ Charlotte Hornets,Chicago Bulls,Charlotte Hornets,1.05,4.2,2.51,3.9,1.3,5.3,1.43,1.37,-7.5
+2017-03-13,2016-17,Dallas Mavericks @ Toronto Raptors,Dallas Mavericks,Toronto Raptors,2.16,500,3.88,2.86,1.22,1.8,1.49,1.52,-4.5
+2017-03-13,2016-17,Washington Wizards @ Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,1.98,26,4.06,2.22,1.04,1.93,1.68,1.79,-1.5
+2017-03-13,2016-17,Milwaukee Bucks @ Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,2.4,6,2.52,2.5,1.04,1.68,1.58,1.63,-3.5
+2017-03-13,2016-17,Orlando Magic @ Sacramento Kings,Orlando Magic,Sacramento Kings,1.61,2.6,1.85,1.86,1.2,2.74,1.53,2.16,-1.5
+2017-03-13,2016-17,Atlanta Hawks @ San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,2.96,9,4.03,3.85,1.09,1.53,1.35,1.34,-6.5
+2017-03-13,2016-17,Los Angeles Clippers @ Utah Jazz,Los Angeles Clippers,Utah Jazz,1.4,26,2.04,2.24,1.03,3.5,1.21,1.78,-1.5
+2017-03-13,2016-17,Los Angeles Lakers @ Denver Nuggets,Los Angeles Lakers,Denver Nuggets,5.7,34,9.79,8.4,1.01,1.16,1.09,1.14,-13.5
+2017-03-14,2016-17,Detroit Pistons @ Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,3.7,18,4.05,3.95,1.02,1.36,1.23,1.33,-8.5
+2017-03-14,2016-17,Oklahoma City Thunder @ Brooklyn Nets,Oklahoma City Thunder,Brooklyn Nets,1.01,1.58,1.26,1.41,2.66,11,3.37,3.5,6.5
+2017-03-14,2016-17,Indiana Pacers @ New York Knicks,Indiana Pacers,New York Knicks,1.22,8,1.75,1.68,1.12,4.1,2.36,2.56,3.5
+2017-03-14,2016-17,Philadelphia 76ers @ Golden State Warriors,Philadelphia 76ers,Golden State Warriors,1.5,25,6.46,20,1.04,3.05,1.12,1.05,-16.5
+2017-03-14,2016-17,Portland Trail Blazers @ New Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,2.32,34,3.4,2.48,1.01,1.75,1.23,1.63,-3.5
+2017-03-15,2016-17,Charlotte Hornets @ Indiana Pacers,Charlotte Hornets,Indiana Pacers,2.32,8,2.5,2.48,1.04,1.78,1.62,1.67,-3.5
+2017-03-15,2016-17,Dallas Mavericks @ Washington Wizards,Dallas Mavericks,Washington Wizards,1.01,6.8,1.23,4,1.11,3.75,1.29,1.32,-7.5
+2017-03-15,2016-17,Minnesota Timberwolves @ Boston Celtics,Minnesota Timberwolves,Boston Celtics,1.94,36,2.85,3.2,1.01,1.9,1.27,1.45,-5.5
+2017-03-15,2016-17,New Orleans Pelicans @ Miami Heat,New Orleans Pelicans,Miami Heat,2,60,3.3,3.2,1.16,2,1.41,1.42,-5.5
+2017-03-15,2016-17,Utah Jazz @ Detroit Pistons,Utah Jazz,Detroit Pistons,1.02,1.84,1.58,1.84,2.22,4.5,2.39,2.3,2.5
+2017-03-15,2016-17,Los Angeles Lakers @ Houston Rockets,Los Angeles Lakers,Houston Rockets,19,50,22.54,21,1.03,1.08,1.05,1.04,-16.5
+2017-03-15,2016-17,Memphis Grizzlies @ Chicago Bulls,Memphis Grizzlies,Chicago Bulls,1.02,1.96,1.57,1.8,1.9,5.1,2.44,2.24,1.5
+2017-03-15,2016-17,Milwaukee Bucks @ Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,1.08,4.5,1.84,4.1,1.28,12,1.49,1.33,-7.5
+2017-03-15,2016-17,Portland Trail Blazers @ San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,1.02,7.6,1.26,6.8,1.13,3.7,1.23,1.16,-10.5
+2017-03-15,2016-17,Sacramento Kings @ Phoenix Suns,Sacramento Kings,Phoenix Suns,1.27,4.2,3.02,3,1.25,3.15,1.46,1.51,-5.5
+2017-03-16,2016-17,Utah Jazz @ Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,2,100,4.06,4.3,1.12,1.62,1.27,1.28,-7.5
+2017-03-16,2016-17,Brooklyn Nets @ New York Knicks,Brooklyn Nets,New York Knicks,1.01,3.15,1.76,3.05,1.22,34,1.6,1.47,-4.5
+2017-03-16,2016-17,Oklahoma City Thunder @ Toronto Raptors,Oklahoma City Thunder,Toronto Raptors,1.01,2.42,2,2.22,1.71,9.2,2.5,1.79,-2.5
+2017-03-16,2016-17,Memphis Grizzlies @ Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,1.01,3,1.92,2.58,1.43,9.4,1.86,1.61,-3.5
+2017-03-16,2016-17,Los Angeles Clippers @ Denver Nuggets,Los Angeles Clippers,Denver Nuggets,2.12,17.5,2.61,3,1.02,2.04,1.38,1.48,-5.5
+2017-03-16,2016-17,Orlando Magic @ Golden State Warriors,Orlando Magic,Golden State Warriors,9,21,10.15,10,1.01,1.12,1.05,1.1,-13.5
+2017-03-17,2016-17,Dallas Mavericks @ Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,1.31,110,1.75,1.47,1.01,4.2,2.28,3.1,5.5
+2017-03-17,2016-17,Boston Celtics @ Brooklyn Nets,Boston Celtics,Brooklyn Nets,1.02,1.86,1.21,1.28,2,6,4.47,4.4,9.5
+2017-03-17,2016-17,Chicago Bulls @ Washington Wizards,Chicago Bulls,Washington Wizards,3.55,11,4.84,4.1,1.05,1.42,1.25,1.34,-7.5
+2017-03-17,2016-17,Toronto Raptors @ Detroit Pistons,Toronto Raptors,Detroit Pistons,1.02,2.62,2.42,2.52,1.27,5.1,1.37,1.64,-3.5
+2017-03-17,2016-17,Houston Rockets @ New Orleans Pelicans,Houston Rockets,New Orleans Pelicans,1.39,26,1.69,1.4,1.01,3.5,2.42,3.5,4.5
+2017-03-17,2016-17,Orlando Magic @ Phoenix Suns,Orlando Magic,Phoenix Suns,1.02,2.48,2,2.22,1.67,3.25,1.86,1.8,-3.5
+2017-03-17,2016-17,Minnesota Timberwolves @ Miami Heat,Minnesota Timberwolves,Miami Heat,2.58,15.5,3.31,2.66,1.02,1.64,1.45,1.59,-4.5
+2017-03-17,2016-17,Milwaukee Bucks @ Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,1.01,1.45,1.05,1.31,3.8,21,5.43,4.1,7.5
+2017-03-18,2016-17,Sacramento Kings @ Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,8,10.5,8.66,8,1.01,1.13,1.02,1.13,-12.5
+2017-03-18,2016-17,Washington Wizards @ Charlotte Hornets,Washington Wizards,Charlotte Hornets,1.8,38,2.58,2.64,1.02,2.04,1.3,1.61,-3.5
+2017-03-18,2016-17,Portland Trail Blazers @ Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,1.11,2.62,1.89,2.24,1.62,21,2.29,1.82,-3.5
+2017-03-18,2016-17,San Antonio Spurs @ Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,1.45,2.64,1.65,1.61,1.01,2.64,1.14,2.6,3.5
+2017-03-18,2016-17,Houston Rockets @ Denver Nuggets,Houston Rockets,Denver Nuggets,1.01,2.62,1.64,1.76,1.62,6,2.44,2.3,2.5
+2017-03-18,2016-17,Cleveland Cavaliers @ Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,2.44,330,7.85,6.4,1.01,1.68,1.24,1.13,-3.5
+2017-03-18,2016-17,Utah Jazz @ Chicago Bulls,Utah Jazz,Chicago Bulls,1.26,1.48,1.44,1.45,1.01,4,1.08,3.3,7.5
+2017-03-18,2016-17,Milwaukee Bucks @ Golden State Warriors,Milwaukee Bucks,Golden State Warriors,2.38,12,5.93,6,1.01,1.69,1.18,1.2,-11.5
+2017-03-19,2016-17,Boston Celtics @ Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,1.1,1.73,1.33,1.54,1.02,3.6,1.68,2.86,4.5
+2017-03-19,2016-17,Dallas Mavericks @ Brooklyn Nets,Dallas Mavericks,Brooklyn Nets,1.07,1.57,1.43,1.54,2.74,3,2.81,2.78,4.5
+2017-03-19,2016-17,Phoenix Suns @ Detroit Pistons,Phoenix Suns,Detroit Pistons,2.46,9.6,6.02,8.2,1.05,1.92,1.17,1.13,-11.5
+2017-03-19,2016-17,Indiana Pacers @ Toronto Raptors,Indiana Pacers,Toronto Raptors,2.4,1000,19.87,2.44,1.02,1.74,1.14,1.69,-3.5
+2017-03-19,2016-17,Portland Trail Blazers @ Miami Heat,Portland Trail Blazers,Miami Heat,1.01,3.5,1.88,3.1,1.25,26,1.47,1.45,-6.5
+2017-03-19,2016-17,Minnesota Timberwolves @ New Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,1.5,5.4,2.16,2.48,1.01,2.5,1.64,1.64,-4.5
+2017-03-19,2016-17,Sacramento Kings @ San Antonio Spurs,Sacramento Kings,San Antonio Spurs,2.1,21,11.15,12,1.01,1.2,1.06,1.08,-13.5
+2017-03-19,2016-17,Cleveland Cavaliers @ Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,1.01,2.78,1.32,1.14,1.4,8.4,4.52,7.6,12.5
+2017-03-20,2016-17,Philadelphia 76ers @ Orlando Magic,Philadelphia 76ers,Orlando Magic,1.13,3.6,2.64,3.1,1.32,6,1.48,1.45,-5.5
+2017-03-20,2016-17,Atlanta Hawks @ Charlotte Hornets,Atlanta Hawks,Charlotte Hornets,2.22,21,2.63,3.3,1.13,1.62,1.45,1.43,-5.5
+2017-03-20,2016-17,Utah Jazz @ Indiana Pacers,Utah Jazz,Indiana Pacers,1.72,4.8,1.98,1.79,1.02,2.42,1.39,2.32,2.5
+2017-03-20,2016-17,Washington Wizards @ Boston Celtics,Washington Wizards,Boston Celtics,2,5.5,2.59,2.62,1.01,1.82,1.14,1.61,-3.5
+2017-03-20,2016-17,Golden State Warriors @ Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,1.01,1.96,1.21,1.81,2.06,200,2.57,2.22,1.5
+2017-03-20,2016-17,New York Knicks @ Los Angeles Clippers,New York Knicks,Los Angeles Clippers,5.2,120,8.24,7.2,1.01,1.23,1.07,1.15,-10.5
+2017-03-20,2016-17,Denver Nuggets @ Houston Rockets,Denver Nuggets,Houston Rockets,2.5,4.9,3.63,4.4,1.07,1.77,1.27,1.29,-8.5
+2017-03-21,2016-17,Detroit Pistons @ Brooklyn Nets,Detroit Pistons,Brooklyn Nets,1.4,4,1.46,1.55,1.35,3.8,2.6,2.9,4.5
+2017-03-21,2016-17,Phoenix Suns @ Miami Heat,Phoenix Suns,Miami Heat,4.7,17,10.2,8.2,1.01,1.3,1.14,1.13,-10.5
+2017-03-21,2016-17,Chicago Bulls @ Toronto Raptors,Chicago Bulls,Toronto Raptors,1.07,8,1.76,3.8,1.07,6.4,1.39,1.36,-6.5
+2017-03-21,2016-17,Memphis Grizzlies @ New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,1.5,100,2.43,2.34,1.01,2.72,1.09,1.7,-2.5
+2017-03-21,2016-17,Golden State Warriors @ Dallas Mavericks,Golden State Warriors,Dallas Mavericks,1.02,1.82,1.38,1.52,2.68,7,3.18,2.9,5.5
+2017-03-21,2016-17,San Antonio Spurs @ Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,1.01,2.62,1.5,1.55,1.44,5,2.74,2.8,4.5
+2017-03-21,2016-17,Milwaukee Bucks @ Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,1.12,3.6,2.07,2.64,1.34,7.6,1.79,1.61,-4.5
+2017-03-21,2016-17,Los Angeles Clippers @ Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,1.02,1.28,1.14,1.21,4.8,34,5.62,5.7,9.5
+2017-03-22,2016-17,Indiana Pacers @ Boston Celtics,Indiana Pacers,Boston Celtics,2.82,110,3.76,3.5,1.01,1.49,1.12,1.38,-7.5
+2017-03-22,2016-17,Charlotte Hornets @ Orlando Magic,Charlotte Hornets,Orlando Magic,1.01,3.15,1.22,1.6,1.4,15,2.24,2.62,5.5
+2017-03-22,2016-17,Cleveland Cavaliers @ Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,1.58,500,2.36,1.73,1.01,2.46,1.15,2.28,3.5
+2017-03-22,2016-17,Philadelphia 76ers @ Oklahoma City Thunder,Philadelphia 76ers,Oklahoma City Thunder,6.4,26,7.3,7.6,1.01,1.23,1.13,1.15,-11.5
+2017-03-22,2016-17,New York Knicks @ Utah Jazz,New York Knicks,Utah Jazz,1.75,100,4.39,7.8,1.02,2,1.2,1.14,-10.5
+2017-03-22,2016-17,Milwaukee Bucks @ Sacramento Kings,Milwaukee Bucks,Sacramento Kings,1.02,1.7,1.48,1.49,2.4,26,5.12,2.96,3.5
+2017-03-22,2016-17,Detroit Pistons @ Chicago Bulls,Detroit Pistons,Chicago Bulls,1.83,6,1.91,1.86,1.02,2.18,1.83,2.12,2.5
+2017-03-22,2016-17,Atlanta Hawks @ Washington Wizards,Atlanta Hawks,Washington Wizards,1.92,110,3.4,3.95,1.01,2.1,1.11,1.32,-7.5
+2017-03-23,2016-17,Toronto Raptors @ Miami Heat,Toronto Raptors,Miami Heat,1.01,3.5,1.52,2.7,1.3,9.2,1.63,1.59,-4.5
+2017-03-23,2016-17,Phoenix Suns @ Brooklyn Nets,Phoenix Suns,Brooklyn Nets,2,7.8,2.83,3.1,1.01,2,1.43,1.48,-3.5
+2017-03-23,2016-17,Memphis Grizzlies @ San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,4.2,200,14.83,4.2,1.01,1.49,1.08,1.29,-8.5
+2017-03-23,2016-17,New York Knicks @ Portland Trail Blazers,New York Knicks,Portland Trail Blazers,6.4,100,11.57,10,1.01,1.24,1.05,1.1,-12.5
+2017-03-23,2016-17,Los Angeles Clippers @ Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,1.25,3,1.6,1.48,1.05,4,2.19,3,5.5
+2017-03-24,2016-17,Cleveland Cavaliers @ Charlotte Hornets,Cleveland Cavaliers,Charlotte Hornets,1.01,1.94,1.51,1.62,2.4,6.4,3.11,2.6,2.5
+2017-03-24,2016-17,Brooklyn Nets @ Washington Wizards,Brooklyn Nets,Washington Wizards,5,13.5,7.28,6.8,1.01,1.33,1.14,1.18,-10.5
+2017-03-24,2016-17,Denver Nuggets @ Indiana Pacers,Denver Nuggets,Indiana Pacers,1.01,2.24,1.06,2.1,1.68,1000,9.29,1.9,-1.5
+2017-03-24,2016-17,Detroit Pistons @ Orlando Magic,Detroit Pistons,Orlando Magic,1.72,9.2,2.09,1.8,1.04,2.64,2.1,2.26,3.5
+2017-03-24,2016-17,Phoenix Suns @ Boston Celtics,Phoenix Suns,Boston Celtics,13.5,25,21.07,20,1.02,1.08,1.04,1.05,-16.5
+2017-03-24,2016-17,Atlanta Hawks @ Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,1.54,5.3,2.75,3.5,1.01,2.1,1.42,1.43,-5.5
+2017-03-24,2016-17,New Orleans Pelicans @ Houston Rockets,New Orleans Pelicans,Houston Rockets,2.2,4.3,3.68,4.2,1.09,1.7,1.3,1.3,-6.5
+2017-03-24,2016-17,Philadelphia 76ers @ Chicago Bulls,Philadelphia 76ers,Chicago Bulls,1.02,4,1.17,3.6,1.2,3.4,1.44,1.38,-6.5
+2017-03-24,2016-17,Minnesota Timberwolves @ Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,1.07,2,1.35,1.43,1.01,21,2.98,3.3,6.5
+2017-03-24,2016-17,Sacramento Kings @ Golden State Warriors,Sacramento Kings,Golden State Warriors,21,50,23.8,24,1.01,1.1,1.04,1.04,-16.5
+2017-03-24,2016-17,Utah Jazz @ Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,2.48,12,3.47,2.92,1.01,1.58,1.41,1.51,-4.5
+2017-03-25,2016-17,Washington Wizards @ Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,1.01,3.25,1.78,3.15,1.4,15,1.65,1.45,3.5
+2017-03-25,2016-17,Toronto Raptors @ Dallas Mavericks,Toronto Raptors,Dallas Mavericks,1.02,2.14,1.3,1.97,1.84,8,2.08,2.02,-1.5
+2017-03-25,2016-17,New York Knicks @ San Antonio Spurs,New York Knicks,San Antonio Spurs,10,21,15.8,15.5,1.03,1.12,1.07,1.07,-14.5
+2017-03-25,2016-17,Minnesota Timberwolves @ Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,2.96,34,3.73,3.35,1.01,1.52,1.35,1.43,-6.5
+2017-03-26,2016-17,Phoenix Suns @ Charlotte Hornets,Phoenix Suns,Charlotte Hornets,7.6,12,9.06,11,1.07,1.14,1.1,1.12,-12.5
+2017-03-26,2016-17,Brooklyn Nets @ Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,1.34,4.4,1.8,3.8,1.3,6.2,1.91,1.38,-6.5
+2017-03-25,2016-17,Sacramento Kings @ Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,1.18,13.5,8.44,11,1.03,2.06,1.12,1.09,-13.5
+2017-03-26,2016-17,Oklahoma City Thunder @ Houston Rockets,Oklahoma City Thunder,Houston Rockets,3,1000,4.99,3.15,1.05,1.5,1.26,1.47,-5.5
+2017-03-26,2016-17,Chicago Bulls @ Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,1.18,3.55,2.15,3.5,1.22,2,1.34,1.37,-6.5
+2017-03-26,2016-17,Philadelphia 76ers @ Indiana Pacers,Philadelphia 76ers,Indiana Pacers,3.5,30,5.31,5.2,1.01,1.35,1.12,1.25,-8.5
+2017-03-26,2016-17,Miami Heat @ Boston Celtics,Miami Heat,Boston Celtics,1.3,15,2.22,3.2,1.01,2.46,1.48,1.43,-5.5
+2017-03-26,2016-17,Memphis Grizzlies @ Golden State Warriors,Memphis Grizzlies,Golden State Warriors,3.5,100,7.22,7,1.01,1.5,1.17,1.16,-10.5
+2017-03-26,2016-17,New Orleans Pelicans @ Denver Nuggets,New Orleans Pelicans,Denver Nuggets,1.02,4.2,1.9,3.7,1.3,100,1.61,1.38,-5.5
+2017-03-26,2016-17,Portland Trail Blazers @ Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,1.01,1.45,1.2,1.38,3.1,50,5.12,3.55,6.5
+2017-03-27,2016-17,Orlando Magic @ Toronto Raptors,Orlando Magic,Toronto Raptors,3.6,20,4.98,4.2,1.01,1.4,1.23,1.31,-9.5
+2017-03-27,2016-17,Detroit Pistons @ New York Knicks,Detroit Pistons,New York Knicks,1.64,21,2.28,1.91,1.02,2.38,1.95,2.08,2.5
+2017-03-27,2016-17,Cleveland Cavaliers @ San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,2.5,50,3.52,2.88,1.01,1.59,1.31,1.53,-4.5
+2017-03-27,2016-17,Oklahoma City Thunder @ Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,1.6,100,2,1.81,1.01,2.26,1.12,2.2,1.5
+2017-03-27,2016-17,Memphis Grizzlies @ Sacramento Kings,Memphis Grizzlies,Sacramento Kings,1.2,4.4,1.43,1.38,1.26,3.8,2.74,3.55,6.5
+2017-03-27,2016-17,New Orleans Pelicans @ Utah Jazz,New Orleans Pelicans,Utah Jazz,2.5,5.7,3.36,3.35,1.02,1.7,1.37,1.44,-6.5
+2017-03-28,2016-17,Milwaukee Bucks @ Charlotte Hornets,Milwaukee Bucks,Charlotte Hornets,1.02,2.78,1.67,2.6,1.54,15.5,1.62,1.6,-3.5
+2017-03-28,2016-17,Minnesota Timberwolves @ Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,1.25,3.75,2.4,2.68,1.12,2.7,1.56,1.6,-4.5
+2017-03-28,2016-17,Phoenix Suns @ Atlanta Hawks,Phoenix Suns,Atlanta Hawks,2,6,4.99,6,1.03,1.83,1.21,1.2,-7.5
+2017-03-28,2016-17,Philadelphia 76ers @ Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,1.12,2.8,2.6,2.7,1.4,2.74,1.67,1.58,-2.5
+2017-03-28,2016-17,Miami Heat @ Detroit Pistons,Miami Heat,Detroit Pistons,1.27,4.7,1.67,1.69,1.5,3.6,2.37,2.4,3.5
+2017-03-28,2016-17,Washington Wizards @ Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,1.01,4.7,1.33,1.23,1.2,5.8,2.86,5.1,8.5
+2017-03-28,2016-17,Denver Nuggets @ Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,1.7,4.3,2.15,2.24,1.01,2.22,1.64,1.75,-2.5
+2017-03-28,2016-17,Golden State Warriors @ Houston Rockets,Golden State Warriors,Houston Rockets,1.01,2.14,1.73,2.14,1.86,7.6,1.96,1.86,-1.5
+2017-03-29,2016-17,Oklahoma City Thunder @ Orlando Magic,Oklahoma City Thunder,Orlando Magic,1.04,9,1.56,1.49,1.05,3.6,1.62,3,5.5
+2017-03-29,2016-17,Milwaukee Bucks @ Boston Celtics,Milwaukee Bucks,Boston Celtics,1.09,4.5,3.05,3.9,1.25,2.32,1.4,1.35,-8.5
+2017-03-29,2016-17,Miami Heat @ New York Knicks,Miami Heat,New York Knicks,1.01,2,1.7,1.74,2.1,3.55,2.45,2.3,3.5
+2017-03-29,2016-17,Atlanta Hawks @ Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,1.01,2.02,1.66,1.73,2,5,2.54,2.4,1.5
+2017-03-29,2016-17,Charlotte Hornets @ Toronto Raptors,Charlotte Hornets,Toronto Raptors,2.66,3.95,3.14,3.1,1.1,2.8,1.46,1.48,-6.5
+2017-03-29,2016-17,Indiana Pacers @ Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,2.64,12,2.72,2.7,1.05,1.61,1.48,1.61,-5.5
+2017-03-29,2016-17,Utah Jazz @ Sacramento Kings,Utah Jazz,Sacramento Kings,1.01,1.38,1.3,1.29,3.7,21,4.49,3.95,6.5
+2017-03-29,2016-17,Dallas Mavericks @ New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,3.05,7.8,3.76,3.3,1.14,1.56,1.45,1.42,-5.5
+2017-03-29,2016-17,Golden State Warriors @ San Antonio Spurs,Golden State Warriors,San Antonio Spurs,1.01,12,2.16,2.8,1.09,200,1.57,1.57,-4.5
+2017-03-29,2016-17,Washington Wizards @ Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,2.96,100,3.43,3.75,1.01,1.49,1.26,1.4,-5.5
+2017-03-30,2016-17,Brooklyn Nets @ Detroit Pistons,Brooklyn Nets,Detroit Pistons,1.3,8,2.7,3.6,1.12,4.5,1.47,1.38,-6.5
+2017-03-30,2016-17,Los Angeles Lakers @ Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,5.7,34,6.94,7,1.01,1.36,1.07,1.17,-10.5
+2017-03-30,2016-17,Cleveland Cavaliers @ Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,1.17,5.8,1.69,1.47,1.01,7.6,2.13,3.15,6.5
+2017-03-30,2016-17,Houston Rockets @ Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,1.8,50,2.08,2,1.01,2.38,1.68,2.12,1.5
+2017-03-30,2016-17,Los Angeles Clippers @ Phoenix Suns,Los Angeles Clippers,Phoenix Suns,1.02,1.35,1.21,1.19,3.6,8,5,6.2,8.5
+2017-03-31,2016-17,Orlando Magic @ Boston Celtics,Orlando Magic,Boston Celtics,3.35,7.4,5.71,7,1.01,2.14,1.27,1.18,-10.5
+2017-03-31,2016-17,Philadelphia 76ers @ Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,6.8,50,9.8,10,1.03,1.23,1.14,1.11,-10.5
+2017-03-31,2016-17,Indiana Pacers @ Toronto Raptors,Indiana Pacers,Toronto Raptors,2.2,3.2,2.79,2.94,1.03,1.78,1.16,1.48,-6.5
+2017-03-31,2016-17,Denver Nuggets @ Charlotte Hornets,Denver Nuggets,Charlotte Hornets,1.21,3.25,2.17,2.24,1.05,2.28,1.72,1.78,-2.5
+2017-03-31,2016-17,Detroit Pistons @ Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,1.31,4.5,3.18,3.65,1.03,3,1.28,1.34,-8.5
+2017-03-31,2016-17,Sacramento Kings @ New Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,7.4,8,7.73,7.6,1.13,1.21,1.15,1.16,-10.5
+2017-03-31,2016-17,Houston Rockets @ Golden State Warriors,Houston Rockets,Golden State Warriors,2,5.3,3.87,4.6,1.04,2,1.38,1.28,-9.5
+2017-03-31,2016-17,Dallas Mavericks @ Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,2.46,2.66,2.51,2.5,1.01,1.68,1.21,1.65,-4.5
+2017-03-31,2016-17,San Antonio Spurs @ Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,1.01,4.4,1.94,1.69,1.07,2.7,1.62,2.4,1.5
+2017-03-31,2016-17,New York Knicks @ Miami Heat,New York Knicks,Miami Heat,1.6,6.6,5.45,6.4,1.17,4.7,1.48,1.19,-8.5
+2017-03-31,2016-17,Washington Wizards @ Utah Jazz,Washington Wizards,Utah Jazz,1.5,3.1,2.34,2.24,1.02,3,1.93,1.76,-3.5
+2017-03-31,2016-17,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,11.5,20,14.71,14.5,1.01,1.09,1.06,1.06,-14.5
+2017-04-01,2016-17,Orlando Magic @ Brooklyn Nets,Orlando Magic,Brooklyn Nets,1.8,34,2.63,2.6,1.01,2.24,1.5,1.63,-2.5
+2017-04-01,2016-17,Atlanta Hawks @ Chicago Bulls,Atlanta Hawks,Chicago Bulls,1.15,4.2,1.66,3,1.01,7.6,1.85,1.5,-4.5
+2017-04-01,2016-17,Phoenix Suns @ Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,6.4,21,8.37,7.6,1.01,1.2,1.09,1.16,-12.5
+2017-04-01,2016-17,Sacramento Kings @ Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,1.02,15,5.09,8.2,1.08,17.5,1.36,1.13,-12.5
+2017-04-02,2016-17,Boston Celtics @ New York Knicks,Boston Celtics,New York Knicks,1.03,1.5,1.23,1.31,3.5,4.3,3.74,4.3,6.5
+2017-04-02,2016-17,Charlotte Hornets @ Oklahoma City Thunder,Charlotte Hornets,Oklahoma City Thunder,1.01,3.05,1.24,2.92,1.4,8.6,1.9,1.5,-5.5
+2017-04-02,2016-17,Memphis Grizzlies @ Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,1.34,2.4,1.74,1.36,1.07,3.25,2.61,NA,7.5
+2017-04-02,2016-17,Dallas Mavericks @ Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,1.03,3.15,1.27,3.15,1.39,4.8,1.82,1.4,-5.5
+2017-04-02,2016-17,Utah Jazz @ San Antonio Spurs,Utah Jazz,San Antonio Spurs,2.98,15,8.74,3.1,1.03,1.52,1.34,1.51,-6.5
+2017-04-02,2016-17,Chicago Bulls @ New Orleans Pelicans,Chicago Bulls,New Orleans Pelicans,1.16,4.5,2.8,4.4,1.28,6,2.22,1.31,-6.5
+2017-04-02,2016-17,Philadelphia 76ers @ Toronto Raptors,Philadelphia 76ers,Toronto Raptors,6.2,10.5,7.91,8.2,1.02,1.21,1.14,1.13,-11.5
+2017-04-02,2016-17,Atlanta Hawks @ Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,1.45,11,1.71,1.64,1.09,3,1.49,2.5,4.5
+2017-04-02,2016-17,Denver Nuggets @ Miami Heat,Denver Nuggets,Miami Heat,1.1,2.8,1.89,2.58,1.5,4,1.68,1.6,-4.5
+2017-04-02,2016-17,Indiana Pacers @ Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,1.67,7,3.76,4.7,1.02,2.4,1.21,1.21,-8.5
+2017-04-02,2016-17,Washington Wizards @ Golden State Warriors,Washington Wizards,Golden State Warriors,4.9,50,7.15,5.6,1.01,1.25,1.1,1.22,-10.5
+2017-04-02,2016-17,Houston Rockets @ Phoenix Suns,Houston Rockets,Phoenix Suns,1.02,1.48,1.28,1.38,3.1,10,3.9,3.65,11.5
+2017-04-03,2016-17,Portland Trail Blazers @ Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,1.38,4.3,2.08,2.24,1.1,4.2,1.85,1.83,-1.5
+2017-04-04,2016-17,Orlando Magic @ Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,5,8,6.25,7.8,1.01,1.4,1.14,1.16,-9.5
+2017-04-04,2016-17,Brooklyn Nets @ Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,1.02,2.08,1.2,1.83,1.88,34,3.33,2.16,1.5
+2017-04-04,2016-17,Charlotte Hornets @ Washington Wizards,Charlotte Hornets,Washington Wizards,1.47,2.52,2.12,2.4,1.01,3.75,1.46,1.68,-4.5
+2017-04-04,2016-17,Toronto Raptors @ Indiana Pacers,Toronto Raptors,Indiana Pacers,1.25,3.15,2.3,2.42,1.03,6.4,1.72,1.72,-2.5
+2017-04-04,2016-17,Chicago Bulls @ New York Knicks,Chicago Bulls,New York Knicks,1.51,20,1.78,1.51,1.01,2.94,1.08,2.94,3.5
+2017-04-04,2016-17,Denver Nuggets @ New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,1.18,3.6,2.15,2.42,1.37,4.8,1.73,1.71,-1.5
+2017-04-04,2016-17,Portland Trail Blazers @ Utah Jazz,Portland Trail Blazers,Utah Jazz,3,12,3.39,3.25,1.02,1.6,1.33,1.44,-7.5
+2017-04-04,2016-17,Minnesota Timberwolves @ Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,7,17.5,12.4,12,1.05,1.15,1.09,1.08,-13.5
+2017-04-04,2016-17,Milwaukee Bucks @ Oklahoma City Thunder,Milwaukee Bucks,Oklahoma City Thunder,2.88,12,3.79,3.3,1.02,1.59,1.35,1.41,-4.5
+2017-04-04,2016-17,Memphis Grizzlies @ San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,1.6,17.5,3.88,5,1.03,3,1.19,1.25,-9.5
+2017-04-04,2016-17,Dallas Mavericks @ Sacramento Kings,Dallas Mavericks,Sacramento Kings,1.48,9.4,2.02,1.74,1.02,3,1.54,2.3,-2.5
+2017-04-05,2016-17,Miami Heat @ Charlotte Hornets,Miami Heat,Charlotte Hornets,1.03,2.42,1.41,2.42,1.68,26,1.79,1.68,-2.5
+2017-04-05,2016-17,Toronto Raptors @ Detroit Pistons,Toronto Raptors,Detroit Pistons,1.1,6,2.01,1.74,1.13,7.8,1.75,2.16,-1.5
+2017-04-05,2016-17,Oklahoma City Thunder @ Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,1.01,2.38,1.81,1.76,1.82,2.38,2.15,2.34,-2.5
+2017-04-05,2016-17,Cleveland Cavaliers @ Boston Celtics,Cleveland Cavaliers,Boston Celtics,1.01,2.64,1.52,2.5,1.3,100,2.18,1.65,-5.5
+2017-04-05,2016-17,Golden State Warriors @ Phoenix Suns,Golden State Warriors,Phoenix Suns,1.01,1.25,1.1,1.23,5.1,21,6.88,5.1,8.5
+2017-04-05,2016-17,Denver Nuggets @ Houston Rockets,Denver Nuggets,Houston Rockets,2.58,6,3.92,4,1.01,1.63,1.32,1.35,-8.5
+2017-04-05,2016-17,Los Angeles Lakers @ San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,1.02,13,1.48,12,1.08,7.2,1.2,1.09,-13.5
+2017-04-05,2016-17,Dallas Mavericks @ Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,7,18,9.12,8,1.01,1.26,1.12,1.13,-10.5
+2017-04-06,2016-17,Brooklyn Nets @ Orlando Magic,Brooklyn Nets,Orlando Magic,2,10,2.76,2.1,1.02,1.96,1.3,1.92,-2.5
+2017-04-06,2016-17,Chicago Bulls @ Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,1.03,1.52,1.31,1.41,3,6,3.98,3.3,5.5
+2017-04-06,2016-17,Milwaukee Bucks @ Indiana Pacers,Milwaukee Bucks,Indiana Pacers,2.7,10,3.51,2.92,1.05,1.62,1.5,1.53,-4.5
+2017-04-06,2016-17,Washington Wizards @ New York Knicks,Washington Wizards,New York Knicks,1.1,1.64,1.39,1.42,3,8,3.53,3.4,6.5
+2017-04-06,2016-17,Boston Celtics @ Atlanta Hawks,Boston Celtics,Atlanta Hawks,1.7,12,2.11,1.87,1.02,2.24,1.16,2.08,1.5
+2017-04-06,2016-17,Minnesota Timberwolves @ Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,1.31,7.4,2.05,3.2,1.01,4.1,1.74,1.44,-5.5
+2017-04-07,2016-17,Atlanta Hawks @ Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,1.08,17.5,2.39,14,1.07,9.4,1.13,1.07,-9.5
+2017-04-07,2016-17,Miami Heat @ Toronto Raptors,Miami Heat,Toronto Raptors,2.3,8.8,3.68,2.68,1.01,1.79,1.49,1.54,-5.5
+2017-04-07,2016-17,Detroit Pistons @ Houston Rockets,Detroit Pistons,Houston Rockets,1.01,17.5,1.77,7,1.03,26,1.34,1.18,-12.5
+2017-04-07,2016-17,New Orleans Pelicans @ Denver Nuggets,New Orleans Pelicans,Denver Nuggets,3,3.7,3.45,3.7,1.01,1.47,1.39,1.36,-6.5
+2017-04-07,2016-17,Minnesota Timberwolves @ Utah Jazz,Minnesota Timberwolves,Utah Jazz,2.1,7.2,5.4,6.8,1.02,1.55,1.12,1.16,-7.5
+2017-04-07,2016-17,Oklahoma City Thunder @ Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,1.22,13.5,1.63,1.26,1.01,5.5,1.25,5.4,8.5
+2017-04-07,2016-17,Sacramento Kings @ Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,1.32,3.55,2.09,2.24,1.47,3.5,1.86,1.73,-1.5
+2017-04-07,2016-17,New York Knicks @ Memphis Grizzlies,New York Knicks,Memphis Grizzlies,3,12,6.27,9.4,1.01,2,1.15,1.11,-13.5
+2017-04-07,2016-17,San Antonio Spurs @ Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,1.01,6.2,2.47,2.9,1.18,5,1.56,1.53,-4.5
+2017-04-08,2016-17,Chicago Bulls @ Brooklyn Nets,Chicago Bulls,Brooklyn Nets,1.14,3.05,1.71,1.62,1.5,2.72,2.5,2.58,3.5
+2017-04-08,2016-17,Indiana Pacers @ Orlando Magic,Indiana Pacers,Orlando Magic,1.02,1.75,1.44,1.56,2.7,5.2,3.53,2.78,3.5
+2017-04-08,2016-17,Miami Heat @ Washington Wizards,Miami Heat,Washington Wizards,1.14,2.6,1.99,2.52,1.32,2.24,1.64,1.61,-5.5
+2017-04-08,2016-17,Boston Celtics @ Charlotte Hornets,Boston Celtics,Charlotte Hornets,1.1,4.8,2.09,2.04,1.51,2.62,1.94,1.9,1.5
+2017-04-08,2016-17,Milwaukee Bucks @ Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,1.02,1.64,1.16,1.38,2.4,4.6,3.1,3.6,5.5
+2017-04-08,2016-17,Utah Jazz @ Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,2,5.2,2.31,2.22,1.01,2.04,1.27,1.75,-1.5
+2017-04-08,2016-17,Los Angeles Clippers @ San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,1.03,2.38,1.35,2.14,1.37,100,2.36,1.85,-4.5
+2017-04-08,2016-17,New Orleans Pelicans @ Golden State Warriors,New Orleans Pelicans,Golden State Warriors,10.5,26,18.63,20,1.04,1.12,1.06,1.05,-13.5
+2017-04-09,2016-17,Toronto Raptors @ New York Knicks,Toronto Raptors,New York Knicks,1.1,1.47,1.27,1.24,2.78,5.5,4.53,5,8.5
+2017-04-09,2016-17,Cleveland Cavaliers @ Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,1.02,3,1.73,1.51,1.03,5.2,2.56,2.96,2.5
+2017-04-09,2016-17,Oklahoma City Thunder @ Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,2.6,3,2.74,2.98,1.06,3,1.74,1.54,-4.5
+2017-04-09,2016-17,Detroit Pistons @ Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,1.1,3.55,1.46,3.2,1.24,6,1.63,1.44,-7.5
+2017-04-09,2016-17,Dallas Mavericks @ Phoenix Suns,Dallas Mavericks,Phoenix Suns,2.04,4.8,3.01,2.04,1.02,1.85,1.34,1.81,-2.5
+2017-04-09,2016-17,Houston Rockets @ Sacramento Kings,Houston Rockets,Sacramento Kings,1.05,1.29,1.15,1.29,4.7,11,5.35,4.7,9.5
+2017-04-09,2016-17,Minnesota Timberwolves @ Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,1.05,3.15,1.52,1.46,1.42,4.3,2.73,3.05,4.5
+2017-04-10,2016-17,Indiana Pacers @ Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,1.05,1.32,1.17,1.29,4.3,8.2,5.61,4.3,7.5
+2017-04-10,2016-17,Brooklyn Nets @ Boston Celtics,Brooklyn Nets,Boston Celtics,6.2,21,7.45,7,1.02,1.2,1.14,1.17,-10.5
+2017-04-10,2016-17,Cleveland Cavaliers @ Miami Heat,Cleveland Cavaliers,Miami Heat,1.44,12,5.61,6.4,1.12,3.5,1.25,1.18,-11.5
+2017-04-10,2016-17,Orlando Magic @ Chicago Bulls,Orlando Magic,Chicago Bulls,4.4,5,4.69,4.4,1.08,1.38,1.27,1.3,-8.5
+2017-04-10,2016-17,Washington Wizards @ Detroit Pistons,Washington Wizards,Detroit Pistons,1.01,3.05,1.07,2.9,1.48,4.2,1.62,1.5,-3.5
+2017-04-10,2016-17,Charlotte Hornets @ Milwaukee Bucks,Charlotte Hornets,Milwaukee Bucks,1.6,3.5,1.98,3.2,1.08,1.57,1.4,1.5,-5.5
+2017-04-10,2016-17,San Antonio Spurs @ Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,1.11,3.6,1.32,1.22,2.66,9.2,4.74,5.5,10.5
+2017-04-10,2016-17,Utah Jazz @ Golden State Warriors,Utah Jazz,Golden State Warriors,1.03,6.4,3.23,6.2,1.15,21,1.44,1.19,-10.5
+2017-04-10,2016-17,Houston Rockets @ Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,2.76,6.6,4.17,4.5,1.01,1.7,1.24,1.29,-6.5
+2017-04-11,2016-17,Charlotte Hornets @ Atlanta Hawks,Charlotte Hornets,Atlanta Hawks,4.1,21,4.77,4.2,1.02,1.39,1.18,1.31,-7.5
+2017-04-11,2016-17,Oklahoma City Thunder @ Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,1.3,4.6,2.41,3.85,1.28,4.7,1.61,1.34,-8.5
+2017-04-11,2016-17,Denver Nuggets @ Dallas Mavericks,Denver Nuggets,Dallas Mavericks,1.01,3,1.32,2.18,1.53,10,2.35,1.84,1.5
+2017-04-11,2016-17,Phoenix Suns @ Sacramento Kings,Phoenix Suns,Sacramento Kings,2.66,15,3.58,2.98,1.01,1.7,1.38,1.51,-3.5
+2017-04-11,2016-17,New Orleans Pelicans @ Los Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,1.81,5.7,2.79,2.32,1.02,2.14,1.25,1.75,-3.5
+2017-04-12,2016-17,Brooklyn Nets @ Chicago Bulls,Brooklyn Nets,Chicago Bulls,10.5,17.5,12.79,12.5,1.07,1.13,1.08,1.08,-15.5
+2017-04-12,2016-17,Minnesota Timberwolves @ Houston Rockets,Minnesota Timberwolves,Houston Rockets,3.65,4.4,4.14,4.4,1.1,1.5,1.31,1.29,-8.5
+2017-04-12,2016-17,Atlanta Hawks @ Indiana Pacers,Atlanta Hawks,Indiana Pacers,7.2,18,11.86,12.5,1.01,1.17,1.09,1.09,-13.5
+2017-04-12,2016-17,Dallas Mavericks @ Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,1.33,4.6,4.16,4.3,1.14,2.58,1.29,1.3,-6.5
+2017-04-12,2016-17,Washington Wizards @ Miami Heat,Washington Wizards,Miami Heat,4.2,50,6.15,5.7,1.1,1.34,1.2,1.19,-10.5
+2017-04-12,2016-17,Philadelphia 76ers @ New York Knicks,Philadelphia 76ers,New York Knicks,1.37,2.5,1.91,2.4,1.01,3.75,1.83,1.67,-3.5
+2017-04-12,2016-17,Detroit Pistons @ Orlando Magic,Detroit Pistons,Orlando Magic,2.12,5,2.32,2.16,1.03,2.12,1.73,1.83,-2.5
+2017-04-12,2016-17,San Antonio Spurs @ Utah Jazz,San Antonio Spurs,Utah Jazz,2.18,8,3.38,2.6,1.01,1.73,1.37,1.65,-3.5
+2017-04-12,2016-17,Los Angeles Lakers @ Golden State Warriors,Los Angeles Lakers,Golden State Warriors,7.8,100,9.52,8.8,1.01,1.17,1.1,1.14,-14.5
+2017-04-12,2016-17,Sacramento Kings @ Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,13.5,22,17.47,22,1.02,1.1,1.06,1.04,-15.5
+2017-04-12,2016-17,New Orleans Pelicans @ Portland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,1.09,11,3.22,3.2,1.1,4.7,1.49,1.39,-10.5
+2017-04-12,2016-17,Milwaukee Bucks @ Boston Celtics,Milwaukee Bucks,Boston Celtics,3,13,6.33,13,1.01,1.7,1.11,1.08,-13.5
+2017-04-12,2016-17,Toronto Raptors @ Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,1.01,1.98,1.63,1.68,2.02,3.3,2.28,2.4,1.5
+2017-04-12,2016-17,Denver Nuggets @ Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,1.14,3.3,2.12,3.3,1.16,6.2,1.48,1.42,-4.5

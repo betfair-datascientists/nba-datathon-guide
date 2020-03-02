@@ -73,7 +73,7 @@ team_logs <- map_dfr(.x = list.files(
 team_logs
 ```
 
-    ## # A tibble: 13,882 x 47
+    ## # A tibble: 14,050 x 47
     ##    year_season slug_season slug_league type_season date_game  id_game
     ##          <dbl> <chr>       <chr>       <chr>       <date>       <dbl>
     ##  1        2015 2014-15     NBA         Regular Se~ 2014-10-28  2.14e7
@@ -86,7 +86,7 @@ team_logs
     ##  8        2015 2014-15     NBA         Regular Se~ 2014-10-29  2.14e7
     ##  9        2015 2014-15     NBA         Regular Se~ 2014-10-29  2.14e7
     ## 10        2015 2014-15     NBA         Regular Se~ 2014-10-29  2.14e7
-    ## # ... with 13,872 more rows, and 41 more variables:
+    ## # ... with 14,040 more rows, and 41 more variables:
     ## #   number_game_team_season <dbl>, name_team <chr>, id_team <dbl>,
     ## #   is_b2b <lgl>, is_b2b_first <lgl>, is_b2b_second <lgl>, location_game <chr>,
     ## #   slug_matchup <chr>, slug_team <chr>, count_days_rest_team <dbl>,
@@ -106,7 +106,7 @@ team_logs
 glimpse(team_logs)
 ```
 
-    ## Observations: 13,882
+    ## Observations: 14,050
     ## Variables: 47
     ## $ year_season               <dbl> 2015, 2015, 2015, 2015, 2015, 2015, 2015,...
     ## $ slug_season               <chr> "2014-15", "2014-15", "2014-15", "2014-15...
@@ -219,7 +219,7 @@ game_level <- team_logs %>%
 game_level
 ```
 
-    ## # A tibble: 6,941 x 7
+    ## # A tibble: 7,025 x 7
     ##    year_season id_game date_game  home_team away_team home_team_win
     ##          <dbl>   <dbl> <date>     <chr>     <chr>     <lgl>        
     ##  1        2015  2.14e7 2014-10-28 New Orle~ Orlando ~ TRUE         
@@ -232,7 +232,7 @@ game_level
     ##  8        2015  2.14e7 2014-10-29 Sacramen~ Golden S~ FALSE        
     ##  9        2015  2.14e7 2014-10-29 Utah Jazz Houston ~ FALSE        
     ## 10        2015  2.14e7 2014-10-29 Indiana ~ Philadel~ TRUE         
-    ## # ... with 6,931 more rows, and 1 more variable: home_team_margin <dbl>
+    ## # ... with 7,015 more rows, and 1 more variable: home_team_margin <dbl>
 
 ### 3.2 Tuning an ELO model
 
@@ -347,11 +347,11 @@ elo_tuning_results %>%
     ##  3       20             50            0.5               0.665
     ##  4       25             50            0.5               0.664
     ##  5       20             50            0.3               0.664
-    ##  6       15             35            0.5               0.664
-    ##  7       25             50            0.4               0.663
-    ##  8       20             50            0.2               0.663
-    ##  9       15             35            0.4               0.663
-    ## 10       15             45            0.5               0.663
+    ##  6       25             50            0.4               0.664
+    ##  7       15             35            0.5               0.663
+    ##  8       15             45            0.5               0.663
+    ##  9       20             45            0.4               0.663
+    ## 10       20             50            0.2               0.663
     ## # ... with 305 more rows
 
 ### 3.3. Picking the best ELO Model
@@ -500,7 +500,7 @@ rolling_mean_features <- team_logs %>%
 rolling_mean_features
 ```
 
-    ## # A tibble: 13,162 x 12
+    ## # A tibble: 13,330 x 12
     ## # Groups:   year_season, name_team [180]
     ##    year_season name_team id_game pct_fg_team pct_fg3team pct_ft_team treb_team
     ##          <dbl> <chr>       <dbl>       <dbl>       <dbl>       <dbl>     <dbl>
@@ -514,7 +514,7 @@ rolling_mean_features
     ##  8        2015 Toronto ~  2.14e7       0.431       0.289       0.780      37.8
     ##  9        2015 New York~  2.14e7       0.441       0.432       0.778      38.8
     ## 10        2015 Chicago ~  2.14e7       0.475       0.376       0.777      42.6
-    ## # ... with 13,152 more rows, and 5 more variables: ast_team <dbl>,
+    ## # ... with 13,320 more rows, and 5 more variables: ast_team <dbl>,
     ## #   stl_team <dbl>, blk_team <dbl>, tov_team <dbl>, plusminus_team <dbl>
 
   - Very cool, we now have moving averages for quite a few stats.
@@ -563,7 +563,7 @@ last_game_lookup <- team_logs %>%
 last_game_lookup
 ```
 
-    ## # A tibble: 13,702 x 4
+    ## # A tibble: 13,870 x 4
     ## # Groups:   year_season, name_team [180]
     ##    year_season name_team               id_game id_game_prev
     ##          <dbl> <chr>                     <dbl>        <dbl>
@@ -577,7 +577,7 @@ last_game_lookup
     ##  8        2015 Utah Jazz              21400019     21400012
     ##  9        2015 Dallas Mavericks       21400019     21400002
     ## 10        2015 Oklahoma City Thunder  21400020     21400015
-    ## # ... with 13,692 more rows
+    ## # ... with 13,860 more rows
 
   - Time to bring all of the features we have created together
 
@@ -743,7 +743,7 @@ features <- game_level %>%
 features
 ```
 
-    ## # A tibble: 6,469 x 21
+    ## # A tibble: 6,553 x 21
     ##    year_season id_game date_game  home_team away_team home_elo away_elo
     ##          <dbl>   <dbl> <date>     <chr>     <chr>        <dbl>    <dbl>
     ##  1        2015  2.14e7 2014-11-07 Oklahoma~ Memphis ~    1476.    1550.
@@ -756,7 +756,7 @@ features
     ##  8        2015  2.14e7 2014-11-08 Miami He~ Minnesot~    1507.    1491.
     ##  9        2015  2.14e7 2014-11-08 Los Ange~ Portland~    1507.    1507.
     ## 10        2015  2.14e7 2014-11-08 Chicago ~ Boston C~    1538.    1490.
-    ## # ... with 6,459 more rows, and 14 more variables: diff_pct_fg_team <dbl>,
+    ## # ... with 6,543 more rows, and 14 more variables: diff_pct_fg_team <dbl>,
     ## #   diff_pct_fg3team <dbl>, diff_pct_ft_team <dbl>, diff_treb_team <dbl>,
     ## #   diff_ast_team <dbl>, diff_stl_team <dbl>, diff_blk_team <dbl>,
     ## #   diff_tov_team <dbl>, diff_plusminus_team <dbl>,
@@ -990,11 +990,11 @@ xgboost_training_results %>%
     ## # A tibble: 5 x 8
     ##   min_n tree_depth learn_rate .metric .estimator  mean     n std_err
     ##   <int>      <int>      <dbl> <chr>   <chr>      <dbl> <int>   <dbl>
-    ## 1     9          2    0.0128  rmse    standard    12.5     5   0.129
-    ## 2    36          2    0.00887 rmse    standard    12.6     5   0.126
-    ## 3     2          9    0.00172 rmse    standard    12.9     5   0.143
-    ## 4    39         13    0.00137 rmse    standard    12.9     5   0.137
-    ## 5    32          8    0.0527  rmse    standard    13.1     5   0.156
+    ## 1     9          2    0.0128  rmse    standard    12.6     5   0.164
+    ## 2    36          2    0.00887 rmse    standard    12.6     5   0.168
+    ## 3    39         13    0.00137 rmse    standard    13.0     5   0.190
+    ## 4     2          9    0.00172 rmse    standard    13.0     5   0.191
+    ## 5    32          8    0.0527  rmse    standard    13.3     5   0.129
 
 ### 5.6. Model selection
 
@@ -1064,20 +1064,20 @@ test_set_with_predictions <- splits %>%
 test_set_with_predictions
 ```
 
-    ## # A tibble: 1,293 x 22
+    ## # A tibble: 1,310 x 22
     ##    year_season id_game date_game  home_team away_team home_elo away_elo
     ##          <dbl>   <dbl> <date>     <chr>     <chr>        <dbl>    <dbl>
-    ##  1        2015  2.14e7 2014-11-08 Miami He~ Minnesot~    1507.    1491.
-    ##  2        2015  2.14e7 2014-11-08 Chicago ~ Boston C~    1538.    1490.
-    ##  3        2015  2.14e7 2014-11-09 Oklahoma~ Sacramen~    1467.    1539.
-    ##  4        2015  2.14e7 2014-11-09 Detroit ~ Utah Jazz    1490.    1480.
-    ##  5        2015  2.14e7 2014-11-09 Los Ange~ Charlott~    1452.    1499.
-    ##  6        2015  2.14e7 2014-11-10 Clevelan~ New Orle~    1494.    1509.
-    ##  7        2015  2.14e7 2014-11-11 Dallas M~ Sacramen~    1510.    1529.
-    ##  8        2015  2.14e7 2014-11-11 Golden S~ San Anto~    1540.    1502.
-    ##  9        2015  2.14e7 2014-11-12 Phoenix ~ Brooklyn~    1506.    1515.
-    ## 10        2015  2.14e7 2014-11-13 Golden S~ Brooklyn~    1527.    1506.
-    ## # ... with 1,283 more rows, and 15 more variables: diff_pct_fg_team <dbl>,
+    ##  1        2015  2.14e7 2014-11-07 Utah Jazz Dallas M~    1491.    1511.
+    ##  2        2015  2.14e7 2014-11-07 Phoenix ~ Sacramen~    1507.    1529.
+    ##  3        2015  2.14e7 2014-11-08 Chicago ~ Boston C~    1538.    1490.
+    ##  4        2015  2.14e7 2014-11-10 Chicago ~ Detroit ~    1526.    1478.
+    ##  5        2015  2.14e7 2014-11-11 Dallas M~ Sacramen~    1510.    1529.
+    ##  6        2015  2.14e7 2014-11-12 Denver N~ Portland~    1461.    1514.
+    ##  7        2015  2.14e7 2014-11-12 New York~ Orlando ~    1461.    1468.
+    ##  8        2015  2.14e7 2014-11-13 Dallas M~ Philadel~    1519.    1436.
+    ##  9        2015  2.14e7 2014-11-14 Oklahoma~ Detroit ~    1482.    1464.
+    ## 10        2015  2.14e7 2014-11-14 Houston ~ Philadel~    1557.    1429.
+    ## # ... with 1,300 more rows, and 15 more variables: diff_pct_fg_team <dbl>,
     ## #   diff_pct_fg3team <dbl>, diff_pct_ft_team <dbl>, diff_treb_team <dbl>,
     ## #   diff_ast_team <dbl>, diff_stl_team <dbl>, diff_blk_team <dbl>,
     ## #   diff_tov_team <dbl>, diff_plusminus_team <dbl>,
@@ -1101,8 +1101,8 @@ metrics(test_set_with_predictions,
     ##   .metric .estimator .estimate
     ##   <chr>   <chr>          <dbl>
     ## 1 rmse    standard      12.9  
-    ## 2 rsq     standard       0.165
-    ## 3 mae     standard      10.2
+    ## 2 rsq     standard       0.161
+    ## 3 mae     standard      10.1
 
   - Looks like the RMSE on this data set is not too dissimilar to the
     RMSE on the cross validation data sets. This is a good sign, and a
@@ -1130,9 +1130,9 @@ final_model
 
     ## parsnip model object
     ## 
-    ## Fit time:  1.4s 
+    ## Fit time:  1.3s 
     ## ##### xgb.Booster
-    ## raw: 196.8 Kb 
+    ## raw: 197 Kb 
     ## call:
     ##   xgboost::xgb.train(params = list(eta = 0.0128254872619247, max_depth = 2L, 
     ##     gamma = 0, colsample_bytree = 1, min_child_weight = 9L, subsample = 1), 
@@ -1234,16 +1234,16 @@ most_recent_features
     ## # A tibble: 30 x 10
     ##    name_team pct_fg_team pct_fg3team pct_ft_team treb_team ast_team stl_team
     ##    <chr>           <dbl>       <dbl>       <dbl>     <dbl>    <dbl>    <dbl>
-    ##  1 Milwauke~       0.468       0.342       0.701      56.2     27.6      5.8
-    ##  2 Orlando ~       0.439       0.341       0.766      40       25.2      8  
-    ##  3 Dallas M~       0.443       0.439       0.934      48.2     24.2      5.2
-    ##  4 Charlott~       0.445       0.314       0.724      42.6     24.4      5.8
-    ##  5 Detroit ~       0.452       0.385       0.718      40.2     25        6.2
-    ##  6 Indiana ~       0.477       0.333       0.744      40       25.8      5.4
-    ##  7 New Orle~       0.479       0.369       0.753      53.4     28.4      8.8
-    ##  8 Toronto ~       0.506       0.405       0.793      42.4     26.2      8.4
-    ##  9 Brooklyn~       0.496       0.408       0.779      49       28        6  
-    ## 10 Minnesot~       0.473       0.374       0.729      42.6     27        9.8
+    ##  1 Milwauke~       0.478       0.358       0.823      48       25.2      8  
+    ##  2 Toronto ~       0.468       0.386       0.813      46.2     25.4      8.2
+    ##  3 Chicago ~       0.486       0.376       0.703      39.2     23.2     10.6
+    ##  4 Denver N~       0.542       0.403       0.795      39.4     29.4      8.8
+    ##  5 Detroit ~       0.422       0.326       0.870      44.4     23.2      5.4
+    ##  6 New Orle~       0.496       0.408       0.678      47.8     34.4      7  
+    ##  7 Charlott~       0.419       0.335       0.658      43.4     22.6      7.6
+    ##  8 Clevelan~       0.498       0.392       0.765      48.6     24.4      6.4
+    ##  9 Washingt~       0.455       0.363       0.780      40.2     24.4     11.4
+    ## 10 Brooklyn~       0.428       0.325       0.727      52.6     23.8      6.6
     ## # ... with 20 more rows, and 3 more variables: blk_team <dbl>, tov_team <dbl>,
     ## #   plusminus_team <dbl>
 
@@ -1264,18 +1264,18 @@ most_recent_elo
 ```
 
     ## # A tibble: 30 x 2
-    ##    name_team                elo
-    ##    <chr>                  <dbl>
-    ##  1 Orlando Magic          1454.
-    ##  2 Milwaukee Bucks        1722.
-    ##  3 Charlotte Hornets      1363.
-    ##  4 Dallas Mavericks       1535.
-    ##  5 Detroit Pistons        1381.
-    ##  6 Indiana Pacers         1531.
-    ##  7 New Orleans Pelicans   1495.
-    ##  8 Toronto Raptors        1662.
-    ##  9 Brooklyn Nets          1460.
-    ## 10 Minnesota Timberwolves 1364.
+    ##    name_team              elo
+    ##    <chr>                <dbl>
+    ##  1 Toronto Raptors      1650.
+    ##  2 Milwaukee Bucks      1732.
+    ##  3 Chicago Bulls        1361.
+    ##  4 Denver Nuggets       1620.
+    ##  5 Detroit Pistons      1352.
+    ##  6 New Orleans Pelicans 1509.
+    ##  7 Charlotte Hornets    1391.
+    ##  8 Cleveland Cavaliers  1352.
+    ##  9 Washington Wizards   1406.
+    ## 10 Brooklyn Nets        1467.
     ## # ... with 20 more rows
 
   - Finally we need to calculate the data for the `count_days_rest_team`
@@ -1403,23 +1403,23 @@ prediction_features
     ## # A tibble: 17 x 18
     ##    date       home_team away_team home_elo away_elo diff_pct_fg_team
     ##    <date>     <chr>     <chr>        <dbl>    <dbl>            <dbl>
-    ##  1 2020-03-07 Charlott~ Houston ~    1363.    1582.         0.0162  
-    ##  2 2020-03-07 Detroit ~ Utah Jazz    1381.    1605.        -0.00560 
-    ##  3 2020-03-07 Clevelan~ Denver N~    1300.    1631.        -0.036   
-    ##  4 2020-03-07 Memphis ~ Atlanta ~    1524.    1392.         0.000600
-    ##  5 2020-03-07 Golden S~ Philadel~    1368.    1570.         0.0256  
-    ##  6 2020-03-07 Portland~ Sacramen~    1532.    1451.        -0.0164  
-    ##  7 2020-03-08 Brooklyn~ Chicago ~    1460.    1386.         0.0178  
-    ##  8 2020-03-08 Minnesot~ New Orle~    1364.    1495.        -0.00580 
-    ##  9 2020-03-08 Los Ange~ Los Ange~    1614.    1625.        -0.0236  
-    ## 10 2020-03-08 Boston C~ Oklahoma~    1622.    1595.         0.0114  
-    ## 11 2020-03-08 Phoenix ~ Milwauke~    1409.    1722.         0.00560 
-    ## 12 2020-03-08 Washingt~ Miami He~    1405.    1564.         0.0018  
-    ## 13 2020-03-08 Dallas M~ Indiana ~    1535.    1531.        -0.0338  
-    ## 14 2020-03-08 Houston ~ Orlando ~    1582.    1454.        -0.0102  
-    ## 15 2020-03-08 Clevelan~ San Anto~    1300.    1477.        -0.0074  
-    ## 16 2020-03-08 New York~ Detroit ~    1383.    1381.         0.0198  
-    ## 17 2020-03-08 Sacramen~ Toronto ~    1451.    1662.        -0.0164  
+    ##  1 2020-03-07 Charlott~ Houston ~    1391.    1618.         -0.0822 
+    ##  2 2020-03-07 Detroit ~ Utah Jazz    1352.    1570.         -0.0376 
+    ##  3 2020-03-07 Clevelan~ Denver N~    1352.    1620.         -0.0440 
+    ##  4 2020-03-07 Memphis ~ Atlanta ~    1503.    1387.          0.00840
+    ##  5 2020-03-07 Golden S~ Philadel~    1331.    1573.          0.0298 
+    ##  6 2020-03-07 Portland~ Sacramen~    1491.    1471.         -0.0244 
+    ##  7 2020-03-08 Brooklyn~ Chicago ~    1467.    1361.         -0.0582 
+    ##  8 2020-03-08 Minnesot~ New Orle~    1355.    1509.         -0.0574 
+    ##  9 2020-03-08 Los Ange~ Los Ange~    1595.    1662.         -0.0316 
+    ## 10 2020-03-08 Boston C~ Oklahoma~    1635.    1615.         -0.0408 
+    ## 11 2020-03-08 Phoenix ~ Milwauke~    1428.    1732.         -0.0238 
+    ## 12 2020-03-08 Washingt~ Miami He~    1406.    1521.         -0.0234 
+    ## 13 2020-03-08 Dallas M~ Indiana ~    1543.    1545.          0.0356 
+    ## 14 2020-03-08 Houston ~ Orlando ~    1618.    1479.          0.0288 
+    ## 15 2020-03-08 Clevelan~ San Anto~    1352.    1485.          0.0578 
+    ## 16 2020-03-08 New York~ Detroit ~    1350.    1352.          0.037  
+    ## 17 2020-03-08 Sacramen~ Toronto ~    1471.    1650.          0.0014 
     ## # ... with 12 more variables: diff_pct_fg3team <dbl>, diff_pct_ft_team <dbl>,
     ## #   diff_treb_team <dbl>, diff_ast_team <dbl>, diff_stl_team <dbl>,
     ## #   diff_blk_team <dbl>, diff_tov_team <dbl>, diff_plusminus_team <dbl>,
@@ -1449,23 +1449,23 @@ submission_file_with_predictions
     ## # A tibble: 17 x 4
     ##    date       home_team             away_team           home_team_predicted_mar~
     ##    <date>     <chr>                 <chr>                                  <dbl>
-    ##  1 2020-03-07 Charlotte Hornets     Houston Rockets                        -7.79
-    ##  2 2020-03-07 Detroit Pistons       Utah Jazz                              -3.16
-    ##  3 2020-03-07 Cleveland Cavaliers   Denver Nuggets                         -9.90
-    ##  4 2020-03-07 Memphis Grizzlies     Atlanta Hawks                           7.13
-    ##  5 2020-03-07 Golden State Warriors Philadelphia 76ers                     -2.85
-    ##  6 2020-03-07 Portland Trail Blaze~ Sacramento Kings                        4.15
-    ##  7 2020-03-08 Brooklyn Nets         Chicago Bulls                           5.34
-    ##  8 2020-03-08 Minnesota Timberwolv~ New Orleans Pelica~                    -4.25
-    ##  9 2020-03-08 Los Angeles Clippers  Los Angeles Lakers                      3.38
-    ## 10 2020-03-08 Boston Celtics        Oklahoma City Thun~                     3.81
-    ## 11 2020-03-08 Phoenix Suns          Milwaukee Bucks                        -7.30
-    ## 12 2020-03-08 Washington Wizards    Miami Heat                             -3.70
-    ## 13 2020-03-08 Dallas Mavericks      Indiana Pacers                          3.74
-    ## 14 2020-03-08 Houston Rockets       Orlando Magic                           7.93
-    ## 15 2020-03-08 Cleveland Cavaliers   San Antonio Spurs                      -5.18
-    ## 16 2020-03-08 New York Knicks       Detroit Pistons                         4.51
-    ## 17 2020-03-08 Sacramento Kings      Toronto Raptors                        -5.40
+    ##  1 2020-03-07 Charlotte Hornets     Houston Rockets                       -7.21 
+    ##  2 2020-03-07 Detroit Pistons       Utah Jazz                             -5.50 
+    ##  3 2020-03-07 Cleveland Cavaliers   Denver Nuggets                        -5.04 
+    ##  4 2020-03-07 Memphis Grizzlies     Atlanta Hawks                          6.64 
+    ##  5 2020-03-07 Golden State Warriors Philadelphia 76ers                    -8.25 
+    ##  6 2020-03-07 Portland Trail Blaze~ Sacramento Kings                       3.85 
+    ##  7 2020-03-08 Brooklyn Nets         Chicago Bulls                          6.46 
+    ##  8 2020-03-08 Minnesota Timberwolv~ New Orleans Pelica~                   -7.23 
+    ##  9 2020-03-08 Los Angeles Clippers  Los Angeles Lakers                     0.372
+    ## 10 2020-03-08 Boston Celtics        Oklahoma City Thun~                    2.26 
+    ## 11 2020-03-08 Phoenix Suns          Milwaukee Bucks                       -6.50 
+    ## 12 2020-03-08 Washington Wizards    Miami Heat                            -3.37 
+    ## 13 2020-03-08 Dallas Mavericks      Indiana Pacers                         3.90 
+    ## 14 2020-03-08 Houston Rockets       Orlando Magic                          9.15 
+    ## 15 2020-03-08 Cleveland Cavaliers   San Antonio Spurs                     -2.32 
+    ## 16 2020-03-08 New York Knicks       Detroit Pistons                        1.99 
+    ## 17 2020-03-08 Sacramento Kings      Toronto Raptors                       -3.69
 
 ### 6.3. Submitting the predictions
 
@@ -1512,8 +1512,47 @@ write_csv(submission_file_with_predictions, here::here("data", "bf_ds_tutorial_s
     for the favourite against the underdog, and therefore our model
     needs to be around as good as that. Being better than it is hard
     because betting markets contain the collective opinion of punters’
-    weight of money, and anything better than that is your edge. Feel
-    free to use the odds data provided to establish your own baseline.
+    weight of money, and anything better than that is your edge.
+
+<!-- end list -->
+
+``` r
+odds_data <- map_dfr(.x = list.files(
+  here::here("data"),
+  pattern = "odds_",
+  full.names = TRUE
+),
+.f = read_csv) %>%
+  select(game_date, home_team, away_team, home_line) %>%
+  inner_join(
+    game_level,
+    by = c(
+      "game_date" = "date_game",
+      "home_team" = "home_team",
+      "away_team" = "away_team"
+    )
+  )
+
+metrics(odds_data,
+        truth = "home_team_margin",
+        estimate = "home_line")
+```
+
+    ## # A tibble: 3 x 3
+    ##   .metric .estimator .estimate
+    ##   <chr>   <chr>          <dbl>
+    ## 1 rmse    standard      18.7  
+    ## 2 rsq     standard       0.212
+    ## 3 mae     standard      15.1
+
+  - The RMSE of the final scores in comparison to the line markets is
+    significantly worse than our model. This is a good sign for the
+    model we built above. This doesn’t necessarily mean that it might be
+    profitable because RMSE could be skewed by outliers.
+
+  - The more foolproof way to back test would be to actually bet on the
+    line assuming some odds value between 1.9 and 2 and checking for
+    profitablity.
 
 ## 8\. Conclusion
 
